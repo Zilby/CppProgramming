@@ -1,0 +1,6 @@
+<map id="QGDictIterator" name="QGDictIterator">
+<area shape="rect" id="node2" href="$classQAsciiDictIterator.html" title="{QAsciiDictIterator\l\&lt; type \&gt;\n||+ QAsciiDictIterator()\l+ ~QAsciiDictIterator()\l+ count()\l+ isEmpty()\l+ toFirst()\l+ operator type *()\l+ current()\l+ currentKey()\l+ operator()()\l+ operator++()\l+ operator+=()\l}" alt="" coords="5,336,160,575"/>
+<area shape="rect" id="node3" href="$classQIntDictIterator.html" title="{QIntDictIterator\&lt; type \&gt;\n||+ QIntDictIterator()\l+ ~QIntDictIterator()\l+ count()\l+ isEmpty()\l+ toFirst()\l+ operator type *()\l+ current()\l+ currentKey()\l+ operator()()\l+ operator++()\l+ operator+=()\l}" alt="" coords="185,343,346,567"/>
+<area shape="rect" id="node4" href="$classQIntDictIterator.html" title="{QIntDictIterator\&lt; RefItem \&gt;\n||+ QIntDictIterator()\l+ ~QIntDictIterator()\l+ count()\l+ isEmpty()\l+ toFirst()\l+ operator RefItem *()\l+ current()\l+ currentKey()\l+ operator()()\l+ operator++()\l+ operator+=()\l}" alt="" coords="370,343,553,567"/>
+<area shape="rect" id="node5" href="$classQPtrDictIterator.html" title="{QPtrDictIterator\&lt; type \&gt;\n||+ QPtrDictIterator()\l+ ~QPtrDictIterator()\l+ count()\l+ isEmpty()\l+ toFirst()\l+ operator type *()\l+ current()\l+ currentKey()\l+ operator()()\l+ operator++()\l+ operator+=()\l}" alt="" coords="577,343,740,567"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QCList" name="QCList">
+<area shape="rect" id="node2" href="$classQInternalList.html" title="{QInternalList\&lt; QCacheItem \&gt;\n||+ QInternalList()\l+ QInternalList()\l+ ~QInternalList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 30 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="5,696,200,949"/>
+<area shape="rect" id="node3" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="25,248,180,648"/>
+<area shape="rect" id="node4" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="40,5,165,200"/>
+</map>

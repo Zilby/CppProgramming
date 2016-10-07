@@ -1,0 +1,4 @@
+<map id="getUtf8Code" name="getUtf8Code">
+<area shape="rect" id="node2" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="149,5,268,32"/>
+<area shape="rect" id="node3" href="$classQCString.html#a3917c144e26bc525d588c1dff602be00" title="Returns a reference to the character at index i. " alt="" coords="161,56,256,83"/>
+</map>

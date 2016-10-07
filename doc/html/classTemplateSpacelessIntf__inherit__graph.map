@@ -1,0 +1,4 @@
+<map id="TemplateSpacelessIntf" name="TemplateSpacelessIntf">
+<area shape="rect" id="node2" href="$classHtmlSpaceless.html" title="{HtmlSpaceless\n|&#45; m_insideTag\l&#45; m_insideString\l&#45; m_removeSpaces\l|+ HtmlSpaceless()\l+ reset()\l+ remove()\l}" alt="" coords="5,145,140,281"/>
+<area shape="rect" id="node3" href="$classLatexSpaceless.html" title="{LatexSpaceless\n||+ LatexSpaceless()\l+ reset()\l+ remove()\l}" alt="" coords="164,160,299,267"/>
+</map>

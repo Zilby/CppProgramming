@@ -1,0 +1,8 @@
+<map id="QTextStream::ts_putc" name="QTextStream::ts_putc">
+<area shape="rect" id="node2" href="$classQChar.html#a5758b5318fe28041c0729dded5b1b44e" title="QChar::isDigit" alt="" coords="209,5,314,32"/>
+<area shape="rect" id="node6" href="$classQChar.html#a67814eae107b451db9def198ae57aa8a" title="QChar::isSpace" alt="" coords="204,56,319,83"/>
+<area shape="rect" id="node7" href="$classQChar.html#a0fd3d9a4b10d8f6482c5ebd8053b69a8" title="QChar::unicode" alt="" coords="205,107,318,133"/>
+<area shape="rect" id="node3" href="$classQChar.html#a4bc1ffcdc40c674015b3bb9e9114637e" title="QChar::category" alt="" coords="367,5,485,32"/>
+<area shape="rect" id="node4" href="$classQChar.html#a8f987c65692f95eebc84bf687ea92aff" title="QChar::row" alt="" coords="533,81,623,108"/>
+<area shape="rect" id="node5" href="$classQChar.html#a2475b4653bed4cf2a3f10395a14cc9c5" title="QChar::cell" alt="" coords="534,19,622,45"/>
+</map>

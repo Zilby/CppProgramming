@@ -1,0 +1,5 @@
+<map id="vhdl::parser::VhdlParserTokenManager::getNextToken" name="vhdl::parser::VhdlParserTokenManager::getNextToken">
+<area shape="rect" id="node2" href="$classvhdl_1_1parser_1_1VhdlParserTokenManager.html#a575e793ba868b3e91ee00a3fd2315073" title="Token literal values. " alt="" coords="252,5,427,47"/>
+<area shape="rect" id="node3" href="$classvhdl_1_1parser_1_1Token.html#af4f2850e46715e5ec1ddd430f9c5aaff" title="Returns a new Token void *, by default. " alt="" coords="475,5,609,47"/>
+<area shape="rect" id="node4" href="$classvhdl_1_1parser_1_1Token.html#af4c8d87a0456cd4ce8a65662fa507bb1" title="No&#45;argument constructor. " alt="" coords="657,5,792,47"/>
+</map>

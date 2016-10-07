@@ -1,0 +1,10 @@
+<map id="QXmlSimpleReader::parseMisc" name="QXmlSimpleReader::parseMisc">
+<area shape="rect" id="node2" href="$classQXmlSimpleReader.html#ac8c5088453ccf5072d9c6ac86b1769f1" title="QXmlSimpleReader::parsePI" alt="" coords="281,5,471,32"/>
+<area shape="rect" id="node9" href="$classQXmlSimpleReader.html#aaf2c1eab1e924ce27e128471b880d145" title="QXmlSimpleReader::parseComment" alt="" coords="259,56,493,83"/>
+<area shape="rect" id="node3" href="$classQXmlSimpleReader.html#a65198a1d39b2434110a3cb29a7895b39" title="QXmlSimpleReader::parseName" alt="" coords="1344,31,1556,57"/>
+<area shape="rect" id="node4" href="$classQXmlSimpleReader.html#aca40698c1ab224ce0b8fe66741fbc26e" title="QXmlSimpleReader::parseAttribute" alt="" coords="541,31,768,57"/>
+<area shape="rect" id="node5" href="$classQXmlSimpleReader.html#ab14ce57ef45f62c49966eeed3a03eda7" title="QXmlSimpleReader::parseAtt\lValue" alt="" coords="816,82,1011,123"/>
+<area shape="rect" id="node6" href="$classQXmlSimpleReader.html#a2c93d06cc0b9787339368f43c83672df" title="QXmlSimpleReader::parseReference" alt="" coords="1059,89,1296,116"/>
+<area shape="rect" id="node7" href="$classQXmlSimpleReader.html#a3b93e43edf722bc5d0c6475ce408d543" title="QXmlSimpleReader::process\lReference" alt="" coords="1355,82,1545,123"/>
+<area shape="rect" id="node8" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="1604,89,1713,116"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="TemplateVariant::toString" name="TemplateVariant::toString">
+<area shape="rect" id="node2" href="$classTemplateVariant.html#a208563a3d54212cc15b4316a3c61e165" title="Returns the variant as a boolean. " alt="" coords="224,5,387,32"/>
+<area shape="rect" id="node5" href="$classTemplateVariant.html#a477cb7cb81a98abb837c414c3216ec58" title="Returns the variant as an integer. " alt="" coords="230,56,381,83"/>
+<area shape="rect" id="node3" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="447,5,579,32"/>
+<area shape="rect" id="node4" href="$classTemplateListIntf.html#a329e49e33484c2aa5106aac1bf4e5216" title="Returns the number of elements in the list. " alt="" coords="435,56,591,83"/>
+</map>

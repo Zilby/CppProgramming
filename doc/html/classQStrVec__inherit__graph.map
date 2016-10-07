@@ -1,0 +1,6 @@
+<map id="QStrVec" name="QStrVec">
+<area shape="rect" id="node5" href="$classQStrIVec.html" title="{QStrIVec\n||+ QStrIVec()\l+ QStrIVec()\l+ ~QStrIVec()\l&#45; compareItems()\l}" alt="" coords="21,1123,143,1244"/>
+<area shape="rect" id="node2" href="$classQVector.html" title="{QStrVecBase\n||+ QVector()\l+ QVector()\l+ QVector()\l+ ~QVector()\l+ operator=()\l+ data()\l+ size()\l+ count()\l+ isEmpty()\l+ isNull()\land 15 more...\l&#45; deleteItem()\l}" alt="" coords="29,608,135,847"/>
+<area shape="rect" id="node3" href="$classQGVector.html" title="The QGVector class is an internal class for implementing Qt collection classes. " alt="" coords="5,248,159,560"/>
+<area shape="rect" id="node4" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="19,5,145,200"/>
+</map>

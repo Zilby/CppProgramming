@@ -1,0 +1,5 @@
+<map id="The Second Group" name="The Second Group">
+<area shape="rect" id="node1" href="$group__group1.html" title="This is the first group. " alt="" coords="207,5,320,32"/>
+<area shape="rect" id="node3" href="$group__group3.html" title="This is the third group. " alt="" coords="205,56,321,83"/>
+<area shape="rect" id="node4" href="$group__group4.html" title="Group 4 is a subgroup of group 3. " alt="" coords="201,107,325,133"/>
+</map>

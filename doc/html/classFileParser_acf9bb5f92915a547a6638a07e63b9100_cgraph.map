@@ -1,0 +1,8 @@
+<map id="FileParser::needsPreprocessing" name="FileParser::needsPreprocessing">
+<area shape="rect" id="node2" href="$classFileParser.html#aa9db12f7a11ecbd929a1998fc4ef3b3c" title="Parses a source file or fragment with the goal to produce highlighted and cross&#45;referenced output..." alt="" coords="260,123,412,149"/>
+<area shape="rect" id="node3" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="472,5,591,32"/>
+<area shape="rect" id="node4" href="$classCodeOutputInterface.html#a8115646785b65e292480c2e4e969b389" title="CodeOutputInterface\l::writeLineNumber" alt="" coords="460,57,603,98"/>
+<area shape="rect" id="node5" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="465,123,597,149"/>
+<area shape="rect" id="node6" href="$classCodeOutputInterface.html#aa29a5eedda08596ace50ed5b59c8ae7f" title="CodeOutputInterface\l::codify" alt="" coords="460,174,603,215"/>
+<area shape="rect" id="node7" href="$classCodeOutputInterface.html#afac5763eafc78f93b82691fb9a6dcff7" title="CodeOutputInterface\l::endCodeLine" alt="" coords="460,239,603,281"/>
+</map>

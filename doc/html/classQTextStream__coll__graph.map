@@ -1,0 +1,11 @@
+<map id="QTextStream" name="QTextStream">
+<area shape="rect" id="node2" href="$classQIODevice.html" title="The QIODevice class is the base class of I/O devices. " alt="" coords="5,1203,163,1559"/>
+<area shape="rect" id="node3" href="$classQTextCodec.html" title="Provides conversion between text encodings. " alt="" coords="187,1159,389,1603"/>
+<area shape="rect" id="node4" href="$classQTextStreamPrivate.html" title="{QTextStreamPrivate\n|+ sourceType\l|+ QTextStreamPrivate()\l+ ~QTextStreamPrivate()\l}" alt="" coords="414,1335,583,1427"/>
+<area shape="rect" id="node5" href="$classQTextDecoder.html" title="State&#45;based decoder. " alt="" coords="277,784,411,876"/>
+<area shape="rect" id="node6" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="435,564,570,1096"/>
+<area shape="rect" id="node7" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="334,365,431,443"/>
+<area shape="rect" id="node8" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="456,321,579,487"/>
+<area shape="rect" id="node9" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="436,79,529,185"/>
+<area shape="rect" id="node10" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="554,5,689,259"/>
+</map>

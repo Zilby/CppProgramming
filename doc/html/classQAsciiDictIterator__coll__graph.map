@@ -1,0 +1,10 @@
+<map id="QAsciiDictIterator&lt; type &gt;" name="QAsciiDictIterator&lt; type &gt;">
+<area shape="rect" id="node2" href="$classQGDictIterator.html" title="An internal class for implementing QDictIterator and QIntDictIterator. " alt="" coords="51,1735,186,1988"/>
+<area shape="rect" id="node3" href="$classQBaseBucket.html" title="{QBaseBucket\n|# data\l|+ getData()\l+ setData()\l+ getNext()\l+ setNext()\l# QBaseBucket()\l}" alt="" coords="5,985,128,1121"/>
+<area shape="rect" id="node4" href="$classQGDict.html" title="The QGDict class is an internal class for implementing QDict template classes. " alt="" coords="155,1184,285,1672"/>
+<area shape="rect" id="node5" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="167,5,292,200"/>
+<area shape="rect" id="node8" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="284,292,439,633"/>
+<area shape="rect" id="node6" href="$classQGDItList.html" title="{QGDItList\n||+ QGDItList()\l+ QGDItList()\l+ ~QGDItList()\l+ operator=()\l}" alt="" coords="276,993,385,1114"/>
+<area shape="rect" id="node7" href="$classQInternalList.html" title="{QInternalList\&lt; QGDictIterator \&gt;\n||+ QInternalList()\l+ QInternalList()\l+ ~QInternalList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 30 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="264,683,469,936"/>
+<area shape="rect" id="node9" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="317,57,405,149"/>
+</map>

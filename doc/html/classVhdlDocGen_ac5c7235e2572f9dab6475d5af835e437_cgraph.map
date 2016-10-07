@@ -1,0 +1,51 @@
+<map id="VhdlDocGen::writeVHDLDeclaration" name="VhdlDocGen::writeVHDLDeclaration">
+<area shape="rect" id="node2" href="$classMemberDef.html#a1ef7c726fdd0f1dd2d006782dd6f766a" title="MemberDef::anchor" alt="" coords="316,560,453,587"/>
+<area shape="rect" id="node3" href="$classMemberDef.html#a96b40b99dcb42feaf5cb9de1bf784f0f" title="MemberDef::getReference" alt="" coords="545,744,721,771"/>
+<area shape="rect" id="node4" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="801,224,933,251"/>
+<area shape="rect" id="node5" href="$classClassDef.html#aa19a0146566892e3f947698762d6e3e8" title="If this class originated from a tagfile, this will return the tag file reference. ..." alt="" coords="785,1224,948,1251"/>
+<area shape="rect" id="node8" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="808,870,925,896"/>
+<area shape="rect" id="node15" href="$classDefinition.html#a5cff26b8db9bc19c6f61445ed8d88a46" title="Definition::localName" alt="" coords="560,123,707,150"/>
+<area shape="rect" id="node16" href="$classMemberDef.html#a910beace3eb5065c82c9c9f452532dfc" title="MemberDef::qualifiedName" alt="" coords="294,198,475,224"/>
+<area shape="rect" id="node17" href="$classDefinition.html#acabecdc6bfda2015811eed5f3436322d" title="Definition::getOutputFileBase" alt="" coords="537,870,730,896"/>
+<area shape="rect" id="node18" href="$classMemberDef.html#a55dd478aba299892bdf1f4d22c21c95a" title="MemberDef::getClassDefOf\lAnonymousType" alt="" coords="292,989,477,1030"/>
+<area shape="rect" id="node19" href="$classQCString.html#a78c5504b7c222e907fa0cd6e13391b05" title="Returns a deep copy of the string. " alt="" coords="577,971,689,998"/>
+<area shape="rect" id="node20" href="$classOutputList.html#a885957a64f7d87aefb663c4ec903188f" title="OutputList::pushGenerator\lState" alt="" coords="297,1608,472,1649"/>
+<area shape="rect" id="node21" href="$classOutputList.html#a22f8c17b8c14518aa55f8af3c2abab0f" title="OutputList::disable" alt="" coords="319,1674,450,1700"/>
+<area shape="rect" id="node22" href="$classOutputList.html#a3335d926bd59e1c9e3912c4352ca5bc6" title="OutputList::docify" alt="" coords="571,1215,696,1242"/>
+<area shape="rect" id="node23" href="$classOutputList.html#a94eb1af2ea07425ef1faa539d24adcf8" title="OutputList::popGenerator\lState" alt="" coords="549,6,717,48"/>
+<area shape="rect" id="node24" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="579,1080,688,1107"/>
+<area shape="rect" id="node25" href="$classOutputList.html#a796018ee85949771252f36fea9a288d0" title="OutputList::startBold" alt="" coords="562,1367,705,1394"/>
+<area shape="rect" id="node26" href="$classVhdlDocGen.html#aacccadab8f7d60dc0e4b2892ea724c2b" title="VhdlDocGen::formatString" alt="" coords="546,1164,721,1191"/>
+<area shape="rect" id="node27" href="$classOutputList.html#aa3f855a4e60d2a7c6769b66d43c69b23" title="OutputList::endBold" alt="" coords="565,1316,702,1343"/>
+<area shape="rect" id="node28" href="$classVhdlDocGen.html#ab1d66321a2c118a9376b65aeb598a49c" title="VhdlDocGen::writeFunction\lProto" alt="" coords="293,1273,476,1314"/>
+<area shape="rect" id="node29" href="$classVhdlDocGen.html#a94da80078b9bba291b1c1af056eca6a4" title="VhdlDocGen::writeProcedure\lProto" alt="" coords="289,1208,480,1249"/>
+<area shape="rect" id="node30" href="$classClassDef.html#a013bf8c79e1db7c5314e53855ee95260" title="Return the protection level (Public,Protected,Private) in which this compound was found..." alt="" coords="313,1724,456,1751"/>
+<area shape="rect" id="node31" href="$classClassDef.html#a0031d083ee93ea5a0337051b4bc97719" title="Returns the unique base name (without extension) of the class&#39;s file on disk. " alt="" coords="288,786,481,812"/>
+<area shape="rect" id="node32" href="$classOutputList.html#a73f9be626eea01f1ccd1b446dcf2c003" title="OutputList::disableAllBut" alt="" coords="301,1775,468,1802"/>
+<area shape="rect" id="node33" href="$classQCString.html#a8402bb62a3a1c6a79130c3b3cf38b52c" title="Resizes the string to hold newlen characters (this value should include the 0&#45;terminator). " alt="" coords="325,1826,444,1852"/>
+<area shape="rect" id="node34" href="$classOutputList.html#aba5576798309803175cefaedf33b2a28" title="OutputList::startEmphasis" alt="" coords="297,1876,472,1903"/>
+<area shape="rect" id="node35" href="$classOutputList.html#a8c499e7baca8905c8e057d23f72ff548" title="OutputList::writeObjectLink" alt="" coords="295,1927,475,1954"/>
+<area shape="rect" id="node36" href="$classVhdlDocGen.html#a94ad80db8536156393a701496506c052" title="VhdlDocGen::writeProcess\lProto" alt="" coords="295,1338,475,1380"/>
+<area shape="rect" id="node37" href="$util_8h.html#af038b3c55db4fa840af0ee26464bb72a" title="getClass" alt="" coords="347,1978,422,2004"/>
+<area shape="rect" id="node38" href="$classSDict.html#aec67482d780157680d46f48a7ed5e7bd" title="SDict::find" alt="" coords="591,2003,675,2030"/>
+<area shape="rect" id="node39" href="$classOutputList.html#a5674d5d9336eb1f7f6cb83c058f5ad8f" title="OutputList::endEmphasis" alt="" coords="300,2079,469,2106"/>
+<area shape="rect" id="node40" href="$classDefinition.html#aaa3c1632bd89cb3db7c7713df4e36db0" title="Definition::setName" alt="" coords="564,1462,703,1488"/>
+<area shape="rect" id="node41" href="$classOutputList.html#a63a7bebe83b904d00b2350863c7c7399" title="OutputList::isEnabled" alt="" coords="311,2130,458,2156"/>
+<area shape="rect" id="node42" href="$classOutputList.html#a4006394472d6c49f7db435628832c49d" title="OutputList::enable" alt="" coords="321,2180,449,2207"/>
+<area shape="rect" id="node43" href="$classMemberDef.html#ab4ad34e63730bc94f076b920b3b9084e" title="MemberDef::briefDescription" alt="" coords="290,2255,479,2282"/>
+<area shape="rect" id="node44" href="$classDefinition.html#a7517dda8109eca884911ac31b42faf3c" title="Definition::briefFile" alt="" coords="319,2306,450,2332"/>
+<area shape="rect" id="node45" href="$classDefinition.html#a1f87d37cefff16dc8a300795543a7059" title="Definition::briefLine" alt="" coords="317,2356,452,2383"/>
+<area shape="rect" id="node46" href="$classSDict.html#ac5ed340a2e6b4b4fb8398254cd35ef55" title="SDict::setAutoDelete" alt="" coords="311,2407,458,2434"/>
+<area shape="rect" id="node47" href="$classMemberDef.html#ab2e646dc51f598d30d7830852e118a40" title="MemberDef::isBriefSection\lVisible" alt="" coords="295,268,474,309"/>
+<area shape="rect" id="node48" href="$classSDict.html#a121842d9858421076b81ed663034d62c" title="SDict::append" alt="" coords="332,2458,437,2484"/>
+<area shape="rect" id="node49" href="$classSDict.html#afd6bec6aaf77e2943f42cec1208bc46d" title="SDict::clear" alt="" coords="339,2508,430,2535"/>
+<area shape="rect" id="node50" href="$classOutputList.html#adeaf5f7b41eca22a3afbc415a8390767" title="OutputList::writeString" alt="" coords="309,2559,461,2586"/>
+<area shape="rect" id="node6" href="$classDefinition.html#a4f303fc4a5c9be7ab8160cf1792e7bda" title="Definition::isHidden" alt="" coords="799,719,935,746"/>
+<area shape="rect" id="node7" href="$classMemberDef.html#ab53677dd2218300ee758263ec23e8cbd" title="MemberDef::isLinkableInProject" alt="" coords="529,376,737,403"/>
+<area shape="rect" id="node9" href="$classMemberDef.html#aa92ecbdc1c50f61e84d2af414b551d4c" title="MemberDef::hasDocumentation" alt="" coords="530,275,737,302"/>
+<area shape="rect" id="node10" href="$classMemberDef.html#a285b80c1f135ce6ed9fa3a52e1435538" title="MemberDef::isReference" alt="" coords="549,451,717,478"/>
+<area shape="rect" id="node11" href="$classGroupDef.html#a916a94699f6234e2bf5594ff12bbf764" title="GroupDef::isLinkableInProject" alt="" coords="535,502,731,528"/>
+<area shape="rect" id="node12" href="$classClassDef.html#a54fd0971529bf396c31a2a5c67acbea7" title="returns TRUE iff a link is possible to this item within this project. " alt="" coords="536,819,731,846"/>
+<area shape="rect" id="node13" href="$classNamespaceDef.html#a3d9655e111c40aa7005ded973d6a8e89" title="NamespaceDef::isLinkable\lInProject" alt="" coords="544,553,723,594"/>
+<area shape="rect" id="node14" href="$classFileDef.html#ad8195d5d5b2be4f11d37e8d75f9e4659" title="FileDef::isLinkableInProject" alt="" coords="542,326,725,352"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="QXmlSimpleReader::parseEntityDecl" name="QXmlSimpleReader::parseEntityDecl">
+<area shape="rect" id="node2" href="$classQXmlSimpleReader.html#aceef3195d1be096140de202b59668eb8" title="QXmlSimpleReader::parseString" alt="" coords="601,31,811,57"/>
+<area shape="rect" id="node4" href="$classQXmlSimpleReader.html#a65198a1d39b2434110a3cb29a7895b39" title="QXmlSimpleReader::parseName" alt="" coords="881,124,1093,151"/>
+<area shape="rect" id="node5" href="$classQXmlSimpleReader.html#a9cf23a2cb386e6d7af64918f8cc2f288" title="QXmlSimpleReader::parseEntity\lValue" alt="" coords="306,133,517,174"/>
+<area shape="rect" id="node9" href="$classQXmlSimpleReader.html#a3eeb090f997e608e46b52d6dabe8b39a" title="QXmlSimpleReader::parseExternalID" alt="" coords="292,31,531,57"/>
+<area shape="rect" id="node10" href="$classQXmlSimpleReader.html#a817d7a2fe8f0f5aae052840e6eab56a6" title="QXmlSimpleReader::entity\lExist" alt="" coords="323,198,500,239"/>
+<area shape="rect" id="node3" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="1141,117,1251,144"/>
+<area shape="rect" id="node6" href="$classQXmlSimpleReader.html#abdd487c85ac68780a709a31a5f97366e" title="QXmlSimpleReader::parsePEReference" alt="" coords="579,132,833,159"/>
+<area shape="rect" id="node7" href="$classQXmlSimpleReader.html#a2c93d06cc0b9787339368f43c83672df" title="QXmlSimpleReader::parseReference" alt="" coords="587,183,825,209"/>
+<area shape="rect" id="node8" href="$classQXmlSimpleReader.html#a3b93e43edf722bc5d0c6475ce408d543" title="QXmlSimpleReader::process\lReference" alt="" coords="892,175,1083,217"/>
+</map>

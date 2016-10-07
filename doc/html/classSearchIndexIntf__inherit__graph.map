@@ -1,0 +1,4 @@
+<map id="SearchIndexIntf" name="SearchIndexIntf">
+<area shape="rect" id="node2" href="$classSearchIndex.html" title="{SearchIndex\n|&#45; m_words\l&#45; m_index\l&#45; m_url2IdMap\l&#45; m_urls\l&#45; m_urlIndex\l|+ SearchIndex()\l+ setCurrentDoc()\l+ addWord()\l+ write()\l&#45; addWord()\l}" alt="" coords="5,204,132,399"/>
+<area shape="rect" id="node3" href="$classSearchIndexExternal.html" title="{SearchIndexExternal\n|&#45; p\l|+ SearchIndexExternal()\l+ ~SearchIndexExternal()\l+ setCurrentDoc()\l+ addWord()\l+ write()\l}" alt="" coords="157,233,327,369"/>
+</map>

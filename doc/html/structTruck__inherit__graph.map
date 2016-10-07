@@ -1,0 +1,4 @@
+<map id="Truck" name="Truck">
+<area shape="rect" id="node2" href="$structVehicle.html" title="{Vehicle\n|# base\l|+ vehicleStart()\l+ vehicleStop()\l}" alt="" coords="5,145,116,237"/>
+<area shape="rect" id="node3" href="$structObject.html" title="{Object\n|&#45; ref\l|+ objRef()\l+ objUnref()\l}" alt="" coords="15,5,106,97"/>
+</map>

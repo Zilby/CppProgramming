@@ -1,0 +1,17 @@
+<map id="RTFDocVisitor" name="RTFDocVisitor">
+<area shape="rect" id="node2" href="$classDocVisitor.html" title="Abstract visitor that participates in the visitor pattern. " alt="" coords="5,1205,116,1957"/>
+<area shape="rect" id="node3" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="141,1469,247,1693"/>
+<area shape="rect" id="node4" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="89,853,232,1077"/>
+<area shape="rect" id="node5" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="68,551,253,643"/>
+<area shape="rect" id="node6" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="49,331,222,437"/>
+<area shape="rect" id="node7" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="246,345,417,423"/>
+<area shape="rect" id="node8" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="267,147,395,268"/>
+<area shape="rect" id="node9" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="260,5,403,97"/>
+<area shape="rect" id="node10" href="$classFTextStream.html" title="Simplified and optimized version of QTextStream. " alt="" coords="272,1462,399,1701"/>
+<area shape="rect" id="node11" href="$classQIODevice.html" title="The QIODevice class is the base class of I/O devices. " alt="" coords="257,787,414,1143"/>
+<area shape="rect" id="node12" href="$classQStack.html" title="{QStack\&lt; bool \&gt;\n||+ QStack()\l+ QStack()\l+ ~QStack()\l+ operator=()\l+ autoDelete()\l+ setAutoDelete()\l+ count()\l+ isEmpty()\l+ push()\l+ pop()\land 6 more...\l&#45; deleteItem()\l}" alt="" coords="423,1462,549,1701"/>
+<area shape="rect" id="node13" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="438,794,593,1135"/>
+<area shape="rect" id="node14" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="409,500,534,695"/>
+<area shape="rect" id="node15" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="558,551,646,643"/>
+<area shape="rect" id="node16" href="$classCodeOutputInterface.html" title="Output interface for code parser. " alt="" coords="573,1462,743,1701"/>
+</map>

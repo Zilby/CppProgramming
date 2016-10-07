@@ -1,0 +1,8 @@
+<map id="QTextStreamPrivate" name="QTextStreamPrivate">
+<area shape="rect" id="node2" href="$classQTextDecoder.html" title="State&#45;based decoder. " alt="" coords="5,784,140,876"/>
+<area shape="rect" id="node3" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="164,564,299,1096"/>
+<area shape="rect" id="node4" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="133,365,231,443"/>
+<area shape="rect" id="node5" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="255,321,378,487"/>
+<area shape="rect" id="node6" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="225,79,318,185"/>
+<area shape="rect" id="node7" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="343,5,477,259"/>
+</map>

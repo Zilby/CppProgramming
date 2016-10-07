@@ -1,0 +1,7 @@
+<map id="QTextStream::operator&lt;&lt;" name="QTextStream::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$classQTextStream.html#adb71ee168e670b470bcbc547b994c5df" title="QTextStream::setf" alt="" coords="260,5,391,32"/>
+<area shape="rect" id="node3" href="$classQTextStream.html#a50f5712b3231e41af256c5faadf69512" title="QTextStream::device" alt="" coords="252,56,399,83"/>
+<area shape="rect" id="node4" href="$classQIODevice.html#a39eccb592ae076fbc42108a3d590fb43" title="QIODevice::flush" alt="" coords="264,107,387,133"/>
+<area shape="rect" id="node5" href="$classQTextStream.html#a0c8656a473fe2b6e26c459e5840e7d07" title="QTextStream::skipWhiteSpace" alt="" coords="224,157,427,184"/>
+<area shape="rect" id="node6" href="$classQTextStream.html#ac92d855fc3fa8b5d1c7421e2a0654a83" title="QTextStream::reset" alt="" coords="257,208,394,235"/>
+</map>

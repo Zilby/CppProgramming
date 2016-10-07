@@ -1,0 +1,4 @@
+<map id="getUtf8Code" name="getUtf8Code">
+<area shape="rect" id="node2" href="$util_8h.html#ac06845c1e7123bc249d48a1467a10c89" title="Returns one unicode character as an unsigned integer from utf&#45;8 string, making the character lower ca..." alt="" coords="149,5,296,32"/>
+<area shape="rect" id="node3" href="$util_8h.html#ae14f928851544046ae78d17847f6b613" title="Returns one unicode character as ian unsigned interger from utf&#45;8 string, making the character upper ..." alt="" coords="149,56,296,83"/>
+</map>

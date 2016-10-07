@@ -1,0 +1,6 @@
+<map id="ParserInterface::resetCodeParserState" name="ParserInterface::resetCodeParserState">
+<area shape="rect" id="node2" href="$classTranslateContext.html#ab0fad4b75cd53cb3c22e8e1adee1c260" title="Gets the value for a field name. " alt="" coords="245,5,393,32"/>
+<area shape="rect" id="node3" href="$classDefinition.html#ad5ad17068a22165040e5b256c564c603" title="Definition::writeInlineCode" alt="" coords="232,56,407,83"/>
+<area shape="rect" id="node4" href="$classMarkdownFileParser.html#a78b5337fc2b6a6dd1ee5ce104005e566" title="Resets the state of the code parser. " alt="" coords="240,107,399,149"/>
+<area shape="rect" id="node5" href="$classMarkdownFileParser.html#ae53b811156b426b03f4ea8f634141133" title="Returns TRUE if the language identified by extension needs the C preprocessor to be run before feed t..." alt="" coords="455,107,603,149"/>
+</map>

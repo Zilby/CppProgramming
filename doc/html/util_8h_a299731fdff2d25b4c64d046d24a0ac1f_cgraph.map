@@ -1,0 +1,9 @@
+<map id="getDefs" name="getDefs">
+<area shape="rect" id="node2" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="289,5,421,32"/>
+<area shape="rect" id="node3" href="$util_8h.html#a99187f0723aa35b7f06be3a5506b1285" title="substitute all occurrences of src in s by dst " alt="" coords="141,107,220,133"/>
+<area shape="rect" id="node4" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="295,56,414,83"/>
+<area shape="rect" id="node7" href="$classQCString.html#a8402bb62a3a1c6a79130c3b3cf38b52c" title="Resizes the string to hold newlen characters (this value should include the 0&#45;terminator). " alt="" coords="121,157,240,184"/>
+<area shape="rect" id="node8" href="$classSDict.html#aec67482d780157680d46f48a7ed5e7bd" title="SDict::find" alt="" coords="139,208,223,235"/>
+<area shape="rect" id="node5" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="300,107,409,133"/>
+<area shape="rect" id="node6" href="$classQCString.html#aefbe03789d0fe05302adae84c54c3243" title="Returns a writable pointer to the data. " alt="" coords="288,157,421,184"/>
+</map>

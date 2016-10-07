@@ -1,0 +1,6 @@
+<map id="Definition::externalReference" name="Definition::externalReference">
+<area shape="rect" id="node2" href="$classDefinition.html#a0186c1c36a52590d2c7c9157aaea613f" title="Definition::getReference" alt="" coords="244,5,407,32"/>
+<area shape="rect" id="node3" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="259,56,391,83"/>
+<area shape="rect" id="node4" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="266,107,385,133"/>
+<area shape="rect" id="node5" href="$classQCString.html#a3917c144e26bc525d588c1dff602be00" title="Returns a reference to the character at index i. " alt="" coords="278,157,373,184"/>
+</map>

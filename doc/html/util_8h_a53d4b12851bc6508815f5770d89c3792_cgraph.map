@@ -1,0 +1,4 @@
+<map id="extractClassNameFromType" name="extractClassNameFromType">
+<area shape="rect" id="node2" href="$classQCString.html#a8402bb62a3a1c6a79130c3b3cf38b52c" title="Resizes the string to hold newlen characters (this value should include the 0&#45;terminator). " alt="" coords="244,5,363,32"/>
+<area shape="rect" id="node3" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="244,56,363,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ConfigOption" name="ConfigOption">
+<area shape="rect" id="node2" href="$classConfigBool.html" title="Class representing a Boolean type option. " alt="" coords="5,475,141,685"/>
+<area shape="rect" id="node3" href="$classConfigDisabled.html" title="Section marker for compile time optional options. " alt="" coords="165,527,296,633"/>
+<area shape="rect" id="node4" href="$classConfigEnum.html" title="Class representing an enum type option. " alt="" coords="319,483,443,677"/>
+<area shape="rect" id="node5" href="$classConfigInfo.html" title="Section marker for grouping the configuration options. " alt="" coords="467,527,591,633"/>
+<area shape="rect" id="node6" href="$classConfigInt.html" title="Class representing an integer type option. " alt="" coords="615,453,751,707"/>
+<area shape="rect" id="node7" href="$classConfigList.html" title="Class respresenting a list type option. " alt="" coords="775,475,905,685"/>
+<area shape="rect" id="node8" href="$classConfigObsolete.html" title="Section marker for obsolete options. " alt="" coords="930,527,1062,633"/>
+<area shape="rect" id="node9" href="$classConfigString.html" title="Class representing a string type option. " alt="" coords="1086,468,1221,692"/>
+</map>

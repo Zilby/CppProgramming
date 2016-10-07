@@ -1,0 +1,14 @@
+<map id="FileName" name="FileName">
+<area shape="rect" id="node2" href="$classFileList.html" title="Class representing a list of FileDef objects. " alt="" coords="231,1565,359,1701"/>
+<area shape="rect" id="node3" href="$classQList.html" title="{QList\&lt; FileDef \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="181,1191,309,1503"/>
+<area shape="rect" id="node4" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="104,787,259,1128"/>
+<area shape="rect" id="node5" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="5,500,131,695"/>
+<area shape="rect" id="node6" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="155,551,243,643"/>
+<area shape="rect" id="node7" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="353,1235,460,1459"/>
+<area shape="rect" id="node8" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="363,845,506,1069"/>
+<area shape="rect" id="node9" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="342,551,527,643"/>
+<area shape="rect" id="node10" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="287,331,460,437"/>
+<area shape="rect" id="node11" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="484,345,655,423"/>
+<area shape="rect" id="node12" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="505,147,633,268"/>
+<area shape="rect" id="node13" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="498,5,641,97"/>
+</map>

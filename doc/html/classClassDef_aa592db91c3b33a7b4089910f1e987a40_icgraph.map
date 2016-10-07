@@ -1,0 +1,6 @@
+<map id="ClassDef::templateMaster" name="ClassDef::templateMaster">
+<area shape="rect" id="node2" href="$classClassDef.html#a500d1c453352fa69a791749b2a5a2423" title="Returns TRUE iff bcd is a direct or indirect base class of this class. " alt="" coords="228,105,387,132"/>
+<area shape="rect" id="node4" href="$classClassDef.html#ab84f56a99816a73920785d48a059c769" title="Used for RTTI, this is a class. " alt="" coords="689,105,856,132"/>
+<area shape="rect" id="node3" href="$classClassDef.html#a91edf0e1d111bb5b90561af28ec93409" title="ClassDef::mergeMembers" alt="" coords="451,29,625,56"/>
+<area shape="rect" id="node5" href="$classClassDef.html#ae41817cab4398dd47ada2ff077e88cd2" title="returns TRUE iff md is a member of this class or of the the public/protected members of a base class ..." alt="" coords="435,131,641,157"/>
+</map>

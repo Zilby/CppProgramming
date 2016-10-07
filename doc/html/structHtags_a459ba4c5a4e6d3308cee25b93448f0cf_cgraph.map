@@ -1,0 +1,51 @@
+<map id="Htags::execute" name="Htags::execute">
+<area shape="rect" id="node2" href="$classQString.html#a6da42912db630af419d216aa0d321ebd" title="QString::utf8" alt="" coords="184,440,280,467"/>
+<area shape="rect" id="node16" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="1029,69,1161,96"/>
+<area shape="rect" id="node21" href="$classQDir.html#ac947989c99aecbfebd509088b8834715" title="QDir::setPath" alt="" coords="181,1124,283,1151"/>
+<area shape="rect" id="node46" href="$classQInternalList.html#af64a4279703a3aeb1954937cdf2fa1f2" title="QInternalList::count" alt="" coords="164,1175,300,1201"/>
+<area shape="rect" id="node47" href="$classQDir.html#a97e8132d482e374745230de942def208" title="QDir::exists" alt="" coords="186,1732,278,1759"/>
+<area shape="rect" id="node49" href="$classQDir.html#a1464e556606a3223b8db1b3629c41cb7" title="QDir::absPath" alt="" coords="179,1403,285,1429"/>
+<area shape="rect" id="node3" href="$classQTextCodec.html#a4706a5d4023d048cc1c655dfa2b16e68" title="QTextCodec::codecForMib" alt="" coords="528,325,707,352"/>
+<area shape="rect" id="node8" href="$classQTextCodec.html#a564dc8bf15241a165a38287c1d26e48c" title="QTextCodec::fromUnicode" alt="" coords="765,516,943,543"/>
+<area shape="rect" id="node19" href="$classQString.html#af9cb186d8ba117c42f31e8235478fe68" title="QString::latin1" alt="" coords="361,440,467,467"/>
+<area shape="rect" id="node4" href="$classQTextCodec.html#aa0118daa4f82235ae9d5bb70a168c992" title="QTextCodec::mibEnum" alt="" coords="775,95,933,121"/>
+<area shape="rect" id="node5" href="$classQTextCodec.html#aafe2c454ae7cbbf3d84a7ca26f775c49" title="QTextCodec::toUnicode" alt="" coords="773,364,935,391"/>
+<area shape="rect" id="node11" href="$classQTextCodec.html#a5b735ce19dc6b0fb0e8858bd3f54f0e2" title="QTextCodec::name" alt="" coords="786,196,922,223"/>
+<area shape="rect" id="node12" href="$classQTextCodec.html#a4780a608d950994a927de727bb07b9fe" title="QTextCodec::heuristicContent\lMatch" alt="" coords="755,247,953,289"/>
+<area shape="rect" id="node13" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="795,313,913,340"/>
+<area shape="rect" id="node14" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="1242,820,1351,847"/>
+<area shape="rect" id="node15" href="$classQTextCodec.html#aafe5cdca0b371b80f87be4d6e131d4a8" title="QTextCodec::locale" alt="" coords="785,145,923,172"/>
+<area shape="rect" id="node17" href="$classQTextCodec.html#ade1d10ad04ecafc6d7ec54ba91ba7841" title="QTextCodec::codecForName" alt="" coords="757,415,951,441"/>
+<area shape="rect" id="node18" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="799,44,909,71"/>
+<area shape="rect" id="node6" href="$classQTextCodec.html#abb65882aa316a2ad49a10e9f86c4dc88" title="QTextCodec::makeDecoder" alt="" coords="1003,389,1188,416"/>
+<area shape="rect" id="node7" href="$classQTextDecoder.html#aec543f7f6670dfda14164268e2da879d" title="QTextDecoder::toUnicode" alt="" coords="1008,339,1183,365"/>
+<area shape="rect" id="node9" href="$classQTextCodec.html#aa7dccd7fc1b578de0b7599b040d98e11" title="QTextCodec::makeEncoder" alt="" coords="1003,567,1187,593"/>
+<area shape="rect" id="node10" href="$classQTextEncoder.html#a3b199427ee9b7f862fe65811165dbbfa" title="QTextEncoder::fromUnicode" alt="" coords="1001,516,1189,543"/>
+<area shape="rect" id="node20" href="$classQString.html#a0ca53b0138493408bf50775795f9220b" title="QString::unicodeToAscii" alt="" coords="536,415,699,441"/>
+<area shape="rect" id="node22" href="$classQDir.html#ad38037708dc754f5bdd877c145dbbb19" title="QDir::cleanDirPath" alt="" coords="348,1124,480,1151"/>
+<area shape="rect" id="node24" href="$classQString.html#aa032d4b5892338beb575a85e59bbbf38" title="QString::isEmpty" alt="" coords="1034,871,1157,897"/>
+<area shape="rect" id="node29" href="$classQString.html#ab8e9aa9ff378aa3f3e531b26598712e3" title="QString::fromLatin1" alt="" coords="1028,1479,1163,1505"/>
+<area shape="rect" id="node23" href="$classQDir.html#a5210a2a0b20d77d2d9ab29e7631310e6" title="QDir::filePath" alt="" coords="803,820,905,847"/>
+<area shape="rect" id="node25" href="$classQString.html#a3733066010481ab1e8f037bd99045269" title="QString::insert" alt="" coords="801,1124,907,1151"/>
+<area shape="rect" id="node27" href="$classQString.html#a97b5c9712f3f145d52f91d816763ceea" title="QString::findRev" alt="" coords="795,1301,913,1328"/>
+<area shape="rect" id="node28" href="$classQString.html#a5e35837892a410c0396af0cb5cd4a517" title="QString::at" alt="" coords="575,1428,660,1455"/>
+<area shape="rect" id="node31" href="$classQString.html#a1ef65644b1885a7003d5c2a8e88df479" title="QString::mid" alt="" coords="807,1225,901,1252"/>
+<area shape="rect" id="node32" href="$classQString.html#afd08aabf1d9b04a3fef298290af04cbd" title="QString::remove" alt="" coords="795,719,913,745"/>
+<area shape="rect" id="node34" href="$classQString.html#a02545407c8e65afbf6bd22324f9ed517" title="QString::left" alt="" coords="808,1377,900,1404"/>
+<area shape="rect" id="node35" href="$classQFileInfo.html#a91a725dd517a4b77b15077e72a7a1501" title="QFileInfo::isDir" alt="" coords="562,1529,673,1556"/>
+<area shape="rect" id="node36" href="$classQFileInfo.html#a0dd39dbfc2db6a5af5222db19804e45a" title="QFileInfo::lastModified" alt="" coords="541,921,694,948"/>
+<area shape="rect" id="node38" href="$classQDateTime.html#a3b697a289865bc96bd339acaa75880b3" title="QDateTime::secsTo" alt="" coords="547,1073,687,1100"/>
+<area shape="rect" id="node41" href="$classQFileInfo.html#a5effd75eb8571416146ac546e70cb2d7" title="QFileInfo::size" alt="" coords="564,972,671,999"/>
+<area shape="rect" id="node42" href="$classQString.html#a6a6da156364a32ef91e35f83b1955acc" title="QString::isNull" alt="" coords="564,1023,671,1049"/>
+<area shape="rect" id="node43" href="$classQFileInfo.html#a4f6795e14c6dc89e4a54d7b5cad9d03f" title="QFileInfo::fileName" alt="" coords="550,1276,685,1303"/>
+<area shape="rect" id="node44" href="$classQString.html#a77d8e8901007cdda3a71b40d42dbc32c" title="QString::lower" alt="" coords="801,668,907,695"/>
+<area shape="rect" id="node45" href="$classQString.html#ac679c7d23beb9bf676e58fc0a36528f1" title="QString::compare" alt="" coords="555,1124,679,1151"/>
+<area shape="rect" id="node26" href="$classQString.html#af653a95345ba3cd5bade2a1e07f2bb58" title="QString::unicode" alt="" coords="1036,1124,1155,1151"/>
+<area shape="rect" id="node30" href="$classQString.html#ac17675a27c6e32a31e04f07a5308a9cb" title="QString::QString" alt="" coords="1237,1403,1356,1429"/>
+<area shape="rect" id="node33" href="$classQString.html#a01ab326a76bc1083e80520f4e6af4bf2" title="QString::real_detach" alt="" coords="1025,719,1166,745"/>
+<area shape="rect" id="node37" href="$classQDateTime.html#a889dac98cb29b4b9f33cfea6f00db98b" title="QDateTime::setTime_t" alt="" coords="777,921,931,948"/>
+<area shape="rect" id="node39" href="$classQTime.html#a8193498cc40d7386b23df740fa326b2b" title="QTime::secsTo" alt="" coords="798,1023,910,1049"/>
+<area shape="rect" id="node40" href="$classQDate.html#a4089a34058a747a78a1f5f3b3ea4ad0d" title="QDate::daysTo" alt="" coords="799,1073,909,1100"/>
+<area shape="rect" id="node48" href="$classQFileInfo.html#af7a247c24ea455875293d6406db652a4" title="QFileInfo::exists" alt="" coords="355,1732,473,1759"/>
+<area shape="rect" id="node50" href="$classQString.html#aa77ad91688915fed22e4150b00b5fd92" title="QString::right" alt="" coords="805,1428,903,1455"/>
+</map>

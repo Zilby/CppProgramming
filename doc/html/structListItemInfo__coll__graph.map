@@ -1,0 +1,9 @@
+<map id="ListItemInfo" name="ListItemInfo">
+<area shape="rect" id="node2" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="100,941,207,1165"/>
+<area shape="rect" id="node3" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="82,655,225,879"/>
+<area shape="rect" id="node4" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="61,500,246,592"/>
+<area shape="rect" id="node5" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="5,331,179,437"/>
+<area shape="rect" id="node6" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="203,345,373,423"/>
+<area shape="rect" id="node7" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="224,147,352,268"/>
+<area shape="rect" id="node8" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="217,5,359,97"/>
+</map>

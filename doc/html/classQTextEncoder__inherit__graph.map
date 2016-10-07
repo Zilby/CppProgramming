@@ -1,0 +1,4 @@
+<map id="QTextEncoder" name="QTextEncoder">
+<area shape="rect" id="node2" href="$classQTextStatelessEncoder.html" title="{QTextStatelessEncoder\n|&#45; codec\l|+ QTextStatelessEncoder()\l+ fromUnicode()\l}" alt="" coords="5,145,187,237"/>
+<area shape="rect" id="node3" href="$classQUtf16Encoder.html" title="{QUtf16Encoder\n|&#45; headerdone\l|+ QUtf16Encoder()\l+ fromUnicode()\l}" alt="" coords="211,145,343,237"/>
+</map>

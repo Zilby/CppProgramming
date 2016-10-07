@@ -1,0 +1,8 @@
+<map id="ConfigValues::InfoList" name="ConfigValues::InfoList">
+<area shape="rect" id="node2" href="$structConfigValues_1_1Info.html" title="{ConfigValues::Info\n|+ type\l|+ Info()\l+ ~Info()\l}" alt="" coords="5,1037,136,1129"/>
+<area shape="rect" id="node3" href="$classQStrList.html" title="{QStrList\n|&#45; dc\l|+ QStrList()\l+ QStrList()\l+ ~QStrList()\l+ operator=()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l&#45; read()\l&#45; write()\l}" alt="" coords="161,985,282,1180"/>
+<area shape="rect" id="node4" href="$classQInternalList.html" title="{QStrListBase\n||+ QInternalList()\l+ QInternalList()\l+ ~QInternalList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 30 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="159,683,283,936"/>
+<area shape="rect" id="node5" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="144,292,299,633"/>
+<area shape="rect" id="node6" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="116,5,241,200"/>
+<area shape="rect" id="node7" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="265,57,353,149"/>
+</map>

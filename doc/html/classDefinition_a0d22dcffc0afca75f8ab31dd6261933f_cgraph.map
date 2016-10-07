@@ -1,0 +1,51 @@
+<map id="Definition::writeSourceDef" name="Definition::writeSourceDef">
+<area shape="rect" id="node2" href="$classOutputList.html#a885957a64f7d87aefb663c4ec903188f" title="OutputList::pushGenerator\lState" alt="" coords="238,527,413,568"/>
+<area shape="rect" id="node3" href="$classDefinition.html#abdb114d4da6048e834ccae02393790df" title="Definition::getSourceFileBase" alt="" coords="228,593,423,620"/>
+<area shape="rect" id="node20" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="1603,593,1722,620"/>
+<area shape="rect" id="node23" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="953,909,1085,936"/>
+<area shape="rect" id="node24" href="$classDefinition.html#a7199d0a6628c0883e5797f6b2f9f634c" title="Definition::getSourceAnchor" alt="" coords="233,745,418,772"/>
+<area shape="rect" id="node25" href="$classOutputList.html#ad6c1fc2a1b67c59c1efb27fb59aa7e5f" title="OutputList::startParagraph" alt="" coords="238,796,413,822"/>
+<area shape="rect" id="node27" href="$classOutputList.html#a22f8c17b8c14518aa55f8af3c2abab0f" title="OutputList::disable" alt="" coords="260,846,391,873"/>
+<area shape="rect" id="node28" href="$classOutputList.html#a8c499e7baca8905c8e057d23f72ff548" title="OutputList::writeObjectLink" alt="" coords="235,897,415,924"/>
+<area shape="rect" id="node30" href="$classOutputList.html#ad32603ff4c4ba4d39e0bad7ede5924bf" title="OutputList::enableAll" alt="" coords="254,948,397,974"/>
+<area shape="rect" id="node31" href="$classOutputList.html#a3335d926bd59e1c9e3912c4352ca5bc6" title="OutputList::docify" alt="" coords="263,998,388,1025"/>
+<area shape="rect" id="node33" href="$classOutputList.html#a94eb1af2ea07425ef1faa539d24adcf8" title="OutputList::popGenerator\lState" alt="" coords="241,1050,409,1091"/>
+<area shape="rect" id="node35" href="$classFileDef.html#a68f9ae783659b8c3738623edfdb6ee74" title="FileDef::name" alt="" coords="511,1137,615,1164"/>
+<area shape="rect" id="node48" href="$classOutputList.html#a73f9be626eea01f1ccd1b446dcf2c003" title="OutputList::disableAllBut" alt="" coords="242,1166,409,1193"/>
+<area shape="rect" id="node49" href="$classOutputList.html#a6523eb013a6f759d505650de41855085" title="OutputList::endParagraph" alt="" coords="240,1217,411,1244"/>
+<area shape="rect" id="node4" href="$classDefinitionIntf.html#ac8ee00bc1af5558ae37f6896d16f5a3a" title="DefinitionIntf::definitionType" alt="" coords="471,542,656,569"/>
+<area shape="rect" id="node5" href="$classFileDef.html#a9ddb22ec1cbae4e2b8d192c455103046" title="FileDef::getSourceFileBase" alt="" coords="472,593,655,620"/>
+<area shape="rect" id="node6" href="$structHtags.html#a0ce955dfddd8473bce6373e92532f12e" title="Htags::path2URL" alt="" coords="726,593,850,620"/>
+<area shape="rect" id="node7" href="$classQDir.html#a1464e556606a3223b8db1b3629c41cb7" title="QDir::absPath" alt="" coords="967,264,1072,290"/>
+<area shape="rect" id="node17" href="$classQString.html#a6da42912db630af419d216aa0d321ebd" title="QString::utf8" alt="" coords="971,492,1067,518"/>
+<area shape="rect" id="node8" href="$classQString.html#aa77ad91688915fed22e4150b00b5fd92" title="QString::right" alt="" coords="1183,289,1282,316"/>
+<area shape="rect" id="node12" href="$classQString.html#ab8e9aa9ff378aa3f3e531b26598712e3" title="QString::fromLatin1" alt="" coords="1369,238,1503,265"/>
+<area shape="rect" id="node13" href="$classQDir.html#ad38037708dc754f5bdd877c145dbbb19" title="QDir::cleanDirPath" alt="" coords="1167,137,1299,164"/>
+<area shape="rect" id="node9" href="$classQString.html#aa032d4b5892338beb575a85e59bbbf38" title="QString::isEmpty" alt="" coords="1601,188,1724,214"/>
+<area shape="rect" id="node10" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="1800,162,1909,189"/>
+<area shape="rect" id="node11" href="$classQString.html#ac17675a27c6e32a31e04f07a5308a9cb" title="QString::QString" alt="" coords="1603,289,1722,316"/>
+<area shape="rect" id="node14" href="$classQDir.html#a5210a2a0b20d77d2d9ab29e7631310e6" title="QDir::filePath" alt="" coords="1385,137,1487,164"/>
+<area shape="rect" id="node15" href="$classQString.html#a3733066010481ab1e8f037bd99045269" title="QString::insert" alt="" coords="1383,36,1489,62"/>
+<area shape="rect" id="node16" href="$classQString.html#a97b5c9712f3f145d52f91d816763ceea" title="QString::findRev" alt="" coords="1377,86,1495,113"/>
+<area shape="rect" id="node18" href="$classQTextCodec.html#a4706a5d4023d048cc1c655dfa2b16e68" title="QTextCodec::codecForMib" alt="" coords="1347,542,1525,569"/>
+<area shape="rect" id="node19" href="$classQTextCodec.html#a564dc8bf15241a165a38287c1d26e48c" title="QTextCodec::fromUnicode" alt="" coords="1573,492,1752,518"/>
+<area shape="rect" id="node22" href="$classQString.html#af9cb186d8ba117c42f31e8235478fe68" title="QString::latin1" alt="" coords="1180,492,1285,518"/>
+<area shape="rect" id="node21" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="1608,1029,1717,1056"/>
+<area shape="rect" id="node26" href="$classBaseOutputDocInterface.html#a731e8b90a344b185fff49d13858efbb3" title="BaseOutputDocInterface\l::startParagraph" alt="" coords="480,767,647,808"/>
+<area shape="rect" id="node29" href="$classBaseOutputDocInterface.html#a3537423635807fe140ec5be1a2198060" title="BaseOutputDocInterface\l::writeObjectLink" alt="" coords="480,832,647,874"/>
+<area shape="rect" id="node32" href="$classBaseOutputDocInterface.html#ad7d3f6631bd157739170690e669b3e75" title="BaseOutputDocInterface\l::docify" alt="" coords="480,898,647,939"/>
+<area shape="rect" id="node34" href="$group__group1.html#ga24f647174760cac13d2624b5ad74b00c" title="function in group 1 " alt="" coords="540,1057,587,1084"/>
+<area shape="rect" id="node36" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="1174,1262,1291,1289"/>
+<area shape="rect" id="node37" href="$classSDict.html#aec67482d780157680d46f48a7ed5e7bd" title="SDict::find" alt="" coords="746,1036,830,1062"/>
+<area shape="rect" id="node38" href="$classDefinition.html#a60354ebca3cb065a4a6aa1944a9309d5" title="Definition::qualifiedName" alt="" coords="704,1212,872,1238"/>
+<area shape="rect" id="node43" href="$classSDict.html#a121842d9858421076b81ed663034d62c" title="SDict::append" alt="" coords="735,1086,841,1113"/>
+<area shape="rect" id="node44" href="$classFileDef.html#ad44d91d874c4713d198a8e4b862ee48f" title="FileDef::absFilePath" alt="" coords="717,1262,859,1289"/>
+<area shape="rect" id="node45" href="$classSDict.html#adcfbdc244e81360522457c8a84069f2b" title="SDict::prepend" alt="" coords="733,1313,843,1340"/>
+<area shape="rect" id="node46" href="$classDefinition.html#a8405121cdc0253ec9633a87500ac47ba" title="Definition::isReference" alt="" coords="711,934,865,961"/>
+<area shape="rect" id="node47" href="$util_8h.html#a826cc396ba482fb9ef1990104f9c1026" title="guessSection" alt="" coords="737,1364,839,1390"/>
+<area shape="rect" id="node39" href="$util_8h.html#ac4c34c02b8869dca71de6f4037736dc7" title="Returns the scope separator to use given the programming language lang. " alt="" coords="920,1313,1119,1340"/>
+<area shape="rect" id="node40" href="$classDefinition.html#a3c214d451d86bf8994c9d1503ed2843d" title="Returns the programming language this definition was written in. " alt="" coords="940,1364,1099,1390"/>
+<area shape="rect" id="node41" href="$classQCString.html#a8402bb62a3a1c6a79130c3b3cf38b52c" title="Resizes the string to hold newlen characters (this value should include the 0&#45;terminator). " alt="" coords="960,1161,1079,1188"/>
+<area shape="rect" id="node42" href="$classDefinition.html#a4f303fc4a5c9be7ab8160cf1792e7bda" title="Definition::isHidden" alt="" coords="951,1212,1087,1238"/>
+<area shape="rect" id="node50" href="$classBaseOutputDocInterface.html#ab76280c2eb451ad160991707206b6c95" title="BaseOutputDocInterface\l::endParagraph" alt="" coords="480,1210,647,1251"/>
+</map>

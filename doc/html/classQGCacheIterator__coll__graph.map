@@ -1,0 +1,8 @@
+<map id="QGCacheIterator" name="QGCacheIterator">
+<area shape="rect" id="node2" href="$classQCListIt.html" title="{QCListIt\n||+ QCListIt()\l+ QCListIt()\l}" alt="" coords="191,1301,281,1393"/>
+<area shape="rect" id="node3" href="$classQInternalListIterator.html" title="{QInternalListIterator\l\&lt; QCacheItem \&gt;\n||+ QInternalListIterator()\l+ ~QInternalListIterator()\l+ count()\l+ isEmpty()\l+ atFirst()\l+ atLast()\l+ toFirst()\l+ toLast()\l+ operator QCacheItem *()\l+ operator*()\land 7 more...\l}" alt="" coords="148,1013,324,1252"/>
+<area shape="rect" id="node4" href="$classQGListIterator.html" title="The QGListIterator class is an internal class for implementing QListIterator. " alt="" coords="171,696,301,964"/>
+<area shape="rect" id="node5" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="5,292,160,633"/>
+<area shape="rect" id="node6" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="20,5,145,200"/>
+<area shape="rect" id="node7" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="207,57,295,149"/>
+</map>

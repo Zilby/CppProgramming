@@ -1,0 +1,6 @@
+<map id="QTextDecoder" name="QTextDecoder">
+<area shape="rect" id="node2" href="$classQTextCodecFromIODDecoder.html" title="{QTextCodecFromIODDecoder\n|&#45; codec\l&#45; mb\l|+ QTextCodecFromIODDecoder()\l+ toUnicode()\l}" alt="" coords="5,160,224,267"/>
+<area shape="rect" id="node3" href="$classQTextStatelessDecoder.html" title="{QTextStatelessDecoder\n|&#45; codec\l|+ QTextStatelessDecoder()\l+ toUnicode()\l}" alt="" coords="249,167,431,259"/>
+<area shape="rect" id="node4" href="$classQUtf16Decoder.html" title="{QUtf16Decoder\n|&#45; buf\l&#45; half\l&#45; swap\l&#45; headerdone\l|+ QUtf16Decoder()\l+ toUnicode()\l}" alt="" coords="456,145,589,281"/>
+<area shape="rect" id="node5" href="$classQUtf8Decoder.html" title="{QUtf8Decoder\n|&#45; uc\l&#45; need\l|+ QUtf8Decoder()\l+ toUnicode()\l}" alt="" coords="614,160,741,267"/>
+</map>

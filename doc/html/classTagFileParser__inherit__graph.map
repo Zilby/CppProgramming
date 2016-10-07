@@ -1,0 +1,9 @@
+<map id="TagFileParser" name="TagFileParser">
+<area shape="rect" id="node2" href="$classQXmlDefaultHandler.html" title="The QXmlDefaultHandler class provides a default implementation of all XML handler classes..." alt="" coords="470,307,641,531"/>
+<area shape="rect" id="node3" href="$classQXmlContentHandler.html" title="The QXmlContentHandler class provides an interface to report logical content of XML data..." alt="" coords="5,5,180,259"/>
+<area shape="rect" id="node4" href="$classQXmlErrorHandler.html" title="The QXmlErrorHandler class provides an interface to report errors in XML data. " alt="" coords="204,64,360,200"/>
+<area shape="rect" id="node5" href="$classQXmlDTDHandler.html" title="The QXmlDTDHandler class provides an interface to report DTD content of XML data. ..." alt="" coords="384,71,540,193"/>
+<area shape="rect" id="node6" href="$classQXmlEntityResolver.html" title="The QXmlEntityResolver class provides an interface to resolve extern entities contained in XML data..." alt="" coords="564,79,733,185"/>
+<area shape="rect" id="node7" href="$classQXmlLexicalHandler.html" title="The QXmlLexicalHandler class provides an interface to report lexical content of XML data..." alt="" coords="757,49,927,215"/>
+<area shape="rect" id="node8" href="$classQXmlDeclHandler.html" title="The QXmlDeclHandler class provides an interface to report declaration content of XML data..." alt="" coords="951,64,1106,200"/>
+</map>

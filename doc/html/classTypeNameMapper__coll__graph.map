@@ -1,0 +1,9 @@
+<map id="TypeNameMapper" name="TypeNameMapper">
+<area shape="rect" id="node2" href="$classQMap.html" title="{QMap\&lt; QString, SimpleSect\lHandler::Types \&gt;\n||+ QMap()\l+ QMap()\l+ ~QMap()\l+ operator=()\l+ begin()\l+ begin()\l+ end()\l+ end()\l+ find()\l+ find()\land 10 more...\l# detach()\l}" alt="" coords="106,932,294,1185"/>
+<area shape="rect" id="node3" href="$classQMapPrivate.html" title="{QMapPrivate\&lt; Key, T \&gt;\n||+ QMapPrivate()\l+ QMapPrivate()\l+ ~QMapPrivate()\l+ copy()\l+ clear()\l+ clear()\l+ begin()\l+ end()\l+ begin()\l+ end()\l+ find()\l+ remove()\l+ insertMulti()\l+ insertSingle()\l+ insert()\l# key()\l}" alt="" coords="119,572,281,869"/>
+<area shape="rect" id="node4" href="$classQMapPrivateBase.html" title="{QMapPrivateBase\n|+ node_count\l|+ QMapPrivateBase()\l+ QMapPrivateBase()\l+ rotateLeft()\l+ rotateRight()\l+ rebalance()\l+ removeAndRebalance()\l}" alt="" coords="5,359,176,509"/>
+<area shape="rect" id="node5" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="44,189,137,296"/>
+<area shape="rect" id="node6" href="$structQMapNode.html" title="{QMapNode\&lt; Key, T \&gt;\n|+ key\l|+ QMapNode()\l+ QMapNode()\l+ QMapNode()\l+ QMapNode()\l}" alt="" coords="201,373,351,495"/>
+<area shape="rect" id="node7" href="$structQMapNodeBase.html" title="{QMapNodeBase\n||+ minimum()\l+ maximum()\l}" alt="" coords="189,197,307,289"/>
+<area shape="rect" id="node8" href="$structColor.html" title="Helper struct representing a RGBA color. " alt="" coords="215,5,281,127"/>
+</map>

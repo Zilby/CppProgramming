@@ -1,0 +1,11 @@
+<map id="QPtrDict::count" name="QPtrDict::count">
+<area shape="rect" id="node2" href="$classQGDict.html#a13f6cc9bdbfe37db323b47947c1e017c" title="QGDict::count" alt="" coords="174,5,281,32"/>
+<area shape="rect" id="node3" href="$classQGDict.html#a0844214b5a0f6f3d3df655c1f84e7f4a" title="QGDict::size" alt="" coords="178,56,277,83"/>
+<area shape="rect" id="node6" href="$classQGDict.html#a9ee35841e4c40a244c54cc7fcf519649" title="QGDict::look_ptr" alt="" coords="167,157,287,184"/>
+<area shape="rect" id="node7" href="$classQGDict.html#abc3fd70fe1c1f6523e3ce4258672a4ca" title="QGDict::remove_ptr" alt="" coords="341,107,479,133"/>
+<area shape="rect" id="node10" href="$classQGDict.html#a96016e0d21a045d9901ba45182fdd80f" title="QGDict::take_ptr" alt="" coords="167,208,288,235"/>
+<area shape="rect" id="node4" href="$structcmd_8h.html#a9c7b76d5266903891c803132d51ccb90" title="Read bytes from a file descriptor. " alt="" coords="387,5,433,32"/>
+<area shape="rect" id="node5" href="$structcmd_8h.html#af2a3ea719b83f672637febdd87c36c36" title="Writes count bytes from buf to the filedescriptor fd. " alt="" coords="385,56,435,83"/>
+<area shape="rect" id="node9" href="$classQCollection.html#a8a439f0c342ff1844a797fbea15b2283" title="QCollection::newItem" alt="" coords="336,157,484,184"/>
+<area shape="rect" id="node8" href="$classQCollection.html#ab6c7cf56b681ba4fed6cf6a92494a410" title="QCollection::deleteItem" alt="" coords="532,107,691,133"/>
+</map>

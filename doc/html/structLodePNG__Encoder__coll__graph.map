@@ -1,0 +1,7 @@
+<map id="LodePNG_Encoder" name="LodePNG_Encoder">
+<area shape="rect" id="node2" href="$structLodePNG__InfoPng.html" title="{LodePNG_InfoPng\n|+ width\l+ height\l+ compressionMethod\l+ filterMethod\l+ interlaceMethod\l|}" alt="" coords="5,248,156,384"/>
+<area shape="rect" id="node3" href="$structLodePNG__InfoColor.html" title="{LodePNG_InfoColor\n|+ colorType\l+ bitDepth\l+ palette\l+ palettesize\l+ key_defined\l+ key_r\l+ key_g\l+ key_b\l|}" alt="" coords="95,5,234,185"/>
+<area shape="rect" id="node6" href="$structLodePNG__InfoRaw.html" title="{LodePNG_InfoRaw\n||}" alt="" coords="180,277,315,355"/>
+<area shape="rect" id="node4" href="$structLodePNG__EncodeSettings.html" title="{LodePNG_EncodeSettings\n|+ autoLeaveOutAlphaChannel\l+ force_palette\l|}" alt="" coords="339,270,535,362"/>
+<area shape="rect" id="node5" href="$structLodeZlib__DeflateSettings.html" title="{LodeZlib_DeflateSettings\n|+ btype\l+ useLZ77\l+ windowSize\l|}" alt="" coords="353,42,521,149"/>
+</map>

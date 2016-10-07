@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classILinkedText.html" title="Base interface for hyperlinked text. " alt="" coords="5,56,96,83"/>
+<area shape="rect" id="node2" href="$classILT__Ref.html" title="Reference to an object. " alt="" coords="165,5,234,32"/>
+<area shape="rect" id="node4" href="$classILT__Text.html" title="Plain text fragment. " alt="" coords="162,107,237,133"/>
+<area shape="rect" id="node6" href="$classLinkedTextImpl.html" title="LinkedTextImpl" alt="" coords="144,56,255,83"/>
+<area shape="rect" id="node3" href="$classLT__Ref.html" title="LT_Ref" alt="" coords="305,31,371,57"/>
+<area shape="rect" id="node5" href="$classLT__Text.html" title="LT_Text" alt="" coords="303,93,373,120"/>
+</map>

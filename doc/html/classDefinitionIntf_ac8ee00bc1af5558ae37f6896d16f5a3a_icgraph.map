@@ -1,0 +1,35 @@
+<map id="DefinitionIntf::definitionType" name="DefinitionIntf::definitionType">
+<area shape="rect" id="node2" href="$classXRefDummyCodeGenerator.html#aae68bc8b3e507f39d5613d2840c5f10b" title="XRefDummyCodeGenerator\l::writeCodeAnchor" alt="" coords="243,5,429,47"/>
+<area shape="rect" id="node3" href="$classClassDef.html#a35e351146e4ce259ee129551a167f0bd" title="Returns the base name for the source code file. " alt="" coords="481,197,676,223"/>
+<area shape="rect" id="node5" href="$classClassDef.html#ac207abeb9986e58ea9ec4362125e0de2" title="Returns the template parameter lists that form the template declaration of this class. " alt="" coords="726,389,943,431"/>
+<area shape="rect" id="node6" href="$classDefinition.html#a30b5bc6680190c9d62c090f0627392d5" title="Definition::writeDocAnchors\lToTagFile" alt="" coords="1505,365,1691,407"/>
+<area shape="rect" id="node8" href="$classDefinition.html#abdb114d4da6048e834ccae02393790df" title="Definition::getSourceFileBase" alt="" coords="239,197,433,223"/>
+<area shape="rect" id="node10" href="$classDefinition.html#ad5ad17068a22165040e5b256c564c603" title="Definition::writeInlineCode" alt="" coords="249,834,423,861"/>
+<area shape="rect" id="node11" href="$classDefinition.html#a5cff26b8db9bc19c6f61445ed8d88a46" title="Definition::localName" alt="" coords="263,455,409,482"/>
+<area shape="rect" id="node15" href="$classDefinition.html#abb9c001db23e5560b001814fa44934b9" title="Definition::navigationPath\lAsString" alt="" coords="493,272,664,313"/>
+<area shape="rect" id="node28" href="$util_8h.html#a68f1506abbd9c7495e2bf9dce51c6b20" title="newResolveTypedef" alt="" coords="764,759,905,786"/>
+<area shape="rect" id="node30" href="$classDefinition.html#a542dc2b80623c11dc2945f6ae1e1a10b" title="Definition::briefDescription\lAsTooltip" alt="" coords="248,885,424,927"/>
+<area shape="rect" id="node31" href="$classFTVHelp.html#a33acc17460ca075c566e0e01d33a6ee4" title="FTVHelp::addContentsItem" alt="" coords="245,951,427,978"/>
+<area shape="rect" id="node32" href="$classMemberDef.html#adec60dcd06f369aff38273e706a062d1" title="MemberDef::writeDocumentation" alt="" coords="993,785,1208,811"/>
+<area shape="rect" id="node33" href="$classPageDef.html#a7b72dba48ce4045351aed9a397ce9b0f" title="PageDef::getOutputFileBase" alt="" coords="241,1002,431,1029"/>
+<area shape="rect" id="node4" href="$classClassDef.html#ab84f56a99816a73920785d48a059c769" title="Used for RTTI, this is a class. " alt="" coords="1017,415,1184,442"/>
+<area shape="rect" id="node7" href="$classVhdlDocGen.html#a8c40c856602e19b4fe421c9572d618b7" title="VhdlDocGen::writeFuncProcDocu" alt="" coords="1977,425,2196,451"/>
+<area shape="rect" id="node9" href="$classDefinition.html#a0d22dcffc0afca75f8ab31dd6261933f" title="Definition::writeSourceDef" alt="" coords="491,122,666,149"/>
+<area shape="rect" id="node12" href="$classClassDef.html#a67e54a054e5063b25e7fe86257e3225c" title="Returns the name of the class including outer classes, but not including namespaces. " alt="" coords="503,557,654,583"/>
+<area shape="rect" id="node16" href="$classMemberDef.html#a910beace3eb5065c82c9c9f452532dfc" title="MemberDef::qualifiedName" alt="" coords="488,682,669,709"/>
+<area shape="rect" id="node17" href="$classMemberDef.html#a3c91c8522caa2b1905cd52b3eedad8fa" title="MemberDef::displayName" alt="" coords="747,607,922,634"/>
+<area shape="rect" id="node25" href="$classVhdlDocGen.html#ac5c7235e2572f9dab6475d5af835e437" title="VhdlDocGen::writeVHDLDeclaration" alt="" coords="2244,567,2479,594"/>
+<area shape="rect" id="node29" href="$classSearchIndexList.html#a62b36944089271771cff4b5f65c9d5a7" title="SearchIndexList::compare\lValues" alt="" coords="491,389,666,431"/>
+<area shape="rect" id="node13" href="$classVhdlDocGen.html#ad5d4c791af3f2943467c7c7af558d83a" title="VhdlDocGen::getClassTitle" alt="" coords="744,506,925,533"/>
+<area shape="rect" id="node14" href="$classVhdlDocGen.html#a67f47b8dc11d967ee47e9bda86fff7e0" title="VhdlDocGen::writeInlineClassLink" alt="" coords="724,557,945,583"/>
+<area shape="rect" id="node20" href="$classMemberDef.html#a0c16b4d5effd11dbf337ece47b0d7463" title="MemberDef::definitionType" alt="" coords="1262,633,1441,659"/>
+<area shape="rect" id="node18" href="$classMemberDef.html#a2a703ac083e9314dc800df330f3eb683" title="MemberDef::isLinkable" alt="" coords="1023,553,1179,579"/>
+<area shape="rect" id="node19" href="$classDefinition.html#ac8a4f300d6f2fe4723f2c17fe42ef800" title="Definition::_writeSource\lRefList" alt="" coords="1271,487,1432,528"/>
+<area shape="rect" id="node21" href="$classVhdlDocGen.html#abdbd7a613237d2a86532bfe548209a1d" title="VhdlDocGen::writeStringLink" alt="" coords="1256,553,1447,579"/>
+<area shape="rect" id="node22" href="$classVhdlDocGen.html#a0b58904c2803fe64c007b6c3ddda086e" title="VhdlDocGen::writeFormatString" alt="" coords="1495,543,1701,570"/>
+<area shape="rect" id="node23" href="$classVhdlDocGen.html#aacccadab8f7d60dc0e4b2892ea724c2b" title="VhdlDocGen::formatString" alt="" coords="1752,534,1927,561"/>
+<area shape="rect" id="node27" href="$classVhdlDocGen.html#a94ad80db8536156393a701496506c052" title="VhdlDocGen::writeProcess\lProto" alt="" coords="1749,615,1929,656"/>
+<area shape="rect" id="node24" href="$classVhdlDocGen.html#a94da80078b9bba291b1c1af056eca6a4" title="VhdlDocGen::writeProcedure\lProto" alt="" coords="1991,527,2182,568"/>
+<area shape="rect" id="node26" href="$classVhdlDocGen.html#ab1d66321a2c118a9376b65aeb598a49c" title="VhdlDocGen::writeFunction\lProto" alt="" coords="1995,592,2178,633"/>
+<area shape="rect" id="node34" href="$classPageDef.html#acb0b424141cbb7c1b6b5a52769cf7b06" title="PageDef::isLinkable" alt="" coords="509,1002,648,1029"/>
+</map>

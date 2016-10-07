@@ -1,0 +1,5 @@
+<map id="TranslatorEnglish" name="TranslatorEnglish">
+<area shape="rect" id="node3" href="$classTranslatorJapaneseEn.html" title="{TranslatorJapaneseEn\n||+ idLanguage()\l+ latexLanguageSupportCommand()\l+ trRTFansicp()\l+ trRTFCharSet()\l}" alt="" coords="5,549,236,671"/>
+<area shape="rect" id="node4" href="$classTranslatorKoreanEn.html" title="{TranslatorKoreanEn\n||+ idLanguage()\l+ latexLanguageSupportCommand()\l+ trRTFansicp()\l+ trRTFCharSet()\l}" alt="" coords="260,549,491,671"/>
+<area shape="rect" id="node2" href="$classTranslator.html" title="Abstract base class for all translatable text fragments. " alt="" coords="118,5,377,229"/>
+</map>

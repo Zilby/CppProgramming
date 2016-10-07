@@ -1,0 +1,4 @@
+<map id="QTextStream::operator&gt;&gt;" name="QTextStream::operator&gt;&gt;">
+<area shape="rect" id="node2" href="$classQCString.html#a8402bb62a3a1c6a79130c3b3cf38b52c" title="Resizes the string to hold newlen characters (this value should include the 0&#45;terminator). " alt="" coords="231,5,350,32"/>
+<area shape="rect" id="node3" href="$classQCString.html#aefbe03789d0fe05302adae84c54c3243" title="Returns a writable pointer to the data. " alt="" coords="224,56,357,83"/>
+</map>

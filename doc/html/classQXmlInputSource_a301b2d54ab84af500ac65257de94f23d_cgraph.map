@@ -1,0 +1,13 @@
+<map id="QXmlInputSource::QXmlInputSource" name="QXmlInputSource::QXmlInputSource">
+<area shape="rect" id="node2" href="$classQTextStream.html#a50f5712b3231e41af256c5faadf69512" title="QTextStream::device" alt="" coords="267,5,413,32"/>
+<area shape="rect" id="node3" href="$classQIODevice.html#ace782017b9a264d7d1759223add28ae7" title="QIODevice::isDirectAccess" alt="" coords="248,56,432,83"/>
+<area shape="rect" id="node4" href="$classQIODevice.html#a2b93df374c6eea09c68a95cf99d66e6f" title="QIODevice::readAll" alt="" coords="273,157,407,184"/>
+<area shape="rect" id="node7" href="$classQIODevice.html#a71f10647e4bd98141f45362b9a06983a" title="QIODevice::readBlock" alt="" coords="509,107,662,133"/>
+<area shape="rect" id="node8" href="$classQIODevice.html#ac5a3fcc9349a98d8f260039c5fd58812" title="QIODevice::atEnd" alt="" coords="275,259,405,285"/>
+<area shape="rect" id="node5" href="$classQIODevice.html#a60c4146763625213ac7aa29f1f071592" title="QIODevice::size" alt="" coords="526,208,645,235"/>
+<area shape="rect" id="node6" href="$classQIODevice.html#a0dee1db4a9e506924ccac6982ffdf3df" title="QIODevice::at" alt="" coords="532,157,639,184"/>
+<area shape="rect" id="node9" href="$classQIODevice.html#ab0c6f50325bbf1e860aed41f3bfa498c" title="QIODevice::isSequentialAccess" alt="" coords="480,411,691,437"/>
+<area shape="rect" id="node10" href="$classQIODevice.html#abf1df3cc1e0734c784c9d8eff82908c0" title="QIODevice::isTranslated" alt="" coords="502,259,669,285"/>
+<area shape="rect" id="node11" href="$classQIODevice.html#a7cef61d66023f9cda6b0912082bd19fc" title="QIODevice::getch" alt="" coords="522,309,649,336"/>
+<area shape="rect" id="node12" href="$classQIODevice.html#aae3d67422103e8fc0411297b1d62c29a" title="QIODevice::ungetch" alt="" coords="515,360,656,387"/>
+</map>

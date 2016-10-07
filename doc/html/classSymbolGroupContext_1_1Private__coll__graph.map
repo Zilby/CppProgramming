@@ -1,0 +1,23 @@
+<map id="SymbolGroupContext::Private" name="SymbolGroupContext::Private">
+<area shape="rect" id="node2" href="$classSearchDefinitionList.html" title="{SearchDefinitionList\n||+ SearchDefinitionList()\l+ id()\l+ name()\l}" alt="" coords="559,2399,717,2505"/>
+<area shape="rect" id="node3" href="$classQList.html" title="{QList\&lt; Definition \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="441,1019,573,1331"/>
+<area shape="rect" id="node4" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="349,292,503,633"/>
+<area shape="rect" id="node22" href="$classQList.html" title="{QList\&lt; TemplateVariant \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="129,683,301,995"/>
+<area shape="rect" id="node5" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="342,5,467,200"/>
+<area shape="rect" id="node6" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="491,57,579,149"/>
+<area shape="rect" id="node7" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="585,2083,691,2307"/>
+<area shape="rect" id="node8" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="567,1796,709,2020"/>
+<area shape="rect" id="node9" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="545,1627,731,1719"/>
+<area shape="rect" id="node10" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="547,1399,721,1505"/>
+<area shape="rect" id="node11" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="745,1413,915,1491"/>
+<area shape="rect" id="node12" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="766,778,894,899"/>
+<area shape="rect" id="node13" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="759,417,901,509"/>
+<area shape="rect" id="node14" href="$classPropertyMapper.html" title="{PropertyMapper\&lt; SymbolGroup\lContext::SymbolGroupContext\l::Private \&gt;\n|&#45; m_map\l|+ PropertyMapper()\l+ addProperty()\l+ get()\l}" alt="" coords="329,2384,534,2520"/>
+<area shape="rect" id="node15" href="$structSymbolGroupContext_1_1Private_1_1Cachable.html" title="{SymbolGroupContext\l::Private::Cachable\n||}" alt="" coords="158,2406,305,2498"/>
+<area shape="rect" id="node16" href="$classSharedPtr.html" title="{SharedPtr\&lt; SymbolListContext \&gt;\n||+ SharedPtr()\l+ ~SharedPtr()\l+ operator*()\l+ operator&#45;\&gt;()\l+ get()\l+ operator bool()\l+ reset()\l&#45; SharedPtr()\l&#45; operator=()\l&#45; operator==()\l&#45; operator!=()\l}" alt="" coords="151,2083,365,2307"/>
+<area shape="rect" id="node17" href="$classSymbolListContext.html" title="{SymbolListContext\n||+ count()\l+ at()\l+ createIterator()\l+ addRef()\l+ release()\l+ alloc()\l&#45; SymbolListContext()\l&#45; ~SymbolListContext()\l}" alt="" coords="186,1818,343,1998"/>
+<area shape="rect" id="node18" href="$classRefCountedContext.html" title="Helper class to support reference counting. " alt="" coords="5,1612,172,1733"/>
+<area shape="rect" id="node19" href="$classTemplateListIntf.html" title="Abstract read&#45;only interface for a context value of type list. " alt="" coords="326,763,470,914"/>
+<area shape="rect" id="node21" href="$classGenericNodeListContext.html" title="standard template list implementation " alt="" coords="175,1355,360,1549"/>
+<area shape="rect" id="node20" href="$classSymbolListContext_1_1Private.html" title="{SymbolListContext::\lPrivate\n||+ Private()\l}" alt="" coords="197,1627,338,1719"/>
+</map>

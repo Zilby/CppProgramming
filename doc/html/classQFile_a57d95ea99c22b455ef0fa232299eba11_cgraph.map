@@ -1,0 +1,7 @@
+<map id="QFile::remove" name="QFile::remove">
+<area shape="rect" id="node2" href="$classQFile.html#ac0d8375a5ea7d4503545d7c68dcf58e1" title="QFile::close" alt="" coords="157,56,249,83"/>
+<area shape="rect" id="node3" href="$classQIODevice.html#a291d97cdb38c1cd261bfbaa67a9d3923" title="QIODevice::isOpen" alt="" coords="297,5,433,32"/>
+<area shape="rect" id="node4" href="$classQFile.html#adfb2df6392ccaefb54215e2047a16c3b" title="QFile::init" alt="" coords="326,56,405,83"/>
+<area shape="rect" id="node6" href="$classQIODevice.html#a742d895b19b6809d67aa1643baf67639" title="QIODevice::setStatus" alt="" coords="481,107,632,133"/>
+<area shape="rect" id="node5" href="$classQIODevice.html#a9ce695e889efa9145e47195fcc765bf5" title="QIODevice::setFlags" alt="" coords="484,56,629,83"/>
+</map>

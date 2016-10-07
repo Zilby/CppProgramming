@@ -1,0 +1,8 @@
+<map id="InheritanceListContext::Private" name="InheritanceListContext::Private">
+<area shape="rect" id="node2" href="$classGenericNodeListContext.html" title="standard template list implementation " alt="" coords="41,1057,226,1252"/>
+<area shape="rect" id="node3" href="$classTemplateListIntf.html" title="Abstract read&#45;only interface for a context value of type list. " alt="" coords="5,763,149,914"/>
+<area shape="rect" id="node4" href="$classQList.html" title="{QList\&lt; TemplateVariant \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="174,683,346,995"/>
+<area shape="rect" id="node5" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="183,292,337,633"/>
+<area shape="rect" id="node6" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="155,5,280,200"/>
+<area shape="rect" id="node7" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="304,57,392,149"/>
+</map>

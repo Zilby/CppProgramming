@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classIString.html" title="Read only interface to a string. " alt="" coords="9,5,69,32"/>
+<area shape="rect" id="node2" href="$classStringImpl.html" title="StringImpl" alt="" coords="130,5,211,32"/>
+<area shape="rect" id="node3" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="5,56,72,83"/>
+<area shape="rect" id="node4" href="$classQConstString.html" title="A QString which uses constant Unicode data. " alt="" coords="120,56,221,83"/>
+</map>

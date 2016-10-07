@@ -1,0 +1,8 @@
+<map id="QString::leftJustify" name="QString::leftJustify">
+<area shape="rect" id="node2" href="$classQString.html#a0b6622a8335cdd080e8b1685b7e0fde0" title="QString::sprintf" alt="" coords="214,56,325,83"/>
+<area shape="rect" id="node7" href="$classQTextStream.html#a71fe2107025a308c699e666522a83b8f" title="QTextStream::operator\&lt;\&lt;" alt="" coords="184,107,355,133"/>
+<area shape="rect" id="node3" href="$classQDate.html#aebc53b28c073570214cfc6f1376cbcd5" title="QDate::toString" alt="" coords="406,5,519,32"/>
+<area shape="rect" id="node4" href="$classQTime.html#a87ef6af883b329327e1665cc639d403c" title="QTime::toString" alt="" coords="405,56,520,83"/>
+<area shape="rect" id="node6" href="$classQString.html#a5b30e9bb5310afb39f770db5fd5bf646" title="QString::setNum" alt="" coords="403,107,523,133"/>
+<area shape="rect" id="node5" href="$classQDateTime.html#a5455d25292813109f21c15888552c5c9" title="QDateTime::toString" alt="" coords="571,56,713,83"/>
+</map>

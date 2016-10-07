@@ -1,0 +1,19 @@
+<map id="TemplateContextImpl::pop" name="TemplateContextImpl::pop">
+<area shape="rect" id="node2" href="$classQGList.html#a604fb543fc8b0f989e7fde06bdb3ea9c" title="QGList::find" alt="" coords="272,5,364,32"/>
+<area shape="rect" id="node4" href="$classTemplateVariant.html#a44564decc01226f38116fe78461bb912" title="Returns the type of the value stored in the variant. " alt="" coords="243,56,393,83"/>
+<area shape="rect" id="node5" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="263,107,373,133"/>
+<area shape="rect" id="node6" href="$classTemplateVariant.html#a999df05d683cfea696903ae116cb9fcc" title="Returns the pointer to struct referenced by this variant or 0 if this variant does not have struct ty..." alt="" coords="233,157,403,184"/>
+<area shape="rect" id="node7" href="$classTemplateList.html#ada6751243c72ffd2c4a4a9aa0d752ef3" title="Creates an instance with ref count set to 0. " alt="" coords="252,208,384,235"/>
+<area shape="rect" id="node8" href="$classTemplateVariant.html#a56e1f12ff7f2fc2f9c5d269495161201" title="Constructs an invalid variant. " alt="" coords="455,302,633,343"/>
+<area shape="rect" id="node9" href="$classTemplateStruct.html#a657ed741aec6c31883d86b211ec27e5c" title="Sets the value the field of a struct. " alt="" coords="249,309,387,336"/>
+<area shape="rect" id="node10" href="$classQStack.html#a39f4fccb4ce975b29f5ed06b78316c24" title="QStack::count" alt="" coords="265,360,371,387"/>
+<area shape="rect" id="node11" href="$classTemplateStructIntf.html#a3d610cb81b4adbb531ebed3aa3d09b51" title="Gets the value for a field name. " alt="" coords="240,411,396,437"/>
+<area shape="rect" id="node12" href="$classTemplateList.html#ad866913882089b08eb818f801c251aed" title="Appends element v to the end of the list. " alt="" coords="245,461,391,488"/>
+<area shape="rect" id="node13" href="$classTemplateVariant.html#a96c0c47020c05b88b1ad1dfc2b6961e2" title="Returns the pointer to list referenced by this variant or 0 if this variant does not have list type..." alt="" coords="239,512,397,539"/>
+<area shape="rect" id="node14" href="$classTemplateStruct.html#ac2822e406f00ab1dde962fff3980d2c6" title="Creates an instance with ref count set to 0. " alt="" coords="245,563,391,589"/>
+<area shape="rect" id="node15" href="$classTemplateList.html#a30e405b8e59795bd9e9f2fa2b36b6bd0" title="Returns the number of elements in the list. " alt="" coords="249,613,387,640"/>
+<area shape="rect" id="node16" href="$classTemplateList.html#a9fffa09b83138d64bbe66b32e2a3d283" title="Returns the element at index position index. " alt="" coords="260,664,376,691"/>
+<area shape="rect" id="node17" href="$classTemplateVariant_1_1Delegate.html#a226f1f2e20f6d26fea2d989fd91bd8a8" title="Creates a delegate given an object, and a plain function. " alt="" coords="229,715,407,757"/>
+<area shape="rect" id="node3" href="$classQGList.html#a9a9c5fa3888371979c12e3207b3f9ec5" title="QGList::compareItems" alt="" coords="467,5,621,32"/>
+<area shape="rect" id="node18" href="$group__group1.html#ga24f647174760cac13d2624b5ad74b00c" title="function in group 1 " alt="" coords="521,723,567,749"/>
+</map>

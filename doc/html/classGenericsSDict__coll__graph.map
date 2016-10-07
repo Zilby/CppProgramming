@@ -1,0 +1,8 @@
+<map id="GenericsSDict" name="GenericsSDict">
+<area shape="rect" id="node2" href="$classSDict.html" title="{SDict\&lt; GenericsCollection \&gt;\n|&#45; m_dict\l&#45; m_sizeIndex\l|+ SDict()\l+ ~SDict()\l+ append()\l+ prepend()\l+ remove()\l+ take()\l+ sort()\l+ inSort()\l+ insertAt()\l+ setAutoDelete()\land 9 more...\l}" alt="" coords="50,719,239,958"/>
+<area shape="rect" id="node3" href="$classSList.html" title="{SList\&lt; GenericsCollection \&gt;\n||+ SList()\l+ ~SList()\l+ compareValues()\l}" alt="" coords="165,1065,351,1171"/>
+<area shape="rect" id="node4" href="$classQList.html" title="{QList\&lt; GenericsCollection \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="263,683,450,995"/>
+<area shape="rect" id="node5" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="279,292,434,633"/>
+<area shape="rect" id="node6" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="251,5,377,200"/>
+<area shape="rect" id="node7" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="401,57,489,149"/>
+</map>

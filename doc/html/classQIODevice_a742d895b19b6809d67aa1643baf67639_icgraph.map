@@ -1,0 +1,51 @@
+<map id="QIODevice::setStatus" name="QIODevice::setStatus">
+<area shape="rect" id="node2" href="$classQBuffer.html#aa3ceff2217a13a570e0dcec157b23b18" title="QBuffer::open" alt="" coords="226,265,329,292"/>
+<area shape="rect" id="node4" href="$classQBuffer.html#a7deacf4bbd599f075f3dad4b20cafeb0" title="QBuffer::readBlock" alt="" coords="211,316,344,343"/>
+<area shape="rect" id="node5" href="$classQBuffer.html#ad8bdac07e525a782d0759d3082bb296a" title="QBuffer::writeBlock" alt="" coords="209,367,345,393"/>
+<area shape="rect" id="node7" href="$classQBuffer.html#abec634737e1d5a9b314e822737e51992" title="QBuffer::getch" alt="" coords="224,417,331,444"/>
+<area shape="rect" id="node8" href="$classQFile.html#adfb2df6392ccaefb54215e2047a16c3b" title="QFile::init" alt="" coords="453,443,531,469"/>
+<area shape="rect" id="node10" href="$classQFile.html#af10aeafc303904f98b74be9752d2aa43" title="QFile::open" alt="" coords="649,848,739,875"/>
+<area shape="rect" id="node36" href="$classQFile.html#ac0d8375a5ea7d4503545d7c68dcf58e1" title="QFile::close" alt="" coords="648,296,740,323"/>
+<area shape="rect" id="node42" href="$classQFile.html#af95c756ce6ff9f597ff1d21c8384d777" title="QFile::readLine" alt="" coords="639,1345,749,1372"/>
+<area shape="rect" id="node44" href="$classQFile.html#a1c18e1a16e6f92ba8f19177824707f78" title="QFile::getch" alt="" coords="445,696,539,723"/>
+<area shape="rect" id="node45" href="$classQFile.html#af331c4e27024f12383958e65c6a828a3" title="QFile::putch" alt="" coords="445,797,539,824"/>
+<area shape="rect" id="node46" href="$classQFile.html#afb01a04cda09b3cc61babb5d334a052c" title="QFile::ungetch" alt="" coords="439,848,545,875"/>
+<area shape="rect" id="node47" href="$classQFile.html#ab9a42e65a2fcd51bae5f2a186ff5bee5" title="QFile::readBlock" alt="" coords="218,613,337,640"/>
+<area shape="rect" id="node49" href="$classQFile.html#a47e0572e396a6e953d14ba69bf733cea" title="QFile::writeBlock" alt="" coords="216,899,339,925"/>
+<area shape="rect" id="node50" href="$classQGStringBuffer.html#afcecb219691daf1fb5f18f7324fc52b7" title="QGStringBuffer::open" alt="" coords="204,1453,351,1480"/>
+<area shape="rect" id="node3" href="$classQXmlInputSource.html#a09b035e17ff437b8980b192806dc8271" title="QXmlInputSource::readInput" alt="" coords="399,265,585,292"/>
+<area shape="rect" id="node6" href="$classQBuffer.html#aa05ca49f73284ac1fa2b01ffb3be2874" title="QBuffer::putch" alt="" coords="439,341,545,368"/>
+<area shape="rect" id="node9" href="$classQFile.html#a4594575fa1a7d3ff40250fb52362cdf9" title="QFile::QFile" alt="" coords="648,443,740,469"/>
+<area shape="rect" id="node11" href="$classQTextCodec.html#a655a88489c4308af769f992617a5ec53" title="QTextCodec::loadCharmapFile" alt="" coords="811,1067,1013,1093"/>
+<area shape="rect" id="node12" href="$classQTextStream.html#a53439eda88c78b200b675b7909343b10" title="QTextStream::QTextStream" alt="" coords="819,696,1005,723"/>
+<area shape="rect" id="node13" href="$classQXmlInputSource.html#af31832f657ee461a8fbe9b9f9227c218" title="QXmlInputSource::QXmlInput\lSource" alt="" coords="815,478,1009,519"/>
+<area shape="rect" id="node14" href="$classCiteDict.html#a3c940a5ed5a06d90d9dc5471e900bb77" title="Generate the citations page. " alt="" coords="1348,652,1507,679"/>
+<area shape="rect" id="node15" href="$classDotRunner.html#ac1afaee16ddd8bf0bc6b18aaed6b44fd" title="Runs dot for all jobs added. " alt="" coords="857,848,967,875"/>
+<area shape="rect" id="node16" href="$classEclipseHelp.html#a6a8532316d47986f371459e6b09b9d71" title="Finish generation of the Eclipse specific help files. " alt="" coords="841,797,983,824"/>
+<area shape="rect" id="node17" href="$classFileStorage.html#a9f680051229bda7bca2639e5464bca77" title="FileStorage::write" alt="" coords="1114,427,1238,453"/>
+<area shape="rect" id="node18" href="$classQGStringBuffer.html#ae2265be83385ba58ff0e47880563bbb5" title="QGStringBuffer::putch" alt="" coords="837,747,987,773"/>
+<area shape="rect" id="node20" href="$structHtags.html#a91a5a1322fbff8f8ad136a3372964512" title="Htags::loadFilemap" alt="" coords="845,1320,979,1347"/>
+<area shape="rect" id="node21" href="$classHtmlGenerator.html#a7306ef9abbceafd6074b4d883a59f033" title="Additional initialization after indices have been created. " alt="" coords="1331,1193,1524,1220"/>
+<area shape="rect" id="node22" href="$classLatexCodeGenerator.html#a2b3c977134c51f9775042a0c7f469077" title="LatexCodeGenerator\l::endFontClass" alt="" coords="841,1001,983,1042"/>
+<area shape="rect" id="node24" href="$classManGenerator.html#a4e825c27561ebb51c155840d9101725a" title="ManGenerator::endCodeFragment" alt="" coords="803,376,1021,403"/>
+<area shape="rect" id="node26" href="$classResourceMgr.html#a5596fb3e70044fa98520b4d95d5336e1" title="Writes all resource belonging to a given category to a given target directory. " alt="" coords="817,1269,1007,1296"/>
+<area shape="rect" id="node27" href="$classResourceMgr.html#ac6de7e012b820c139b1dc537987cab2c" title="Copies a registered resource to a given target directory under a given target name. " alt="" coords="808,1219,1016,1245"/>
+<area shape="rect" id="node29" href="$classRTFGenerator.html#a62498deb4b617b2cfb75381f6508a4ed" title="This is an API to a VERY brittle RTF preprocessor that combines nested RTF files. ..." alt="" coords="823,259,1001,301"/>
+<area shape="rect" id="node31" href="$util_8h.html#a320768069dfe8bb92a0ad137769a3275" title="fileToString" alt="" coords="1132,593,1220,620"/>
+<area shape="rect" id="node34" href="$util_8h.html#a9b7f56d06d80e66e33804e0ae179203e" title="read a file name fileName and optionally filter and transcode it " alt="" coords="863,595,961,621"/>
+<area shape="rect" id="node35" href="$util_8h.html#ad35d4038b3882fdd09976d28f4a043bf" title="Copies the contents of file with name src to the newly created file with name dest. " alt="" coords="877,645,947,672"/>
+<area shape="rect" id="node19" href="$classQGStringBuffer.html#a20699e4c4ba6d7d68c4422d795412751" title="QGStringBuffer::getch" alt="" coords="1101,747,1251,773"/>
+<area shape="rect" id="node23" href="$classLatexCodeGenerator.html#a1cda601192d87fe472daccdfbabadfce" title="LatexCodeGenerator\l::writeTooltip" alt="" coords="1105,1001,1247,1042"/>
+<area shape="rect" id="node25" href="$classManGenerator.html#ab7a5373b1e631879e56bf5699e00cfe2" title="ManGenerator::writeRuler" alt="" coords="1091,376,1261,403"/>
+<area shape="rect" id="node28" href="$classResourceMgr.html#add302925074918ff666629dcdd755f97" title="Copies a registered resource to a given target directory. " alt="" coords="1080,1219,1272,1245"/>
+<area shape="rect" id="node30" href="$classRTFGenerator.html#a01b1cb771ecbdb9da62b21c980d1a5ae" title="RTFGenerator::writeCodeAnchor" alt="" coords="1069,267,1283,293"/>
+<area shape="rect" id="node32" href="$classTranslateContext.html#ab0fad4b75cd53cb3c22e8e1adee1c260" title="Gets the value for a field name. " alt="" coords="1353,535,1501,561"/>
+<area shape="rect" id="node33" href="$classHtmlCodeGenerator.html#a89ec8d4b9eb2b5162b4d9a7cab209b4a" title="HtmlCodeGenerator::\lwriteCodeAnchor" alt="" coords="1354,586,1501,627"/>
+<area shape="rect" id="node37" href="$classQFile.html#acc10a60e8d9d8b873a43ab9be0b5c137" title="QFile::~QFile" alt="" coords="862,5,962,32"/>
+<area shape="rect" id="node38" href="$classQFile.html#aedc2f51f8c46021cfb4ae82bae0e3b2d" title="QFile::setName" alt="" coords="855,208,969,235"/>
+<area shape="rect" id="node39" href="$classQFile.html#a57d95ea99c22b455ef0fa232299eba11" title="QFile::remove" alt="" coords="860,56,964,83"/>
+<area shape="rect" id="node41" href="$classHtmlHelp.html#a66375adceef242d73c6554bd7fba6cf7" title="HtmlHelp::finalize" alt="" coords="849,107,975,133"/>
+<area shape="rect" id="node40" href="$classQDir.html#aca44a22e3f1355bc74fdd96e0af052c9" title="QDir::remove" alt="" coords="1126,56,1226,83"/>
+<area shape="rect" id="node43" href="$classQFile.html#a324c017d391658a8eacf5b35932f5f87" title="QFile::readLine" alt="" coords="857,1371,967,1397"/>
+<area shape="rect" id="node48" href="$classFileStorage.html#ae28163449c4c40730b5e27b75362e22d" title="FileStorage::read" alt="" coords="633,493,755,520"/>
+</map>

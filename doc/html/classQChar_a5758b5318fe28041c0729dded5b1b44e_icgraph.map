@@ -1,0 +1,13 @@
+<map id="QChar::isDigit" name="QChar::isDigit">
+<area shape="rect" id="node2" href="$classQString.html#aaee914b4744ada084543c212bc1b3a21" title="QString::replace" alt="" coords="180,5,296,32"/>
+<area shape="rect" id="node3" href="$classQString.html#a3b79d2babc06fcbaec011fd9113e75ab" title="QString::toLong" alt="" coords="181,56,295,83"/>
+<area shape="rect" id="node11" href="$classQTextStream.html#a01bdc4673d3532fe999eb0ec025687c4" title="QTextStream::ts_putc" alt="" coords="163,107,313,133"/>
+<area shape="rect" id="node12" href="$classQXmlDefaultHandler.html#a6b048432047efce5fcdd88855e95c3b9" title="QXmlDefaultHandler\l::~QXmlDefaultHandler" alt="" coords="159,158,317,199"/>
+<area shape="rect" id="node4" href="$classQString.html#aba480e0d80d25f65e2acebb03d0d7ab5" title="QString::toShort" alt="" coords="365,31,481,57"/>
+<area shape="rect" id="node5" href="$classQString.html#a98f691fb039c264a986142c833223efc" title="QString::toInt" alt="" coords="373,81,473,108"/>
+<area shape="rect" id="node6" href="$classQString.html#a0b6622a8335cdd080e8b1685b7e0fde0" title="QString::sprintf" alt="" coords="529,81,640,108"/>
+<area shape="rect" id="node7" href="$classQDate.html#aebc53b28c073570214cfc6f1376cbcd5" title="QDate::toString" alt="" coords="691,31,805,57"/>
+<area shape="rect" id="node8" href="$classQTime.html#a87ef6af883b329327e1665cc639d403c" title="QTime::toString" alt="" coords="691,81,805,108"/>
+<area shape="rect" id="node10" href="$classQString.html#a5b30e9bb5310afb39f770db5fd5bf646" title="QString::setNum" alt="" coords="688,132,808,159"/>
+<area shape="rect" id="node9" href="$classQDateTime.html#a5455d25292813109f21c15888552c5c9" title="QDateTime::toString" alt="" coords="856,81,999,108"/>
+</map>

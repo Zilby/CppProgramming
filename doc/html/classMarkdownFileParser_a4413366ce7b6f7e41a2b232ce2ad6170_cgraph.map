@@ -1,0 +1,6 @@
+<map id="MarkdownFileParser::parseCode" name="MarkdownFileParser::parseCode">
+<area shape="rect" id="node2" href="$classParserManager.html#a69f9874c260df7559242ec5833051ac5" title="Gets the interface to the parser associated with given extension. " alt="" coords="199,31,373,57"/>
+<area shape="rect" id="node5" href="$classParserInterface.html#a2ffc28f9dd7c47e2581376a573426395" title="Parses a source file or fragment with the goal to produce highlighted and cross&#45;referenced output..." alt="" coords="195,81,377,108"/>
+<area shape="rect" id="node3" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="425,5,557,32"/>
+<area shape="rect" id="node4" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="432,56,551,83"/>
+</map>

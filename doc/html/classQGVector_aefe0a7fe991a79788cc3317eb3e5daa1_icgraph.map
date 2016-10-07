@@ -1,0 +1,9 @@
+<map id="QGVector::clear" name="QGVector::clear">
+<area shape="rect" id="node2" href="$classQGList.html#ab353a126b1fbdec96f4c6189f8623e2f" title="QGList::toVector" alt="" coords="187,13,307,39"/>
+<area shape="rect" id="node4" href="$classQGVector.html#a801da0737d11c2ff85303ee285dc424b" title="QGVector::~QGVector" alt="" coords="169,63,324,90"/>
+<area shape="rect" id="node5" href="$classQGVector.html#a460c0560413d93cf0e51f0a01b64b5ef" title="QGVector::operator=" alt="" coords="175,114,318,141"/>
+<area shape="rect" id="node6" href="$classQGVector.html#a9023b4232fc0b7bd6e8e14f5af5090d8" title="QGVector::read" alt="" coords="190,165,303,191"/>
+<area shape="rect" id="node8" href="$classQVector.html#a1d9f67e27cf360cfec05312fd014da7a" title="QVector\&lt; QList\&lt; IndexWord\l \&gt; \&gt;::clear" alt="" coords="603,183,791,224"/>
+<area shape="rect" id="node3" href="$classQInternalList.html#a253a49ac0bce39e819358a602cf16c20" title="QInternalList\&lt; QCacheItem\l \&gt;::clear" alt="" coords="372,5,555,47"/>
+<area shape="rect" id="node7" href="$classQGVector.html#a3dd5cc73b1f0756d0c28791632b23590" title="QGVector::toList" alt="" coords="403,165,523,191"/>
+</map>

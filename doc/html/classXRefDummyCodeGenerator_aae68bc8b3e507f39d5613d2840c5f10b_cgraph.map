@@ -1,0 +1,8 @@
+<map id="XRefDummyCodeGenerator::writeCodeAnchor" name="XRefDummyCodeGenerator::writeCodeAnchor">
+<area shape="rect" id="node2" href="$classDefinitionIntf.html#ac8ee00bc1af5558ae37f6896d16f5a3a" title="DefinitionIntf::definitionType" alt="" coords="240,5,425,32"/>
+<area shape="rect" id="node3" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="274,56,391,83"/>
+<area shape="rect" id="node4" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="278,107,387,133"/>
+<area shape="rect" id="node5" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="267,157,399,184"/>
+<area shape="rect" id="node6" href="$classDefinition.html#a9484164b01eca0abce92001b2b77f8c3" title="Definition::getDefFileName" alt="" coords="243,208,423,235"/>
+<area shape="rect" id="node7" href="$classDefinition.html#ac33f1365555052b2d0861fac453c05e0" title="Definition::getDefLine" alt="" coords="259,259,407,285"/>
+</map>

@@ -1,0 +1,243 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classDefinitionIntf.html" title="Abstract interface for a Definition or DefinitionList. " alt="" coords="339,183,435,209"/>
+<area shape="rect" id="node2" href="$classDefinition.html" title="The common base class of all entity definitions found in the sources. " alt="" coords="609,157,686,184"/>
+<area shape="rect" id="node10" href="$classDefinitionList.html" title="A list of Definition objects. " alt="" coords="598,208,697,235"/>
+<area shape="rect" id="node3" href="$classClassDef.html" title="A class representing of a compound symbol. " alt="" coords="827,5,904,32"/>
+<area shape="rect" id="node4" href="$classDirDef.html" title="A model of a directory symbol. " alt="" coords="835,56,895,83"/>
+<area shape="rect" id="node5" href="$classFileDef.html" title="A model of a file symbol. " alt="" coords="833,107,897,133"/>
+<area shape="rect" id="node6" href="$classGroupDef.html" title="A model of a group of symbols. " alt="" coords="826,157,905,184"/>
+<area shape="rect" id="node7" href="$classMemberDef.html" title="A model of a class/file/namespace member symbol. " alt="" coords="820,208,911,235"/>
+<area shape="rect" id="node8" href="$classNamespaceDef.html" title="A model of a namespace symbol. " alt="" coords="809,259,922,285"/>
+<area shape="rect" id="node9" href="$classPageDef.html" title="A model of a page symbol. " alt="" coords="829,309,902,336"/>
+<area shape="rect" id="node11" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="5,7461,96,7488"/>
+<area shape="rect" id="node12" href="$classQGCache.html" title="The QGCache class is an internal class for implementing QCache template classes. " alt="" coords="144,7245,224,7272"/>
+<area shape="rect" id="node15" href="$classQGDict.html" title="The QGDict class is an internal class for implementing QDict template classes. " alt="" coords="151,7676,217,7703"/>
+<area shape="rect" id="node36" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="153,3721,215,3748"/>
+<area shape="rect" id="node237" href="$classQGVector.html" title="The QGVector class is an internal class for implementing Qt collection classes. " alt="" coords="144,8157,224,8184"/>
+<area shape="rect" id="node13" href="$classQCache.html" title="QCache\&lt; type \&gt;" alt="" coords="328,7195,447,7221"/>
+<area shape="rect" id="node14" href="$classQCache.html" title="QCache\&lt; LookupInfo \&gt;" alt="" coords="308,7245,467,7272"/>
+<area shape="rect" id="node16" href="$classQAsciiDict.html" title="QAsciiDict\&lt; type \&gt;" alt="" coords="320,7296,455,7323"/>
+<area shape="rect" id="node17" href="$classQAsciiDict.html" title="QAsciiDict\&lt; Entry \&gt;" alt="" coords="317,7347,457,7373"/>
+<area shape="rect" id="node18" href="$classQCDict.html" title="QCDict" alt="" coords="354,7397,421,7424"/>
+<area shape="rect" id="node19" href="$classQIntDict.html" title="QIntDict\&lt; type \&gt;" alt="" coords="327,7448,447,7475"/>
+<area shape="rect" id="node20" href="$classQIntDict.html" title="QIntDict\&lt; char \&gt;" alt="" coords="327,7499,447,7525"/>
+<area shape="rect" id="node23" href="$classQIntDict.html" title="QIntDict\&lt; ClassDef \&gt;" alt="" coords="312,7549,463,7576"/>
+<area shape="rect" id="node25" href="$classQIntDict.html" title="QIntDict\&lt; Definition \&gt;" alt="" coords="312,7600,463,7627"/>
+<area shape="rect" id="node26" href="$classQIntDict.html" title="QIntDict\&lt; MemberDef \&gt;" alt="" coords="306,7651,469,7677"/>
+<area shape="rect" id="node27" href="$classQIntDict.html" title="QIntDict\&lt; MemberGroup \&gt;" alt="" coords="299,7701,476,7728"/>
+<area shape="rect" id="node28" href="$classQIntDict.html" title="QIntDict\&lt; MemberGroupInfo \&gt;" alt="" coords="288,7752,487,7779"/>
+<area shape="rect" id="node29" href="$classQIntDict.html" title="QIntDict\&lt; RefItem \&gt;" alt="" coords="316,7803,459,7829"/>
+<area shape="rect" id="node30" href="$classQIntDict.html" title="QIntDict\&lt; SearchIndexList \&gt;" alt="" coords="293,7853,482,7880"/>
+<area shape="rect" id="node31" href="$classQIntDict.html" title="QIntDict\&lt; T \&gt;" alt="" coords="336,7904,439,7931"/>
+<area shape="rect" id="node32" href="$classQIntDict.html" title="QIntDict\&lt; uint \&gt;" alt="" coords="329,7955,445,7981"/>
+<area shape="rect" id="node33" href="$classQIntDict.html" title="QIntDict\&lt; URL \&gt;" alt="" coords="326,8005,449,8032"/>
+<area shape="rect" id="node34" href="$classQIntDict.html" title="QIntDict\&lt; URLInfo \&gt;" alt="" coords="315,8056,459,8083"/>
+<area shape="rect" id="node35" href="$classQPtrDict.html" title="QPtrDict\&lt; type \&gt;" alt="" coords="326,8107,449,8133"/>
+<area shape="rect" id="node21" href="$classDocbookSectionMapper.html" title="DocbookSectionMapper" alt="" coords="567,7448,728,7475"/>
+<area shape="rect" id="node22" href="$classXmlSectionMapper.html" title="Helper class mapping MemberList::ListType to a string representing. " alt="" coords="581,7499,713,7525"/>
+<area shape="rect" id="node24" href="$classGenericsCollection.html" title="GenericsCollection" alt="" coords="581,7549,713,7576"/>
+<area shape="rect" id="node37" href="$classQInternalList.html" title="QInternalList\&lt; type \&gt;" alt="" coords="315,360,460,387"/>
+<area shape="rect" id="node40" href="$classQInternalList.html" title="QInternalList\&lt; QCacheItem \&gt;" alt="" coords="290,411,485,437"/>
+<area shape="rect" id="node42" href="$classQInternalList.html" title="QInternalList\&lt; QGDictIterator \&gt;" alt="" coords="285,461,490,488"/>
+<area shape="rect" id="node44" href="$classQInternalList.html" title="QInternalList\&lt; QWaitCondition\lEvent \&gt;" alt="" coords="287,513,487,554"/>
+<area shape="rect" id="node46" href="$classQList.html" title="QList\&lt; type \&gt;" alt="" coords="336,579,439,605"/>
+<area shape="rect" id="node48" href="$classQList.html" title="QList\&lt; ActiveRowSpan \&gt;" alt="" coords="302,629,473,656"/>
+<area shape="rect" id="node49" href="$classQList.html" title="QList\&lt; AlphaIndexTableCell \&gt;" alt="" coords="289,680,486,707"/>
+<area shape="rect" id="node51" href="$classQList.html" title="QList\&lt; AlphaIndexTableRows \&gt;" alt="" coords="283,731,491,757"/>
+<area shape="rect" id="node53" href="$classQList.html" title="QList\&lt; Argument \&gt;" alt="" coords="321,781,454,808"/>
+<area shape="rect" id="node55" href="$classQList.html" title="QList\&lt; ArgumentList \&gt;" alt="" coords="310,832,465,859"/>
+<area shape="rect" id="node56" href="$classQList.html" title="QList\&lt; BaseClassDef \&gt;" alt="" coords="306,883,469,909"/>
+<area shape="rect" id="node58" href="$classQList.html" title="QList\&lt; BaseInfo \&gt;" alt="" coords="323,933,452,960"/>
+<area shape="rect" id="node59" href="$classQList.html" title="QList\&lt; CallContext\l::Ctx \&gt;" alt="" coords="320,985,455,1026"/>
+<area shape="rect" id="node60" href="$classQList.html" title="QList\&lt; ChildNodeHandler \&gt;" alt="" coords="296,1051,479,1077"/>
+<area shape="rect" id="node61" href="$classQList.html" title="QList\&lt; ClassDef \&gt;" alt="" coords="321,1101,453,1128"/>
+<area shape="rect" id="node65" href="$classQList.html" title="QList\&lt; CodeLineHandler \&gt;" alt="" coords="299,1152,476,1179"/>
+<area shape="rect" id="node66" href="$classQList.html" title="QList\&lt; CompoundEntry \&gt;" alt="" coords="302,1203,473,1229"/>
+<area shape="rect" id="node67" href="$classQList.html" title="QList\&lt; ConfigOption \&gt;" alt="" coords="311,1253,464,1280"/>
+<area shape="rect" id="node68" href="$classQList.html" title="QList\&lt; Define \&gt;" alt="" coords="330,1304,445,1331"/>
+<area shape="rect" id="node71" href="$classQList.html" title="QList\&lt; DefineName \&gt;" alt="" coords="312,1355,463,1381"/>
+<area shape="rect" id="node73" href="$classQList.html" title="QList\&lt; Definition \&gt;" alt="" coords="321,284,453,311"/>
+<area shape="rect" id="node76" href="$classQList.html" title="QList\&lt; DiagramItem \&gt;" alt="" coords="311,1405,463,1432"/>
+<area shape="rect" id="node79" href="$classQList.html" title="QList\&lt; DiagramRow \&gt;" alt="" coords="311,1456,464,1483"/>
+<area shape="rect" id="node81" href="$classQList.html" title="QList\&lt; DirDef \&gt;" alt="" coords="330,1507,445,1533"/>
+<area shape="rect" id="node84" href="$classQList.html" title="QList\&lt; DirEntry \&gt;" alt="" coords="325,1557,450,1584"/>
+<area shape="rect" id="node85" href="$classQList.html" title="QList\&lt; DirRelation \&gt;" alt="" coords="316,1608,459,1635"/>
+<area shape="rect" id="node87" href="$classQList.html" title="QList\&lt; DocImpl \&gt;" alt="" coords="324,1659,451,1685"/>
+<area shape="rect" id="node88" href="$classQList.html" title="QList\&lt; DocNode \&gt;" alt="" coords="321,1709,453,1736"/>
+<area shape="rect" id="node89" href="$classQList.html" title="QList\&lt; DocPara \&gt;" alt="" coords="323,1760,451,1787"/>
+<area shape="rect" id="node90" href="$classQList.html" title="QList\&lt; DocSets::NodeDef \&gt;" alt="" coords="293,1811,481,1837"/>
+<area shape="rect" id="node92" href="$classQList.html" title="QList\&lt; DotConstString \&gt;" alt="" coords="304,1861,471,1888"/>
+<area shape="rect" id="node93" href="$classQList.html" title="QList\&lt; DotFilePatcher \&gt;" alt="" coords="305,1912,469,1939"/>
+<area shape="rect" id="node95" href="$classQList.html" title="QList\&lt; DotFilePatcher\l::Map \&gt;" alt="" coords="311,1963,463,2005"/>
+<area shape="rect" id="node96" href="$classQList.html" title="QList\&lt; DotGroupCollaboration\l::Edge \&gt;" alt="" coords="289,2029,486,2070"/>
+<area shape="rect" id="node97" href="$classQList.html" title="QList\&lt; DotGroupCollaboration\l::Link \&gt;" alt="" coords="289,2094,486,2135"/>
+<area shape="rect" id="node98" href="$classQList.html" title="QList\&lt; DotNode \&gt;" alt="" coords="323,2160,452,2187"/>
+<area shape="rect" id="node100" href="$classQList.html" title="QList\&lt; DotRunner \&gt;" alt="" coords="317,2211,457,2237"/>
+<area shape="rect" id="node101" href="$classQList.html" title="QList\&lt; DotRunner::Cleanup\lItem \&gt;" alt="" coords="295,2262,479,2303"/>
+<area shape="rect" id="node102" href="$classQList.html" title="QList\&lt; DotWorkerThread \&gt;" alt="" coords="297,2328,477,2355"/>
+<area shape="rect" id="node103" href="$classQList.html" title="QList\&lt; EdgeInfo \&gt;" alt="" coords="323,2379,452,2405"/>
+<area shape="rect" id="node104" href="$classQList.html" title="QList\&lt; EdgeLabelHandler \&gt;" alt="" coords="296,2429,479,2456"/>
+<area shape="rect" id="node105" href="$classQList.html" title="QList\&lt; Entry \&gt;" alt="" coords="333,2480,441,2507"/>
+<area shape="rect" id="node106" href="$classQList.html" title="QList\&lt; EntryHandler \&gt;" alt="" coords="311,2531,464,2557"/>
+<area shape="rect" id="node107" href="$classQList.html" title="QList\&lt; EntryNav \&gt;" alt="" coords="321,2581,453,2608"/>
+<area shape="rect" id="node108" href="$classQList.html" title="QList\&lt; Example \&gt;" alt="" coords="323,2632,451,2659"/>
+<area shape="rect" id="node110" href="$classQList.html" title="QList\&lt; ExprAst \&gt;" alt="" coords="325,2683,449,2709"/>
+<area shape="rect" id="node111" href="$classQList.html" title="QList\&lt; FileDef \&gt;" alt="" coords="328,2733,447,2760"/>
+<area shape="rect" id="node114" href="$classQList.html" title="QList\&lt; FileList \&gt;" alt="" coords="328,2784,447,2811"/>
+<area shape="rect" id="node116" href="$classQList.html" title="QList\&lt; FileName \&gt;" alt="" coords="321,2835,454,2861"/>
+<area shape="rect" id="node118" href="$classQList.html" title="QList\&lt; FilePair \&gt;" alt="" coords="327,2885,448,2912"/>
+<area shape="rect" id="node120" href="$classQList.html" title="QList\&lt; FlowChart \&gt;" alt="" coords="319,2936,456,2963"/>
+<area shape="rect" id="node121" href="$classQList.html" title="QList\&lt; Formula \&gt;" alt="" coords="325,2987,449,3013"/>
+<area shape="rect" id="node123" href="$classQList.html" title="QList\&lt; FTVNode \&gt;" alt="" coords="321,3037,454,3064"/>
+<area shape="rect" id="node124" href="$classQList.html" title="QList\&lt; GenericsCollection \&gt;" alt="" coords="294,3088,481,3115"/>
+<area shape="rect" id="node126" href="$classQList.html" title="QList\&lt; GroupDef \&gt;" alt="" coords="321,3139,454,3165"/>
+<area shape="rect" id="node129" href="$classQList.html" title="QList\&lt; Grouping \&gt;" alt="" coords="323,3189,452,3216"/>
+<area shape="rect" id="node130" href="$classQList.html" title="QList\&lt; HtmlAttrib \&gt;" alt="" coords="319,3240,455,3267"/>
+<area shape="rect" id="node132" href="$classQList.html" title="QList\&lt; IncludeHandler \&gt;" alt="" coords="305,3291,469,3317"/>
+<area shape="rect" id="node133" href="$classQList.html" title="QList\&lt; IncludeInfo \&gt;" alt="" coords="317,3341,458,3368"/>
+<area shape="rect" id="node134" href="$classQList.html" title="QList\&lt; IndexField \&gt;" alt="" coords="319,3392,456,3419"/>
+<area shape="rect" id="node136" href="$classQList.html" title="QList\&lt; IndexIntf \&gt;" alt="" coords="323,3443,451,3469"/>
+<area shape="rect" id="node137" href="$classQList.html" title="QList\&lt; Input *\&gt;" alt="" coords="332,3493,443,3520"/>
+<area shape="rect" id="node138" href="$classQList.html" title="QList\&lt; LayoutDocEntry \&gt;" alt="" coords="302,3544,473,3571"/>
+<area shape="rect" id="node139" href="$classQList.html" title="QList\&lt; LayoutNavEntry \&gt;" alt="" coords="302,3595,473,3621"/>
+<area shape="rect" id="node140" href="$classQList.html" title="QList\&lt; LinkedTextImpl \&gt;" alt="" coords="304,3645,471,3672"/>
+<area shape="rect" id="node141" href="$classQList.html" title="QList\&lt; ListElem \&gt;" alt="" coords="323,3696,451,3723"/>
+<area shape="rect" id="node145" href="$classQList.html" title="QList\&lt; ListItemInfo \&gt;" alt="" coords="314,3747,461,3773"/>
+<area shape="rect" id="node146" href="$classQList.html" title="QList\&lt; MemberDef \&gt;" alt="" coords="315,3797,460,3824"/>
+<area shape="rect" id="node151" href="$classQList.html" title="QList\&lt; MemberGroup \&gt;" alt="" coords="308,3848,467,3875"/>
+<area shape="rect" id="node154" href="$classQList.html" title="QList\&lt; MemberHandler \&gt;" alt="" coords="303,3899,472,3925"/>
+<area shape="rect" id="node155" href="$classQList.html" title="QList\&lt; MemberInfo \&gt;" alt="" coords="314,3949,461,3976"/>
+<area shape="rect" id="node157" href="$classQList.html" title="QList\&lt; MemberList \&gt;" alt="" coords="315,4000,460,4027"/>
+<area shape="rect" id="node159" href="$classQList.html" title="QList\&lt; MemberName \&gt;" alt="" coords="308,4051,467,4077"/>
+<area shape="rect" id="node161" href="$classQList.html" title="QList\&lt; MemberNameInfo \&gt;" alt="" coords="297,4101,478,4128"/>
+<area shape="rect" id="node163" href="$classQList.html" title="QList\&lt; MemberReference \&gt;" alt="" coords="295,4152,479,4179"/>
+<area shape="rect" id="node164" href="$classQList.html" title="QList\&lt; NamespaceDef \&gt;" alt="" coords="303,4203,471,4229"/>
+<area shape="rect" id="node167" href="$classQList.html" title="QList\&lt; NavIndexEntry \&gt;" alt="" coords="305,4253,469,4280"/>
+<area shape="rect" id="node169" href="$classQList.html" title="QList\&lt; NodeHandler \&gt;" alt="" coords="311,4304,464,4331"/>
+<area shape="rect" id="node170" href="$classQList.html" title="QList\&lt; OutputGenerator \&gt;" alt="" coords="301,4355,474,4381"/>
+<area shape="rect" id="node171" href="$classQList.html" title="QList\&lt; PageDef \&gt;" alt="" coords="323,4405,451,4432"/>
+<area shape="rect" id="node173" href="$classQList.html" title="QList\&lt; ParameterHandler \&gt;" alt="" coords="296,4456,479,4483"/>
+<area shape="rect" id="node174" href="$classQList.html" title="QList\&lt; ParameterItemHandler \&gt;" alt="" coords="283,4507,491,4533"/>
+<area shape="rect" id="node175" href="$classQList.html" title="QList\&lt; ParamHandler \&gt;" alt="" coords="307,4557,467,4584"/>
+<area shape="rect" id="node176" href="$classQList.html" title="QList\&lt; PyCallContext\l::Ctx \&gt;" alt="" coords="312,4609,463,4650"/>
+<area shape="rect" id="node177" href="$classQList.html" title="QList\&lt; PyVariableContext\l::Scope \&gt;" alt="" coords="300,4674,475,4715"/>
+<area shape="rect" id="node178" href="$classQList.html" title="QList\&lt; QCString \&gt;" alt="" coords="322,4740,453,4767"/>
+<area shape="rect" id="node180" href="$classQList.html" title="QList\&lt; QDict\&lt; TemplateVariant \&gt; \&gt;" alt="" coords="272,4791,503,4817"/>
+<area shape="rect" id="node181" href="$classQList.html" title="QList\&lt; QString \&gt;" alt="" coords="327,4841,448,4868"/>
+<area shape="rect" id="node182" href="$classQList.html" title="QList\&lt; RefItem \&gt;" alt="" coords="325,4892,449,4919"/>
+<area shape="rect" id="node184" href="$classQList.html" title="QList\&lt; RelatedCompound \&gt;" alt="" coords="295,4943,480,4969"/>
+<area shape="rect" id="node185" href="$classQList.html" title="QList\&lt; RowHandler \&gt;" alt="" coords="313,4993,462,5020"/>
+<area shape="rect" id="node186" href="$classQList.html" title="QList\&lt; SearchDefinitionList \&gt;" alt="" coords="290,5044,485,5071"/>
+<area shape="rect" id="node188" href="$classQList.html" title="QList\&lt; SearchDocEntry \&gt;" alt="" coords="301,5095,474,5121"/>
+<area shape="rect" id="node190" href="$classQList.html" title="QList\&lt; SearchIndexList \&gt;" alt="" coords="302,5145,473,5172"/>
+<area shape="rect" id="node192" href="$classQList.html" title="QList\&lt; SectionHandler \&gt;" alt="" coords="304,5196,471,5223"/>
+<area shape="rect" id="node193" href="$classQList.html" title="QList\&lt; SectionInfo \&gt;" alt="" coords="316,5247,459,5273"/>
+<area shape="rect" id="node195" href="$classQList.html" title="QList\&lt; Statistics::\lstat \&gt;" alt="" coords="323,5298,451,5339"/>
+<area shape="rect" id="node196" href="$classQList.html" title="QList\&lt; T \&gt;" alt="" coords="345,5364,430,5391"/>
+<area shape="rect" id="node199" href="$classQList.html" title="QList\&lt; TagAnchorInfo \&gt;" alt="" coords="306,5415,469,5441"/>
+<area shape="rect" id="node201" href="$classQList.html" title="QList\&lt; TagClassInfo \&gt;" alt="" coords="310,5465,465,5492"/>
+<area shape="rect" id="node202" href="$classQList.html" title="QList\&lt; TagDirInfo \&gt;" alt="" coords="318,5516,457,5543"/>
+<area shape="rect" id="node203" href="$classQList.html" title="QList\&lt; TagEnumValueInfo \&gt;" alt="" coords="293,5567,481,5593"/>
+<area shape="rect" id="node204" href="$classQList.html" title="QList\&lt; TagFileInfo \&gt;" alt="" coords="316,5617,459,5644"/>
+<area shape="rect" id="node205" href="$classQList.html" title="QList\&lt; TagGroupInfo \&gt;" alt="" coords="309,5668,465,5695"/>
+<area shape="rect" id="node206" href="$classQList.html" title="QList\&lt; TagIncludeInfo \&gt;" alt="" coords="306,5719,469,5745"/>
+<area shape="rect" id="node207" href="$classQList.html" title="QList\&lt; TagMemberInfo \&gt;" alt="" coords="303,5769,471,5796"/>
+<area shape="rect" id="node208" href="$classQList.html" title="QList\&lt; TagNamespaceInfo \&gt;" alt="" coords="292,5820,483,5847"/>
+<area shape="rect" id="node209" href="$classQList.html" title="QList\&lt; TagPackageInfo \&gt;" alt="" coords="301,5871,473,5897"/>
+<area shape="rect" id="node210" href="$classQList.html" title="QList\&lt; TagPageInfo \&gt;" alt="" coords="312,5921,463,5948"/>
+<area shape="rect" id="node211" href="$classQList.html" title="QList\&lt; tcl_scan \&gt;" alt="" coords="324,5972,451,5999"/>
+<area shape="rect" id="node212" href="$classQList.html" title="QList\&lt; TemplateEngine\l::Private::IncludeEntry \&gt;" alt="" coords="305,6023,469,6065"/>
+<area shape="rect" id="node213" href="$classQList.html" title="QList\&lt; TemplateNode \&gt;" alt="" coords="306,6089,469,6116"/>
+<area shape="rect" id="node215" href="$classQList.html" title="QList\&lt; TemplateNodeIf\l::GuardedNodes \&gt;" alt="" coords="308,6141,467,6182"/>
+<area shape="rect" id="node216" href="$classQList.html" title="QList\&lt; TemplateNodeIndex\lEntry::Mapping \&gt;" alt="" coords="296,6206,479,6247"/>
+<area shape="rect" id="node217" href="$classQList.html" title="QList\&lt; TemplateNodeWith\l::Mapping \&gt;" alt="" coords="299,6271,476,6313"/>
+<area shape="rect" id="node218" href="$classQList.html" title="QList\&lt; TemplateToken \&gt;" alt="" coords="304,6337,471,6364"/>
+<area shape="rect" id="node219" href="$classQList.html" title="QList\&lt; TemplateVariant \&gt;" alt="" coords="301,6388,473,6415"/>
+<area shape="rect" id="node220" href="$classQList.html" title="QList\&lt; uint \&gt;" alt="" coords="338,6439,437,6465"/>
+<area shape="rect" id="node222" href="$classQList.html" title="QList\&lt; UseEntry \&gt;" alt="" coords="321,6489,453,6516"/>
+<area shape="rect" id="node224" href="$classQList.html" title="QList\&lt; VariableContext\l::Scope \&gt;" alt="" coords="308,6541,467,6582"/>
+<area shape="rect" id="node225" href="$classQList.html" title="QList\&lt; VariableListEntry\lHandler \&gt;" alt="" coords="305,6606,469,6647"/>
+<area shape="rect" id="node226" href="$classQList.html" title="QList\&lt; void \&gt;" alt="" coords="337,6672,438,6699"/>
+<area shape="rect" id="node228" href="$classQQueue.html" title="QQueue\&lt; type \&gt;" alt="" coords="328,6723,447,6749"/>
+<area shape="rect" id="node229" href="$classQQueue.html" title="QQueue\&lt; DotRunner \&gt;" alt="" coords="309,6773,466,6800"/>
+<area shape="rect" id="node230" href="$classQStack.html" title="QStack\&lt; type \&gt;" alt="" coords="330,6824,445,6851"/>
+<area shape="rect" id="node231" href="$classQStack.html" title="QStack\&lt; bool \&gt;" alt="" coords="330,6875,445,6901"/>
+<area shape="rect" id="node232" href="$classQStack.html" title="QStack\&lt; DocNode \&gt;" alt="" coords="315,6925,460,6952"/>
+<area shape="rect" id="node233" href="$classQStack.html" title="QStack\&lt; DocStyleChange \&gt;" alt="" coords="293,6976,482,7003"/>
+<area shape="rect" id="node234" href="$classQStack.html" title="QStack\&lt; LatexDocVisitor\l::TableState \&gt;" alt="" coords="302,7027,473,7069"/>
+<area shape="rect" id="node235" href="$classQStack.html" title="QStack\&lt; PerlModOutputStream \&gt;" alt="" coords="278,7093,497,7120"/>
+<area shape="rect" id="node236" href="$classQStack.html" title="QStack\&lt; State \&gt;" alt="" coords="327,7144,448,7171"/>
+<area shape="rect" id="node38" href="$classQStrList.html" title="QStrList" alt="" coords="612,360,683,387"/>
+<area shape="rect" id="node39" href="$classQStrIList.html" title="QStrIList" alt="" coords="828,360,903,387"/>
+<area shape="rect" id="node41" href="$classQCList.html" title="QCList" alt="" coords="616,411,679,437"/>
+<area shape="rect" id="node43" href="$classQGDItList.html" title="QGDItList" alt="" coords="607,461,688,488"/>
+<area shape="rect" id="node45" href="$classEventQueue.html" title="EventQueue" alt="" coords="600,520,695,547"/>
+<area shape="rect" id="node47" href="$classQSortedList.html" title="QSortedList\&lt; type \&gt;" alt="" coords="577,579,717,605"/>
+<area shape="rect" id="node50" href="$classAlphaIndexTableRows.html" title="Class representing a row in the alphabetical class index. " alt="" coords="571,680,724,707"/>
+<area shape="rect" id="node52" href="$classAlphaIndexTableColumns.html" title="Class representing the columns in the alphabetical class index. " alt="" coords="562,731,733,757"/>
+<area shape="rect" id="node54" href="$classArgumentList.html" title="This class represents an function or template argument list. " alt="" coords="598,781,697,808"/>
+<area shape="rect" id="node57" href="$classBaseClassList.html" title="List of base classes. " alt="" coords="594,883,701,909"/>
+<area shape="rect" id="node62" href="$classClassList.html" title="A list of ClassDef objects. " alt="" coords="609,1076,686,1103"/>
+<area shape="rect" id="node64" href="$classSList.html" title="SList\&lt; ClassDef \&gt;" alt="" coords="582,1127,713,1153"/>
+<area shape="rect" id="node63" href="$classPrefixIgnoreClassList.html" title="Special class list where sorting takes IGNORE_PREFIX into account. " alt="" coords="792,1076,939,1103"/>
+<area shape="rect" id="node69" href="$classDefineList.html" title="A list of Define objects. " alt="" coords="607,1203,688,1229"/>
+<area shape="rect" id="node70" href="$classDefineName.html" title="A list of Define objects associated with a specific name. " alt="" coords="600,1253,695,1280"/>
+<area shape="rect" id="node72" href="$classDefineNameList.html" title="A list of DefineName objects. " alt="" coords="589,1304,705,1331"/>
+<area shape="rect" id="node74" href="$classSearchDefinitionList.html" title="SearchDefinitionList" alt="" coords="578,259,717,285"/>
+<area shape="rect" id="node75" href="$classSList.html" title="SList\&lt; Definition \&gt;" alt="" coords="582,309,713,336"/>
+<area shape="rect" id="node77" href="$classDiagramItemList.html" title="Class representing a list of DiagramItem object. " alt="" coords="588,1355,707,1381"/>
+<area shape="rect" id="node78" href="$classDiagramRow.html" title="Class representing a row in the built&#45;in class diagram. " alt="" coords="598,1405,697,1432"/>
+<area shape="rect" id="node80" href="$classTreeDiagram.html" title="Class represeting the tree layout for the built&#45;in class diagram. " alt="" coords="599,1456,696,1483"/>
+<area shape="rect" id="node82" href="$classDirList.html" title="A list of directories. " alt="" coords="617,1507,677,1533"/>
+<area shape="rect" id="node83" href="$classSList.html" title="SList\&lt; DirDef \&gt;" alt="" coords="590,1557,705,1584"/>
+<area shape="rect" id="node86" href="$classSList.html" title="SList\&lt; DirRelation \&gt;" alt="" coords="577,1608,718,1635"/>
+<area shape="rect" id="node91" href="$classSList.html" title="SList\&lt; DocSets::NodeDef \&gt;" alt="" coords="554,1811,741,1837"/>
+<area shape="rect" id="node94" href="$classSList.html" title="SList\&lt; DotFilePatcher \&gt;" alt="" coords="566,1912,729,1939"/>
+<area shape="rect" id="node99" href="$classDotNodeList.html" title="Class representing a list of DotNode objects. " alt="" coords="600,2160,695,2187"/>
+<area shape="rect" id="node109" href="$classSList.html" title="SList\&lt; Example \&gt;" alt="" coords="584,2632,711,2659"/>
+<area shape="rect" id="node112" href="$classFileList.html" title="Class representing a list of FileDef objects. " alt="" coords="615,2733,679,2760"/>
+<area shape="rect" id="node113" href="$classFileName.html" title="Class representing all files with a certain base name. " alt="" coords="826,2733,905,2760"/>
+<area shape="rect" id="node115" href="$classOutputNameList.html" title="OutputNameList" alt="" coords="589,2784,706,2811"/>
+<area shape="rect" id="node117" href="$classFileNameList.html" title="Class representing a list of FileName objects. " alt="" coords="598,2835,697,2861"/>
+<area shape="rect" id="node119" href="$classSList.html" title="SList\&lt; FilePair \&gt;" alt="" coords="587,2885,707,2912"/>
+<area shape="rect" id="node122" href="$classFormulaList.html" title="A list of Formula objects. " alt="" coords="602,2987,693,3013"/>
+<area shape="rect" id="node125" href="$classSList.html" title="SList\&lt; GenericsCollection \&gt;" alt="" coords="554,3088,741,3115"/>
+<area shape="rect" id="node127" href="$classGroupList.html" title="A list of GroupDef objects. " alt="" coords="608,3139,687,3165"/>
+<area shape="rect" id="node128" href="$classSList.html" title="SList\&lt; GroupDef \&gt;" alt="" coords="581,3189,713,3216"/>
+<area shape="rect" id="node131" href="$classHtmlAttribList.html" title="A list of Html attributes. " alt="" coords="596,3240,699,3267"/>
+<area shape="rect" id="node135" href="$classSList.html" title="SList\&lt; IndexField \&gt;" alt="" coords="579,3392,715,3419"/>
+<area shape="rect" id="node142" href="$classFilterAlphaIndex_1_1SortList.html" title="FilterAlphaIndex::SortList" alt="" coords="563,3493,732,3520"/>
+<area shape="rect" id="node143" href="$classFilterGroupBy_1_1SortList.html" title="FilterGroupBy::SortList" alt="" coords="570,3544,725,3571"/>
+<area shape="rect" id="node144" href="$classFilterListSort_1_1SortList.html" title="FilterListSort::SortList" alt="" coords="573,3595,722,3621"/>
+<area shape="rect" id="node147" href="$classMemberIndexList.html" title="MemberIndexList" alt="" coords="586,3645,709,3672"/>
+<area shape="rect" id="node148" href="$classMemberList.html" title="A list of MemberDef objects. " alt="" coords="602,3696,693,3723"/>
+<area shape="rect" id="node149" href="$classMemberName.html" title="Class representing all MemberDef objects with the same name. " alt="" coords="595,3747,699,3773"/>
+<area shape="rect" id="node150" href="$classSList.html" title="SList\&lt; MemberDef \&gt;" alt="" coords="575,3797,719,3824"/>
+<area shape="rect" id="node152" href="$classMemberGroupList.html" title="A list of MemberGroup objects. " alt="" coords="585,3848,710,3875"/>
+<area shape="rect" id="node153" href="$classSIntList.html" title="SIntList\&lt; MemberGroup \&gt;" alt="" coords="561,3899,734,3925"/>
+<area shape="rect" id="node156" href="$classMemberNameInfo.html" title="Class representing all MemberInfo objects with the same name. " alt="" coords="584,3949,711,3976"/>
+<area shape="rect" id="node158" href="$classSList.html" title="SList\&lt; MemberList \&gt;" alt="" coords="575,4000,719,4027"/>
+<area shape="rect" id="node160" href="$classSList.html" title="SList\&lt; MemberName \&gt;" alt="" coords="568,4051,727,4077"/>
+<area shape="rect" id="node162" href="$classSList.html" title="SList\&lt; MemberNameInfo \&gt;" alt="" coords="557,4101,737,4128"/>
+<area shape="rect" id="node165" href="$classNamespaceList.html" title="A list of NamespaceDef objects. " alt="" coords="591,4152,704,4179"/>
+<area shape="rect" id="node166" href="$classSList.html" title="SList\&lt; NamespaceDef \&gt;" alt="" coords="564,4203,731,4229"/>
+<area shape="rect" id="node168" href="$classNavIndexEntryList.html" title="NavIndexEntryList" alt="" coords="582,4253,713,4280"/>
+<area shape="rect" id="node172" href="$classSList.html" title="SList\&lt; PageDef \&gt;" alt="" coords="584,4405,711,4432"/>
+<area shape="rect" id="node179" href="$classSList.html" title="SList\&lt; QCString \&gt;" alt="" coords="582,4740,713,4767"/>
+<area shape="rect" id="node183" href="$classSList.html" title="SList\&lt; RefItem \&gt;" alt="" coords="586,4892,709,4919"/>
+<area shape="rect" id="node187" href="$classSList.html" title="SList\&lt; SearchDefinitionList \&gt;" alt="" coords="551,5044,744,5071"/>
+<area shape="rect" id="node189" href="$classSList.html" title="SList\&lt; SearchDocEntry \&gt;" alt="" coords="561,5095,733,5121"/>
+<area shape="rect" id="node191" href="$classSIntList.html" title="SIntList\&lt; SearchIndexList \&gt;" alt="" coords="555,5145,740,5172"/>
+<area shape="rect" id="node194" href="$classSList.html" title="SList\&lt; SectionInfo \&gt;" alt="" coords="576,5247,719,5273"/>
+<area shape="rect" id="node197" href="$classSIntList.html" title="internal wrapper class that redirects compareValues() to the dictionary " alt="" coords="598,5313,697,5340"/>
+<area shape="rect" id="node198" href="$classSList.html" title="internal wrapper class that redirects compareValues() to the dictionary " alt="" coords="605,5364,689,5391"/>
+<area shape="rect" id="node200" href="$classTagAnchorInfoList.html" title="List of TagAnchorInfo objects. " alt="" coords="583,5415,711,5441"/>
+<area shape="rect" id="node214" href="$classTemplateNodeList.html" title="Class representing a list of AST nodes in a template. " alt="" coords="583,6089,711,6116"/>
+<area shape="rect" id="node221" href="$classSIntList.html" title="SIntList\&lt; uint \&gt;" alt="" coords="591,6439,703,6465"/>
+<area shape="rect" id="node223" href="$classSList.html" title="SList\&lt; UseEntry \&gt;" alt="" coords="582,6489,713,6516"/>
+<area shape="rect" id="node227" href="$classSList.html" title="SList\&lt; void \&gt;" alt="" coords="597,6672,697,6699"/>
+<area shape="rect" id="node238" href="$classQVector.html" title="QVector\&lt; type \&gt;" alt="" coords="328,8157,447,8184"/>
+<area shape="rect" id="node241" href="$classQVector.html" title="QVector\&lt; QList\&lt; IndexWord \&gt; \&gt;" alt="" coords="281,8208,493,8235"/>
+<area shape="rect" id="node239" href="$classQStrVec.html" title="QStrVec" alt="" coords="611,8157,683,8184"/>
+<area shape="rect" id="node240" href="$classQStrIVec.html" title="QStrIVec" alt="" coords="827,8157,903,8184"/>
+</map>

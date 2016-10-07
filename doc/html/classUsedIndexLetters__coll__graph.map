@@ -1,0 +1,13 @@
+<map id="UsedIndexLetters" name="UsedIndexLetters">
+<area shape="rect" id="node2" href="$classSIntDict.html" title="{SIntDict\&lt; uint \&gt;\n|&#45; m_sizeIndex\l|+ SIntDict()\l+ ~SIntDict()\l+ append()\l+ prepend()\l+ remove()\l+ sort()\l+ inSort()\l+ setAutoDelete()\l+ find()\l+ operator[]()\l+ at()\l+ compareValues()\l+ clear()\l+ count()\l}" alt="" coords="131,2348,263,2616"/>
+<area shape="rect" id="node3" href="$classSIntList.html" title="{SIntList\&lt; uint \&gt;\n||+ SIntList()\l+ ~SIntList()\l&#45; compareValues()\l}" alt="" coords="273,2679,401,2785"/>
+<area shape="rect" id="node4" href="$classQList.html" title="{QList\&lt; uint \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="335,960,463,1272"/>
+<area shape="rect" id="node5" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="181,292,336,633"/>
+<area shape="rect" id="node12" href="$classQInternalList.html" title="{QInternalList\&lt; QGDictIterator \&gt;\n||+ QInternalList()\l+ QInternalList()\l+ ~QInternalList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 30 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="156,683,361,936"/>
+<area shape="rect" id="node6" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="5,5,131,200"/>
+<area shape="rect" id="node9" href="$classQGDict.html" title="The QGDict class is an internal class for implementing QDict template classes. " alt="" coords="46,1495,175,1983"/>
+<area shape="rect" id="node7" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="215,57,303,149"/>
+<area shape="rect" id="node8" href="$classQIntDict.html" title="{QIntDict\&lt; uint \&gt;\n||+ QIntDict()\l+ QIntDict()\l+ ~QIntDict()\l+ operator=()\l+ count()\l+ size()\l+ isEmpty()\l+ insert()\l+ replace()\l+ remove()\land 6 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="122,2032,238,2285"/>
+<area shape="rect" id="node10" href="$classQBaseBucket.html" title="{QBaseBucket\n|# data\l|+ getData()\l+ setData()\l+ getNext()\l+ setNext()\l# QBaseBucket()\l}" alt="" coords="44,1296,167,1432"/>
+<area shape="rect" id="node11" href="$classQGDItList.html" title="{QGDItList\n||+ QGDItList()\l+ QGDItList()\l+ ~QGDItList()\l+ operator=()\l}" alt="" coords="252,1303,361,1425"/>
+</map>

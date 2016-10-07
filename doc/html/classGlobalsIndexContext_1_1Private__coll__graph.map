@@ -1,0 +1,22 @@
+<map id="GlobalsIndexContext::Private" name="GlobalsIndexContext::Private">
+<area shape="rect" id="node2" href="$classPropertyMapper.html" title="{PropertyMapper\&lt; GlobalsIndex\lContext::GlobalsIndexContext\l::Private \&gt;\n|&#45; m_map\l|+ PropertyMapper()\l+ addProperty()\l+ get()\l}" alt="" coords="5,3176,208,3312"/>
+<area shape="rect" id="node3" href="$structGlobalsIndexContext_1_1Private_1_1Cachable.html" title="{GlobalsIndexContext\l::Private::Cachable\n||+ Cachable()\l}" alt="" coords="232,3198,376,3290"/>
+<area shape="rect" id="node4" href="$classSharedPtr.html" title="{SharedPtr\&lt; TemplateList \&gt;\n||+ SharedPtr()\l+ ~SharedPtr()\l+ operator*()\l+ operator&#45;\&gt;()\l+ get()\l+ operator bool()\l+ reset()\l&#45; SharedPtr()\l&#45; operator=()\l&#45; operator==()\l&#45; operator!=()\l}" alt="" coords="215,2801,393,3025"/>
+<area shape="rect" id="node5" href="$classTemplateList.html" title="Default implementation of a context value of type list. " alt="" coords="243,2544,365,2739"/>
+<area shape="rect" id="node6" href="$classTemplateListIntf.html" title="Abstract read&#45;only interface for a context value of type list. " alt="" coords="219,978,363,1129"/>
+<area shape="rect" id="node12" href="$classTemplateVariant.html" title="Variant type which can hold one value of a fixed set of types. " alt="" coords="407,1228,545,1511"/>
+<area shape="rect" id="node7" href="$classTemplateList_1_1Private.html" title="Private data of a template list object. " alt="" coords="308,2389,455,2481"/>
+<area shape="rect" id="node8" href="$classQValueList.html" title="{QValueList\&lt; TemplateVariant \&gt;\n||+ QValueList()\l+ QValueList()\l+ ~QValueList()\l+ operator=()\l+ operator+()\l+ operator+=()\l+ operator+=()\l+ operator==()\l+ operator!=()\l+ begin()\land 28 more...\l# detach()\l}" alt="" coords="301,2088,507,2327"/>
+<area shape="rect" id="node9" href="$classQValueListPrivate.html" title="{QValueListPrivate\&lt;\l TemplateVariant \&gt;\n|+ nodes\l|+ QValueListPrivate()\l+ QValueListPrivate()\l+ derefAndDelete()\l+ ~QValueListPrivate()\l+ insert()\l+ remove()\l+ remove()\l+ find()\l+ findIndex()\l+ contains()\l+ at()\l+ clear()\l}" alt="" coords="327,1772,481,2025"/>
+<area shape="rect" id="node10" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="772,1588,865,1695"/>
+<area shape="rect" id="node11" href="$classQValueListNode.html" title="{QValueListNode\&lt; Template\lVariant \&gt;\n||+ QValueListNode()\l+ QValueListNode()\l}" alt="" coords="302,1588,485,1695"/>
+<area shape="rect" id="node21" href="$classTemplateVariant_1_1Delegate.html" title="Helper class to create a delegate that can store a function/method call. " alt="" coords="570,1573,747,1709"/>
+<area shape="rect" id="node13" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="400,941,507,1165"/>
+<area shape="rect" id="node14" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="382,655,525,879"/>
+<area shape="rect" id="node15" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="361,500,546,592"/>
+<area shape="rect" id="node16" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="341,331,515,437"/>
+<area shape="rect" id="node17" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="539,345,709,423"/>
+<area shape="rect" id="node18" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="560,147,688,268"/>
+<area shape="rect" id="node19" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="553,5,695,97"/>
+<area shape="rect" id="node20" href="$classTemplateStructIntf.html" title="Abstract interface for a context value of type struct. " alt="" coords="531,993,690,1114"/>
+</map>

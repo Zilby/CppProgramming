@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQIODevice.html" title="The QIODevice class is the base class of I/O devices. " alt="" coords="5,81,92,108"/>
+<area shape="rect" id="node2" href="$classQBuffer.html" title="The QBuffer class is an I/O device that operates on a QByteArray. " alt="" coords="162,5,229,32"/>
+<area shape="rect" id="node3" href="$classQFile.html" title="The QFile class is an I/O device that operates on files. " alt="" coords="169,56,222,83"/>
+<area shape="rect" id="node4" href="$classQGStringBuffer.html" title="QGStringBuffer" alt="" coords="140,107,251,133"/>
+<area shape="rect" id="node5" href="$classQStringBuffer.html" title="QStringBuffer" alt="" coords="145,157,246,184"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="RefList" name="RefList">
+<area shape="rect" id="node2" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="249,2361,356,2585"/>
+<area shape="rect" id="node3" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="226,1821,369,2045"/>
+<area shape="rect" id="node4" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="195,1454,381,1546"/>
+<area shape="rect" id="node5" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="5,1072,179,1179"/>
+<area shape="rect" id="node6" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="203,1087,373,1164"/>
+<area shape="rect" id="node7" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="224,778,352,899"/>
+<area shape="rect" id="node8" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="217,417,359,509"/>
+<area shape="rect" id="node9" href="$classQIntDict.html" title="{QIntDict\&lt; RefItem \&gt;\n||+ QIntDict()\l+ QIntDict()\l+ ~QIntDict()\l+ operator=()\l+ count()\l+ size()\l+ isEmpty()\l+ insert()\l+ replace()\l+ remove()\land 6 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="542,2084,685,2337"/>
+<area shape="rect" id="node10" href="$classQGDict.html" title="The QGDict class is an internal class for implementing QDict template classes. " alt="" coords="549,1256,678,1744"/>
+<area shape="rect" id="node22" href="$classQGDictIterator.html" title="An internal class for implementing QDictIterator and QIntDictIterator. " alt="" coords="406,1807,541,2060"/>
+<area shape="rect" id="node11" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="561,5,687,200"/>
+<area shape="rect" id="node15" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="681,292,836,633"/>
+<area shape="rect" id="node12" href="$classQBaseBucket.html" title="{QBaseBucket\n|# data\l|+ getData()\l+ setData()\l+ getNext()\l+ setNext()\l# QBaseBucket()\l}" alt="" coords="397,1057,520,1193"/>
+<area shape="rect" id="node13" href="$classQGDItList.html" title="{QGDItList\n||+ QGDItList()\l+ QGDItList()\l+ ~QGDItList()\l+ operator=()\l}" alt="" coords="659,1065,768,1186"/>
+<area shape="rect" id="node14" href="$classQInternalList.html" title="{QInternalList\&lt; QGDictIterator \&gt;\n||+ QInternalList()\l+ QInternalList()\l+ ~QInternalList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 30 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="656,712,861,965"/>
+<area shape="rect" id="node20" href="$classQList.html" title="{QList\&lt; RefItem \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="885,683,1013,995"/>
+<area shape="rect" id="node16" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="715,57,803,149"/>
+<area shape="rect" id="node17" href="$classSortedRefItems.html" title="List of items sorted by title. " alt="" coords="693,2157,835,2264"/>
+<area shape="rect" id="node18" href="$classSDict.html" title="{SDict\&lt; RefItem \&gt;\n|&#45; m_dict\l&#45; m_sizeIndex\l|+ SDict()\l+ ~SDict()\l+ append()\l+ prepend()\l+ remove()\l+ take()\l+ sort()\l+ inSort()\l+ insertAt()\l+ setAutoDelete()\land 9 more...\l}" alt="" coords="705,1381,831,1619"/>
+<area shape="rect" id="node19" href="$classSList.html" title="{SList\&lt; RefItem \&gt;\n||+ SList()\l+ ~SList()\l+ compareValues()\l}" alt="" coords="794,1072,926,1179"/>
+<area shape="rect" id="node21" href="$classQIntDictIterator.html" title="{QIntDictIterator\&lt; RefItem \&gt;\n||+ QIntDictIterator()\l+ ~QIntDictIterator()\l+ count()\l+ isEmpty()\l+ toFirst()\l+ operator RefItem *()\l+ current()\l+ currentKey()\l+ operator()()\l+ operator++()\l+ operator+=()\l}" alt="" coords="382,2361,565,2585"/>
+</map>

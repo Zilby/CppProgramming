@@ -1,0 +1,15 @@
+<map id="QDir" name="QDir">
+<area shape="rect" id="node2" href="$classQInternalList.html" title="{QInternalList\&lt; type \&gt;\n||+ QInternalList()\l+ QInternalList()\l+ ~QInternalList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 30 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="187,2057,333,2310"/>
+<area shape="rect" id="node3" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="101,1659,256,2000"/>
+<area shape="rect" id="node4" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="5,1343,131,1537"/>
+<area shape="rect" id="node5" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="155,1394,243,1486"/>
+<area shape="rect" id="node6" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="434,564,569,1096"/>
+<area shape="rect" id="node14" href="$classQValueListNode.html" title="{QValueListNode\&lt; QString \&gt;\n||+ QValueListNode()\l+ QValueListNode()\l}" alt="" coords="337,1159,522,1251"/>
+<area shape="rect" id="node7" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="503,365,601,443"/>
+<area shape="rect" id="node8" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="356,321,479,487"/>
+<area shape="rect" id="node9" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="252,79,345,185"/>
+<area shape="rect" id="node13" href="$classQValueListPrivate.html" title="{QValueListPrivate\&lt;\l QString \&gt;\n|+ nodes\l|+ QValueListPrivate()\l+ QValueListPrivate()\l+ derefAndDelete()\l+ ~QValueListPrivate()\l+ insert()\l+ remove()\l+ remove()\l+ find()\l+ findIndex()\l+ contains()\l+ at()\l+ clear()\l}" alt="" coords="352,1313,507,1567"/>
+<area shape="rect" id="node10" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="370,5,505,259"/>
+<area shape="rect" id="node11" href="$classQStringList.html" title="A list of strings. " alt="" coords="384,2049,491,2317"/>
+<area shape="rect" id="node12" href="$classQValueList.html" title="{QValueList\&lt; QString \&gt;\n||+ QValueList()\l+ QValueList()\l+ ~QValueList()\l+ operator=()\l+ operator+()\l+ operator+=()\l+ operator+=()\l+ operator==()\l+ operator!=()\l+ begin()\land 28 more...\l# detach()\l}" alt="" coords="360,1710,515,1949"/>
+</map>

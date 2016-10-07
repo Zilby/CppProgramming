@@ -1,0 +1,51 @@
+<map id="QString::isNull" name="QString::isNull">
+<area shape="rect" id="node2" href="$classQDir.html#ad38037708dc754f5bdd877c145dbbb19" title="QDir::cleanDirPath" alt="" coords="179,197,311,224"/>
+<area shape="rect" id="node18" href="$classQDir.html#ac112ea98a56191b8b0d84cd967472b39" title="QDir::homeDirPath" alt="" coords="179,1411,312,1437"/>
+<area shape="rect" id="node20" href="$classQFile.html#af10aeafc303904f98b74be9752d2aa43" title="QFile::open" alt="" coords="201,923,290,949"/>
+<area shape="rect" id="node42" href="$classQGDict.html#ad27652d613a6df366a5135ea8c4a8231" title="QGDict::hashKeyString" alt="" coords="166,1461,325,1488"/>
+<area shape="rect" id="node45" href="$classQString.html#a01ef0a41636e87e459fc42f2bb2c0a70" title="QString::operator+=" alt="" coords="177,1512,314,1539"/>
+<area shape="rect" id="node47" href="$classQString.html#acdeb7d77a324fe69b0e5889ff8575400" title="QString::operator==" alt="" coords="177,1563,314,1589"/>
+<area shape="rect" id="node49" href="$classQString.html#a3c2e731ef300d9d649d976148f60f47c" title="QString::operator!" alt="" coords="183,1613,308,1640"/>
+<area shape="rect" id="node50" href="$classQXmlNamespaceSupport.html#a21b28d3ac78e3226fe29d8b31d4fbf34" title="QXmlNamespaceSupport\l::setPrefix" alt="" coords="160,1665,331,1706"/>
+<area shape="rect" id="node3" href="$classQDir.html#ad4f09eb0858b034f2b2edff184e1f50d" title="QDir::QDir" alt="" coords="446,197,530,224"/>
+<area shape="rect" id="node4" href="$classQDir.html#ac947989c99aecbfebd509088b8834715" title="QDir::setPath" alt="" coords="437,248,539,275"/>
+<area shape="rect" id="node6" href="$classQDir.html#a1464e556606a3223b8db1b3629c41cb7" title="QDir::absPath" alt="" coords="435,324,541,351"/>
+<area shape="rect" id="node11" href="$classQDir.html#a5a58d7a5387627fa479f2ac376895e6a" title="QDir::cd" alt="" coords="453,25,523,52"/>
+<area shape="rect" id="node13" href="$classQDir.html#a157b465ee1cb0ab76947e6f9d07f8715" title="QDir::operator=" alt="" coords="432,96,544,123"/>
+<area shape="rect" id="node14" href="$classQFileInfo.html#a762ffb9217db04495831537e38db1bde" title="QFileInfo::absFilePath" alt="" coords="412,147,564,173"/>
+<area shape="rect" id="node5" href="$structHtags.html#a459ba4c5a4e6d3308cee25b93448f0cf" title="Htags::execute" alt="" coords="686,248,797,275"/>
+<area shape="rect" id="node7" href="$classQDir.html#aca84b0a728bc2b88c3ab55cbed6e18c4" title="QDir::absFilePath" alt="" coords="678,349,805,376"/>
+<area shape="rect" id="node8" href="$classQDir.html#a0c05c8978b3b4158233f809e4d30c55d" title="QDir::convertToAbs" alt="" coords="672,400,811,427"/>
+<area shape="rect" id="node9" href="$structHtags.html#a0ce955dfddd8473bce6373e92532f12e" title="Htags::path2URL" alt="" coords="679,299,803,325"/>
+<area shape="rect" id="node10" href="$classRTFGenerator.html#a62498deb4b617b2cfb75381f6508a4ed" title="This is an API to a VERY brittle RTF preprocessor that combines nested RTF files. ..." alt="" coords="652,451,831,493"/>
+<area shape="rect" id="node12" href="$classQDir.html#a22a212babdfa332de6ee9d07f96dc2ba" title="QDir::cdUp" alt="" coords="697,5,785,32"/>
+<area shape="rect" id="node15" href="$classDefineManager_1_1DefinesPerFile.html#a3d7ff23dec9810c8483d3256af666e04" title="Collects all defines for a file and all files that the file includes. " alt="" coords="650,81,833,122"/>
+<area shape="rect" id="node16" href="$classQFileInfo.html#a3a4b0328b3fd423e0cfb0747445760b8" title="QFileInfo::convertToAbs" alt="" coords="659,147,823,173"/>
+<area shape="rect" id="node17" href="$classQFileInfo.html#ab31c5b7d4c01901e056fa456fd9863d1" title="QFileInfo::dirPath" alt="" coords="679,197,803,224"/>
+<area shape="rect" id="node19" href="$classQDir.html#ab3881e8a981cc34ede0e6e57a1135c20" title="QDir::home" alt="" coords="443,1411,533,1437"/>
+<area shape="rect" id="node21" href="$classQTextCodec.html#a655a88489c4308af769f992617a5ec53" title="QTextCodec::loadCharmapFile" alt="" coords="387,1141,589,1168"/>
+<area shape="rect" id="node22" href="$classQTextStream.html#a53439eda88c78b200b675b7909343b10" title="QTextStream::QTextStream" alt="" coords="395,1192,581,1219"/>
+<area shape="rect" id="node23" href="$classQXmlInputSource.html#af31832f657ee461a8fbe9b9f9227c218" title="QXmlInputSource::QXmlInput\lSource" alt="" coords="391,1243,585,1285"/>
+<area shape="rect" id="node24" href="$classCiteDict.html#a3c940a5ed5a06d90d9dc5471e900bb77" title="Generate the citations page. " alt="" coords="903,720,1061,747"/>
+<area shape="rect" id="node25" href="$classDotRunner.html#ac1afaee16ddd8bf0bc6b18aaed6b44fd" title="Runs dot for all jobs added. " alt="" coords="433,568,543,595"/>
+<area shape="rect" id="node26" href="$classEclipseHelp.html#a6a8532316d47986f371459e6b09b9d71" title="Finish generation of the Eclipse specific help files. " alt="" coords="417,619,559,645"/>
+<area shape="rect" id="node27" href="$classFileStorage.html#a9f680051229bda7bca2639e5464bca77" title="FileStorage::write" alt="" coords="426,669,550,696"/>
+<area shape="rect" id="node28" href="$classQGStringBuffer.html#ae2265be83385ba58ff0e47880563bbb5" title="QGStringBuffer::putch" alt="" coords="413,872,563,899"/>
+<area shape="rect" id="node30" href="$structHtags.html#a91a5a1322fbff8f8ad136a3372964512" title="Htags::loadFilemap" alt="" coords="421,771,555,797"/>
+<area shape="rect" id="node31" href="$classHtmlGenerator.html#a7306ef9abbceafd6074b4d883a59f033" title="Additional initialization after indices have been created. " alt="" coords="885,1091,1079,1117"/>
+<area shape="rect" id="node32" href="$classLatexCodeGenerator.html#a2b3c977134c51f9775042a0c7f469077" title="LatexCodeGenerator\l::endFontClass" alt="" coords="417,974,559,1015"/>
+<area shape="rect" id="node34" href="$classManGenerator.html#a4e825c27561ebb51c155840d9101725a" title="ManGenerator::endCodeFragment" alt="" coords="379,1040,597,1067"/>
+<area shape="rect" id="node36" href="$classResourceMgr.html#a5596fb3e70044fa98520b4d95d5336e1" title="Writes all resource belonging to a given category to a given target directory. " alt="" coords="393,923,583,949"/>
+<area shape="rect" id="node37" href="$classResourceMgr.html#ac6de7e012b820c139b1dc537987cab2c" title="Copies a registered resource to a given target directory under a given target name. " alt="" coords="384,821,592,848"/>
+<area shape="rect" id="node39" href="$util_8h.html#a320768069dfe8bb92a0ad137769a3275" title="fileToString" alt="" coords="697,1200,785,1227"/>
+<area shape="rect" id="node40" href="$util_8h.html#a9b7f56d06d80e66e33804e0ae179203e" title="read a file name fileName and optionally filter and transcode it " alt="" coords="439,1091,537,1117"/>
+<area shape="rect" id="node41" href="$util_8h.html#ad35d4038b3882fdd09976d28f4a043bf" title="Copies the contents of file with name src to the newly created file with name dest. " alt="" coords="706,720,777,747"/>
+<area shape="rect" id="node29" href="$classQGStringBuffer.html#a20699e4c4ba6d7d68c4422d795412751" title="QGStringBuffer::getch" alt="" coords="666,872,817,899"/>
+<area shape="rect" id="node33" href="$classLatexCodeGenerator.html#a1cda601192d87fe472daccdfbabadfce" title="LatexCodeGenerator\l::writeTooltip" alt="" coords="670,974,813,1015"/>
+<area shape="rect" id="node35" href="$classManGenerator.html#ab7a5373b1e631879e56bf5699e00cfe2" title="ManGenerator::writeRuler" alt="" coords="656,1040,827,1067"/>
+<area shape="rect" id="node38" href="$classResourceMgr.html#add302925074918ff666629dcdd755f97" title="Copies a registered resource to a given target directory. " alt="" coords="645,821,837,848"/>
+<area shape="rect" id="node43" href="$classQGDict.html#a1de8c35b775f7918acdf148b5df41fe4" title="QGDict::look_string" alt="" coords="419,1512,557,1539"/>
+<area shape="rect" id="node44" href="$classQGDict.html#a0ae4a480c3b0336cd9c6a9a41060b629" title="QGDict::unlink_common" alt="" coords="405,1461,571,1488"/>
+<area shape="rect" id="node46" href="$classQString.html#a212b80401444eb3f67321fb55ddf64d5" title="QString::append" alt="" coords="430,1563,546,1589"/>
+<area shape="rect" id="node48" href="$classQString.html#a1feec4e6b662ef6dee407ec85ffee9d9" title="QString::findRev" alt="" coords="429,1613,547,1640"/>
+</map>

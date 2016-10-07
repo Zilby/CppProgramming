@@ -1,0 +1,12 @@
+<map id="ParserInterface" name="ParserInterface">
+<area shape="rect" id="node2" href="$classCLanguageScanner.html" title="C&#45;like language parser using state&#45;based lexical scanning. " alt="" coords="5,241,176,421"/>
+<area shape="rect" id="node3" href="$classFileParser.html" title="General file parser. " alt="" coords="200,241,371,421"/>
+<area shape="rect" id="node4" href="$classFortranLanguageScanner.html" title="Fortran language parser using state&#45;based lexical scanning. " alt="" coords="395,233,589,428"/>
+<area shape="rect" id="node7" href="$classMarkdownFileParser.html" title="{MarkdownFileParser\n||+ ~MarkdownFileParser()\l+ startTranslationUnit()\l+ finishTranslationUnit()\l+ parseInput()\l+ needsPreprocessing()\l+ parseCode()\l+ resetCodeParserState()\l+ parsePrototype()\l}" alt="" coords="613,241,784,421"/>
+<area shape="rect" id="node8" href="$classPythonLanguageScanner.html" title="Python Language parser using state&#45;based lexical scanning. " alt="" coords="808,241,1003,421"/>
+<area shape="rect" id="node9" href="$classTclLanguageScanner.html" title="Tcl language parser using state&#45;based lexical scanning. " alt="" coords="1027,241,1199,421"/>
+<area shape="rect" id="node10" href="$classVHDLLanguageScanner.html" title="VHDL parser using state&#45;based lexical scanning. " alt="" coords="1223,241,1414,421"/>
+<area shape="rect" id="node11" href="$classXMLScanner.html" title="XML scanner. " alt="" coords="1439,233,1609,428"/>
+<area shape="rect" id="node5" href="$classFortranLanguageScannerFixed.html" title="{FortranLanguageScannerFixed\n||+ FortranLanguageScannerFixed()\l}" alt="" coords="263,476,481,553"/>
+<area shape="rect" id="node6" href="$classFortranLanguageScannerFree.html" title="{FortranLanguageScannerFree\n||+ FortranLanguageScannerFree()\l}" alt="" coords="505,476,719,553"/>
+</map>

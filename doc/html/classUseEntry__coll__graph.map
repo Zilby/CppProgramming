@@ -1,0 +1,18 @@
+<map id="UseEntry" name="UseEntry">
+<area shape="rect" id="node2" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="256,1967,363,2191"/>
+<area shape="rect" id="node3" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="211,1651,354,1875"/>
+<area shape="rect" id="node4" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="177,1409,362,1501"/>
+<area shape="rect" id="node5" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="5,1159,179,1265"/>
+<area shape="rect" id="node6" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="203,1173,373,1251"/>
+<area shape="rect" id="node7" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="224,769,352,891"/>
+<area shape="rect" id="node8" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="217,358,359,450"/>
+<area shape="rect" id="node9" href="$classQStringList.html" title="A list of strings. " alt="" coords="389,1945,496,2213"/>
+<area shape="rect" id="node10" href="$classQValueList.html" title="{QValueList\&lt; QString \&gt;\n||+ QValueList()\l+ QValueList()\l+ ~QValueList()\l+ operator=()\l+ operator+()\l+ operator+=()\l+ operator+=()\l+ operator==()\l+ operator!=()\l+ begin()\land 28 more...\l# detach()\l}" alt="" coords="380,1644,535,1883"/>
+<area shape="rect" id="node11" href="$classQValueListPrivate.html" title="{QValueListPrivate\&lt;\l QString \&gt;\n|+ nodes\l|+ QValueListPrivate()\l+ QValueListPrivate()\l+ derefAndDelete()\l+ ~QValueListPrivate()\l+ insert()\l+ remove()\l+ remove()\l+ find()\l+ findIndex()\l+ contains()\l+ at()\l+ clear()\l}" alt="" coords="387,1328,541,1581"/>
+<area shape="rect" id="node12" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="400,79,493,185"/>
+<area shape="rect" id="node16" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="500,321,623,487"/>
+<area shape="rect" id="node13" href="$classQValueListNode.html" title="{QValueListNode\&lt; QString \&gt;\n||+ QValueListNode()\l+ QValueListNode()\l}" alt="" coords="485,1166,670,1258"/>
+<area shape="rect" id="node14" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="510,564,645,1096"/>
+<area shape="rect" id="node15" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="647,365,745,443"/>
+<area shape="rect" id="node17" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="518,5,653,259"/>
+</map>

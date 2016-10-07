@@ -1,0 +1,35 @@
+<map id="QDir::QDir" name="QDir::QDir">
+<area shape="rect" id="node2" href="$classQDir.html#ad38037708dc754f5bdd877c145dbbb19" title="QDir::cleanDirPath" alt="" coords="137,461,269,488"/>
+<area shape="rect" id="node4" href="$classQString.html#aa032d4b5892338beb575a85e59bbbf38" title="QString::isEmpty" alt="" coords="731,664,853,691"/>
+<area shape="rect" id="node10" href="$classQString.html#ab8e9aa9ff378aa3f3e531b26598712e3" title="QString::fromLatin1" alt="" coords="725,911,859,937"/>
+<area shape="rect" id="node34" href="$classQDir.html#a6d71d046861c1728359a6119a1250a74" title="QDir::nameFilter" alt="" coords="144,1019,263,1045"/>
+<area shape="rect" id="node3" href="$classQDir.html#a5210a2a0b20d77d2d9ab29e7631310e6" title="QDir::filePath" alt="" coords="545,512,647,539"/>
+<area shape="rect" id="node5" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="915,411,1025,437"/>
+<area shape="rect" id="node6" href="$classQString.html#a3733066010481ab1e8f037bd99045269" title="QString::insert" alt="" coords="543,157,649,184"/>
+<area shape="rect" id="node8" href="$classQString.html#a97b5c9712f3f145d52f91d816763ceea" title="QString::findRev" alt="" coords="537,664,655,691"/>
+<area shape="rect" id="node9" href="$classQString.html#a5e35837892a410c0396af0cb5cd4a517" title="QString::at" alt="" coords="351,56,437,83"/>
+<area shape="rect" id="node12" href="$classQString.html#a1ef65644b1885a7003d5c2a8e88df479" title="QString::mid" alt="" coords="549,715,643,741"/>
+<area shape="rect" id="node13" href="$classQString.html#afd08aabf1d9b04a3fef298290af04cbd" title="QString::remove" alt="" coords="537,411,655,437"/>
+<area shape="rect" id="node15" href="$classQString.html#a02545407c8e65afbf6bd22324f9ed517" title="QString::left" alt="" coords="550,867,642,893"/>
+<area shape="rect" id="node16" href="$classQFileInfo.html#a91a725dd517a4b77b15077e72a7a1501" title="QFileInfo::isDir" alt="" coords="339,259,449,285"/>
+<area shape="rect" id="node17" href="$classQFileInfo.html#a0dd39dbfc2db6a5af5222db19804e45a" title="QFileInfo::lastModified" alt="" coords="317,5,471,32"/>
+<area shape="rect" id="node20" href="$classQDateTime.html#a3b697a289865bc96bd339acaa75880b3" title="QDateTime::secsTo" alt="" coords="324,208,464,235"/>
+<area shape="rect" id="node23" href="$classQFileInfo.html#a5effd75eb8571416146ac546e70cb2d7" title="QFileInfo::size" alt="" coords="341,360,447,387"/>
+<area shape="rect" id="node24" href="$classQString.html#a6a6da156364a32ef91e35f83b1955acc" title="QString::isNull" alt="" coords="341,512,447,539"/>
+<area shape="rect" id="node25" href="$classQFileInfo.html#a4f6795e14c6dc89e4a54d7b5cad9d03f" title="QFileInfo::fileName" alt="" coords="327,715,461,741"/>
+<area shape="rect" id="node26" href="$classQString.html#a77d8e8901007cdda3a71b40d42dbc32c" title="QString::lower" alt="" coords="543,107,649,133"/>
+<area shape="rect" id="node33" href="$classQString.html#ac679c7d23beb9bf676e58fc0a36528f1" title="QString::compare" alt="" coords="332,563,456,589"/>
+<area shape="rect" id="node7" href="$classQString.html#af653a95345ba3cd5bade2a1e07f2bb58" title="QString::unicode" alt="" coords="733,461,851,488"/>
+<area shape="rect" id="node11" href="$classQString.html#ac17675a27c6e32a31e04f07a5308a9cb" title="QString::QString" alt="" coords="911,860,1029,887"/>
+<area shape="rect" id="node14" href="$classQString.html#a01ab326a76bc1083e80520f4e6af4bf2" title="QString::real_detach" alt="" coords="721,360,863,387"/>
+<area shape="rect" id="node18" href="$classQDateTime.html#a889dac98cb29b4b9f33cfea6f00db98b" title="QDateTime::setTime_t" alt="" coords="519,5,673,32"/>
+<area shape="rect" id="node19" href="$classQDate.html#a04d5e854090cbd10ab4d8771877e5364" title="QDate::greg2jul" alt="" coords="735,5,849,32"/>
+<area shape="rect" id="node21" href="$classQTime.html#a8193498cc40d7386b23df740fa326b2b" title="QTime::secsTo" alt="" coords="540,208,652,235"/>
+<area shape="rect" id="node22" href="$classQDate.html#a4089a34058a747a78a1f5f3b3ea4ad0d" title="QDate::daysTo" alt="" coords="541,259,651,285"/>
+<area shape="rect" id="node27" href="$classQChar.html#a70eb37a2ce831bffec68645ec51dc77f" title="QChar::lower" alt="" coords="743,107,841,133"/>
+<area shape="rect" id="node28" href="$classQChar.html#a4bc1ffcdc40c674015b3bb9e9114637e" title="QChar::category" alt="" coords="911,157,1029,184"/>
+<area shape="rect" id="node29" href="$classQChar.html#a8f987c65692f95eebc84bf687ea92aff" title="QChar::row" alt="" coords="1077,183,1167,209"/>
+<area shape="rect" id="node30" href="$classQChar.html#a2475b4653bed4cf2a3f10395a14cc9c5" title="QChar::cell" alt="" coords="1078,56,1166,83"/>
+<area shape="rect" id="node31" href="$classQChar.html#a982aca321d746686396ab5290955da95" title="QChar::QChar" alt="" coords="917,56,1023,83"/>
+<area shape="rect" id="node32" href="$classQChar.html#a1f86dd8a75eb74565a46caf76a41df8f" title="QChar::latin1" alt="" coords="921,107,1019,133"/>
+</map>

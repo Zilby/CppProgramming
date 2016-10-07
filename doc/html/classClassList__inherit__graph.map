@@ -1,0 +1,6 @@
+<map id="ClassList" name="ClassList">
+<area shape="rect" id="node5" href="$classPrefixIgnoreClassList.html" title="Special class list where sorting takes IGNORE_PREFIX into account. " alt="" coords="5,1211,172,1317"/>
+<area shape="rect" id="node2" href="$classQList.html" title="{QList\&lt; ClassDef \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="23,696,155,1008"/>
+<area shape="rect" id="node3" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="11,248,166,648"/>
+<area shape="rect" id="node4" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="26,5,151,200"/>
+</map>

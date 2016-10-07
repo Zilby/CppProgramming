@@ -1,0 +1,8 @@
+<map id="QStringBucket" name="QStringBucket">
+<area shape="rect" id="node2" href="$classQBaseBucket.html" title="{QBaseBucket\n|# data\l|+ getData()\l+ setData()\l+ getNext()\l+ setNext()\l# QBaseBucket()\l}" alt="" coords="5,762,128,898"/>
+<area shape="rect" id="node3" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="214,564,349,1096"/>
+<area shape="rect" id="node4" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="183,365,281,443"/>
+<area shape="rect" id="node5" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="305,321,428,487"/>
+<area shape="rect" id="node6" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="275,79,368,185"/>
+<area shape="rect" id="node7" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="393,5,527,259"/>
+</map>

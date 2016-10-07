@@ -1,0 +1,50 @@
+<map id="MemberDef::isLinkable" name="MemberDef::isLinkable">
+<area shape="rect" id="node2" href="$classMemberDef.html#ab53677dd2218300ee758263ec23e8cbd" title="MemberDef::isLinkableInProject" alt="" coords="647,603,855,629"/>
+<area shape="rect" id="node3" href="$classMemberDef.html#a285b80c1f135ce6ed9fa3a52e1435538" title="MemberDef::isReference" alt="" coords="667,963,835,989"/>
+<area shape="rect" id="node6" href="$util_8h.html#a76a3a3e6464790c52fbdab33a7ee675f" title="copyArgumentLists" alt="" coords="229,68,364,95"/>
+<area shape="rect" id="node10" href="$classDefinition.html#a3c214d451d86bf8994c9d1503ed2843d" title="Returns the programming language this definition was written in. " alt="" coords="1411,477,1569,504"/>
+<area shape="rect" id="node11" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="1637,655,1755,681"/>
+<area shape="rect" id="node12" href="$util_8h.html#ac4c34c02b8869dca71de6f4037736dc7" title="Returns the scope separator to use given the programming language lang. " alt="" coords="1391,413,1589,440"/>
+<area shape="rect" id="node13" href="$classMemberDef.html#a3c91c8522caa2b1905cd52b3eedad8fa" title="MemberDef::displayName" alt="" coords="209,981,384,1008"/>
+<area shape="rect" id="node42" href="$classClassDef.html#aa891187c2712372f19ee6c202df24fec" title="Returns the name as it is appears in the documentation. " alt="" coords="216,224,377,251"/>
+<area shape="rect" id="node43" href="$classNamespaceDef.html#a7893c9a6525e3fc406ddfa9f9dd031f1" title="NamespaceDef::displayName" alt="" coords="903,1439,1100,1465"/>
+<area shape="rect" id="node48" href="$classOutputList.html#a3335d926bd59e1c9e3912c4352ca5bc6" title="OutputList::docify" alt="" coords="234,1691,359,1717"/>
+<area shape="rect" id="node4" href="$classDefinition.html#a8405121cdc0253ec9633a87500ac47ba" title="Definition::isReference" alt="" coords="1168,1109,1323,1136"/>
+<area shape="rect" id="node5" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="1424,1185,1556,1212"/>
+<area shape="rect" id="node7" href="$classArgumentList.html#a9c87ea86c299ce39b3818548e38f6cad" title="ArgumentList::deepCopy" alt="" coords="432,64,599,91"/>
+<area shape="rect" id="node8" href="$classArgumentList.html#a2f46f024604fbd06eb4f2d18f97f74c0" title="ArgumentList::ArgumentList" alt="" coords="659,5,843,32"/>
+<area shape="rect" id="node9" href="$classQList.html#a1b95250082189972f4b499a529920180" title="QList\&lt; Argument \&gt;::\lcount" alt="" coords="680,57,821,98"/>
+<area shape="rect" id="node14" href="$classMemberDef.html#a1ef7c726fdd0f1dd2d006782dd6f766a" title="MemberDef::anchor" alt="" coords="447,1064,584,1091"/>
+<area shape="rect" id="node35" href="$classDefinition.html#a5cff26b8db9bc19c6f61445ed8d88a46" title="Definition::localName" alt="" coords="1172,325,1319,352"/>
+<area shape="rect" id="node38" href="$classMemberDef.html#a910beace3eb5065c82c9c9f452532dfc" title="MemberDef::qualifiedName" alt="" coords="911,477,1092,504"/>
+<area shape="rect" id="node40" href="$classQCString.html#a78c5504b7c222e907fa0cd6e13391b05" title="Returns a deep copy of the string. " alt="" coords="459,1636,571,1663"/>
+<area shape="rect" id="node15" href="$classMemberDef.html#a96b40b99dcb42feaf5cb9de1bf784f0f" title="MemberDef::getReference" alt="" coords="663,1189,839,1216"/>
+<area shape="rect" id="node18" href="$classDefinition.html#a4f303fc4a5c9be7ab8160cf1792e7bda" title="Definition::isHidden" alt="" coords="1422,1437,1558,1464"/>
+<area shape="rect" id="node19" href="$classMemberDef.html#aa92ecbdc1c50f61e84d2af414b551d4c" title="MemberDef::hasDocumentation" alt="" coords="647,1115,854,1141"/>
+<area shape="rect" id="node21" href="$classGroupDef.html#a916a94699f6234e2bf5594ff12bbf764" title="GroupDef::isLinkableInProject" alt="" coords="653,1064,849,1091"/>
+<area shape="rect" id="node22" href="$classClassDef.html#a54fd0971529bf396c31a2a5c67acbea7" title="returns TRUE iff a link is possible to this item within this project. " alt="" coords="1148,1539,1343,1565"/>
+<area shape="rect" id="node24" href="$classNamespaceDef.html#a3d9655e111c40aa7005ded973d6a8e89" title="NamespaceDef::isLinkable\lInProject" alt="" coords="661,1241,840,1282"/>
+<area shape="rect" id="node25" href="$classFileDef.html#ad8195d5d5b2be4f11d37e8d75f9e4659" title="FileDef::isLinkableInProject" alt="" coords="659,1013,842,1040"/>
+<area shape="rect" id="node16" href="$classDefinition.html#a0186c1c36a52590d2c7c9157aaea613f" title="Definition::getReference" alt="" coords="1164,1261,1327,1288"/>
+<area shape="rect" id="node17" href="$classClassDef.html#aa19a0146566892e3f947698762d6e3e8" title="If this class originated from a tagfile, this will return the tag file reference. ..." alt="" coords="920,1211,1083,1237"/>
+<area shape="rect" id="node20" href="$classDefinition.html#aa89347609a1643f6c4bc3852d9f773bb" title="Definition::hasDocumentation" alt="" coords="904,1085,1099,1112"/>
+<area shape="rect" id="node23" href="$classDefinition.html#a24d80ca0884834c9e767482af37b7248" title="Definition::isArtificial" alt="" coords="1419,1539,1561,1565"/>
+<area shape="rect" id="node26" href="$classFileDef.html#a68f9ae783659b8c3738623edfdb6ee74" title="FileDef::name" alt="" coords="949,907,1053,933"/>
+<area shape="rect" id="node27" href="$classSDict.html#aec67482d780157680d46f48a7ed5e7bd" title="SDict::find" alt="" coords="1203,957,1287,984"/>
+<area shape="rect" id="node28" href="$classDefinition.html#a60354ebca3cb065a4a6aa1944a9309d5" title="Definition::qualifiedName" alt="" coords="1161,603,1329,629"/>
+<area shape="rect" id="node30" href="$classSDict.html#a121842d9858421076b81ed663034d62c" title="SDict::append" alt="" coords="1193,704,1298,731"/>
+<area shape="rect" id="node31" href="$classFileDef.html#ad44d91d874c4713d198a8e4b862ee48f" title="FileDef::absFilePath" alt="" coords="1175,755,1316,781"/>
+<area shape="rect" id="node32" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="1435,1589,1545,1616"/>
+<area shape="rect" id="node33" href="$classSDict.html#adcfbdc244e81360522457c8a84069f2b" title="SDict::prepend" alt="" coords="1191,805,1300,832"/>
+<area shape="rect" id="node34" href="$util_8h.html#a826cc396ba482fb9ef1990104f9c1026" title="guessSection" alt="" coords="1195,856,1296,883"/>
+<area shape="rect" id="node29" href="$classQCString.html#a8402bb62a3a1c6a79130c3b3cf38b52c" title="Resizes the string to hold newlen characters (this value should include the 0&#45;terminator). " alt="" coords="1431,579,1549,605"/>
+<area shape="rect" id="node36" href="$classDefinition.html#a4002fd79c2d4dcf667c37c83d4214deb" title="Definition::isLinkable" alt="" coords="1419,300,1561,327"/>
+<area shape="rect" id="node37" href="$classDefinitionIntf.html#ac8ee00bc1af5558ae37f6896d16f5a3a" title="DefinitionIntf::definitionType" alt="" coords="1397,351,1583,377"/>
+<area shape="rect" id="node39" href="$classDefinition.html#a9548c1e2218ce2730c6c3e31bdac6452" title="Definition::setReference" alt="" coords="1164,427,1327,453"/>
+<area shape="rect" id="node41" href="$classQCString.html#aefbe03789d0fe05302adae84c54c3243" title="Returns a writable pointer to the data. " alt="" coords="1423,1724,1557,1751"/>
+<area shape="rect" id="node44" href="$util_8h.html#a99187f0723aa35b7f06be3a5506b1285" title="substitute all occurrences of src in s by dst " alt="" coords="1206,1640,1285,1667"/>
+<area shape="rect" id="node46" href="$classNamespaceDef.html#a733e21e2422707a338b42b2c4e2ab37b" title="NamespaceDef::isLinkable" alt="" coords="1156,1464,1335,1491"/>
+<area shape="rect" id="node47" href="$classSDict.html#a5149795edc957f3bc5af4b536af6d743" title="SDict\&lt; MemberNameInfo\l \&gt;::count" alt="" coords="1160,1691,1331,1733"/>
+<area shape="rect" id="node45" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="1431,1640,1549,1667"/>
+<area shape="rect" id="node49" href="$classBaseOutputDocInterface.html#ad7d3f6631bd157739170690e669b3e75" title="BaseOutputDocInterface\l::docify" alt="" coords="432,1859,599,1901"/>
+</map>

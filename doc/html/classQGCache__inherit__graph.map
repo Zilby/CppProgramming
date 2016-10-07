@@ -1,0 +1,5 @@
+<map id="QGCache" name="QGCache">
+<area shape="rect" id="node3" href="$classQCache.html" title="{QCache\&lt; type \&gt;\n||+ QCache()\l+ QCache()\l+ ~QCache()\l+ operator=()\l+ maxCost()\l+ totalCost()\l+ setMaxCost()\l+ count()\l+ size()\l+ isEmpty()\land 9 more...\l&#45; deleteItem()\l}" alt="" coords="5,608,124,847"/>
+<area shape="rect" id="node4" href="$classQCache.html" title="{QCache\&lt; LookupInfo \&gt;\n||+ QCache()\l+ QCache()\l+ ~QCache()\l+ operator=()\l+ maxCost()\l+ totalCost()\l+ setMaxCost()\l+ count()\l+ size()\l+ isEmpty()\land 9 more...\l&#45; deleteItem()\l}" alt="" coords="148,608,307,847"/>
+<area shape="rect" id="node2" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="83,5,209,200"/>
+</map>

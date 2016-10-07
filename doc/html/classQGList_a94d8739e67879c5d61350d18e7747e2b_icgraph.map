@@ -1,0 +1,39 @@
+<map id="QGList::first" name="QGList::first">
+<area shape="rect" id="node2" href="$classQGList.html#a0e89dc6ca628d0c305160a7f4a128fb5" title="QGList::~QGList" alt="" coords="333,680,453,707"/>
+<area shape="rect" id="node3" href="$classQGList.html#a09f2bec85cf29180ea4736ec76f236e0" title="QGList::unlink" alt="" coords="154,259,259,285"/>
+<area shape="rect" id="node26" href="$classQGList.html#ab9dccfb30688be7b75f330bf78268c11" title="QGList::takeFirst" alt="" coords="332,484,455,511"/>
+<area shape="rect" id="node30" href="$classQGList.html#a9b89540497bfcf674466dcf9e343d981" title="QGList::clear" alt="" coords="157,807,256,833"/>
+<area shape="rect" id="node34" href="$classQInternalList.html#a253a49ac0bce39e819358a602cf16c20" title="QInternalList\&lt; QCacheItem\l \&gt;::clear" alt="" coords="771,698,953,739"/>
+<area shape="rect" id="node38" href="$classQGList.html#ab353a126b1fbdec96f4c6189f8623e2f" title="QGList::toVector" alt="" coords="147,579,267,605"/>
+<area shape="rect" id="node4" href="$classQGList.html#a8962d8770498694d0805a5003f160776" title="QGList::relinkNode" alt="" coords="327,5,460,32"/>
+<area shape="rect" id="node5" href="$classQGList.html#af146dd013966d2571f182dc9f1eca10b" title="QGList::removeNode" alt="" coords="321,157,466,184"/>
+<area shape="rect" id="node7" href="$classQGList.html#a2110da1b8f8b1a3ab1d9063deb31055e" title="QGList::remove" alt="" coords="336,259,451,285"/>
+<area shape="rect" id="node9" href="$classQGList.html#aa14205a4214d12b86c133255c094affd" title="QGList::removeRef" alt="" coords="326,411,461,437"/>
+<area shape="rect" id="node12" href="$classQGList.html#a2d91e82edec9c97315c3b3b237fbb492" title="QGList::removeAt" alt="" coords="330,309,457,336"/>
+<area shape="rect" id="node13" href="$classQGList.html#a256c045c464961c22f30259083c80a3c" title="QGList::takeNode" alt="" coords="330,208,457,235"/>
+<area shape="rect" id="node14" href="$classQGList.html#a4b926803feca834f03fefa6bf614dcb1" title="QGList::take" alt="" coords="345,107,441,133"/>
+<area shape="rect" id="node25" href="$classQGList.html#a7bcc304d043e120dc97c09e0253da756" title="QGList::takeAt" alt="" coords="339,360,448,387"/>
+<area shape="rect" id="node29" href="$classQGList.html#a7e31eb310e365d503d6286f5fb1b0b49" title="QGList::takeLast" alt="" coords="333,56,454,83"/>
+<area shape="rect" id="node6" href="$classQInternalList.html#af64a4279703a3aeb1954937cdf2fa1f2" title="QInternalList\&lt; QCacheItem\l \&gt;::count" alt="" coords="530,243,713,285"/>
+<area shape="rect" id="node8" href="$classQList.html#a1b95250082189972f4b499a529920180" title="QList\&lt; DirDef \&gt;::count" alt="" coords="544,309,699,336"/>
+<area shape="rect" id="node10" href="$classQGListIterator.html#a5320ce8818d1c7f1f9d17adb34ff91ea" title="QGListIterator::operator=" alt="" coords="538,360,705,387"/>
+<area shape="rect" id="node11" href="$classQGListIterator.html#ae636616a077384cd6a9cd7b1531fecbd" title="QGListIterator::~QGListIterator" alt="" coords="520,411,723,437"/>
+<area shape="rect" id="node15" href="$classQGVector.html#a24cdcea0593a3c9334d130e66c8e2043" title="QGVector::count" alt="" coords="802,635,922,661"/>
+<area shape="rect" id="node24" href="$classMemberList.html#a38422e3b6e288256a4e3375c90a0a4a4" title="MemberList::count" alt="" coords="556,157,687,184"/>
+<area shape="rect" id="node16" href="$classQGVector.html#ab43b21e4cb61c798ea3fbfbd11cab659" title="QGVector::sort" alt="" coords="1040,736,1151,763"/>
+<area shape="rect" id="node19" href="$classQGVector.html#a41c23424203379d69bb1a88ee864e4c2" title="QGVector::containsRef" alt="" coords="1256,685,1415,712"/>
+<area shape="rect" id="node20" href="$classQGVector.html#a763d499783b36d6951f47fb185164b22" title="QGVector::contains" alt="" coords="1267,551,1404,577"/>
+<area shape="rect" id="node21" href="$classQGVector.html#af81f0f1719b2ef4215cd6014d72c7f44" title="QGVector::write" alt="" coords="1037,635,1153,661"/>
+<area shape="rect" id="node23" href="$classQVector.html#a7fa63591f2256a78f5ba439cc858b09d" title="QVector\&lt; QList\&lt; IndexWord\l \&gt; \&gt;::count" alt="" coords="1001,569,1189,610"/>
+<area shape="rect" id="node17" href="$classtranslator_1_1TrManager.html#a84aba0e70020862ec40a29909de43687" title="translator.TrManager.generate\lTranslatorReport" alt="" coords="1237,787,1433,829"/>
+<area shape="rect" id="node18" href="$classQVector.html#a1d9f67e27cf360cfec05312fd014da7a" title="QVector\&lt; QList\&lt; IndexWord\l \&gt; \&gt;::clear" alt="" coords="1481,653,1669,694"/>
+<area shape="rect" id="node22" href="$classQGVector.html#a3dd5cc73b1f0756d0c28791632b23590" title="QGVector::toList" alt="" coords="1275,635,1395,661"/>
+<area shape="rect" id="node27" href="$classQQueue.html#aa01eca1beb057eb3055272a528e4ee01" title="QQueue\&lt; DotRunner \&gt;\l::count" alt="" coords="543,462,700,503"/>
+<area shape="rect" id="node28" href="$classQStack.html#a39f4fccb4ce975b29f5ed06b78316c24" title="QStack\&lt; State \&gt;::count" alt="" coords="541,528,702,555"/>
+<area shape="rect" id="node31" href="$classQGList.html#a4703bb593e7ccd0936cef358ded96080" title="QGList::operator=" alt="" coords="330,832,457,859"/>
+<area shape="rect" id="node32" href="$classQGList.html#a92e5a02569162c5951a90bca606223a2" title="QGList::read" alt="" coords="345,883,441,909"/>
+<area shape="rect" id="node35" href="$classQList.html#a3cc1e3b2eb4a0db55eb5a594bd67d059" title="QList\&lt; DirDef \&gt;::clear" alt="" coords="787,889,937,916"/>
+<area shape="rect" id="node36" href="$classQQueue.html#a39841ee54f380f58fb96be30eb5e7c89" title="QQueue\&lt; DotRunner \&gt;\l::clear" alt="" coords="315,985,472,1026"/>
+<area shape="rect" id="node37" href="$classQStack.html#a07ac0d10d6912270790d0c1a82ee2715" title="QStack\&lt; State \&gt;::clear" alt="" coords="315,781,472,808"/>
+<area shape="rect" id="node33" href="$classQGList.html#aafb785818e1ff9a3a72daacabd549b54" title="QGList::sort" alt="" coords="575,795,668,821"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="GenericConstIterator" name="GenericConstIterator">
+<area shape="rect" id="node2" href="$classTemplateListIntf_1_1ConstIterator.html" title="Abstract interface for a iterator of a list. " alt="" coords="5,1050,205,1201"/>
+<area shape="rect" id="node3" href="$classQListIterator.html" title="{QListIterator\&lt; TemplateVariant \&gt;\n||+ QListIterator()\l+ ~QListIterator()\l+ count()\l+ isEmpty()\l+ atFirst()\l+ atLast()\l+ toFirst()\l+ toLast()\l+ operator TemplateVariant *()\l+ operator*()\land 7 more...\l}" alt="" coords="229,1013,443,1237"/>
+<area shape="rect" id="node4" href="$classQGListIterator.html" title="The QGListIterator class is an internal class for implementing QListIterator. " alt="" coords="271,696,401,964"/>
+<area shape="rect" id="node5" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="105,292,260,633"/>
+<area shape="rect" id="node6" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="120,5,245,200"/>
+<area shape="rect" id="node7" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="307,57,395,149"/>
+</map>

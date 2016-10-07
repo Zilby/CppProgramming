@@ -1,0 +1,12 @@
+<map id="InputBool" name="InputBool">
+<area shape="rect" id="node3" href="$classInput.html" title="{Input\n||+ ~Input()\l+ value()\l+ update()\l+ kind()\l+ docs()\l+ id()\l+ templateDocs()\l+ addDependency()\l+ setEnabled()\l+ updateDependencies()\l+ reset()\l+ writeValue()\l+ setTemplateDocs()\l}" alt="" coords="100,909,264,1162"/>
+<area shape="rect" id="node4" href="$classQList.html" title="{QList\&lt; Input *\&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="289,879,417,1191"/>
+<area shape="rect" id="node5" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="219,351,374,692"/>
+<area shape="rect" id="node6" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="197,35,322,229"/>
+<area shape="rect" id="node7" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="346,86,434,178"/>
+<area shape="rect" id="node8" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="460,769,595,1301"/>
+<area shape="rect" id="node9" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="479,483,576,560"/>
+<area shape="rect" id="node10" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="601,439,723,604"/>
+<area shape="rect" id="node11" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="543,79,637,185"/>
+<area shape="rect" id="node12" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="661,5,796,259"/>
+</map>

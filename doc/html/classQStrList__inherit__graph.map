@@ -1,0 +1,6 @@
+<map id="QStrList" name="QStrList">
+<area shape="rect" id="node5" href="$classQStrIList.html" title="{QStrIList\n||+ QStrIList()\l+ ~QStrIList()\l&#45; compareItems()\l}" alt="" coords="22,1240,143,1347"/>
+<area shape="rect" id="node2" href="$classQInternalList.html" title="{QStrListBase\n||+ QInternalList()\l+ QInternalList()\l+ ~QInternalList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 30 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="21,696,145,949"/>
+<area shape="rect" id="node3" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="5,248,160,648"/>
+<area shape="rect" id="node4" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="20,5,145,200"/>
+</map>

@@ -1,0 +1,60 @@
+\hypertarget{classasst04_1_1_positive_list}{}\section{asst04\+:\+:Positive\+List Class Reference}
+\label{classasst04_1_1_positive_list}\index{asst04\+::\+Positive\+List@{asst04\+::\+Positive\+List}}
+
+
+{\ttfamily \#include $<$Positive\+List.\+h$>$}
+
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+double \hyperlink{classasst04_1_1_positive_list_ad66574172bee14628e59317b167611e4}{add\+Positive} (double d)
+\item 
+double \hyperlink{classasst04_1_1_positive_list_a6c769f11952005e6edb5293bc80666d6}{remove\+Positive} (double d)
+\item 
+double \hyperlink{classasst04_1_1_positive_list_a3bc00641ab483f3b84c720bf28d250df}{compute\+Average} ()
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+A positive list class. This class is able to add numbers, remove numbers and calculate the numbers\textquotesingle{} average.
+
+\begin{DoxyAuthor}{Author}
+Alexander Zilbersher 
+\end{DoxyAuthor}
+
+
+\subsection{Member Function Documentation}
+\hypertarget{classasst04_1_1_positive_list_ad66574172bee14628e59317b167611e4}{}\label{classasst04_1_1_positive_list_ad66574172bee14628e59317b167611e4} 
+\index{asst04\+::\+Positive\+List@{asst04\+::\+Positive\+List}!add\+Positive@{add\+Positive}}
+\index{add\+Positive@{add\+Positive}!asst04\+::\+Positive\+List@{asst04\+::\+Positive\+List}}
+\subsubsection{\texorpdfstring{add\+Positive()}{addPositive()}}
+{\footnotesize\ttfamily double Positive\+List\+::add\+Positive (\begin{DoxyParamCaption}\item[{double}]{d }\end{DoxyParamCaption})}
+
+Add a positive number to the list and returns it. Any duplicate or negative numbers will be ignored, and the function will return 0.\+0. 
+\begin{DoxyParams}{Parameters}
+{\em d} & The double to be added \\
+\hline
+\end{DoxyParams}
+\hypertarget{classasst04_1_1_positive_list_a3bc00641ab483f3b84c720bf28d250df}{}\label{classasst04_1_1_positive_list_a3bc00641ab483f3b84c720bf28d250df} 
+\index{asst04\+::\+Positive\+List@{asst04\+::\+Positive\+List}!compute\+Average@{compute\+Average}}
+\index{compute\+Average@{compute\+Average}!asst04\+::\+Positive\+List@{asst04\+::\+Positive\+List}}
+\subsubsection{\texorpdfstring{compute\+Average()}{computeAverage()}}
+{\footnotesize\ttfamily double Positive\+List\+::compute\+Average (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Computes the average of all the doubles in the list and returns it. If no doubles are in the list it will throw an error stating that \textquotesingle{}There are no positive numbers\textquotesingle{}. \hypertarget{classasst04_1_1_positive_list_a6c769f11952005e6edb5293bc80666d6}{}\label{classasst04_1_1_positive_list_a6c769f11952005e6edb5293bc80666d6} 
+\index{asst04\+::\+Positive\+List@{asst04\+::\+Positive\+List}!remove\+Positive@{remove\+Positive}}
+\index{remove\+Positive@{remove\+Positive}!asst04\+::\+Positive\+List@{asst04\+::\+Positive\+List}}
+\subsubsection{\texorpdfstring{remove\+Positive()}{removePositive()}}
+{\footnotesize\ttfamily double Positive\+List\+::remove\+Positive (\begin{DoxyParamCaption}\item[{double}]{d }\end{DoxyParamCaption})}
+
+Removes a positive number from the list and returns it. If it is not found the function will return 0.\+0. 
+\begin{DoxyParams}{Parameters}
+{\em d} & The double to be removed \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Positive\+List.\+h\item 
+Positive\+List.\+cpp\end{DoxyCompactItemize}

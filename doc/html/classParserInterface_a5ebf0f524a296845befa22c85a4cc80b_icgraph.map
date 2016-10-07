@@ -1,0 +1,4 @@
+<map id="ParserInterface::parsePrototype" name="ParserInterface::parsePrototype">
+<area shape="rect" id="node2" href="$classMarkdownFileParser.html#a5579fefcfe5512e79abfe55fd508fc95" title="Callback function called by the comment block scanner. " alt="" coords="260,5,401,47"/>
+<area shape="rect" id="node3" href="$classMarkdownFileParser.html#ae53b811156b426b03f4ea8f634141133" title="Returns TRUE if the language identified by extension needs the C preprocessor to be run before feed t..." alt="" coords="449,5,597,47"/>
+</map>

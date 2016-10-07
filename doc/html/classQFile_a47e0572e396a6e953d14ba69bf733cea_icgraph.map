@@ -1,0 +1,30 @@
+<map id="QFile::writeBlock" name="QFile::writeBlock">
+<area shape="rect" id="node2" href="$classQFile.html#af331c4e27024f12383958e65c6a828a3" title="QFile::putch" alt="" coords="183,284,276,311"/>
+<area shape="rect" id="node3" href="$classQFile.html#afb01a04cda09b3cc61babb5d334a052c" title="QFile::ungetch" alt="" coords="176,436,283,463"/>
+<area shape="rect" id="node11" href="$classFileStorage.html#a9f680051229bda7bca2639e5464bca77" title="FileStorage::write" alt="" coords="515,864,639,891"/>
+<area shape="rect" id="node20" href="$classResourceMgr.html#a5596fb3e70044fa98520b4d95d5336e1" title="Writes all resource belonging to a given category to a given target directory. " alt="" coords="483,915,672,941"/>
+<area shape="rect" id="node21" href="$classResourceMgr.html#ac6de7e012b820c139b1dc537987cab2c" title="Copies a registered resource to a given target directory under a given target name. " alt="" coords="473,56,681,83"/>
+<area shape="rect" id="node29" href="$util_8h.html#ad35d4038b3882fdd09976d28f4a043bf" title="Copies the contents of file with name src to the newly created file with name dest. " alt="" coords="542,5,613,32"/>
+<area shape="rect" id="node4" href="$classQFile.html#af10aeafc303904f98b74be9752d2aa43" title="QFile::open" alt="" coords="331,436,420,463"/>
+<area shape="rect" id="node5" href="$classQTextCodec.html#a655a88489c4308af769f992617a5ec53" title="QTextCodec::loadCharmapFile" alt="" coords="476,696,679,723"/>
+<area shape="rect" id="node6" href="$classQTextStream.html#a53439eda88c78b200b675b7909343b10" title="QTextStream::QTextStream" alt="" coords="484,747,671,773"/>
+<area shape="rect" id="node7" href="$classQXmlInputSource.html#af31832f657ee461a8fbe9b9f9227c218" title="QXmlInputSource::QXmlInput\lSource" alt="" coords="480,798,675,839"/>
+<area shape="rect" id="node8" href="$classCiteDict.html#a3c940a5ed5a06d90d9dc5471e900bb77" title="Generate the citations page. " alt="" coords="1013,56,1172,83"/>
+<area shape="rect" id="node9" href="$classDotRunner.html#ac1afaee16ddd8bf0bc6b18aaed6b44fd" title="Runs dot for all jobs added. " alt="" coords="522,259,633,285"/>
+<area shape="rect" id="node10" href="$classEclipseHelp.html#a6a8532316d47986f371459e6b09b9d71" title="Finish generation of the Eclipse specific help files. " alt="" coords="507,360,648,387"/>
+<area shape="rect" id="node12" href="$classQGStringBuffer.html#ae2265be83385ba58ff0e47880563bbb5" title="QGStringBuffer::putch" alt="" coords="502,411,653,437"/>
+<area shape="rect" id="node14" href="$structHtags.html#a91a5a1322fbff8f8ad136a3372964512" title="Htags::loadFilemap" alt="" coords="510,461,645,488"/>
+<area shape="rect" id="node15" href="$classHtmlGenerator.html#a7306ef9abbceafd6074b4d883a59f033" title="Additional initialization after indices have been created. " alt="" coords="996,132,1189,159"/>
+<area shape="rect" id="node16" href="$classLatexCodeGenerator.html#a2b3c977134c51f9775042a0c7f469077" title="LatexCodeGenerator\l::endFontClass" alt="" coords="506,513,649,554"/>
+<area shape="rect" id="node18" href="$classManGenerator.html#a4e825c27561ebb51c155840d9101725a" title="ManGenerator::endCodeFragment" alt="" coords="468,579,687,605"/>
+<area shape="rect" id="node23" href="$classRTFGenerator.html#a62498deb4b617b2cfb75381f6508a4ed" title="This is an API to a VERY brittle RTF preprocessor that combines nested RTF files. ..." alt="" coords="488,630,667,671"/>
+<area shape="rect" id="node25" href="$util_8h.html#a320768069dfe8bb92a0ad137769a3275" title="fileToString" alt="" coords="797,259,885,285"/>
+<area shape="rect" id="node28" href="$util_8h.html#a9b7f56d06d80e66e33804e0ae179203e" title="read a file name fileName and optionally filter and transcode it " alt="" coords="529,309,626,336"/>
+<area shape="rect" id="node13" href="$classQGStringBuffer.html#a20699e4c4ba6d7d68c4422d795412751" title="QGStringBuffer::getch" alt="" coords="766,411,917,437"/>
+<area shape="rect" id="node17" href="$classLatexCodeGenerator.html#a1cda601192d87fe472daccdfbabadfce" title="LatexCodeGenerator\l::writeTooltip" alt="" coords="770,513,913,554"/>
+<area shape="rect" id="node19" href="$classManGenerator.html#ab7a5373b1e631879e56bf5699e00cfe2" title="ManGenerator::writeRuler" alt="" coords="756,579,927,605"/>
+<area shape="rect" id="node22" href="$classResourceMgr.html#add302925074918ff666629dcdd755f97" title="Copies a registered resource to a given target directory. " alt="" coords="745,56,937,83"/>
+<area shape="rect" id="node24" href="$classRTFGenerator.html#a01b1cb771ecbdb9da62b21c980d1a5ae" title="RTFGenerator::writeCodeAnchor" alt="" coords="735,637,948,664"/>
+<area shape="rect" id="node26" href="$classTranslateContext.html#ab0fad4b75cd53cb3c22e8e1adee1c260" title="Gets the value for a field name. " alt="" coords="1019,233,1167,260"/>
+<area shape="rect" id="node27" href="$classHtmlCodeGenerator.html#a89ec8d4b9eb2b5162b4d9a7cab209b4a" title="HtmlCodeGenerator::\lwriteCodeAnchor" alt="" coords="1019,285,1166,326"/>
+</map>

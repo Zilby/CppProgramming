@@ -1,0 +1,6 @@
+<map id="GroupDef::displayName" name="GroupDef::displayName">
+<area shape="rect" id="node2" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="255,5,373,32"/>
+<area shape="rect" id="node3" href="$classGroupDef.html#a916a94699f6234e2bf5594ff12bbf764" title="GroupDef::isLinkableInProject" alt="" coords="216,56,412,83"/>
+<area shape="rect" id="node4" href="$classGroupDef.html#a6aeb6d9849dfceb7809cfbda4bfb2503" title="GroupDef::isLinkable" alt="" coords="242,107,386,133"/>
+<area shape="rect" id="node5" href="$classGroupDef.html#a2b3099f398ccdb867feab801bcb970cd" title="GroupDef::computeAnchors" alt="" coords="222,157,406,184"/>
+</map>

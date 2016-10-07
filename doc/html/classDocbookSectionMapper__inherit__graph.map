@@ -1,0 +1,5 @@
+<map id="DocbookSectionMapper" name="DocbookSectionMapper">
+<area shape="rect" id="node2" href="$classQIntDict.html" title="{QIntDict\&lt; char \&gt;\n||+ QIntDict()\l+ QIntDict()\l+ ~QIntDict()\l+ operator=()\l+ count()\l+ size()\l+ isEmpty()\l+ insert()\l+ replace()\l+ remove()\land 6 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="36,813,156,1067"/>
+<area shape="rect" id="node3" href="$classQGDict.html" title="The QGDict class is an internal class for implementing QDict template classes. " alt="" coords="31,248,161,765"/>
+<area shape="rect" id="node4" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="33,5,159,200"/>
+</map>

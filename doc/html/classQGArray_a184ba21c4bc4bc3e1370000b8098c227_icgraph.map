@@ -1,0 +1,11 @@
+<map id="QGArray::newData" name="QGArray::newData">
+<area shape="rect" id="node2" href="$classQGArray.html#a340abca11ce20f6c827f453216c4ad4f" title="QGArray::QGArray" alt="" coords="187,5,319,32"/>
+<area shape="rect" id="node3" href="$classQGArray.html#a7d8da7677dd8fd32dfe93161837623e8" title="QGArray::assign" alt="" coords="194,56,313,83"/>
+<area shape="rect" id="node4" href="$classQGArray.html#a5672ebb3dea896ffb03d23884f2fc5bd" title="QGArray::duplicate" alt="" coords="187,107,320,133"/>
+<area shape="rect" id="node5" href="$classQArray.html#aed81a36728344a4d944ca2639d21a162" title="QArray\&lt; bool \&gt;::detach" alt="" coords="571,56,729,83"/>
+<area shape="rect" id="node6" href="$classQGArray.html#ace6d58b8d81e8c9d0f99f9229263d6f5" title="QGArray::resize" alt="" coords="387,157,503,184"/>
+<area shape="rect" id="node10" href="$classQGArray.html#a7920d2528cba207637a47913b33197c3" title="QGArray::setRawData" alt="" coords="368,107,523,133"/>
+<area shape="rect" id="node7" href="$classQGArray.html#a87c26192ed622a3f58a29f2c5dad455a" title="QGArray::fill" alt="" coords="603,107,697,133"/>
+<area shape="rect" id="node8" href="$classQGArray.html#a04a7649e12ce04e3e2e129940663f21a" title="QGArray::store" alt="" coords="595,157,705,184"/>
+<area shape="rect" id="node9" href="$classQGArray.html#aa2b294d969877807c1ade888bc88fdfd" title="QGArray::setExpand" alt="" coords="579,208,721,235"/>
+</map>

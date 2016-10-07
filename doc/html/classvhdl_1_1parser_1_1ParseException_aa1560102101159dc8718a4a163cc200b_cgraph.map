@@ -1,0 +1,4 @@
+<map id="vhdl::parser::ParseException::ParseException" name="vhdl::parser::ParseException::ParseException">
+<area shape="rect" id="node2" href="$classvhdl_1_1parser_1_1ParseException.html#a13b222011b0d52e33c6b1b64f13dd855" title="It uses &quot;currentToken&quot; and &quot;expectedTokenSequences&quot; to generate a parse error message and returns it..." alt="" coords="244,5,435,47"/>
+<area shape="rect" id="node3" href="$classvhdl_1_1parser_1_1ParseException.html#a5127a06d4913f4b07172a79b587dafb6" title="Used to convert raw characters to their escaped version when these raw version cannot be used as part..." alt="" coords="483,5,673,47"/>
+</map>

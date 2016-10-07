@@ -1,0 +1,13 @@
+<map id="HtmlHelp::finalize" name="HtmlHelp::finalize">
+<area shape="rect" id="node2" href="$classQFile.html#ac0d8375a5ea7d4503545d7c68dcf58e1" title="QFile::close" alt="" coords="224,81,316,108"/>
+<area shape="rect" id="node7" href="$classHtmlHelpIndex.html#aa7658c0bcf38f46aed6664cd5dbd1be1" title="HtmlHelpIndex::writeFields" alt="" coords="180,208,360,235"/>
+<area shape="rect" id="node3" href="$classQIODevice.html#a291d97cdb38c1cd261bfbaa67a9d3923" title="QIODevice::isOpen" alt="" coords="408,5,544,32"/>
+<area shape="rect" id="node4" href="$classQFile.html#adfb2df6392ccaefb54215e2047a16c3b" title="QFile::init" alt="" coords="437,56,515,83"/>
+<area shape="rect" id="node6" href="$classQIODevice.html#a742d895b19b6809d67aa1643baf67639" title="QIODevice::setStatus" alt="" coords="592,107,743,133"/>
+<area shape="rect" id="node5" href="$classQIODevice.html#a9ce695e889efa9145e47195fcc765bf5" title="QIODevice::setFlags" alt="" coords="595,56,740,83"/>
+<area shape="rect" id="node8" href="$classSDict.html#ab6da88a61ee284dfbd07830fcd63aed3" title="SDict::sort" alt="" coords="433,157,519,184"/>
+<area shape="rect" id="node9" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="417,208,535,235"/>
+<area shape="rect" id="node10" href="$classQCString.html#a78c5504b7c222e907fa0cd6e13391b05" title="Returns a deep copy of the string. " alt="" coords="420,259,532,285"/>
+<area shape="rect" id="node12" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="410,309,542,336"/>
+<area shape="rect" id="node11" href="$classQCString.html#aefbe03789d0fe05302adae84c54c3243" title="Returns a writable pointer to the data. " alt="" coords="601,259,734,285"/>
+</map>

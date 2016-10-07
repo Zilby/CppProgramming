@@ -1,0 +1,5 @@
+<map id="QBuffer::writeBlock" name="QBuffer::writeBlock">
+<area shape="rect" id="node2" href="$classQIODevice.html#a291d97cdb38c1cd261bfbaa67a9d3923" title="QIODevice::isOpen" alt="" coords="198,5,334,32"/>
+<area shape="rect" id="node3" href="$classQIODevice.html#ab033a6ee76263214267daf8b62ade3c7" title="QIODevice::isWritable" alt="" coords="189,56,343,83"/>
+<area shape="rect" id="node4" href="$classQIODevice.html#a742d895b19b6809d67aa1643baf67639" title="QIODevice::setStatus" alt="" coords="191,107,341,133"/>
+</map>

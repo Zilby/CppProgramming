@@ -1,0 +1,12 @@
+<map id="writeGroupTreeNode" name="writeGroupTreeNode">
+<area shape="rect" id="node2" href="$classDefinition.html#a9484164b01eca0abce92001b2b77f8c3" title="Definition::getDefFileName" alt="" coords="196,5,376,32"/>
+<area shape="rect" id="node3" href="$classDefinition.html#ac33f1365555052b2d0861fac453c05e0" title="Definition::getDefLine" alt="" coords="212,56,360,83"/>
+<area shape="rect" id="node4" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="227,107,345,133"/>
+<area shape="rect" id="node5" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="231,157,341,184"/>
+<area shape="rect" id="node6" href="$classDefinition.html#adb6bab6d36c2b84b935442a7153b1135" title="Definition::isVisible" alt="" coords="219,208,353,235"/>
+<area shape="rect" id="node8" href="$classDefinition.html#a8405121cdc0253ec9633a87500ac47ba" title="Definition::isReference" alt="" coords="209,259,363,285"/>
+<area shape="rect" id="node10" href="$classQList.html#a1b95250082189972f4b499a529920180" title="QList::count" alt="" coords="239,309,333,336"/>
+<area shape="rect" id="node11" href="$classSDict.html#a5149795edc957f3bc5af4b536af6d743" title="SDict::count" alt="" coords="239,360,333,387"/>
+<area shape="rect" id="node7" href="$classDefinition.html#a4002fd79c2d4dcf667c37c83d4214deb" title="Definition::isLinkable" alt="" coords="424,208,567,235"/>
+<area shape="rect" id="node9" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="429,259,561,285"/>
+</map>

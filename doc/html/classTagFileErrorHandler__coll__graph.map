@@ -1,0 +1,8 @@
+<map id="TagFileErrorHandler" name="TagFileErrorHandler">
+<area shape="rect" id="node2" href="$classQXmlErrorHandler.html" title="The QXmlErrorHandler class provides an interface to report errors in XML data. " alt="" coords="5,762,161,898"/>
+<area shape="rect" id="node3" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="185,564,320,1096"/>
+<area shape="rect" id="node4" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="155,365,252,443"/>
+<area shape="rect" id="node5" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="277,321,399,487"/>
+<area shape="rect" id="node6" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="246,79,339,185"/>
+<area shape="rect" id="node7" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="364,5,499,259"/>
+</map>

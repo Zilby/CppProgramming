@@ -1,0 +1,7 @@
+<map id="QGVector" name="QGVector">
+<area shape="rect" id="node3" href="$classQVector.html" title="{QVector\&lt; type \&gt;\n||+ QVector()\l+ QVector()\l+ QVector()\l+ ~QVector()\l+ operator=()\l+ data()\l+ size()\l+ count()\l+ isEmpty()\l+ isNull()\land 15 more...\l&#45; deleteItem()\l}" alt="" coords="7,608,125,847"/>
+<area shape="rect" id="node6" href="$classQVector.html" title="{QVector\&lt; QList\&lt; IndexWord \&gt; \&gt;\n||+ QVector()\l+ QVector()\l+ QVector()\l+ ~QVector()\l+ operator=()\l+ data()\l+ size()\l+ count()\l+ isEmpty()\l+ isNull()\land 15 more...\l&#45; deleteItem()\l}" alt="" coords="149,608,361,847"/>
+<area shape="rect" id="node2" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="98,5,223,200"/>
+<area shape="rect" id="node4" href="$classQStrVec.html" title="{QStrVec\&lt; char \&gt;\n|&#45; dc\l|+ QStrVec()\l+ QStrVec()\l+ ~QStrVec()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l&#45; read()\l&#45; write()\l}" alt="" coords="5,895,127,1075"/>
+<area shape="rect" id="node5" href="$classQStrIVec.html" title="{QStrIVec\n||+ QStrIVec()\l+ QStrIVec()\l+ ~QStrIVec()\l&#45; compareItems()\l}" alt="" coords="5,1123,127,1244"/>
+</map>

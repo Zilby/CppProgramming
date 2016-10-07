@@ -1,0 +1,6 @@
+<map id="TranslatorGreek::trReimplementedFromList" name="TranslatorGreek::trReimplementedFromList">
+<area shape="rect" id="node2" href="$classTranslatorGreek.html#afb975a900ede5cf426effbd69025ba9a" title="TranslatorGreek::trWriteList" alt="" coords="276,31,459,57"/>
+<area shape="rect" id="node3" href="$util_8h.html#a5530a73bd518581ac62e4eee5bc2f6db" title="generateMarker" alt="" coords="507,31,619,57"/>
+<area shape="rect" id="node4" href="$util_8h.html#ac7a97256c349c1f4f1d18d7a7098c081" title="stripFromPath" alt="" coords="674,5,778,32"/>
+<area shape="rect" id="node5" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="667,56,785,83"/>
+</map>

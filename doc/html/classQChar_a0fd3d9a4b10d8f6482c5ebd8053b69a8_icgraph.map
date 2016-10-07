@@ -1,0 +1,7 @@
+<map id="QChar::unicode" name="QChar::unicode">
+<area shape="rect" id="node2" href="$classStringImpl.html#a002b2e0e2a91769a583437b6510ed409" title="StringImpl::unicodeCharAt" alt="" coords="189,5,363,32"/>
+<area shape="rect" id="node3" href="$classQChar.html#a163b279dcd9ef33c54f1f8bb0e541609" title="QChar::mirroredChar" alt="" coords="205,56,347,83"/>
+<area shape="rect" id="node4" href="$classQString.html#a1b04937a2233337016aafaa546ef83a9" title="QString::compose" alt="" coords="213,107,339,133"/>
+<area shape="rect" id="node5" href="$classQSimpleTextCodec.html#ac361f6788c0ef27376ed31744c0beaf4" title="QSimpleTextCodec::fromUnicode" alt="" coords="167,157,385,184"/>
+<area shape="rect" id="node6" href="$classQTextStream.html#a01bdc4673d3532fe999eb0ec025687c4" title="QTextStream::ts_putc" alt="" coords="201,208,351,235"/>
+</map>

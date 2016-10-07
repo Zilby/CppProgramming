@@ -1,0 +1,11 @@
+<map id="ClassDef::mergeMembers" name="ClassDef::mergeMembers">
+<area shape="rect" id="node2" href="$classDefinition.html#a3c214d451d86bf8994c9d1503ed2843d" title="Returns the programming language this definition was written in. " alt="" coords="248,5,407,32"/>
+<area shape="rect" id="node4" href="$util_8h.html#ac4c34c02b8869dca71de6f4037736dc7" title="Returns the scope separator to use given the programming language lang. " alt="" coords="228,56,427,83"/>
+<area shape="rect" id="node5" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="268,107,387,133"/>
+<area shape="rect" id="node6" href="$classClassDef.html#a680372e530fc79972086c9b940a72dcb" title="Returns the list of base classes from which this class directly inherits. " alt="" coords="481,291,643,317"/>
+<area shape="rect" id="node7" href="$classClassDef.html#a63a304d56ef1f0c11097069619c0a273" title="Returns a dictionary of all members. " alt="" coords="233,233,422,274"/>
+<area shape="rect" id="node8" href="$classSDict.html#aec67482d780157680d46f48a7ed5e7bd" title="SDict::find" alt="" coords="285,299,369,325"/>
+<area shape="rect" id="node9" href="$classClassDef.html#a500d1c453352fa69a791749b2a5a2423" title="Returns TRUE iff bcd is a direct or indirect base class of this class. " alt="" coords="248,181,407,208"/>
+<area shape="rect" id="node3" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="503,68,621,95"/>
+<area shape="rect" id="node10" href="$classClassDef.html#aa592db91c3b33a7b4089910f1e987a40" title="Returns the template master of which this class is an instance. " alt="" coords="475,181,649,208"/>
+</map>

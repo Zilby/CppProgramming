@@ -1,0 +1,6 @@
+<map id="QSimpleTextCodec::fromUnicode" name="QSimpleTextCodec::fromUnicode">
+<area shape="rect" id="node2" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="284,5,393,32"/>
+<area shape="rect" id="node3" href="$classQString.html#af653a95345ba3cd5bade2a1e07f2bb58" title="QString::unicode" alt="" coords="279,56,398,83"/>
+<area shape="rect" id="node4" href="$classQCString.html#aefbe03789d0fe05302adae84c54c3243" title="Returns a writable pointer to the data. " alt="" coords="272,107,405,133"/>
+<area shape="rect" id="node5" href="$classQChar.html#a0fd3d9a4b10d8f6482c5ebd8053b69a8" title="QChar::unicode" alt="" coords="282,157,395,184"/>
+</map>

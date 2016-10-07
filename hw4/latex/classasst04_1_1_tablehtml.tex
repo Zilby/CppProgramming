@@ -1,0 +1,55 @@
+\hypertarget{classasst04_1_1_tablehtml}{}\section{asst04\+:\+:Tablehtml Class Reference}
+\label{classasst04_1_1_tablehtml}\index{asst04\+::\+Tablehtml@{asst04\+::\+Tablehtml}}
+
+
+{\ttfamily \#include $<$Tablehtml.\+h$>$}
+
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classasst04_1_1_tablehtml_a2ed5557a792802586aab2bc0598e22a5}{Tablehtml} (std\+::istream \&in)
+\item 
+void \hyperlink{classasst04_1_1_tablehtml_a8cec3bade82ab4eaccbf74faf207bb2e}{print} (std\+::ostream \&out)
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+A printable html table class. An html table has a 2D vector of words and a print method to print out the table.
+
+\begin{DoxyAuthor}{Author}
+Alexander Zilbersher 
+\end{DoxyAuthor}
+
+
+\subsection{Constructor \& Destructor Documentation}
+\hypertarget{classasst04_1_1_tablehtml_a2ed5557a792802586aab2bc0598e22a5}{}\label{classasst04_1_1_tablehtml_a2ed5557a792802586aab2bc0598e22a5} 
+\index{asst04\+::\+Tablehtml@{asst04\+::\+Tablehtml}!Tablehtml@{Tablehtml}}
+\index{Tablehtml@{Tablehtml}!asst04\+::\+Tablehtml@{asst04\+::\+Tablehtml}}
+\subsubsection{\texorpdfstring{Tablehtml()}{Tablehtml()}}
+{\footnotesize\ttfamily Tablehtml\+::\+Tablehtml (\begin{DoxyParamCaption}\item[{std\+::istream \&}]{in }\end{DoxyParamCaption})}
+
+Construct a table from an input stream. Any words not in a set of 5 will be ignored. 
+\begin{DoxyParams}{Parameters}
+{\em in} & The input stream that is being read. \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{Member Function Documentation}
+\hypertarget{classasst04_1_1_tablehtml_a8cec3bade82ab4eaccbf74faf207bb2e}{}\label{classasst04_1_1_tablehtml_a8cec3bade82ab4eaccbf74faf207bb2e} 
+\index{asst04\+::\+Tablehtml@{asst04\+::\+Tablehtml}!print@{print}}
+\index{print@{print}!asst04\+::\+Tablehtml@{asst04\+::\+Tablehtml}}
+\subsubsection{\texorpdfstring{print()}{print()}}
+{\footnotesize\ttfamily void Tablehtml\+::print (\begin{DoxyParamCaption}\item[{std\+::ostream \&}]{out }\end{DoxyParamCaption})}
+
+Print this table to an output stream. This will be printed in html code format. 
+\begin{DoxyParams}{Parameters}
+{\em out} & The output stream the tree will be printed on. \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Tablehtml.\+h\item 
+Tablehtml.\+cpp\end{DoxyCompactItemize}

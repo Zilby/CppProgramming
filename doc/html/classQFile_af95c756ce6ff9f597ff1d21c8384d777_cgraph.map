@@ -1,0 +1,10 @@
+<map id="QFile::readLine" name="QFile::readLine">
+<area shape="rect" id="node2" href="$classQIODevice.html#a291d97cdb38c1cd261bfbaa67a9d3923" title="QIODevice::isOpen" alt="" coords="176,5,312,32"/>
+<area shape="rect" id="node3" href="$classQIODevice.html#a3bba4665b92eabfeca6905e7561cc943" title="QIODevice::isReadable" alt="" coords="164,56,324,83"/>
+<area shape="rect" id="node4" href="$classQIODevice.html#a66e1eb78420a4ec15685871e2e773f68" title="QIODevice::isRaw" alt="" coords="178,107,310,133"/>
+<area shape="rect" id="node5" href="$classQIODevice.html#a4dc865ffcb5b7896ff8f9a1d828e4c0e" title="QIODevice::readLine" alt="" coords="172,157,316,184"/>
+<area shape="rect" id="node9" href="$classQIODevice.html#a742d895b19b6809d67aa1643baf67639" title="QIODevice::setStatus" alt="" coords="169,208,319,235"/>
+<area shape="rect" id="node6" href="$classQIODevice.html#a0dee1db4a9e506924ccac6982ffdf3df" title="QIODevice::at" alt="" coords="395,107,502,133"/>
+<area shape="rect" id="node7" href="$classQIODevice.html#a60c4146763625213ac7aa29f1f071592" title="QIODevice::size" alt="" coords="389,157,508,184"/>
+<area shape="rect" id="node8" href="$classQIODevice.html#a71f10647e4bd98141f45362b9a06983a" title="QIODevice::readBlock" alt="" coords="372,208,525,235"/>
+</map>

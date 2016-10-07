@@ -1,0 +1,6 @@
+<map id="QIODevice" name="QIODevice">
+<area shape="rect" id="node2" href="$classQBuffer.html" title="The QBuffer class is an I/O device that operates on a QByteArray. " alt="" coords="5,490,104,773"/>
+<area shape="rect" id="node3" href="$classQFile.html" title="The QFile class is an I/O device that operates on files. " alt="" coords="128,409,293,853"/>
+<area shape="rect" id="node4" href="$classQGStringBuffer.html" title="{QGStringBuffer\n|# m_str\l|+ QGStringBuffer()\l+ ~QGStringBuffer()\l+ open()\l+ close()\l+ flush()\l+ size()\l+ at()\l+ at()\l+ readBlock()\l+ writeBlock()\l+ getch()\l+ putch()\l+ ungetch()\l&#45; QGStringBuffer()\l&#45; operator=()\l}" alt="" coords="317,490,456,773"/>
+<area shape="rect" id="node5" href="$classQStringBuffer.html" title="{QStringBuffer\n|# s\l|+ QStringBuffer()\l+ ~QStringBuffer()\l+ open()\l+ close()\l+ flush()\l+ size()\l+ at()\l+ at()\l+ readBlock()\l+ writeBlock()\l+ getch()\l+ putch()\l+ ungetch()\l&#45; QStringBuffer()\l&#45; operator=()\l}" alt="" coords="481,490,610,773"/>
+</map>

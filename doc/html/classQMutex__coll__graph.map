@@ -1,0 +1,4 @@
+<map id="QMutex" name="QMutex">
+<area shape="rect" id="node2" href="$classQMutexPrivate.html" title="{QMutexPrivate\n|+ wakeup\l+ mutex\l+ cond\l|+ QMutexPrivate()\l+ ~QMutexPrivate()\l+ wait()\l+ wakeUp()\l}" alt="" coords="5,233,143,384"/>
+<area shape="rect" id="node3" href="$classQAtomicInt.html" title="{QAtomicInt\n|&#45; m_value\l|+ QAtomicInt()\l+ testAndSet()\l+ fetchAndAdd()\l+ operator int()\l+ operator==()\l+ operator!=()\l+ operator!()\l}" alt="" coords="15,5,133,171"/>
+</map>

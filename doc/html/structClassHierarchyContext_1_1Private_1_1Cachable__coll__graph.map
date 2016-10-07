@@ -1,0 +1,27 @@
+<map id="ClassHierarchyContext::Private::Cachable" name="ClassHierarchyContext::Private::Cachable">
+<area shape="rect" id="node2" href="$classScopedPtr.html" title="{ScopedPtr\&lt; DotGfxHierarchy\lTable \&gt;\n||+ ScopedPtr()\l+ ~ScopedPtr()\l+ operator*()\l+ operator&#45;\&gt;()\l+ get()\l+ operator bool()\l+ reset()\l&#45; ScopedPtr()\l&#45; operator=()\l&#45; operator==()\l&#45; operator!=()\l}" alt="" coords="101,3065,294,3304"/>
+<area shape="rect" id="node3" href="$classDotGfxHierarchyTable.html" title="Represents a graphical class hierarchy. " alt="" coords="107,2815,287,2995"/>
+<area shape="rect" id="node4" href="$classDotNodeList.html" title="Class representing a list of DotNode objects. " alt="" coords="208,2639,336,2745"/>
+<area shape="rect" id="node5" href="$classQList.html" title="{QList\&lt; DotNode \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="69,2264,198,2576"/>
+<area shape="rect" id="node6" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="56,1860,211,2201"/>
+<area shape="rect" id="node7" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="5,1573,131,1768"/>
+<area shape="rect" id="node8" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="155,1625,243,1717"/>
+<area shape="rect" id="node9" href="$classSharedPtr.html" title="{SharedPtr\&lt; TemplateList \&gt;\n||+ SharedPtr()\l+ ~SharedPtr()\l+ operator*()\l+ operator&#45;\&gt;()\l+ get()\l+ operator bool()\l+ reset()\l&#45; SharedPtr()\l&#45; operator=()\l&#45; operator==()\l&#45; operator!=()\l}" alt="" coords="319,3073,497,3297"/>
+<area shape="rect" id="node10" href="$classTemplateList.html" title="Default implementation of a context value of type list. " alt="" coords="347,2808,469,3003"/>
+<area shape="rect" id="node11" href="$classTemplateListIntf.html" title="Abstract read&#45;only interface for a context value of type list. " alt="" coords="343,978,487,1129"/>
+<area shape="rect" id="node17" href="$classTemplateVariant.html" title="Variant type which can hold one value of a fixed set of types. " alt="" coords="531,1228,669,1511"/>
+<area shape="rect" id="node12" href="$classTemplateList_1_1Private.html" title="Private data of a template list object. " alt="" coords="432,2646,579,2738"/>
+<area shape="rect" id="node13" href="$classQValueList.html" title="{QValueList\&lt; TemplateVariant \&gt;\n||+ QValueList()\l+ QValueList()\l+ ~QValueList()\l+ operator=()\l+ operator+()\l+ operator+=()\l+ operator+=()\l+ operator==()\l+ operator!=()\l+ begin()\land 28 more...\l# detach()\l}" alt="" coords="425,2301,631,2539"/>
+<area shape="rect" id="node14" href="$classQValueListPrivate.html" title="{QValueListPrivate\&lt;\l TemplateVariant \&gt;\n|+ nodes\l|+ QValueListPrivate()\l+ QValueListPrivate()\l+ derefAndDelete()\l+ ~QValueListPrivate()\l+ insert()\l+ remove()\l+ remove()\l+ find()\l+ findIndex()\l+ contains()\l+ at()\l+ clear()\l}" alt="" coords="451,1904,605,2157"/>
+<area shape="rect" id="node15" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="896,1617,989,1724"/>
+<area shape="rect" id="node16" href="$classQValueListNode.html" title="{QValueListNode\&lt; Template\lVariant \&gt;\n||+ QValueListNode()\l+ QValueListNode()\l}" alt="" coords="426,1617,609,1724"/>
+<area shape="rect" id="node26" href="$classTemplateVariant_1_1Delegate.html" title="Helper class to create a delegate that can store a function/method call. " alt="" coords="694,1603,871,1739"/>
+<area shape="rect" id="node18" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="524,941,631,1165"/>
+<area shape="rect" id="node19" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="506,655,649,879"/>
+<area shape="rect" id="node20" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="485,500,670,592"/>
+<area shape="rect" id="node21" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="465,331,639,437"/>
+<area shape="rect" id="node22" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="663,345,833,423"/>
+<area shape="rect" id="node23" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="684,147,812,268"/>
+<area shape="rect" id="node24" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="677,5,819,97"/>
+<area shape="rect" id="node25" href="$classTemplateStructIntf.html" title="Abstract interface for a context value of type struct. " alt="" coords="655,993,814,1114"/>
+</map>

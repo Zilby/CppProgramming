@@ -1,0 +1,16 @@
+<map id="QChar::digitValue" name="QChar::digitValue">
+<area shape="rect" id="node2" href="$classQString.html#aaee914b4744ada084543c212bc1b3a21" title="QString::replace" alt="" coords="206,5,322,32"/>
+<area shape="rect" id="node3" href="$classQString.html#a3b79d2babc06fcbaec011fd9113e75ab" title="QString::toLong" alt="" coords="207,56,321,83"/>
+<area shape="rect" id="node11" href="$classQString.html#aad9a32a624e392837a639b418f243c67" title="QString::toULong" alt="" coords="203,107,325,133"/>
+<area shape="rect" id="node14" href="$classQString.html#a3f39cb56a6f77eabc5e3e81cb483fabc" title="QString::toUInt64" alt="" coords="202,157,326,184"/>
+<area shape="rect" id="node15" href="$classQTextStream.html#a4d06cd74325e6420974f01156bdfc52a" title="QTextStream::operator\&gt;\&gt;" alt="" coords="179,208,349,235"/>
+<area shape="rect" id="node4" href="$classQString.html#aba480e0d80d25f65e2acebb03d0d7ab5" title="QString::toShort" alt="" coords="403,5,519,32"/>
+<area shape="rect" id="node5" href="$classQString.html#a98f691fb039c264a986142c833223efc" title="QString::toInt" alt="" coords="411,56,511,83"/>
+<area shape="rect" id="node6" href="$classQString.html#a0b6622a8335cdd080e8b1685b7e0fde0" title="QString::sprintf" alt="" coords="572,56,683,83"/>
+<area shape="rect" id="node7" href="$classQDate.html#aebc53b28c073570214cfc6f1376cbcd5" title="QDate::toString" alt="" coords="734,5,847,32"/>
+<area shape="rect" id="node8" href="$classQTime.html#a87ef6af883b329327e1665cc639d403c" title="QTime::toString" alt="" coords="733,56,848,83"/>
+<area shape="rect" id="node10" href="$classQString.html#a5b30e9bb5310afb39f770db5fd5bf646" title="QString::setNum" alt="" coords="731,107,851,133"/>
+<area shape="rect" id="node9" href="$classQDateTime.html#a5455d25292813109f21c15888552c5c9" title="QDateTime::toString" alt="" coords="899,56,1041,83"/>
+<area shape="rect" id="node12" href="$classQString.html#a1ef1df5d1b79c0bd01115f39078f1334" title="QString::toUShort" alt="" coords="397,107,524,133"/>
+<area shape="rect" id="node13" href="$classQString.html#abe1e887f24348b6b7ef69b7036707b6b" title="QString::toUInt" alt="" coords="405,157,516,184"/>
+</map>

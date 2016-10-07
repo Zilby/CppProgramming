@@ -1,0 +1,5 @@
+<map id="getPrefixIndex" name="getPrefixIndex">
+<area shape="rect" id="node2" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="175,5,307,32"/>
+<area shape="rect" id="node3" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="186,56,295,83"/>
+<area shape="rect" id="node4" href="$classClassDef.html#a680372e530fc79972086c9b940a72dcb" title="Returns the list of base classes from which this class directly inherits. " alt="" coords="160,107,321,133"/>
+</map>

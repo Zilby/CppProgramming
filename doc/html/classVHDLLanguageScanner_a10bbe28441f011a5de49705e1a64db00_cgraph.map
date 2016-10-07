@@ -1,0 +1,23 @@
+<map id="VHDLLanguageScanner::parsePrototype" name="VHDLLanguageScanner::parsePrototype">
+<area shape="rect" id="node2" href="$classQStringList.html#a2c21b167a54aa8a8082996d7f18ca5bd" title="QStringList::split" alt="" coords="259,296,377,323"/>
+<area shape="rect" id="node16" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="468,347,577,373"/>
+<area shape="rect" id="node17" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="252,397,384,424"/>
+<area shape="rect" id="node18" href="$classEntry.html#a1ede1a1bcb62ce21781fe86e8d3c5ddc" title="Entry::children" alt="" coords="265,448,371,475"/>
+<area shape="rect" id="node19" href="$classEntry.html#a8c8479030e7a983413308cd412a926ff" title="Entry::addSubEntry" alt="" coords="250,499,386,525"/>
+<area shape="rect" id="node20" href="$classQCString.html#a8402bb62a3a1c6a79130c3b3cf38b52c" title="Resizes the string to hold newlen characters (this value should include the 0&#45;terminator). " alt="" coords="259,549,377,576"/>
+<area shape="rect" id="node21" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="259,600,377,627"/>
+<area shape="rect" id="node22" href="$classVhdlDocGen.html#a802a7b8116fa1b8b46895c25a32c5677" title="VhdlDocGen::prepareComment" alt="" coords="216,651,420,677"/>
+<area shape="rect" id="node3" href="$classQString.html#a675617012888ffd3acc8aef4aed05690" title="QString::find" alt="" coords="475,144,570,171"/>
+<area shape="rect" id="node4" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="813,271,922,297"/>
+<area shape="rect" id="node12" href="$classQString.html#a1ef65644b1885a7003d5c2a8e88df479" title="QString::mid" alt="" coords="475,296,570,323"/>
+<area shape="rect" id="node5" href="$classQString.html#af653a95345ba3cd5bade2a1e07f2bb58" title="QString::unicode" alt="" coords="633,245,752,272"/>
+<area shape="rect" id="node6" href="$classQChar.html#a70eb37a2ce831bffec68645ec51dc77f" title="QChar::lower" alt="" coords="643,93,742,120"/>
+<area shape="rect" id="node7" href="$classQChar.html#a4bc1ffcdc40c674015b3bb9e9114637e" title="QChar::category" alt="" coords="808,43,927,69"/>
+<area shape="rect" id="node8" href="$classQChar.html#a8f987c65692f95eebc84bf687ea92aff" title="QChar::row" alt="" coords="975,5,1064,32"/>
+<area shape="rect" id="node9" href="$classQChar.html#a2475b4653bed4cf2a3f10395a14cc9c5" title="QChar::cell" alt="" coords="975,81,1063,108"/>
+<area shape="rect" id="node10" href="$classQChar.html#a982aca321d746686396ab5290955da95" title="QChar::QChar" alt="" coords="814,144,921,171"/>
+<area shape="rect" id="node11" href="$classQChar.html#a1f86dd8a75eb74565a46caf76a41df8f" title="QChar::latin1" alt="" coords="818,195,917,221"/>
+<area shape="rect" id="node13" href="$classQString.html#aa032d4b5892338beb575a85e59bbbf38" title="QString::isEmpty" alt="" coords="631,347,754,373"/>
+<area shape="rect" id="node14" href="$classQString.html#ac17675a27c6e32a31e04f07a5308a9cb" title="QString::QString" alt="" coords="808,423,927,449"/>
+<area shape="rect" id="node15" href="$classQString.html#ab8e9aa9ff378aa3f3e531b26598712e3" title="QString::fromLatin1" alt="" coords="625,397,760,424"/>
+</map>

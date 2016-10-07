@@ -1,0 +1,11 @@
+<map id="MarkdownFileParser::needsPreprocessing" name="MarkdownFileParser::needsPreprocessing">
+<area shape="rect" id="node2" href="$classMarkdownFileParser.html#a4413366ce7b6f7e41a2b232ce2ad6170" title="Parses a source file or fragment with the goal to produce highlighted and cross&#45;referenced output..." alt="" coords="210,85,351,127"/>
+<area shape="rect" id="node7" href="$classMarkdownFileParser.html#a78b5337fc2b6a6dd1ee5ce104005e566" title="Resets the state of the code parser. " alt="" coords="201,20,360,61"/>
+<area shape="rect" id="node9" href="$classMarkdownFileParser.html#a5579fefcfe5512e79abfe55fd508fc95" title="Callback function called by the comment block scanner. " alt="" coords="210,151,351,192"/>
+<area shape="rect" id="node3" href="$classParserManager.html#a69f9874c260df7559242ec5833051ac5" title="Gets the interface to the parser associated with given extension. " alt="" coords="424,71,599,98"/>
+<area shape="rect" id="node6" href="$classParserInterface.html#a2ffc28f9dd7c47e2581376a573426395" title="Parses a source file or fragment with the goal to produce highlighted and cross&#45;referenced output..." alt="" coords="420,122,603,149"/>
+<area shape="rect" id="node4" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="663,46,795,73"/>
+<area shape="rect" id="node5" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="669,97,788,123"/>
+<area shape="rect" id="node8" href="$classParserInterface.html#aee4fccd1865a4e8a6b9f2896811104ca" title="Resets the state of the code parser. " alt="" coords="422,5,601,47"/>
+<area shape="rect" id="node10" href="$classParserInterface.html#a5ebf0f524a296845befa22c85a4cc80b" title="Callback function called by the comment block scanner. " alt="" coords="408,173,615,199"/>
+</map>

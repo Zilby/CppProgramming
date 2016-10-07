@@ -1,0 +1,12 @@
+<map id="TranslatorLithuanian" name="TranslatorLithuanian">
+<area shape="rect" id="node2" href="$classTranslatorAdapter__1__4__6.html" title="Adapter class for languages that only contain translations up to version 1.4.6. " alt="" coords="13,1999,257,2105"/>
+<area shape="rect" id="node3" href="$classTranslatorAdapter__1__5__4.html" title="Adapter class for languages that only contain translations up to version 1.5.4. " alt="" coords="21,1683,248,1951"/>
+<area shape="rect" id="node4" href="$classTranslatorAdapter__1__6__0.html" title="Adapter class for languages that only contain translations up to version 1.6.0. " alt="" coords="45,1484,224,1635"/>
+<area shape="rect" id="node5" href="$classTranslatorAdapter__1__6__3.html" title="Adapter class for languages that only contain translations up to version 1.6.3. " alt="" coords="45,1315,224,1436"/>
+<area shape="rect" id="node6" href="$classTranslatorAdapter__1__7__5.html" title="Adapter class for languages that only contain translations up to version 1.7.5. " alt="" coords="45,1145,224,1267"/>
+<area shape="rect" id="node7" href="$classTranslatorAdapter__1__8__0.html" title="Adapter class for languages that only contain translations up to version 1.8.0. " alt="" coords="29,917,240,1097"/>
+<area shape="rect" id="node8" href="$classTranslatorAdapter__1__8__2.html" title="{TranslatorAdapter_1_8_2\n||+ updateNeededMessage()\l+ trPanelSynchronisationTooltip()\l+ trProvidedByCategory()\l+ trExtendsClass()\l+ trClassMethods()\l+ trInstanceMethods()\l+ trMethodDocumentation()\l+ trDesignOverview()\l}" alt="" coords="27,689,242,869"/>
+<area shape="rect" id="node9" href="$classTranslatorAdapter__1__8__4.html" title="{TranslatorAdapter_1_8_4\n||+ updateNeededMessage()\l+ trInterfaces()\l+ trServices()\l+ trConstantGroups()\l+ trConstantGroupReference()\l+ trServiceReference()\l+ trSingletonReference()\l+ trServiceGeneratedFromFiles()\l+ trSingletonGeneratedFrom\lFiles()\l}" alt="" coords="29,432,241,641"/>
+<area shape="rect" id="node10" href="$classTranslatorAdapterBase.html" title="Base of the translator adapter tree. " alt="" coords="26,277,243,384"/>
+<area shape="rect" id="node11" href="$classTranslator.html" title="Abstract base class for all translatable text fragments. " alt="" coords="5,5,264,229"/>
+</map>

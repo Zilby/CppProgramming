@@ -1,0 +1,42 @@
+<map id="QCollection::newItem" name="QCollection::newItem">
+<area shape="rect" id="node2" href="$classQGCache.html#a115d46416492c26746ed3f1e6b4ae9f6" title="QGCache::insert_string" alt="" coords="201,71,360,98"/>
+<area shape="rect" id="node3" href="$classQGCache.html#a2746f839f86692c8b9039cab3128337e" title="QGCache::insert_other" alt="" coords="203,122,359,149"/>
+<area shape="rect" id="node5" href="$classQGDict.html#a1de8c35b775f7918acdf148b5df41fe4" title="QGDict::look_string" alt="" coords="212,223,349,250"/>
+<area shape="rect" id="node14" href="$classQGDict.html#a6ad3fe3b248746cb4689f884f36404a0" title="QGDict::look_ascii" alt="" coords="215,274,347,301"/>
+<area shape="rect" id="node16" href="$classQGDict.html#a4d517bb4a5a9d6257d6ffd60597f7621" title="QGDict::look_int" alt="" coords="221,325,340,351"/>
+<area shape="rect" id="node18" href="$classQGDict.html#a9ee35841e4c40a244c54cc7fcf519649" title="QGDict::look_ptr" alt="" coords="221,173,341,199"/>
+<area shape="rect" id="node20" href="$classQGList.html#aaa5270fea8e38fced994cfec731f385d" title="QGList::prepend" alt="" coords="222,470,339,497"/>
+<area shape="rect" id="node21" href="$classQGList.html#a2404fe31bb1b1e57fb530e3ad5059b0e" title="QGList::insertAt" alt="" coords="447,558,563,585"/>
+<area shape="rect" id="node27" href="$classQGList.html#a3fc7fb06dc2347dc27fdeea23e8abffc" title="QGList::append" alt="" coords="224,659,337,686"/>
+<area shape="rect" id="node33" href="$classQGVector.html#aabb624cce7dbdbcc63335f25e089228a" title="QGVector::QGVector" alt="" coords="207,710,354,737"/>
+<area shape="rect" id="node34" href="$classQGVector.html#a460c0560413d93cf0e51f0a01b64b5ef" title="QGVector::operator=" alt="" coords="209,761,352,787"/>
+<area shape="rect" id="node35" href="$classQGVector.html#a1c047eefbab23bd18ac724d7bf31f7eb" title="QGVector::insert" alt="" coords="221,1038,341,1065"/>
+<area shape="rect" id="node4" href="$classQCache.html#a23066e089d1e7de0fc1f5ba85bd05719" title="QCache\&lt; LookupInfo\l \&gt;::clear" alt="" coords="432,5,579,47"/>
+<area shape="rect" id="node6" href="$classQGDict.html#a137d355f22abdcbda8ded8b8736ec117" title="QGDict::QGDict" alt="" coords="446,223,565,250"/>
+<area shape="rect" id="node7" href="$classQGDict.html#a8c4e70b0dee22ada9bf8a41e3c92280d" title="QGDict::operator=" alt="" coords="441,274,570,301"/>
+<area shape="rect" id="node8" href="$classQGDict.html#a926ff48cc6b011ab9d40dd930c5eb8e7" title="QGDict::resize" alt="" coords="451,173,560,199"/>
+<area shape="rect" id="node12" href="$classQGDict.html#a698c24588a7688bd9c618c17ba2fd7bb" title="QGDict::read" alt="" coords="456,122,555,149"/>
+<area shape="rect" id="node9" href="$classQAsciiDict.html#a544cec757a84773073971b0a9d3e5e55" title="QAsciiDict\&lt; Entry \&gt;\l::clear" alt="" coords="908,212,1048,253"/>
+<area shape="rect" id="node10" href="$classQIntDict.html#a7cc8164a6c6865c52151920c428d13ed" title="QIntDict\&lt; SearchIndexList\l \&gt;::clear" alt="" coords="889,133,1067,175"/>
+<area shape="rect" id="node11" href="$classQPtrDict.html#a26c647f903df9b82bc131b482f7d6900" title="QPtrDict::clear" alt="" coords="923,75,1033,102"/>
+<area shape="rect" id="node13" href="$classQGDict.html#a6293553459bc0566a6043cc0d4f8be7c" title="QGDict::statistics" alt="" coords="681,122,808,149"/>
+<area shape="rect" id="node15" href="$classQAsciiDict.html#a2241b13419dc0fcb6da3bcd159219404" title="QAsciiDict\&lt; Entry \&gt;\l::count" alt="" coords="435,325,575,367"/>
+<area shape="rect" id="node17" href="$classQIntDict.html#acba9c2286ecaab46e0231e145ef5e471" title="QIntDict\&lt; SearchIndexList\l \&gt;::count" alt="" coords="417,391,594,432"/>
+<area shape="rect" id="node19" href="$classQPtrDict.html#a05675b8aa91387dd5cbb74eb881e17d1" title="QPtrDict::count" alt="" coords="449,71,562,98"/>
+<area shape="rect" id="node23" href="$classQInternalList.html#af64a4279703a3aeb1954937cdf2fa1f2" title="QInternalList\&lt; QCacheItem\l \&gt;::count" alt="" coords="887,779,1069,820"/>
+<area shape="rect" id="node24" href="$classQList.html#a1b95250082189972f4b499a529920180" title="QList\&lt; DirDef \&gt;::count" alt="" coords="901,533,1055,559"/>
+<area shape="rect" id="node22" href="$classQGList.html#a1613bab545e4e7d3e5c68de22e024128" title="QGList::inSort" alt="" coords="692,710,797,737"/>
+<area shape="rect" id="node25" href="$classQStack.html#a39f4fccb4ce975b29f5ed06b78316c24" title="QStack\&lt; State \&gt;::count" alt="" coords="664,609,825,635"/>
+<area shape="rect" id="node26" href="$classSDict.html#a25a85aeba441b4c855ea7be25a4741b5" title="SDict\&lt; Example \&gt;::inSort" alt="" coords="659,659,831,686"/>
+<area shape="rect" id="node28" href="$classQGList.html#a5215004b76329c79a02ae01134acc946" title="QGList::QGList" alt="" coords="449,659,561,686"/>
+<area shape="rect" id="node29" href="$classQGList.html#a4703bb593e7ccd0936cef358ded96080" title="QGList::operator=" alt="" coords="442,710,569,737"/>
+<area shape="rect" id="node30" href="$classQGListIterator.html#a587dd0b283af87ffb8df810f5206cd02" title="QGListIterator::QGListIterator" alt="" coords="408,761,603,787"/>
+<area shape="rect" id="node31" href="$classQGListIterator.html#a5320ce8818d1c7f1f9d17adb34ff91ea" title="QGListIterator::operator=" alt="" coords="422,811,589,838"/>
+<area shape="rect" id="node32" href="$classQQueue.html#aa01eca1beb057eb3055272a528e4ee01" title="QQueue\&lt; DotRunner \&gt;\l::count" alt="" coords="427,913,584,955"/>
+<area shape="rect" id="node36" href="$classQGList.html#ab353a126b1fbdec96f4c6189f8623e2f" title="QGList::toVector" alt="" coords="445,1097,565,1123"/>
+<area shape="rect" id="node38" href="$classQGVector.html#a00faa8dfe03f9148b87086def2c75f5d" title="QGVector::fill" alt="" coords="455,1151,556,1178"/>
+<area shape="rect" id="node40" href="$classQGVector.html#a241de736b4e5073454342d9dbf060fdb" title="QGVector::insertExpand" alt="" coords="423,979,587,1006"/>
+<area shape="rect" id="node41" href="$classQVector.html#a7fa63591f2256a78f5ba439cc858b09d" title="QVector\&lt; QList\&lt; IndexWord\l \&gt; \&gt;::count" alt="" coords="411,1031,599,1072"/>
+<area shape="rect" id="node37" href="$classQInternalList.html#a253a49ac0bce39e819358a602cf16c20" title="QInternalList\&lt; QCacheItem\l \&gt;::clear" alt="" coords="653,1085,836,1127"/>
+<area shape="rect" id="node39" href="$classQVector.html#a1d9f67e27cf360cfec05312fd014da7a" title="QVector\&lt; QList\&lt; IndexWord\l \&gt; \&gt;::clear" alt="" coords="651,1151,839,1192"/>
+</map>

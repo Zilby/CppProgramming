@@ -1,0 +1,6 @@
+<map id="QFileInfo::readLink" name="QFileInfo::readLink">
+<area shape="rect" id="node2" href="$classQFileInfo.html#a0e8114893edbe9d471b6f1389add29fd" title="QFileInfo::isSymLink" alt="" coords="185,5,329,32"/>
+<area shape="rect" id="node3" href="$classQFile.html#ad016ade1aca4b965ebb54d8bfb93d4bf" title="QFile::encodeName" alt="" coords="188,56,327,83"/>
+<area shape="rect" id="node4" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="203,107,312,133"/>
+<area shape="rect" id="node5" href="$classQFile.html#ad9bf876589a366445a443cb8c7ef4df4" title="QFile::decodeName" alt="" coords="188,157,327,184"/>
+</map>

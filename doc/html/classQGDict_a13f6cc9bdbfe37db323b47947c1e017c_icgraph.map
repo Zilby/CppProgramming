@@ -1,0 +1,12 @@
+<map id="QGDict::count" name="QGDict::count">
+<area shape="rect" id="node2" href="$classQAsciiDict.html#a2241b13419dc0fcb6da3bcd159219404" title="QAsciiDict\&lt; Entry \&gt;\l::count" alt="" coords="179,5,319,47"/>
+<area shape="rect" id="node3" href="$classQGDict.html#a6293553459bc0566a6043cc0d4f8be7c" title="QGDict::statistics" alt="" coords="385,122,512,149"/>
+<area shape="rect" id="node7" href="$classQGDict.html#a258bcd2d51646c8a81ec27c024650447" title="QGDict::write" alt="" coords="197,122,300,149"/>
+<area shape="rect" id="node8" href="$classQGDictIterator.html#a67e4f848a3e0e4577dd862e410b71d5b" title="QGDictIterator::toFirst" alt="" coords="173,173,325,199"/>
+<area shape="rect" id="node10" href="$classQIntDict.html#acba9c2286ecaab46e0231e145ef5e471" title="QIntDict\&lt; SearchIndexList\l \&gt;::count" alt="" coords="160,224,337,265"/>
+<area shape="rect" id="node11" href="$classQPtrDict.html#a05675b8aa91387dd5cbb74eb881e17d1" title="QPtrDict::count" alt="" coords="192,290,305,317"/>
+<area shape="rect" id="node4" href="$classQAsciiDict.html#a544cec757a84773073971b0a9d3e5e55" title="QAsciiDict\&lt; Entry \&gt;\l::clear" alt="" coords="579,75,719,116"/>
+<area shape="rect" id="node5" href="$classQIntDict.html#a7cc8164a6c6865c52151920c428d13ed" title="QIntDict\&lt; SearchIndexList\l \&gt;::clear" alt="" coords="560,140,737,181"/>
+<area shape="rect" id="node6" href="$classQPtrDict.html#a26c647f903df9b82bc131b482f7d6900" title="QPtrDict::clear" alt="" coords="594,206,703,233"/>
+<area shape="rect" id="node9" href="$classQGDict.html#a926ff48cc6b011ab9d40dd930c5eb8e7" title="QGDict::resize" alt="" coords="394,173,503,199"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="FileDef::FileDef" name="FileDef::FileDef">
+<area shape="rect" id="node2" href="$classDefinition.html#a9548c1e2218ce2730c6c3e31bdac6452" title="Definition::setReference" alt="" coords="168,5,331,32"/>
+<area shape="rect" id="node3" href="$util_8h.html#a826cc396ba482fb9ef1990104f9c1026" title="guessSection" alt="" coords="199,56,300,83"/>
+<area shape="rect" id="node4" href="$util_8h.html#ac7a97256c349c1f4f1d18d7a7098c081" title="stripFromPath" alt="" coords="197,107,301,133"/>
+<area shape="rect" id="node5" href="$classQCString.html#a78c5504b7c222e907fa0cd6e13391b05" title="Returns a deep copy of the string. " alt="" coords="193,157,305,184"/>
+<area shape="rect" id="node6" href="$classQCString.html#aefbe03789d0fe05302adae84c54c3243" title="Returns a writable pointer to the data. " alt="" coords="379,157,512,184"/>
+</map>

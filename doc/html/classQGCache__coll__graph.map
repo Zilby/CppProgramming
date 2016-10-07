@@ -1,0 +1,12 @@
+<map id="QGCache" name="QGCache">
+<area shape="rect" id="node2" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="441,5,567,200"/>
+<area shape="rect" id="node4" href="$classQGDict.html" title="The QGDict class is an internal class for implementing QDict template classes. " alt="" coords="279,1525,409,2013"/>
+<area shape="rect" id="node8" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="232,292,387,633"/>
+<area shape="rect" id="node3" href="$classQCDict.html" title="{QCDict\n||+ QCDict()\l+ find_string()\l+ find_ascii()\l+ find_int()\l+ take_string()\l+ take_ascii()\l+ take_int()\l+ insert_string()\l+ insert_ascii()\l+ insert_int()\l+ remove_string()\l+ remove_ascii()\l+ remove_int()\l+ statistics()\l}" alt="" coords="282,2076,406,2344"/>
+<area shape="rect" id="node5" href="$classQBaseBucket.html" title="{QBaseBucket\n|# data\l|+ getData()\l+ setData()\l+ getNext()\l+ setNext()\l# QBaseBucket()\l}" alt="" coords="283,985,405,1121"/>
+<area shape="rect" id="node6" href="$classQGDItList.html" title="{QGDItList\n||+ QGDItList()\l+ QGDItList()\l+ ~QGDItList()\l+ operator=()\l}" alt="" coords="149,993,259,1114"/>
+<area shape="rect" id="node7" href="$classQInternalList.html" title="{QInternalList\&lt; QGDictIterator \&gt;\n||+ QInternalList()\l+ QInternalList()\l+ ~QInternalList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 30 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="224,683,429,936"/>
+<area shape="rect" id="node11" href="$classQInternalList.html" title="{QInternalList\&lt; QCacheItem \&gt;\n||+ QInternalList()\l+ QInternalList()\l+ ~QInternalList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 30 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="5,683,200,936"/>
+<area shape="rect" id="node9" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="265,57,353,149"/>
+<area shape="rect" id="node10" href="$classQCList.html" title="{QCList\n|+ inserts\l+ insertCosts\l+ insertMisses\l+ finds\l+ hits\l+ hitCosts\l+ dumps\l+ dumpCosts\l|+ QCList()\l+ ~QCList()\l+ insert()\l+ insert()\l+ take()\l+ reference()\l+ setAutoDelete()\l+ removeFirst()\l+ removeLast()\l+ first()\l+ last()\l+ prev()\l+ next()\l}" alt="" coords="61,1145,187,1501"/>
+</map>

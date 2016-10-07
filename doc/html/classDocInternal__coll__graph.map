@@ -1,0 +1,8 @@
+<map id="DocInternal" name="DocInternal">
+<area shape="rect" id="node2" href="$classCompAccept.html" title="{CompAccept\&lt; DocInternal \&gt;\n||+ CompAccept()\l+ ~CompAccept()\l+ accept()\l+ children()\l+ children()\l}" alt="" coords="5,1079,195,1215"/>
+<area shape="rect" id="node3" href="$classQList.html" title="{QList\&lt; DocNode \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="34,683,166,995"/>
+<area shape="rect" id="node4" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="23,292,177,633"/>
+<area shape="rect" id="node5" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="16,5,141,200"/>
+<area shape="rect" id="node6" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="165,57,253,149"/>
+<area shape="rect" id="node7" href="$classDocNode.html" title="Abstract node interface with type information. " alt="" coords="219,1057,389,1237"/>
+</map>

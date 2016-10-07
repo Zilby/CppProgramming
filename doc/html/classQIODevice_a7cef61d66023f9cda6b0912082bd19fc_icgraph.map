@@ -1,0 +1,10 @@
+<map id="QIODevice::getch" name="QIODevice::getch">
+<area shape="rect" id="node2" href="$classQDataStream.html#af15532c2efeaca9f8818fca55a7d7d02" title="QDataStream::setByteOrder" alt="" coords="180,5,367,32"/>
+<area shape="rect" id="node3" href="$classQDataStream.html#aebb5fe86181c3a74f7b6c0fa95c10bb0" title="QDataStream::operator\&gt;\&gt;" alt="" coords="187,56,360,83"/>
+<area shape="rect" id="node5" href="$classQFile.html#a04e15f86aa48622ddb7c7e81c7cc7613" title="QFile::writeBlock" alt="" coords="212,107,335,133"/>
+<area shape="rect" id="node6" href="$classQIODevice.html#ac5a3fcc9349a98d8f260039c5fd58812" title="QIODevice::atEnd" alt="" coords="209,157,338,184"/>
+<area shape="rect" id="node4" href="$classQStringList.html#acc4b2b8e5b8b04da731af0657491c963" title="QStringList::QStringList" alt="" coords="432,56,592,83"/>
+<area shape="rect" id="node7" href="$classQFile.html#a285a896990bd1779c7b3a7066142446b" title="QFile::atEnd" alt="" coords="465,132,559,159"/>
+<area shape="rect" id="node9" href="$classQXmlInputSource.html#a301b2d54ab84af500ac65257de94f23d" title="QXmlInputSource::QXmlInput\lSource" alt="" coords="415,183,609,225"/>
+<area shape="rect" id="node8" href="$classDotRunner.html#ac1afaee16ddd8bf0bc6b18aaed6b44fd" title="Runs dot for all jobs added. " alt="" coords="657,132,768,159"/>
+</map>

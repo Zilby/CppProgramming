@@ -1,0 +1,18 @@
+<map id="QFileInfo::extension" name="QFileInfo::extension">
+<area shape="rect" id="node2" href="$classQFileInfo.html#a4f6795e14c6dc89e4a54d7b5cad9d03f" title="QFileInfo::fileName" alt="" coords="192,125,327,151"/>
+<area shape="rect" id="node3" href="$classQString.html#a97b5c9712f3f145d52f91d816763ceea" title="QString::findRev" alt="" coords="375,74,493,101"/>
+<area shape="rect" id="node5" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="729,99,838,126"/>
+<area shape="rect" id="node8" href="$classQString.html#ab8e9aa9ff378aa3f3e531b26598712e3" title="QString::fromLatin1" alt="" coords="541,251,676,278"/>
+<area shape="rect" id="node10" href="$classQString.html#a675617012888ffd3acc8aef4aed05690" title="QString::find" alt="" coords="387,341,481,367"/>
+<area shape="rect" id="node17" href="$classQString.html#aa77ad91688915fed22e4150b00b5fd92" title="QString::right" alt="" coords="385,175,483,202"/>
+<area shape="rect" id="node4" href="$classQString.html#a1ef65644b1885a7003d5c2a8e88df479" title="QString::mid" alt="" coords="387,125,481,151"/>
+<area shape="rect" id="node6" href="$classQString.html#aa032d4b5892338beb575a85e59bbbf38" title="QString::isEmpty" alt="" coords="547,99,670,126"/>
+<area shape="rect" id="node7" href="$classQString.html#ac17675a27c6e32a31e04f07a5308a9cb" title="QString::QString" alt="" coords="724,201,843,227"/>
+<area shape="rect" id="node9" href="$classQString.html#af653a95345ba3cd5bade2a1e07f2bb58" title="QString::unicode" alt="" coords="549,302,668,329"/>
+<area shape="rect" id="node11" href="$classQChar.html#a70eb37a2ce831bffec68645ec51dc77f" title="QChar::lower" alt="" coords="559,403,658,430"/>
+<area shape="rect" id="node12" href="$classQChar.html#a4bc1ffcdc40c674015b3bb9e9114637e" title="QChar::category" alt="" coords="724,403,843,430"/>
+<area shape="rect" id="node13" href="$classQChar.html#a8f987c65692f95eebc84bf687ea92aff" title="QChar::row" alt="" coords="891,378,980,405"/>
+<area shape="rect" id="node14" href="$classQChar.html#a2475b4653bed4cf2a3f10395a14cc9c5" title="QChar::cell" alt="" coords="891,429,979,455"/>
+<area shape="rect" id="node15" href="$classQChar.html#a982aca321d746686396ab5290955da95" title="QChar::QChar" alt="" coords="730,505,837,531"/>
+<area shape="rect" id="node16" href="$classQChar.html#a1f86dd8a75eb74565a46caf76a41df8f" title="QChar::latin1" alt="" coords="734,302,833,329"/>
+</map>

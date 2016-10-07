@@ -1,0 +1,5 @@
+<map id="ClassDef::isBaseClass" name="ClassDef::isBaseClass">
+<area shape="rect" id="node2" href="$classClassDef.html#a91edf0e1d111bb5b90561af28ec93409" title="ClassDef::mergeMembers" alt="" coords="228,29,403,56"/>
+<area shape="rect" id="node3" href="$classClassDef.html#ab84f56a99816a73920785d48a059c769" title="Used for RTTI, this is a class. " alt="" coords="467,80,633,107"/>
+<area shape="rect" id="node4" href="$classClassDef.html#ae41817cab4398dd47ada2ff077e88cd2" title="returns TRUE iff md is a member of this class or of the the public/protected members of a base class ..." alt="" coords="212,131,419,157"/>
+</map>

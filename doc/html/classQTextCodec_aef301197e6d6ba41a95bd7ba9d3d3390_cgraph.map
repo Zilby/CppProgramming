@@ -1,0 +1,6 @@
+<map id="QTextCodec::fromUnicode" name="QTextCodec::fromUnicode">
+<area shape="rect" id="node2" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="267,5,376,32"/>
+<area shape="rect" id="node3" href="$classQTextCodec.html#a564dc8bf15241a165a38287c1d26e48c" title="QTextCodec::fromUnicode" alt="" coords="232,56,411,83"/>
+<area shape="rect" id="node4" href="$classQTextCodec.html#aa7dccd7fc1b578de0b7599b040d98e11" title="QTextCodec::makeEncoder" alt="" coords="461,31,645,57"/>
+<area shape="rect" id="node5" href="$classQTextEncoder.html#a3b199427ee9b7f862fe65811165dbbfa" title="QTextEncoder::fromUnicode" alt="" coords="459,81,647,108"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ISection" name="ISection">
+<area shape="rect" id="node2" href="$classIUserDefined.html" title="{IUserDefined\n||+ header()\l+ header()\l}" alt="" coords="25,277,124,369"/>
+<area shape="rect" id="node3" href="$classSectionHandler.html" title="{SectionHandler\n|&#45; m_parent\l&#45; m_header\l&#45; m_description\l&#45; m_members\l&#45; m_kind\l&#45; m_kindString\l|+ startMember()\l+ startHeader()\l+ startSection()\l+ startDescription()\l+ endSection()\l+ endHeader()\l+ SectionHandler()\l+ ~SectionHandler()\l+ kindString()\l+ kind()\land 8 more...\l}" alt="" coords="5,417,144,715"/>
+</map>

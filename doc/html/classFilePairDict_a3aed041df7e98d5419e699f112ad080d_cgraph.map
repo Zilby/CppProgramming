@@ -1,0 +1,19 @@
+<map id="FilePairDict::compareValues" name="FilePairDict::compareValues">
+<area shape="rect" id="node2" href="$classFileDef.html#a68f9ae783659b8c3738623edfdb6ee74" title="FileDef::name" alt="" coords="279,296,383,323"/>
+<area shape="rect" id="node4" href="$classSDict.html#aec67482d780157680d46f48a7ed5e7bd" title="SDict::find" alt="" coords="511,5,595,32"/>
+<area shape="rect" id="node6" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="719,379,851,405"/>
+<area shape="rect" id="node11" href="$classSDict.html#a121842d9858421076b81ed663034d62c" title="SDict::append" alt="" coords="501,499,606,525"/>
+<area shape="rect" id="node17" href="$classFileDef.html#a57496c4b5436110bd66fdfa1fee0eefe" title="FileDef::getOutputFileBase" alt="" coords="241,600,421,627"/>
+<area shape="rect" id="node18" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="272,651,391,677"/>
+<area shape="rect" id="node3" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="932,107,1049,133"/>
+<area shape="rect" id="node5" href="$classDefinition.html#a60354ebca3cb065a4a6aa1944a9309d5" title="Definition::qualifiedName" alt="" coords="469,144,637,171"/>
+<area shape="rect" id="node12" href="$classFileDef.html#ad44d91d874c4713d198a8e4b862ee48f" title="FileDef::absFilePath" alt="" coords="483,245,624,272"/>
+<area shape="rect" id="node13" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="499,296,608,323"/>
+<area shape="rect" id="node14" href="$classSDict.html#adcfbdc244e81360522457c8a84069f2b" title="SDict::prepend" alt="" coords="499,347,608,373"/>
+<area shape="rect" id="node15" href="$classDefinition.html#a8405121cdc0253ec9633a87500ac47ba" title="Definition::isReference" alt="" coords="476,397,631,424"/>
+<area shape="rect" id="node16" href="$util_8h.html#a826cc396ba482fb9ef1990104f9c1026" title="guessSection" alt="" coords="503,448,604,475"/>
+<area shape="rect" id="node7" href="$util_8h.html#ac4c34c02b8869dca71de6f4037736dc7" title="Returns the scope separator to use given the programming language lang. " alt="" coords="685,157,884,184"/>
+<area shape="rect" id="node8" href="$classDefinition.html#a3c214d451d86bf8994c9d1503ed2843d" title="Returns the programming language this definition was written in. " alt="" coords="705,208,864,235"/>
+<area shape="rect" id="node9" href="$classQCString.html#a8402bb62a3a1c6a79130c3b3cf38b52c" title="Resizes the string to hold newlen characters (this value should include the 0&#45;terminator). " alt="" coords="725,259,844,285"/>
+<area shape="rect" id="node10" href="$classDefinition.html#a4f303fc4a5c9be7ab8160cf1792e7bda" title="Definition::isHidden" alt="" coords="717,309,853,336"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DirDef::isLinkable" name="DirDef::isLinkable">
+<area shape="rect" id="node2" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="192,5,301,32"/>
+<area shape="rect" id="node3" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="187,56,306,83"/>
+<area shape="rect" id="node4" href="$classQCString.html#aefbe03789d0fe05302adae84c54c3243" title="Returns a writable pointer to the data. " alt="" coords="180,107,313,133"/>
+</map>

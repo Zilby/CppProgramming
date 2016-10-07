@@ -1,0 +1,9 @@
+<map id="TitleIterator" name="TitleIterator">
+<area shape="rect" id="node2" href="$classBaseIteratorVia.html" title="{BaseIteratorVia\&lt; IDocIterator,\l IDoc, DocImpl, DocImpl \&gt;\n||+ BaseIteratorVia()\l+ ~BaseIteratorVia()\l+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l}" alt="" coords="31,1301,228,1496"/>
+<area shape="rect" id="node3" href="$classIDocIterator.html" title="{IDocIterator\n||+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l}" alt="" coords="37,1013,128,1252"/>
+<area shape="rect" id="node4" href="$classQListIterator.html" title="{QListIterator\&lt; DocImpl \&gt;\n||+ QListIterator()\l+ ~QListIterator()\l+ count()\l+ isEmpty()\l+ atFirst()\l+ atLast()\l+ toFirst()\l+ toLast()\l+ operator DocImpl *()\l+ operator*()\land 7 more...\l}" alt="" coords="153,1021,319,1245"/>
+<area shape="rect" id="node5" href="$classQGListIterator.html" title="The QGListIterator class is an internal class for implementing QListIterator. " alt="" coords="171,696,301,964"/>
+<area shape="rect" id="node6" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="5,292,160,633"/>
+<area shape="rect" id="node7" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="20,5,145,200"/>
+<area shape="rect" id="node8" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="207,57,295,149"/>
+</map>

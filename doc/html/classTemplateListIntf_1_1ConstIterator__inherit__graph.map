@@ -1,0 +1,4 @@
+<map id="TemplateListIntf::ConstIterator" name="TemplateListIntf::ConstIterator">
+<area shape="rect" id="node2" href="$classGenericConstIterator.html" title="Template List iterator support. " alt="" coords="5,219,176,384"/>
+<area shape="rect" id="node3" href="$classTemplateListConstIterator.html" title="{TemplateListConstIterator\n|&#45; m_list\l&#45; m_it\l&#45; m_index\l|+ TemplateListConstIterator()\l+ ~TemplateListConstIterator()\l+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l}" alt="" coords="201,204,402,399"/>
+</map>

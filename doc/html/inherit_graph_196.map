@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classIndexIntf.html" title="Abstract interface for index generators. " alt="" coords="5,132,79,159"/>
+<area shape="rect" id="node2" href="$classDocSets.html" title="A class that generates docset files. " alt="" coords="136,5,209,32"/>
+<area shape="rect" id="node3" href="$classEclipseHelp.html" title="Generator for Eclipse help files. " alt="" coords="127,56,219,83"/>
+<area shape="rect" id="node4" href="$classFTVHelp.html" title="A class that generates a dynamic tree view side panel. " alt="" coords="135,107,210,133"/>
+<area shape="rect" id="node5" href="$classHtmlHelp.html" title="A class that generated the HTML Help specific files. " alt="" coords="134,157,211,184"/>
+<area shape="rect" id="node6" href="$classIndexList.html" title="A list of index interfaces. " alt="" coords="135,208,210,235"/>
+<area shape="rect" id="node7" href="$classQhp.html" title="Qhp" alt="" coords="149,259,196,285"/>
+</map>

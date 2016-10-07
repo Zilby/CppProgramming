@@ -1,0 +1,11 @@
+<map id="QString::ascii" name="QString::ascii">
+<area shape="rect" id="node2" href="$classQGCache.html#ab2fb9c3ff81484a67507d604569a4060" title="QGCache::statistics" alt="" coords="187,53,329,79"/>
+<area shape="rect" id="node4" href="$classQGDict.html#a6293553459bc0566a6043cc0d4f8be7c" title="QGDict::statistics" alt="" coords="195,110,321,137"/>
+<area shape="rect" id="node8" href="$classQString.html#ac7bcea77370989a0da1a1952d8d763ec" title="QString::arg" alt="" coords="212,161,304,187"/>
+<area shape="rect" id="node9" href="$classQXmlSimpleReader.html#ae6b1a973ea59fc35b75d45ac5e30a303" title="QXmlSimpleReader::feature" alt="" coords="165,211,351,238"/>
+<area shape="rect" id="node10" href="$classQXmlSimpleReader.html#a7e435e46bfe139249be78d89a89ff629" title="QXmlSimpleReader::setFeature" alt="" coords="155,262,361,289"/>
+<area shape="rect" id="node3" href="$classQCache.html#a23066e089d1e7de0fc1f5ba85bd05719" title="QCache\&lt; LookupInfo\l \&gt;::clear" alt="" coords="425,5,571,47"/>
+<area shape="rect" id="node5" href="$classQAsciiDict.html#a544cec757a84773073971b0a9d3e5e55" title="QAsciiDict\&lt; Entry \&gt;\l::clear" alt="" coords="428,71,568,112"/>
+<area shape="rect" id="node6" href="$classQIntDict.html#a7cc8164a6c6865c52151920c428d13ed" title="QIntDict\&lt; SearchIndexList\l \&gt;::clear" alt="" coords="409,136,587,177"/>
+<area shape="rect" id="node7" href="$classQPtrDict.html#a26c647f903df9b82bc131b482f7d6900" title="QPtrDict::clear" alt="" coords="443,202,553,229"/>
+</map>

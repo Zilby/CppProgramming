@@ -1,0 +1,18 @@
+<map id="QTextCodecFromIODDecoder" name="QTextCodecFromIODDecoder">
+<area shape="rect" id="node2" href="$classQTextDecoder.html" title="State&#45;based decoder. " alt="" coords="5,1939,140,2031"/>
+<area shape="rect" id="node3" href="$structQMultiByteUnicodeTable.html" title="{QMultiByteUnicodeTable\n|+ unicode\l|+ QMultiByteUnicodeTable()\l+ ~QMultiByteUnicodeTable()\l}" alt="" coords="62,1513,257,1605"/>
+<area shape="rect" id="node4" href="$classQTextCodecFromIOD.html" title="{QTextCodecFromIOD\n|&#45; from_unicode_page\l&#45; from_unicode_page_multibyte\l&#45; unkn\l&#45; to_unicode\l&#45; max_bytes_per_char\l|+ QTextCodecFromIOD()\l+ ~QTextCodecFromIOD()\l+ ok()\l+ makeDecoder()\l+ name()\l+ mibEnum()\l+ heuristicContentMatch()\l+ heuristicNameMatch()\l+ toUnicode()\l+ fromUnicode()\l&#45; stateless()\l}" alt="" coords="370,1844,573,2127"/>
+<area shape="rect" id="node5" href="$classQTextCodec.html" title="Provides conversion between text encodings. " alt="" coords="370,1337,573,1781"/>
+<area shape="rect" id="node6" href="$classQStrList.html" title="{QStrList\n|&#45; dc\l|+ QStrList()\l+ QStrList()\l+ ~QStrList()\l+ operator=()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l&#45; read()\l&#45; write()\l}" alt="" coords="597,1462,719,1657"/>
+<area shape="rect" id="node7" href="$classQInternalList.html" title="{QStrListBase\n||+ QInternalList()\l+ QInternalList()\l+ ~QInternalList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 30 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="581,1021,705,1275"/>
+<area shape="rect" id="node8" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="493,617,647,959"/>
+<area shape="rect" id="node9" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="401,331,526,525"/>
+<area shape="rect" id="node10" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="550,382,638,474"/>
+<area shape="rect" id="node11" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="745,1447,851,1671"/>
+<area shape="rect" id="node12" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="736,1036,879,1260"/>
+<area shape="rect" id="node13" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="752,742,937,834"/>
+<area shape="rect" id="node14" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="750,375,923,481"/>
+<area shape="rect" id="node15" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="947,389,1118,467"/>
+<area shape="rect" id="node16" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="969,147,1097,268"/>
+<area shape="rect" id="node17" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="961,5,1104,97"/>
+</map>

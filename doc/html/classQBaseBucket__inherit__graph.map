@@ -1,0 +1,6 @@
+<map id="QBaseBucket" name="QBaseBucket">
+<area shape="rect" id="node2" href="$classQAsciiBucket.html" title="{QAsciiBucket\n|&#45; key\l|+ QAsciiBucket()\l+ getKey()\l}" alt="" coords="5,204,128,296"/>
+<area shape="rect" id="node3" href="$classQIntBucket.html" title="{QIntBucket\n|&#45; key\l|+ QIntBucket()\l+ getKey()\l}" alt="" coords="153,204,261,296"/>
+<area shape="rect" id="node4" href="$classQPtrBucket.html" title="{QPtrBucket\n|&#45; key\l|+ QPtrBucket()\l+ getKey()\l}" alt="" coords="285,204,395,296"/>
+<area shape="rect" id="node5" href="$classQStringBucket.html" title="{QStringBucket\n|&#45; key\l|+ QStringBucket()\l+ getKey()\l}" alt="" coords="419,204,546,296"/>
+</map>

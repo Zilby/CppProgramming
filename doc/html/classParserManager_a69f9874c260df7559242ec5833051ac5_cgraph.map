@@ -1,0 +1,4 @@
+<map id="ParserManager::getParser" name="ParserManager::getParser">
+<area shape="rect" id="node2" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="228,5,360,32"/>
+<area shape="rect" id="node3" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="235,56,353,83"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="TemplateVariant::TemplateVariant" name="TemplateVariant::TemplateVariant">
+<area shape="rect" id="node2" href="$classTemplateStruct.html#a657ed741aec6c31883d86b211ec27e5c" title="Sets the value the field of a struct. " alt="" coords="253,5,390,32"/>
+<area shape="rect" id="node3" href="$classTemplateContextImpl.html#af8856e3207a53fad3f700353d71b575e" title="Pop the current scope from the stack. " alt="" coords="459,56,635,83"/>
+<area shape="rect" id="node4" href="$classTemplateStruct.html#a3186868e4c1ee4cec1d1abcdfb5bac70" title="Gets the value for a field name. " alt="" coords="253,107,390,133"/>
+<area shape="rect" id="node5" href="$classTemplateListConstIterator.html#a80276f5474320de67b93f287cdd6cd79" title="Moves iterator to the previous element in the list. " alt="" coords="235,158,408,199"/>
+<area shape="rect" id="node6" href="$classTemplateList.html#a9fffa09b83138d64bbe66b32e2a3d283" title="Returns the element at index position index. " alt="" coords="263,224,379,251"/>
+<area shape="rect" id="node7" href="$classTemplateContextImpl.html#a1ff06ac572e4d0456bca3feeac5f96f7" title="Sets a value in the current scope. " alt="" coords="235,275,408,301"/>
+<area shape="rect" id="node8" href="$classTemplateContextImpl.html#a0609e62251b223bbd14851738fa10727" title="Gets the value for a given key. " alt="" coords="235,325,408,352"/>
+<area shape="rect" id="node9" href="$classTemplateContextImpl.html#aba8ebc4a96d6a1a52f0f16d00a658770" title="Returns a pointer to the value corresponding to a given key. " alt="" coords="248,377,395,418"/>
+<area shape="rect" id="node10" href="$classTemplateVariant.html#af81e60a076fd6bb5fec55ee424797a85" title="Constructs a new variant with a string value s. " alt="" coords="232,442,411,483"/>
+<area shape="rect" id="node11" href="$classTemplateVariant.html#aa36e21ae53656963fd75b799e4fd0808" title="Return the result of apply this function with args. " alt="" coords="249,508,394,535"/>
+</map>

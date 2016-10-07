@@ -1,0 +1,8 @@
+<map id="QString::stripWhiteSpace" name="QString::stripWhiteSpace">
+<area shape="rect" id="node2" href="$classQDir.html#a61d528e4d5689e81d9c27d68dbd19f64" title="QDir::root" alt="" coords="282,19,361,46"/>
+<area shape="rect" id="node3" href="$classQTextCodec.html#a16459bb8c9e7c502547f45e5387fbb03" title="QTextCodec::simpleHeuristic\lNameMatch" alt="" coords="224,71,419,112"/>
+<area shape="rect" id="node4" href="$classQTextCodec.html#a1bcf2f11fac6113fd6ae74dda55b2ca4" title="QTextCodec::heuristicName\lMatch" alt="" coords="467,71,655,112"/>
+<area shape="rect" id="node5" href="$classQTextCodecFromIOD.html#af7109ff23e3f6c34228eb046578c0357" title="QTextCodecFromIOD::\lheuristicNameMatch" alt="" coords="722,5,881,47"/>
+<area shape="rect" id="node6" href="$classQSimpleTextCodec.html#ab08ae2e5e99af1cd6dda3450731e502b" title="QSimpleTextCodec::heuristic\lNameMatch" alt="" coords="705,136,898,177"/>
+<area shape="rect" id="node7" href="$classQLatin1Codec.html#a34f0298855e849d6c4bd67a7115971ec" title="QLatin1Codec::heuristicName\lMatch" alt="" coords="703,71,900,112"/>
+</map>

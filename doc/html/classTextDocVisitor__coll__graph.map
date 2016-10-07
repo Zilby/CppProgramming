@@ -1,0 +1,5 @@
+<map id="TextDocVisitor" name="TextDocVisitor">
+<area shape="rect" id="node2" href="$classDocVisitor.html" title="Abstract visitor that participates in the visitor pattern. " alt="" coords="5,424,116,1176"/>
+<area shape="rect" id="node3" href="$classFTextStream.html" title="Simplified and optimized version of QTextStream. " alt="" coords="140,681,267,919"/>
+<area shape="rect" id="node4" href="$classQIODevice.html" title="The QIODevice class is the base class of I/O devices. " alt="" coords="125,5,282,361"/>
+</map>

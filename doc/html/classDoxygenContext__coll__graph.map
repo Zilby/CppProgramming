@@ -1,0 +1,14 @@
+<map id="DoxygenContext" name="DoxygenContext">
+<area shape="rect" id="node2" href="$classRefCountedContext.html" title="Helper class to support reference counting. " alt="" coords="5,1419,172,1541"/>
+<area shape="rect" id="node3" href="$classTemplateStructIntf.html" title="Abstract interface for a context value of type struct. " alt="" coords="196,1419,355,1541"/>
+<area shape="rect" id="node4" href="$classDoxygenContext_1_1Private.html" title="{DoxygenContext::Private\n||+ version()\l+ date()\l+ maxJaxCodeFile()\l+ Private()\l+ get()\l}" alt="" coords="379,1412,548,1548"/>
+<area shape="rect" id="node5" href="$structDoxygenContext_1_1Private_1_1Cachable.html" title="{DoxygenContext::Private\l::Cachable\n||+ Cachable()\l}" alt="" coords="236,1243,405,1335"/>
+<area shape="rect" id="node6" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="267,941,374,1165"/>
+<area shape="rect" id="node7" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="249,655,392,879"/>
+<area shape="rect" id="node8" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="228,500,413,592"/>
+<area shape="rect" id="node9" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="209,331,382,437"/>
+<area shape="rect" id="node10" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="406,345,577,423"/>
+<area shape="rect" id="node11" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="427,147,555,268"/>
+<area shape="rect" id="node12" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="420,5,563,97"/>
+<area shape="rect" id="node13" href="$classPropertyMapper.html" title="{PropertyMapper\&lt; DoxygenContext\l::DoxygenContext::Private \&gt;\n|&#45; m_map\l|+ PropertyMapper()\l+ addProperty()\l+ get()\l}" alt="" coords="430,1228,654,1349"/>
+</map>

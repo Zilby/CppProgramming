@@ -1,0 +1,11 @@
+<map id="TranslatorAdapter_1_5_4" name="TranslatorAdapter_1_5_4">
+<area shape="rect" id="node2" href="$classTranslatorAdapter__1__6__0.html" title="Adapter class for languages that only contain translations up to version 1.6.0. " alt="" coords="29,1780,208,1931"/>
+<area shape="rect" id="node3" href="$classTranslatorAdapter__1__6__3.html" title="Adapter class for languages that only contain translations up to version 1.6.3. " alt="" coords="29,1609,208,1731"/>
+<area shape="rect" id="node4" href="$classTranslatorAdapter__1__7__5.html" title="Adapter class for languages that only contain translations up to version 1.7.5. " alt="" coords="29,1439,208,1560"/>
+<area shape="rect" id="node5" href="$classTranslatorAdapter__1__8__0.html" title="Adapter class for languages that only contain translations up to version 1.8.0. " alt="" coords="13,1209,224,1389"/>
+<area shape="rect" id="node6" href="$classTranslatorAdapter__1__8__2.html" title="{TranslatorAdapter_1_8_2\n||+ updateNeededMessage()\l+ trPanelSynchronisationTooltip()\l+ trProvidedByCategory()\l+ trExtendsClass()\l+ trClassMethods()\l+ trInstanceMethods()\l+ trMethodDocumentation()\l+ trDesignOverview()\l}" alt="" coords="11,980,226,1160"/>
+<area shape="rect" id="node7" href="$classTranslatorAdapter__1__8__4.html" title="{TranslatorAdapter_1_8_4\n||+ updateNeededMessage()\l+ trInterfaces()\l+ trServices()\l+ trConstantGroups()\l+ trConstantGroupReference()\l+ trServiceReference()\l+ trSingletonReference()\l+ trServiceGeneratedFromFiles()\l+ trSingletonGeneratedFrom\lFiles()\l}" alt="" coords="13,721,225,931"/>
+<area shape="rect" id="node8" href="$classTranslatorAdapterBase.html" title="Base of the translator adapter tree. " alt="" coords="10,565,227,672"/>
+<area shape="rect" id="node9" href="$classTranslator.html" title="Abstract base class for all translatable text fragments. " alt="" coords="17,5,276,229"/>
+<area shape="rect" id="node10" href="$classTranslatorEnglish.html" title="{TranslatorEnglish\n||+ idLanguage()\l+ latexLanguageSupportCommand()\l+ trRelatedFunctions()\l+ trRelatedSubscript()\l+ trDetailedDescription()\l+ trMemberTypedefDocumentation()\l+ trMemberEnumerationDocumentation()\l+ trMemberFunctionDocumentation()\l+ trMemberDataDocumentation()\l+ trMore()\land 232 more...\l}" alt="" coords="135,279,393,503"/>
+</map>

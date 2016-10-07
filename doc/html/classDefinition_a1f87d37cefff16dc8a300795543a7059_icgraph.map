@@ -1,0 +1,5 @@
+<map id="Definition::briefLine" name="Definition::briefLine">
+<area shape="rect" id="node2" href="$classMemberDef.html#a0c16b4d5effd11dbf337ece47b0d7463" title="MemberDef::definitionType" alt="" coords="216,5,395,32"/>
+<area shape="rect" id="node3" href="$classMemberGroup.html#a1dc30e752b0c36ee2be1716ff8d83856" title="MemberGroup::addToDeclaration\lSection" alt="" coords="198,57,413,98"/>
+<area shape="rect" id="node4" href="$classVhdlDocGen.html#ac5c7235e2572f9dab6475d5af835e437" title="VhdlDocGen::writeVHDLDeclaration" alt="" coords="188,123,423,149"/>
+</map>

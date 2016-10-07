@@ -1,0 +1,4 @@
+<map id="IException" name="IException">
+<area shape="rect" id="node3" href="$classCompoundHandler.html" title="{CompoundHandler\n|&#45; m_name\l&#45; m_titleHandler\l&#45; m_subClasses\l&#45; m_superClasses\l&#45; m_includes\l&#45; m_includedBy\l&#45; m_includeDependencyGraph\l&#45; m_includedByDependencyGraph\l&#45; m_innerCompounds\l&#45; m_templateParamList\land 21 more...\l|+ startSection()\l+ startCompound()\l+ startSuperClass()\l+ endSuperClass()\l+ startSubClass()\l+ endSubClass()\l+ endCompound()\l+ endCompoundName()\l+ startBriefDesc()\l+ startDetailedDesc()\land 53 more...\l}" alt="" coords="5,403,225,773"/>
+<area shape="rect" id="node2" href="$classICompound.html" title="The interface to a compound in the object model. " alt="" coords="39,5,192,229"/>
+</map>

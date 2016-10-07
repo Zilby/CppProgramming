@@ -1,0 +1,9 @@
+<map id="QFile::open" name="QFile::open">
+<area shape="rect" id="node2" href="$classQIODevice.html#a291d97cdb38c1cd261bfbaa67a9d3923" title="QIODevice::isOpen" alt="" coords="147,5,283,32"/>
+<area shape="rect" id="node3" href="$classQFile.html#adfb2df6392ccaefb54215e2047a16c3b" title="QFile::init" alt="" coords="176,56,255,83"/>
+<area shape="rect" id="node6" href="$classQIODevice.html#a9a8d9bf655a71b5821699a97a78be6be" title="QIODevice::setMode" alt="" coords="143,107,288,133"/>
+<area shape="rect" id="node7" href="$classQIODevice.html#ab8a455c1e81b3382c5db9a65ea70e615" title="QIODevice::setState" alt="" coords="143,157,287,184"/>
+<area shape="rect" id="node8" href="$classQIODevice.html#a16f5a19e0d5dde3ba5e9672974d44b1a" title="QIODevice::setType" alt="" coords="144,208,287,235"/>
+<area shape="rect" id="node4" href="$classQIODevice.html#a9ce695e889efa9145e47195fcc765bf5" title="QIODevice::setFlags" alt="" coords="339,31,484,57"/>
+<area shape="rect" id="node5" href="$classQIODevice.html#a742d895b19b6809d67aa1643baf67639" title="QIODevice::setStatus" alt="" coords="336,81,487,108"/>
+</map>

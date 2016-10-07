@@ -1,0 +1,11 @@
+<map id="QTextStream::ts_getc" name="QTextStream::ts_getc">
+<area shape="rect" id="node2" href="$classQTextStream.html#a76d6275dfc24a8f8c10ba8a0e8973429" title="QTextStream::ts_getbuf" alt="" coords="204,81,367,108"/>
+<area shape="rect" id="node3" href="$classQChar.html#a6412de50d41df09c99e4c93ed4b802dc" title="QChar::networkOrdered" alt="" coords="415,5,575,32"/>
+<area shape="rect" id="node4" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="810,107,919,133"/>
+<area shape="rect" id="node5" href="$classQString.html#a4eb0e1874ad0605cfdaee56eda991ed1" title="QString::constref" alt="" coords="434,107,555,133"/>
+<area shape="rect" id="node6" href="$classQString.html#a1ef65644b1885a7003d5c2a8e88df479" title="QString::mid" alt="" coords="447,183,542,209"/>
+<area shape="rect" id="node7" href="$classQString.html#aa032d4b5892338beb575a85e59bbbf38" title="QString::isEmpty" alt="" coords="629,157,751,184"/>
+<area shape="rect" id="node8" href="$classQString.html#ac17675a27c6e32a31e04f07a5308a9cb" title="QString::QString" alt="" coords="805,233,924,260"/>
+<area shape="rect" id="node9" href="$classQString.html#ab8e9aa9ff378aa3f3e531b26598712e3" title="QString::fromLatin1" alt="" coords="623,259,757,285"/>
+<area shape="rect" id="node10" href="$classQString.html#af653a95345ba3cd5bade2a1e07f2bb58" title="QString::unicode" alt="" coords="631,309,749,336"/>
+</map>

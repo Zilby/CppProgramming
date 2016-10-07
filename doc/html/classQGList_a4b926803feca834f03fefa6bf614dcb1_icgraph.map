@@ -1,0 +1,14 @@
+<map id="QGList::take" name="QGList::take">
+<area shape="rect" id="node2" href="$classQGVector.html#a24cdcea0593a3c9334d130e66c8e2043" title="QGVector::count" alt="" coords="181,173,301,199"/>
+<area shape="rect" id="node11" href="$classQInternalList.html#af64a4279703a3aeb1954937cdf2fa1f2" title="QInternalList\&lt; QCacheItem\l \&gt;::count" alt="" coords="149,224,332,265"/>
+<area shape="rect" id="node12" href="$classQList.html#a1b95250082189972f4b499a529920180" title="QList\&lt; DirDef \&gt;::count" alt="" coords="163,290,318,317"/>
+<area shape="rect" id="node13" href="$classMemberList.html#a38422e3b6e288256a4e3375c90a0a4a4" title="MemberList::count" alt="" coords="175,341,306,367"/>
+<area shape="rect" id="node3" href="$classQGVector.html#ab43b21e4cb61c798ea3fbfbd11cab659" title="QGVector::sort" alt="" coords="419,71,529,98"/>
+<area shape="rect" id="node6" href="$classQGVector.html#a41c23424203379d69bb1a88ee864e4c2" title="QGVector::containsRef" alt="" coords="635,122,793,149"/>
+<area shape="rect" id="node7" href="$classQGVector.html#a763d499783b36d6951f47fb185164b22" title="QGVector::contains" alt="" coords="645,173,783,199"/>
+<area shape="rect" id="node8" href="$classQGVector.html#af81f0f1719b2ef4215cd6014d72c7f44" title="QGVector::write" alt="" coords="416,223,532,250"/>
+<area shape="rect" id="node10" href="$classQVector.html#a7fa63591f2256a78f5ba439cc858b09d" title="QVector\&lt; QList\&lt; IndexWord\l \&gt; \&gt;::count" alt="" coords="380,275,568,316"/>
+<area shape="rect" id="node4" href="$classtranslator_1_1TrManager.html#a84aba0e70020862ec40a29909de43687" title="translator.TrManager.generate\lTranslatorReport" alt="" coords="616,5,812,47"/>
+<area shape="rect" id="node5" href="$classQVector.html#a1d9f67e27cf360cfec05312fd014da7a" title="QVector\&lt; QList\&lt; IndexWord\l \&gt; \&gt;::clear" alt="" coords="860,140,1048,181"/>
+<area shape="rect" id="node9" href="$classQGVector.html#a3dd5cc73b1f0756d0c28791632b23590" title="QGVector::toList" alt="" coords="654,223,774,250"/>
+</map>

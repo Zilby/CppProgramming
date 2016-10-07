@@ -1,0 +1,6 @@
+<map id="MarkdownFileParser::parsePrototype" name="MarkdownFileParser::parsePrototype">
+<area shape="rect" id="node2" href="$classParserManager.html#a69f9874c260df7559242ec5833051ac5" title="Gets the interface to the parser associated with given extension. " alt="" coords="211,31,385,57"/>
+<area shape="rect" id="node5" href="$classParserInterface.html#a5ebf0f524a296845befa22c85a4cc80b" title="Callback function called by the comment block scanner. " alt="" coords="195,81,401,108"/>
+<area shape="rect" id="node3" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="449,5,581,32"/>
+<area shape="rect" id="node4" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="456,56,575,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ErrorHandler::fatalError" name="ErrorHandler::fatalError">
+<area shape="rect" id="node2" href="$classQXmlParseException.html#a342274677e7ea114c23dbb5dda8aa3da" title="QXmlParseException\l::lineNumber" alt="" coords="209,5,356,47"/>
+<area shape="rect" id="node3" href="$classQXmlParseException.html#a0421d03f5e256214046c6141401c7002" title="QXmlParseException\l::columnNumber" alt="" coords="209,71,356,112"/>
+<area shape="rect" id="node4" href="$classQXmlParseException.html#a2079f8dab183efb5f2fe30c686e96f12" title="QXmlParseException\l::message" alt="" coords="209,136,356,177"/>
+<area shape="rect" id="node5" href="$classQString.html#a3fd84b8263c26c6539fe6f5ea1055ee5" title="QString::data" alt="" coords="233,202,332,229"/>
+<area shape="rect" id="node6" href="$classQString.html#ac17675a27c6e32a31e04f07a5308a9cb" title="QString::QString" alt="" coords="404,202,523,229"/>
+</map>

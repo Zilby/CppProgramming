@@ -1,0 +1,12 @@
+<map id="QGDict::hashKeyString" name="QGDict::hashKeyString">
+<area shape="rect" id="node2" href="$classQGDict.html#a1de8c35b775f7918acdf148b5df41fe4" title="QGDict::look_string" alt="" coords="226,81,363,108"/>
+<area shape="rect" id="node11" href="$classQGDict.html#a0ae4a480c3b0336cd9c6a9a41060b629" title="QGDict::unlink_common" alt="" coords="212,132,377,159"/>
+<area shape="rect" id="node3" href="$classQGDict.html#a137d355f22abdcbda8ded8b8736ec117" title="QGDict::QGDict" alt="" coords="431,5,549,32"/>
+<area shape="rect" id="node4" href="$classQGDict.html#a8c4e70b0dee22ada9bf8a41e3c92280d" title="QGDict::operator=" alt="" coords="425,56,555,83"/>
+<area shape="rect" id="node5" href="$classQGDict.html#a926ff48cc6b011ab9d40dd930c5eb8e7" title="QGDict::resize" alt="" coords="611,107,721,133"/>
+<area shape="rect" id="node9" href="$classQGDict.html#a698c24588a7688bd9c618c17ba2fd7bb" title="QGDict::read" alt="" coords="441,157,539,184"/>
+<area shape="rect" id="node6" href="$classQAsciiDict.html#a544cec757a84773073971b0a9d3e5e55" title="QAsciiDict\&lt; Entry \&gt;\l::clear" alt="" coords="796,59,936,101"/>
+<area shape="rect" id="node7" href="$classQIntDict.html#a7cc8164a6c6865c52151920c428d13ed" title="QIntDict\&lt; SearchIndexList\l \&gt;::clear" alt="" coords="777,125,955,166"/>
+<area shape="rect" id="node8" href="$classQPtrDict.html#a26c647f903df9b82bc131b482f7d6900" title="QPtrDict::clear" alt="" coords="811,191,921,217"/>
+<area shape="rect" id="node10" href="$classQGDict.html#a6293553459bc0566a6043cc0d4f8be7c" title="QGDict::statistics" alt="" coords="603,157,729,184"/>
+</map>

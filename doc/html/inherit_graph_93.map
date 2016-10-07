@@ -1,0 +1,92 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCompAccept.html" title="CompAccept\&lt; DocAutoList \&gt;" alt="" coords="25,5,219,32"/>
+<area shape="rect" id="node2" href="$classDocAutoList.html" title="Node representing an auto List. " alt="" coords="311,7,405,33"/>
+<area shape="rect" id="node3" href="$classCompAccept.html" title="CompAccept\&lt; DocAutoListItem \&gt;" alt="" coords="12,56,232,83"/>
+<area shape="rect" id="node4" href="$classDocAutoListItem.html" title="Node representing an item of a auto list. " alt="" coords="298,57,418,84"/>
+<area shape="rect" id="node5" href="$classCompAccept.html" title="CompAccept\&lt; DocDiaFile \&gt;" alt="" coords="29,107,215,133"/>
+<area shape="rect" id="node6" href="$classDocDiaFile.html" title="Node representing a dia file. " alt="" coords="315,109,401,136"/>
+<area shape="rect" id="node7" href="$classCompAccept.html" title="CompAccept\&lt; DocDotFile \&gt;" alt="" coords="28,157,216,184"/>
+<area shape="rect" id="node8" href="$classDocDotFile.html" title="Node representing a dot file. " alt="" coords="314,161,402,188"/>
+<area shape="rect" id="node9" href="$classCompAccept.html" title="CompAccept\&lt; DocHRef \&gt;" alt="" coords="33,208,211,235"/>
+<area shape="rect" id="node10" href="$classDocHRef.html" title="Node representing a Hypertext reference. " alt="" coords="319,215,397,241"/>
+<area shape="rect" id="node11" href="$classCompAccept.html" title="CompAccept\&lt; DocHtmlBlock\lQuote \&gt;" alt="" coords="25,259,219,301"/>
+<area shape="rect" id="node12" href="$classDocHtmlBlockQuote.html" title="Node representing an HTML blockquote. " alt="" coords="287,271,429,297"/>
+<area shape="rect" id="node13" href="$classCompAccept.html" title="CompAccept\&lt; DocHtmlCaption \&gt;" alt="" coords="13,325,231,352"/>
+<area shape="rect" id="node14" href="$classDocHtmlCaption.html" title="Node representing a HTML table caption. " alt="" coords="299,325,417,352"/>
+<area shape="rect" id="node15" href="$classCompAccept.html" title="CompAccept\&lt; DocHtmlCell \&gt;" alt="" coords="23,376,221,403"/>
+<area shape="rect" id="node16" href="$classDocHtmlCell.html" title="Node representing a HTML table cell. " alt="" coords="309,376,407,403"/>
+<area shape="rect" id="node17" href="$classCompAccept.html" title="CompAccept\&lt; DocHtmlDescData \&gt;" alt="" coords="5,427,239,453"/>
+<area shape="rect" id="node18" href="$classDocHtmlDescData.html" title="Node representing a HTML description data. " alt="" coords="291,427,425,453"/>
+<area shape="rect" id="node19" href="$classCompAccept.html" title="CompAccept\&lt; DocHtmlDescList \&gt;" alt="" coords="9,477,235,504"/>
+<area shape="rect" id="node20" href="$classDocHtmlDescList.html" title="Node representing a Html description list. " alt="" coords="295,477,421,504"/>
+<area shape="rect" id="node21" href="$classCompAccept.html" title="CompAccept\&lt; DocHtmlDescTitle \&gt;" alt="" coords="7,528,237,555"/>
+<area shape="rect" id="node22" href="$classDocHtmlDescTitle.html" title="Node representing a Html description item. " alt="" coords="293,528,423,555"/>
+<area shape="rect" id="node23" href="$classCompAccept.html" title="CompAccept\&lt; DocHtmlHeader \&gt;" alt="" coords="14,579,230,605"/>
+<area shape="rect" id="node24" href="$classDocHtmlHeader.html" title="Node Html heading. " alt="" coords="300,579,416,605"/>
+<area shape="rect" id="node25" href="$classCompAccept.html" title="CompAccept\&lt; DocHtmlList \&gt;" alt="" coords="25,629,219,656"/>
+<area shape="rect" id="node26" href="$classDocHtmlList.html" title="Node representing a Html list. " alt="" coords="311,629,405,656"/>
+<area shape="rect" id="node27" href="$classCompAccept.html" title="CompAccept\&lt; DocHtmlListItem \&gt;" alt="" coords="11,680,233,707"/>
+<area shape="rect" id="node28" href="$classDocHtmlListItem.html" title="Node representing a HTML list item. " alt="" coords="297,680,419,707"/>
+<area shape="rect" id="node29" href="$classCompAccept.html" title="CompAccept\&lt; DocHtmlRow \&gt;" alt="" coords="21,1693,223,1720"/>
+<area shape="rect" id="node30" href="$classDocHtmlRow.html" title="Node representing a HTML table row. " alt="" coords="307,1693,409,1720"/>
+<area shape="rect" id="node31" href="$classCompAccept.html" title="CompAccept\&lt; DocHtmlTable \&gt;" alt="" coords="19,1744,225,1771"/>
+<area shape="rect" id="node32" href="$classDocHtmlTable.html" title="Node representing a HTML table. " alt="" coords="305,1744,411,1771"/>
+<area shape="rect" id="node33" href="$classCompAccept.html" title="CompAccept\&lt; DocImage \&gt;" alt="" coords="31,1795,213,1821"/>
+<area shape="rect" id="node34" href="$classDocImage.html" title="Node representing an image. " alt="" coords="317,1795,399,1821"/>
+<area shape="rect" id="node35" href="$classCompAccept.html" title="CompAccept\&lt; DocInternal \&gt;" alt="" coords="27,1845,217,1872"/>
+<area shape="rect" id="node36" href="$classDocInternal.html" title="Node representing an internal section of documentation. " alt="" coords="313,1845,403,1872"/>
+<area shape="rect" id="node37" href="$classCompAccept.html" title="CompAccept\&lt; DocInternalRef \&gt;" alt="" coords="17,1896,227,1923"/>
+<area shape="rect" id="node38" href="$classDocInternalRef.html" title="Node representing an internal reference to some item. " alt="" coords="303,1896,413,1923"/>
+<area shape="rect" id="node39" href="$classCompAccept.html" title="CompAccept\&lt; DocLink \&gt;" alt="" coords="37,1947,207,1973"/>
+<area shape="rect" id="node40" href="$classDocLink.html" title="Node representing a link to some item. " alt="" coords="323,1947,393,1973"/>
+<area shape="rect" id="node41" href="$classCompAccept.html" title="CompAccept\&lt; DocMscFile \&gt;" alt="" coords="26,1997,218,2024"/>
+<area shape="rect" id="node42" href="$classDocMscFile.html" title="Node representing a msc file. " alt="" coords="312,1997,404,2024"/>
+<area shape="rect" id="node43" href="$classCompAccept.html" title="CompAccept\&lt; DocPara \&gt;" alt="" coords="35,2048,209,2075"/>
+<area shape="rect" id="node44" href="$classDocPara.html" title="Node representing a paragraph in the documentation tree. " alt="" coords="321,2048,395,2075"/>
+<area shape="rect" id="node45" href="$classCompAccept.html" title="CompAccept\&lt; DocParamSect \&gt;" alt="" coords="17,2099,227,2125"/>
+<area shape="rect" id="node46" href="$classDocParamSect.html" title="Node representing a parameter section. " alt="" coords="303,2099,413,2125"/>
+<area shape="rect" id="node47" href="$classCompAccept.html" title="CompAccept\&lt; DocParBlock \&gt;" alt="" coords="23,2149,221,2176"/>
+<area shape="rect" id="node48" href="$classDocParBlock.html" title="Node representing an block of paragraphs. " alt="" coords="309,2149,407,2176"/>
+<area shape="rect" id="node49" href="$classCompAccept.html" title="CompAccept\&lt; DocRef \&gt;" alt="" coords="39,2200,205,2227"/>
+<area shape="rect" id="node50" href="$classDocRef.html" title="Node representing a reference to some item. " alt="" coords="325,2200,391,2227"/>
+<area shape="rect" id="node51" href="$classCompAccept.html" title="CompAccept\&lt; DocRoot \&gt;" alt="" coords="35,2251,209,2277"/>
+<area shape="rect" id="node52" href="$classDocRoot.html" title="Root node of documentation tree. " alt="" coords="321,2251,395,2277"/>
+<area shape="rect" id="node53" href="$classCompAccept.html" title="CompAccept\&lt; DocSecRefItem \&gt;" alt="" coords="14,2301,230,2328"/>
+<area shape="rect" id="node54" href="$classDocSecRefItem.html" title="Node representing a reference to a section. " alt="" coords="300,2301,416,2328"/>
+<area shape="rect" id="node55" href="$classCompAccept.html" title="CompAccept\&lt; DocSecRefList \&gt;" alt="" coords="17,2352,227,2379"/>
+<area shape="rect" id="node56" href="$classDocSecRefList.html" title="Node representing a list of section references. " alt="" coords="303,2352,413,2379"/>
+<area shape="rect" id="node57" href="$classCompAccept.html" title="CompAccept\&lt; DocSection \&gt;" alt="" coords="27,2403,217,2429"/>
+<area shape="rect" id="node58" href="$classDocSection.html" title="Node representing a normal section. " alt="" coords="313,2403,403,2429"/>
+<area shape="rect" id="node59" href="$classCompAccept.html" title="CompAccept\&lt; DocSimpleList \&gt;" alt="" coords="19,2453,225,2480"/>
+<area shape="rect" id="node60" href="$classDocSimpleList.html" title="Node representing a simple list. " alt="" coords="305,2453,411,2480"/>
+<area shape="rect" id="node61" href="$classCompAccept.html" title="CompAccept\&lt; DocSimpleSect \&gt;" alt="" coords="15,2504,229,2531"/>
+<area shape="rect" id="node62" href="$classDocSimpleSect.html" title="Node representing a simple section. " alt="" coords="301,2504,415,2531"/>
+<area shape="rect" id="node63" href="$classCompAccept.html" title="CompAccept\&lt; DocText \&gt;" alt="" coords="36,2555,208,2581"/>
+<area shape="rect" id="node64" href="$classDocText.html" title="Root node of a text fragment. " alt="" coords="322,2555,394,2581"/>
+<area shape="rect" id="node65" href="$classCompAccept.html" title="CompAccept\&lt; DocTitle \&gt;" alt="" coords="37,2605,207,2632"/>
+<area shape="rect" id="node66" href="$classDocTitle.html" title="Node representing a simple section title. " alt="" coords="323,2605,393,2632"/>
+<area shape="rect" id="node67" href="$classCompAccept.html" title="CompAccept\&lt; DocVhdlFlow \&gt;" alt="" coords="22,2656,222,2683"/>
+<area shape="rect" id="node68" href="$classDocVhdlFlow.html" title="Node representing a VHDL flow chart. " alt="" coords="308,2656,408,2683"/>
+<area shape="rect" id="node69" href="$classCompAccept.html" title="CompAccept\&lt; DocXRefItem \&gt;" alt="" coords="21,2707,223,2733"/>
+<area shape="rect" id="node70" href="$classDocXRefItem.html" title="Node representing an item of a cross&#45;referenced list. " alt="" coords="307,2707,409,2733"/>
+<area shape="rect" id="node71" href="$classDocNode.html" title="Abstract node interface with type information. " alt="" coords="83,1364,161,1391"/>
+<area shape="rect" id="node72" href="$classDocAnchor.html" title="Node representing an anchor. " alt="" coords="315,1237,401,1264"/>
+<area shape="rect" id="node73" href="$classDocCite.html" title="Node representing a citation of some bibliographic reference. " alt="" coords="323,1288,393,1315"/>
+<area shape="rect" id="node74" href="$classDocCopy.html" title="Node representing a copy of documentation block. " alt="" coords="319,1339,397,1365"/>
+<area shape="rect" id="node75" href="$classDocFormula.html" title="Node representing an item of a cross&#45;referenced list. " alt="" coords="311,1389,405,1416"/>
+<area shape="rect" id="node76" href="$classDocHorRuler.html" title="Node representing a horizonal ruler. " alt="" coords="309,1440,407,1467"/>
+<area shape="rect" id="node77" href="$classDocInclude.html" title="Node representing an included text block from file. " alt="" coords="314,1491,402,1517"/>
+<area shape="rect" id="node78" href="$classDocIncOperator.html" title="Node representing a include/dontinclude operator block. " alt="" coords="301,1541,415,1568"/>
+<area shape="rect" id="node79" href="$classDocIndexEntry.html" title="Node representing an entry in the index. " alt="" coords="303,1592,413,1619"/>
+<area shape="rect" id="node80" href="$classDocLineBreak.html" title="Node representing a line break. " alt="" coords="306,1643,410,1669"/>
+<area shape="rect" id="node81" href="$classDocLinkedWord.html" title="Node representing a word that can be linked to something. " alt="" coords="301,731,415,757"/>
+<area shape="rect" id="node82" href="$classDocParamList.html" title="Node representing a parameter list. " alt="" coords="305,781,411,808"/>
+<area shape="rect" id="node83" href="$classDocSimpleListItem.html" title="Node representing a simple list item. " alt="" coords="291,832,425,859"/>
+<area shape="rect" id="node84" href="$classDocSimpleSectSep.html" title="Node representing a separator between two simple sections of the same type. " alt="" coords="290,883,426,909"/>
+<area shape="rect" id="node85" href="$classDocStyleChange.html" title="Node representing a style change. " alt="" coords="297,933,419,960"/>
+<area shape="rect" id="node86" href="$classDocSymbol.html" title="Node representing a special symbol. " alt="" coords="313,984,403,1011"/>
+<area shape="rect" id="node87" href="$classDocURL.html" title="Node representing an URL (or email address) " alt="" coords="321,1035,395,1061"/>
+<area shape="rect" id="node88" href="$classDocVerbatim.html" title="Node representing a verbatim, unparsed text fragment. " alt="" coords="309,1085,407,1112"/>
+<area shape="rect" id="node89" href="$classDocWhiteSpace.html" title="Node representing some amount of white space. " alt="" coords="299,1136,417,1163"/>
+<area shape="rect" id="node90" href="$classDocWord.html" title="Node representing a word. " alt="" coords="319,1187,397,1213"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="MarkdownFileParser::resetCodeParserState" name="MarkdownFileParser::resetCodeParserState">
+<area shape="rect" id="node2" href="$classParserManager.html#a69f9874c260df7559242ec5833051ac5" title="Gets the interface to the parser associated with given extension. " alt="" coords="214,31,389,57"/>
+<area shape="rect" id="node5" href="$classParserInterface.html#aee4fccd1865a4e8a6b9f2896811104ca" title="Resets the state of the code parser. " alt="" coords="212,82,391,123"/>
+<area shape="rect" id="node3" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="439,5,571,32"/>
+<area shape="rect" id="node4" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="445,56,564,83"/>
+</map>

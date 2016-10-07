@@ -1,0 +1,6 @@
+<map id="QBuffer::putch" name="QBuffer::putch">
+<area shape="rect" id="node2" href="$classQIODevice.html#a291d97cdb38c1cd261bfbaa67a9d3923" title="QIODevice::isOpen" alt="" coords="353,5,489,32"/>
+<area shape="rect" id="node3" href="$classQIODevice.html#ab033a6ee76263214267daf8b62ade3c7" title="QIODevice::isWritable" alt="" coords="344,107,497,133"/>
+<area shape="rect" id="node4" href="$classQBuffer.html#ad8bdac07e525a782d0759d3082bb296a" title="QBuffer::writeBlock" alt="" coords="160,56,296,83"/>
+<area shape="rect" id="node5" href="$classQIODevice.html#a742d895b19b6809d67aa1643baf67639" title="QIODevice::setStatus" alt="" coords="345,56,496,83"/>
+</map>

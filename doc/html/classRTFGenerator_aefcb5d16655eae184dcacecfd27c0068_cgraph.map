@@ -1,0 +1,5 @@
+<map id="RTFGenerator::endParagraph" name="RTFGenerator::endParagraph">
+<area shape="rect" id="node2" href="$classTranslator.html#a9953a4c0e6a4fc7d017abcd5c2939e0f" title="Translator::trRTFansicp" alt="" coords="247,5,407,32"/>
+<area shape="rect" id="node3" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="272,56,381,83"/>
+<area shape="rect" id="node4" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="261,107,393,133"/>
+</map>

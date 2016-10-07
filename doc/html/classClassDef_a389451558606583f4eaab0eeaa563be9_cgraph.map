@@ -1,0 +1,10 @@
+<map id="ClassDef::hasNonReferenceSuperClass" name="ClassDef::hasNonReferenceSuperClass">
+<area shape="rect" id="node2" href="$classClassDef.html#a9a6dbef98acabb06d9e1792e3c82c800" title="Returns TRUE if this class is imported via a tag file. " alt="" coords="274,32,429,59"/>
+<area shape="rect" id="node5" href="$classClassDef.html#a54fd0971529bf396c31a2a5c67acbea7" title="returns TRUE iff a link is possible to this item within this project. " alt="" coords="254,132,449,159"/>
+<area shape="rect" id="node8" href="$classDefinition.html#a4f303fc4a5c9be7ab8160cf1792e7bda" title="Definition::isHidden" alt="" coords="516,208,652,235"/>
+<area shape="rect" id="node9" href="$classClassDef.html#a9da726ec3c85179bc82594908a34afc4" title="Returns a sorted dictionary with all template instances found for this template class. " alt="" coords="244,233,459,260"/>
+<area shape="rect" id="node3" href="$classDefinition.html#a8405121cdc0253ec9633a87500ac47ba" title="Definition::isReference" alt="" coords="507,5,661,32"/>
+<area shape="rect" id="node4" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="709,31,841,57"/>
+<area shape="rect" id="node6" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="525,107,643,133"/>
+<area shape="rect" id="node7" href="$classDefinition.html#a24d80ca0884834c9e767482af37b7248" title="Definition::isArtificial" alt="" coords="513,157,655,184"/>
+</map>

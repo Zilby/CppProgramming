@@ -1,0 +1,4 @@
+<map id="Store" name="Store">
+<area shape="rect" id="node2" href="$classStorageIntf.html" title="Abstract interface for file based memory storage operations. " alt="" coords="5,5,120,112"/>
+<area shape="rect" id="node3" href="$structStore_1_1Node.html" title="{Store::Node\n|+ pos\l|}" alt="" coords="145,20,237,97"/>
+</map>

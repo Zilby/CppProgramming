@@ -1,0 +1,13 @@
+<map id="DotRunnerQueue" name="DotRunnerQueue">
+<area shape="rect" id="node2" href="$classQWaitCondition.html" title="{QWaitCondition\n||+ QWaitCondition()\l+ ~QWaitCondition()\l+ wait()\l+ wakeOne()\l+ wakeAll()\l&#45; QWaitCondition()\l&#45; operator=()\l}" alt="" coords="184,1780,327,1945"/>
+<area shape="rect" id="node3" href="$classQWaitConditionPrivate.html" title="{QWaitConditionPrivate\n|+ mutex\l+ cond\l+ waiters\l+ wakeups\l|+ wait()\l+ pre()\l+ wait()\l+ post()\l}" alt="" coords="178,1552,333,1717"/>
+<area shape="rect" id="node4" href="$classQMutex.html" title="{QMutex\n||+ QMutex()\l+ ~QMutex()\l+ lock()\l+ tryLock()\l+ unlock()\l&#45; QMutex()\l&#45; operator=()\l}" alt="" coords="86,1309,182,1475"/>
+<area shape="rect" id="node5" href="$classQMutexPrivate.html" title="{QMutexPrivate\n|+ wakeup\l+ mutex\l+ cond\l|+ QMutexPrivate()\l+ ~QMutexPrivate()\l+ wait()\l+ wakeUp()\l}" alt="" coords="5,755,143,905"/>
+<area shape="rect" id="node6" href="$classQAtomicInt.html" title="{QAtomicInt\n|&#45; m_value\l|+ QAtomicInt()\l+ testAndSet()\l+ fetchAndAdd()\l+ operator int()\l+ operator==()\l+ operator!=()\l+ operator!()\l}" alt="" coords="15,380,133,545"/>
+<area shape="rect" id="node7" href="$classEventQueue.html" title="{EventQueue\n||+ EventQueue()\l+ ~EventQueue()\l}" alt="" coords="206,1346,329,1438"/>
+<area shape="rect" id="node8" href="$classQInternalList.html" title="{QInternalList\&lt; QWaitCondition\lEvent \&gt;\n||+ QInternalList()\l+ QInternalList()\l+ ~QInternalList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 30 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="167,696,367,964"/>
+<area shape="rect" id="node9" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="259,292,414,633"/>
+<area shape="rect" id="node12" href="$classQQueue.html" title="{QQueue\&lt; DotRunner \&gt;\n||+ QQueue()\l+ QQueue()\l+ ~QQueue()\l+ operator=()\l+ autoDelete()\l+ setAutoDelete()\l+ count()\l+ isEmpty()\l+ enqueue()\l+ dequeue()\l+ remove()\l+ clear()\l+ head()\l+ operator DotRunner *()\l+ current()\l&#45; deleteItem()\l}" alt="" coords="321,988,486,1285"/>
+<area shape="rect" id="node10" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="230,5,355,200"/>
+<area shape="rect" id="node11" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="379,57,467,149"/>
+</map>

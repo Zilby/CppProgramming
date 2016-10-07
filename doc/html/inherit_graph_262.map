@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structObject.html" title="Object" alt="" coords="5,31,65,57"/>
+<area shape="rect" id="node2" href="$interfaceInteger.html" title="An interface. " alt="" coords="115,5,177,32"/>
+<area shape="rect" id="node3" href="$structVehicle.html" title="Vehicle" alt="" coords="113,56,179,83"/>
+<area shape="rect" id="node4" href="$structCar.html" title="Car" alt="" coords="233,31,275,57"/>
+<area shape="rect" id="node5" href="$structTruck.html" title="Truck" alt="" coords="227,81,281,108"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QIODevice::atEnd" name="QIODevice::atEnd">
+<area shape="rect" id="node2" href="$classQIODevice.html#ab0c6f50325bbf1e860aed41f3bfa498c" title="QIODevice::isSequentialAccess" alt="" coords="183,5,393,32"/>
+<area shape="rect" id="node3" href="$classQIODevice.html#abf1df3cc1e0734c784c9d8eff82908c0" title="QIODevice::isTranslated" alt="" coords="205,56,371,83"/>
+<area shape="rect" id="node4" href="$classQIODevice.html#a7cef61d66023f9cda6b0912082bd19fc" title="QIODevice::getch" alt="" coords="225,107,351,133"/>
+<area shape="rect" id="node5" href="$classQIODevice.html#aae3d67422103e8fc0411297b1d62c29a" title="QIODevice::ungetch" alt="" coords="217,157,359,184"/>
+<area shape="rect" id="node6" href="$classQIODevice.html#a0dee1db4a9e506924ccac6982ffdf3df" title="QIODevice::at" alt="" coords="235,208,341,235"/>
+<area shape="rect" id="node7" href="$classQIODevice.html#a60c4146763625213ac7aa29f1f071592" title="QIODevice::size" alt="" coords="229,259,347,285"/>
+</map>

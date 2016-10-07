@@ -1,0 +1,14 @@
+<map id="ParserInterface::parseCode" name="ParserInterface::parseCode">
+<area shape="rect" id="node2" href="$classTranslateContext.html#ab0fad4b75cd53cb3c22e8e1adee1c260" title="Gets the value for a field name. " alt="" coords="257,13,405,39"/>
+<area shape="rect" id="node3" href="$classDefinition.html#ad5ad17068a22165040e5b256c564c603" title="Definition::writeInlineCode" alt="" coords="244,63,419,90"/>
+<area shape="rect" id="node4" href="$classMarkdownFileParser.html#a4413366ce7b6f7e41a2b232ce2ad6170" title="Parses a source file or fragment with the goal to produce highlighted and cross&#45;referenced output..." alt="" coords="261,115,402,156"/>
+<area shape="rect" id="node6" href="$classVhdlDocGen.html#abdbd7a613237d2a86532bfe548209a1d" title="VhdlDocGen::writeStringLink" alt="" coords="236,181,427,207"/>
+<area shape="rect" id="node5" href="$classMarkdownFileParser.html#ae53b811156b426b03f4ea8f634141133" title="Returns TRUE if the language identified by extension needs the C preprocessor to be run before feed t..." alt="" coords="504,115,652,156"/>
+<area shape="rect" id="node7" href="$classVhdlDocGen.html#a0b58904c2803fe64c007b6c3ddda086e" title="VhdlDocGen::writeFormatString" alt="" coords="475,181,681,207"/>
+<area shape="rect" id="node8" href="$classVhdlDocGen.html#aacccadab8f7d60dc0e4b2892ea724c2b" title="VhdlDocGen::formatString" alt="" coords="732,130,907,157"/>
+<area shape="rect" id="node12" href="$classVhdlDocGen.html#a8c40c856602e19b4fe421c9572d618b7" title="VhdlDocGen::writeFuncProcDocu" alt="" coords="957,189,1176,215"/>
+<area shape="rect" id="node13" href="$classVhdlDocGen.html#a94ad80db8536156393a701496506c052" title="VhdlDocGen::writeProcess\lProto" alt="" coords="729,232,909,273"/>
+<area shape="rect" id="node9" href="$classVhdlDocGen.html#a94da80078b9bba291b1c1af056eca6a4" title="VhdlDocGen::writeProcedure\lProto" alt="" coords="971,5,1162,47"/>
+<area shape="rect" id="node10" href="$classVhdlDocGen.html#ac5c7235e2572f9dab6475d5af835e437" title="VhdlDocGen::writeVHDLDeclaration" alt="" coords="1224,101,1459,127"/>
+<area shape="rect" id="node11" href="$classVhdlDocGen.html#ab1d66321a2c118a9376b65aeb598a49c" title="VhdlDocGen::writeFunction\lProto" alt="" coords="975,123,1158,164"/>
+</map>

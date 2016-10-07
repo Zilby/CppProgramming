@@ -1,0 +1,5 @@
+<map id="getUtf8CodeToUpper" name="getUtf8CodeToUpper">
+<area shape="rect" id="node2" href="$util_8h.html#a930405bb00bc19afb709e39dec56155b" title="Get one unicode character as an unsigned integer from utf&#45;8 string. " alt="" coords="200,31,296,57"/>
+<area shape="rect" id="node3" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="344,5,463,32"/>
+<area shape="rect" id="node4" href="$classQCString.html#a3917c144e26bc525d588c1dff602be00" title="Returns a reference to the character at index i. " alt="" coords="356,56,451,83"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="InputStrList" name="InputStrList">
+<area shape="rect" id="node3" href="$classInput.html" title="{Input\n||+ ~Input()\l+ value()\l+ update()\l+ kind()\l+ docs()\l+ id()\l+ templateDocs()\l+ addDependency()\l+ setEnabled()\l+ updateDependencies()\l+ reset()\l+ writeValue()\l+ setTemplateDocs()\l}" alt="" coords="100,1954,264,2207"/>
+<area shape="rect" id="node4" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="256,564,391,1096"/>
+<area shape="rect" id="node12" href="$classQValueListNode.html" title="{QValueListNode\&lt; QString \&gt;\n||+ QValueListNode()\l+ QValueListNode()\l}" alt="" coords="159,1159,344,1251"/>
+<area shape="rect" id="node5" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="325,365,423,443"/>
+<area shape="rect" id="node6" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="178,321,301,487"/>
+<area shape="rect" id="node7" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="74,79,167,185"/>
+<area shape="rect" id="node11" href="$classQValueListPrivate.html" title="{QValueListPrivate\&lt;\l QString \&gt;\n|+ nodes\l|+ QValueListPrivate()\l+ QValueListPrivate()\l+ derefAndDelete()\l+ ~QValueListPrivate()\l+ insert()\l+ remove()\l+ remove()\l+ find()\l+ findIndex()\l+ contains()\l+ at()\l+ clear()\l}" alt="" coords="174,1313,329,1567"/>
+<area shape="rect" id="node8" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="192,5,327,259"/>
+<area shape="rect" id="node9" href="$classQStringList.html" title="A list of strings. " alt="" coords="289,1947,395,2215"/>
+<area shape="rect" id="node10" href="$classQValueList.html" title="{QValueList\&lt; QString \&gt;\n||+ QValueList()\l+ QValueList()\l+ ~QValueList()\l+ operator=()\l+ operator+()\l+ operator+=()\l+ operator+=()\l+ operator==()\l+ operator!=()\l+ begin()\land 28 more...\l# detach()\l}" alt="" coords="233,1659,387,1897"/>
+</map>

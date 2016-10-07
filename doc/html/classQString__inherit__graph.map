@@ -1,0 +1,4 @@
+<map id="QString" name="QString">
+<area shape="rect" id="node2" href="$classQConstString.html" title="A QString which uses constant Unicode data. " alt="" coords="5,659,135,765"/>
+<area shape="rect" id="node3" href="$classStringImpl.html" title="{StringImpl\n||+ StringImpl()\l+ StringImpl()\l+ operator=()\l+ ~StringImpl()\l+ latin1()\l+ utf8()\l+ unicodeCharAt()\l+ isEmpty()\l+ length()\l}" alt="" coords="159,615,287,809"/>
+</map>

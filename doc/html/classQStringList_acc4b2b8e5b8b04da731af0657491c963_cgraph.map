@@ -1,0 +1,8 @@
+<map id="QStringList::QStringList" name="QStringList::QStringList">
+<area shape="rect" id="node2" href="$classQDataStream.html#aebb5fe86181c3a74f7b6c0fa95c10bb0" title="QDataStream::operator\&gt;\&gt;" alt="" coords="213,56,387,83"/>
+<area shape="rect" id="node5" href="$classQDataStream.html#acfee699863f4dfd77304a28fb0f777b0" title="QDataStream::operator\&lt;\&lt;" alt="" coords="213,107,387,133"/>
+<area shape="rect" id="node3" href="$classQIODevice.html#a7cef61d66023f9cda6b0912082bd19fc" title="QIODevice::getch" alt="" coords="449,5,576,32"/>
+<area shape="rect" id="node4" href="$classQIODevice.html#a71f10647e4bd98141f45362b9a06983a" title="QIODevice::readBlock" alt="" coords="436,56,589,83"/>
+<area shape="rect" id="node6" href="$classQIODevice.html#a5d937df1bde2f956872dd54e077807d1" title="QIODevice::writeBlock" alt="" coords="435,107,591,133"/>
+<area shape="rect" id="node7" href="$classQIODevice.html#a5de5c1c1cba7ca36ba93289e30cd3029" title="QIODevice::putch" alt="" coords="449,157,576,184"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="LayoutDocEntrySection" name="LayoutDocEntrySection">
+<area shape="rect" id="node2" href="$structLayoutDocEntrySimple.html" title="Represents of a piece of a documentation page without configurable parts. " alt="" coords="5,1007,181,1099"/>
+<area shape="rect" id="node3" href="$structLayoutDocEntry.html" title="Base class representing a piece of a documentation page. " alt="" coords="21,721,165,813"/>
+<area shape="rect" id="node4" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="205,941,312,1165"/>
+<area shape="rect" id="node5" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="190,655,333,879"/>
+<area shape="rect" id="node6" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="169,500,354,592"/>
+<area shape="rect" id="node7" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="113,331,287,437"/>
+<area shape="rect" id="node8" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="311,345,481,423"/>
+<area shape="rect" id="node9" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="332,147,460,268"/>
+<area shape="rect" id="node10" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="325,5,467,97"/>
+</map>

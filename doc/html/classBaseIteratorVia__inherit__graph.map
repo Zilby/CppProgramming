@@ -1,0 +1,4 @@
+<map id="BaseIteratorVia&lt; Intf, ElemIntf, ElemImpl, Intermediate &gt;" name="BaseIteratorVia&lt; Intf, ElemIntf, ElemImpl, Intermediate &gt;">
+<area shape="rect" id="node3" href="$classQListIterator.html" title="{QListIterator\&lt; ElemImpl \&gt;\n||+ QListIterator()\l+ ~QListIterator()\l+ count()\l+ isEmpty()\l+ atFirst()\l+ atLast()\l+ toFirst()\l+ toLast()\l+ operator ElemImpl *()\l+ operator*()\land 7 more...\l}" alt="" coords="71,336,245,560"/>
+<area shape="rect" id="node4" href="$classQGListIterator.html" title="The QGListIterator class is an internal class for implementing QListIterator. " alt="" coords="93,5,223,288"/>
+</map>

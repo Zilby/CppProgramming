@@ -1,0 +1,9 @@
+<map id="MemberEntry" name="MemberEntry">
+<area shape="rect" id="node2" href="$structIndexEntry.html" title="{IndexEntry\n||}" alt="" coords="61,1173,146,1251"/>
+<area shape="rect" id="node8" href="$structCompoundEntry.html" title="{CompoundEntry\n|+ memberDict\l|+ CompoundEntry()\l}" alt="" coords="125,1300,261,1377"/>
+<area shape="rect" id="node3" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="36,564,171,1096"/>
+<area shape="rect" id="node4" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="5,365,103,443"/>
+<area shape="rect" id="node5" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="127,321,250,487"/>
+<area shape="rect" id="node6" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="97,79,190,185"/>
+<area shape="rect" id="node7" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="215,5,349,259"/>
+</map>

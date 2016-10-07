@@ -1,0 +1,9 @@
+<map id="DocNode::kind" name="DocNode::kind">
+<area shape="rect" id="node2" href="$classDocHtmlTable.html#a8252a73bf19e6fcbf924a12c5d132815" title="determines the location of all cells in a grid, resolving row and column spans. " alt="" coords="163,5,383,32"/>
+<area shape="rect" id="node3" href="$classDocSimpleSect.html#a83c0f2c289b0d15403d1adf94c98982d" title="DocSimpleSect::accept" alt="" coords="193,56,353,83"/>
+<area shape="rect" id="node4" href="$classDocNode.html#a024e5ba89b140e83416f9f85f5f6d036" title="DocNode::~DocNode" alt="" coords="199,107,347,133"/>
+<area shape="rect" id="node5" href="$classDocHtmlRow.html#a1b62250676fc8c1223c94fbc61beeb0e" title="DocHtmlRow::accept" alt="" coords="199,157,347,184"/>
+<area shape="rect" id="node6" href="$classDocHtmlTable.html#affb4a9eac5912bbb97720e9f320d5875" title="DocHtmlTable::kind" alt="" coords="203,208,342,235"/>
+<area shape="rect" id="node7" href="$classHtmlDocVisitor.html#a5e2999e512603367830e92828bc6e86b" title="Used for items found inside a paragraph, which due to XHTML restrictions have to be outside of the pa..." alt="" coords="187,259,358,301"/>
+<area shape="rect" id="node8" href="$classHtmlDocVisitor.html#a2f7f8daf160d5a7a709aea1ed8596231" title="Used for items found inside a paragraph, which due to XHTML restrictions have to be outside of the pa..." alt="" coords="185,325,361,366"/>
+</map>

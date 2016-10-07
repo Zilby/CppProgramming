@@ -1,0 +1,49 @@
+<map id="Definition::getLanguage" name="Definition::getLanguage">
+<area shape="rect" id="node2" href="$classClassDef.html#aa891187c2712372f19ee6c202df24fec" title="Returns the name as it is appears in the documentation. " alt="" coords="986,187,1147,213"/>
+<area shape="rect" id="node5" href="$classMemberDef.html#a2a703ac083e9314dc800df330f3eb683" title="MemberDef::isLinkable" alt="" coords="1528,1057,1684,1084"/>
+<area shape="rect" id="node16" href="$classClassDef.html#a9328a0882c11c64da2ff34a77a67d5a6" title="ClassDef::internalInsert\lMember" alt="" coords="987,54,1147,95"/>
+<area shape="rect" id="node18" href="$classClassDef.html#ae82303a3ca4f00eafe79322a56263887" title="returns TRUE if this class has a non&#45;empty detailed description " alt="" coords="1225,643,1445,669"/>
+<area shape="rect" id="node19" href="$classClassDef.html#a5c0ec6a3c4ebf12f8c703dbdfdc36e97" title="Write class documentation inside another container (i.e. " alt="" coords="1219,389,1451,416"/>
+<area shape="rect" id="node20" href="$classClassDef.html#a91edf0e1d111bb5b90561af28ec93409" title="ClassDef::mergeMembers" alt="" coords="1247,136,1422,163"/>
+<area shape="rect" id="node21" href="$classClassDef.html#aa9f6b0d40e7eedee9a80810051fdc6c7" title="Returns the type of compound as a string. " alt="" coords="963,237,1171,264"/>
+<area shape="rect" id="node22" href="$classClassDef.html#ac207abeb9986e58ea9ec4362125e0de2" title="Returns the template parameter lists that form the template declaration of this class. " alt="" coords="459,515,677,557"/>
+<area shape="rect" id="node23" href="$classClassDef.html#a67e54a054e5063b25e7fe86257e3225c" title="Returns the name of the class including outer classes, but not including namespaces. " alt="" coords="235,440,386,467"/>
+<area shape="rect" id="node26" href="$classClassDef.html#a9e0c450e5e90f80705e5011aeda172f5" title="Returns TRUE if this class is implemented in Objective&#45;C. " alt="" coords="488,581,648,608"/>
+<area shape="rect" id="node27" href="$classClassDef.html#af721bca7d2823fcbaacfffb033f8b0a4" title="Returns TRUE if this class is implemented in C#. " alt="" coords="241,632,380,659"/>
+<area shape="rect" id="node28" href="$classTranslateContext.html#ab0fad4b75cd53cb3c22e8e1adee1c260" title="Gets the value for a field name. " alt="" coords="237,827,385,853"/>
+<area shape="rect" id="node29" href="$classDefinition.html#a60354ebca3cb065a4a6aa1944a9309d5" title="Definition::qualifiedName" alt="" coords="227,776,395,803"/>
+<area shape="rect" id="node43" href="$classMemberDef.html#a910beace3eb5065c82c9c9f452532dfc" title="MemberDef::qualifiedName" alt="" coords="477,1204,659,1231"/>
+<area shape="rect" id="node45" href="$index_8cpp.html#aee48cbc2d4b290372a062849dbbd4121" title="writeClassTree" alt="" coords="255,1160,366,1187"/>
+<area shape="rect" id="node46" href="$classMemberDef.html#adec60dcd06f369aff38273e706a062d1" title="MemberDef::writeDocumentation" alt="" coords="1499,1275,1713,1301"/>
+<area shape="rect" id="node47" href="$classNamespaceDef.html#a7893c9a6525e3fc406ddfa9f9dd031f1" title="NamespaceDef::displayName" alt="" coords="212,971,409,997"/>
+<area shape="rect" id="node3" href="$classClassDef.html#ab9701f34d56e4dfee3e4ccd2fd6a6f5b" title="ClassDef::writeDeclaration" alt="" coords="1245,339,1424,365"/>
+<area shape="rect" id="node4" href="$classClassDef.html#ab84f56a99816a73920785d48a059c769" title="Used for RTTI, this is a class. " alt="" coords="1523,389,1689,416"/>
+<area shape="rect" id="node6" href="$classDefinition.html#ac8a4f300d6f2fe4723f2c17fe42ef800" title="Definition::_writeSource\lRefList" alt="" coords="1776,975,1937,1017"/>
+<area shape="rect" id="node7" href="$classMemberDef.html#a0c16b4d5effd11dbf337ece47b0d7463" title="MemberDef::definitionType" alt="" coords="1767,1161,1946,1188"/>
+<area shape="rect" id="node8" href="$classVhdlDocGen.html#a8c40c856602e19b4fe421c9572d618b7" title="VhdlDocGen::writeFuncProcDocu" alt="" coords="2483,1025,2701,1052"/>
+<area shape="rect" id="node9" href="$classVhdlDocGen.html#abdbd7a613237d2a86532bfe548209a1d" title="VhdlDocGen::writeStringLink" alt="" coords="1761,1099,1952,1125"/>
+<area shape="rect" id="node10" href="$classVhdlDocGen.html#a0b58904c2803fe64c007b6c3ddda086e" title="VhdlDocGen::writeFormatString" alt="" coords="2000,1129,2207,1156"/>
+<area shape="rect" id="node11" href="$classVhdlDocGen.html#aacccadab8f7d60dc0e4b2892ea724c2b" title="VhdlDocGen::formatString" alt="" coords="2257,1143,2432,1169"/>
+<area shape="rect" id="node15" href="$classVhdlDocGen.html#a94ad80db8536156393a701496506c052" title="VhdlDocGen::writeProcess\lProto" alt="" coords="2255,1223,2435,1265"/>
+<area shape="rect" id="node12" href="$classVhdlDocGen.html#a94da80078b9bba291b1c1af056eca6a4" title="VhdlDocGen::writeProcedure\lProto" alt="" coords="2497,1077,2687,1118"/>
+<area shape="rect" id="node13" href="$classVhdlDocGen.html#ac5c7235e2572f9dab6475d5af835e437" title="VhdlDocGen::writeVHDLDeclaration" alt="" coords="2749,1172,2984,1199"/>
+<area shape="rect" id="node14" href="$classVhdlDocGen.html#ab1d66321a2c118a9376b65aeb598a49c" title="VhdlDocGen::writeFunction\lProto" alt="" coords="2501,1194,2683,1235"/>
+<area shape="rect" id="node17" href="$classClassDef.html#a67f89df2361269ef583f33b2ee087a2b" title="ClassDef::mergeCategory" alt="" coords="1247,61,1422,88"/>
+<area shape="rect" id="node24" href="$classVhdlDocGen.html#ad5d4c791af3f2943467c7c7af558d83a" title="VhdlDocGen::getClassTitle" alt="" coords="477,389,659,416"/>
+<area shape="rect" id="node25" href="$classVhdlDocGen.html#a67f47b8dc11d967ee47e9bda86fff7e0" title="VhdlDocGen::writeInlineClassLink" alt="" coords="457,339,679,365"/>
+<area shape="rect" id="node30" href="$classFileDef.html#a68f9ae783659b8c3738623edfdb6ee74" title="FileDef::name" alt="" coords="516,795,620,821"/>
+<area shape="rect" id="node44" href="$util_8h.html#a68f1506abbd9c7495e2bf9dce51c6b20" title="newResolveTypedef" alt="" coords="750,1072,891,1099"/>
+<area shape="rect" id="node31" href="$classDefinition.html#a0d22dcffc0afca75f8ab31dd6261933f" title="Definition::writeSourceDef" alt="" coords="733,920,908,947"/>
+<area shape="rect" id="node32" href="$classDirDef.html#a345c9c6a02715cf7d81315e4154a4a0d" title="DirDef::getOutputFileBase" alt="" coords="733,869,909,896"/>
+<area shape="rect" id="node34" href="$classDirDef.html#ab3b1d03c75471701969e581aa4a6960f" title="DirDef::mergeDirectoryInTree" alt="" coords="969,769,1164,796"/>
+<area shape="rect" id="node35" href="$classFilePairDict.html#a3aed041df7e98d5419e699f112ad080d" title="FilePairDict::compareValues" alt="" coords="727,693,915,720"/>
+<area shape="rect" id="node36" href="$classFileDef.html#a5ed8a95230184de0f82d21bf08f4ac0a" title="FileDef::~FileDef" alt="" coords="759,744,882,771"/>
+<area shape="rect" id="node37" href="$classFileDef.html#ad8195d5d5b2be4f11d37e8d75f9e4659" title="FileDef::isLinkableInProject" alt="" coords="729,971,912,997"/>
+<area shape="rect" id="node33" href="$classDirDef.html#a9277996596607370f8bc016c3b51dd3e" title="Add as &quot;uses&quot; dependency between this dir and dir, that was caused by a dependency on file fd..." alt="" coords="970,820,1163,847"/>
+<area shape="rect" id="node38" href="$classClassDef.html#af865817aabca93db5792b247ca8dfba6" title="ClassDef::anchor" alt="" coords="1005,871,1129,897"/>
+<area shape="rect" id="node39" href="$classMemberDef.html#a1ef7c726fdd0f1dd2d006782dd6f766a" title="MemberDef::anchor" alt="" coords="998,945,1135,972"/>
+<area shape="rect" id="node40" href="$classHtmlHelp.html#a254ac391f0b096f1c06b72205fca5d77" title="HtmlHelp::addContentsItem" alt="" coords="1764,865,1949,892"/>
+<area shape="rect" id="node41" href="$classMemberDef.html#afafa6a560b69558c5d3c8bba0424c939" title="MemberDef::getOutputFileBase" alt="" coords="1503,932,1709,959"/>
+<area shape="rect" id="node42" href="$classMemberDef.html#a3c91c8522caa2b1905cd52b3eedad8fa" title="MemberDef::displayName" alt="" coords="1247,1173,1422,1200"/>
+<area shape="rect" id="node48" href="$classNamespaceDef.html#ad315129c7f091c2cec0d611a592d98a2" title="NamespaceDef::anchor" alt="" coords="488,1072,648,1099"/>
+</map>

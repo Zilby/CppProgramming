@@ -1,0 +1,4 @@
+<map id="QMapPrivateBase" name="QMapPrivateBase">
+<area shape="rect" id="node3" href="$classQMapPrivate.html" title="{QMapPrivate\&lt; Key, T \&gt;\n|# header\l|+ QMapPrivate()\l+ QMapPrivate()\l+ ~QMapPrivate()\l+ copy()\l+ clear()\l+ clear()\l+ begin()\l+ end()\l+ begin()\l+ end()\l+ find()\l+ remove()\l+ insertMulti()\l+ insertSingle()\l+ insert()\l# key()\l}" alt="" coords="10,359,171,656"/>
+<area shape="rect" id="node2" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="44,5,137,112"/>
+</map>

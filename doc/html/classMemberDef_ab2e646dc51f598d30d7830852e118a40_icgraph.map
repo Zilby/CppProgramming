@@ -1,0 +1,7 @@
+<map id="MemberDef::isBriefSectionVisible" name="MemberDef::isBriefSectionVisible">
+<area shape="rect" id="node2" href="$classMemberDef.html#a0c16b4d5effd11dbf337ece47b0d7463" title="MemberDef::definitionType" alt="" coords="260,5,439,32"/>
+<area shape="rect" id="node3" href="$classMemberList.html#a66706c34a0b45bb65a60db005109f2f5" title="MemberList::countDecMembers" alt="" coords="245,56,453,83"/>
+<area shape="rect" id="node5" href="$classMemberList.html#a38422e3b6e288256a4e3375c90a0a4a4" title="MemberList::count" alt="" coords="284,107,415,133"/>
+<area shape="rect" id="node6" href="$classVhdlDocGen.html#ac5c7235e2572f9dab6475d5af835e437" title="VhdlDocGen::writeVHDLDeclaration" alt="" coords="232,157,467,184"/>
+<area shape="rect" id="node4" href="$classMemberGroup.html#a1dc30e752b0c36ee2be1716ff8d83856" title="MemberGroup::addToDeclaration\lSection" alt="" coords="515,49,729,90"/>
+</map>

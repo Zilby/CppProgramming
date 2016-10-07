@@ -1,0 +1,4 @@
+<map id="TemplateVariant::toBool" name="TemplateVariant::toBool">
+<area shape="rect" id="node2" href="$classTemplateVariant.html#ab03869d8a226d83614fca23902b0facd" title="Returns the variant as a string. " alt="" coords="216,5,387,32"/>
+<area shape="rect" id="node3" href="$classTemplateVariant.html#a8bb71720af66556958d79aa6c64f559b" title="Compares this QVariant with v and returns true if they are equal; otherwise returns false..." alt="" coords="435,5,623,32"/>
+</map>

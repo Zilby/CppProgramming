@@ -1,0 +1,9 @@
+<map id="QXmlParseException::message" name="QXmlParseException::message">
+<area shape="rect" id="node2" href="$classCompoundErrorHandler.html#a64adb9938c3f3e70a76cc4a224f0d093" title="CompoundErrorHandler\l::fatalError" alt="" coords="212,5,371,47"/>
+<area shape="rect" id="node3" href="$classErrorHandler.html#abb20bb96f3b3b743e1d5649d6c6be5a0" title="ErrorHandler::fatalError" alt="" coords="213,71,369,98"/>
+<area shape="rect" id="node4" href="$classXMLErrorHandler.html#a7e3ad0aecf457ca44b284c71c1ab28bc" title="XMLErrorHandler::fatalError" alt="" coords="200,122,383,149"/>
+<area shape="rect" id="node5" href="$classLayoutErrorHandler.html#a463dfca8796fee3c40a08817d1af64be" title="LayoutErrorHandler\l::warning" alt="" coords="224,173,359,215"/>
+<area shape="rect" id="node6" href="$classLayoutErrorHandler.html#a7981be5cbf89e7f5bf27b3d75a821726" title="LayoutErrorHandler\l::error" alt="" coords="224,239,359,280"/>
+<area shape="rect" id="node7" href="$classLayoutErrorHandler.html#aca31cecb0d737ede70e22c86d038bbb4" title="LayoutErrorHandler\l::fatalError" alt="" coords="224,304,359,345"/>
+<area shape="rect" id="node8" href="$classTagFileErrorHandler.html#a7562a9fb258c3d4005ea4a3327623e60" title="TagFileErrorHandler\l::fatalError" alt="" coords="222,369,361,411"/>
+</map>

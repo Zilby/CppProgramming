@@ -1,0 +1,20 @@
+<map id="QChar::isSpace" name="QChar::isSpace">
+<area shape="rect" id="node2" href="$classQString.html#ad8e481726eb5a5f368eb1bb23c875847" title="QString::simplifyWhiteSpace" alt="" coords="168,115,359,142"/>
+<area shape="rect" id="node7" href="$classQString.html#a3b79d2babc06fcbaec011fd9113e75ab" title="QString::toLong" alt="" coords="207,198,320,225"/>
+<area shape="rect" id="node15" href="$classQString.html#aad9a32a624e392837a639b418f243c67" title="QString::toULong" alt="" coords="202,249,325,275"/>
+<area shape="rect" id="node18" href="$classQString.html#a3f39cb56a6f77eabc5e3e81cb483fabc" title="QString::toUInt64" alt="" coords="201,299,325,326"/>
+<area shape="rect" id="node19" href="$classQTextStream.html#a01bdc4673d3532fe999eb0ec025687c4" title="QTextStream::ts_putc" alt="" coords="188,350,339,377"/>
+<area shape="rect" id="node3" href="$classQTextCodec.html#a1bcf2f11fac6113fd6ae74dda55b2ca4" title="QTextCodec::heuristicName\lMatch" alt="" coords="407,75,595,116"/>
+<area shape="rect" id="node4" href="$classQTextCodecFromIOD.html#af7109ff23e3f6c34228eb046578c0357" title="QTextCodecFromIOD::\lheuristicNameMatch" alt="" coords="662,5,821,47"/>
+<area shape="rect" id="node5" href="$classQSimpleTextCodec.html#ab08ae2e5e99af1cd6dda3450731e502b" title="QSimpleTextCodec::heuristic\lNameMatch" alt="" coords="645,71,838,112"/>
+<area shape="rect" id="node6" href="$classQLatin1Codec.html#a34f0298855e849d6c4bd67a7115971ec" title="QLatin1Codec::heuristicName\lMatch" alt="" coords="643,136,840,177"/>
+<area shape="rect" id="node8" href="$classQString.html#aba480e0d80d25f65e2acebb03d0d7ab5" title="QString::toShort" alt="" coords="443,147,559,174"/>
+<area shape="rect" id="node9" href="$classQString.html#a98f691fb039c264a986142c833223efc" title="QString::toInt" alt="" coords="451,198,551,225"/>
+<area shape="rect" id="node10" href="$classQString.html#a0b6622a8335cdd080e8b1685b7e0fde0" title="QString::sprintf" alt="" coords="686,202,797,229"/>
+<area shape="rect" id="node11" href="$classQDate.html#aebc53b28c073570214cfc6f1376cbcd5" title="QDate::toString" alt="" coords="891,151,1005,178"/>
+<area shape="rect" id="node12" href="$classQTime.html#a87ef6af883b329327e1665cc639d403c" title="QTime::toString" alt="" coords="891,202,1005,229"/>
+<area shape="rect" id="node14" href="$classQString.html#a5b30e9bb5310afb39f770db5fd5bf646" title="QString::setNum" alt="" coords="888,253,1008,279"/>
+<area shape="rect" id="node13" href="$classQDateTime.html#a5455d25292813109f21c15888552c5c9" title="QDateTime::toString" alt="" coords="1056,202,1199,229"/>
+<area shape="rect" id="node16" href="$classQString.html#a1ef1df5d1b79c0bd01115f39078f1334" title="QString::toUShort" alt="" coords="437,249,564,275"/>
+<area shape="rect" id="node17" href="$classQString.html#abe1e887f24348b6b7ef69b7036707b6b" title="QString::toUInt" alt="" coords="445,299,556,326"/>
+</map>

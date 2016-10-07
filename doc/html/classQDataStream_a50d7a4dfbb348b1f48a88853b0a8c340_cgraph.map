@@ -1,0 +1,6 @@
+<map id="QDataStream::operator&gt;&gt;" name="QDataStream::operator&gt;&gt;">
+<area shape="rect" id="node2" href="$classQDataStream.html#a296311b844103880ec50b43a2ebbfcaa" title="QDataStream::readBytes" alt="" coords="227,31,396,57"/>
+<area shape="rect" id="node3" href="$classQDataStream.html#a99e00dc6ee14658c30f58016f5f82e9e" title="QDataStream::eof" alt="" coords="478,5,606,32"/>
+<area shape="rect" id="node4" href="$classQDataStream.html#a04938bc54d1158276cf01be169d159ea" title="QDataStream::readRawBytes" alt="" coords="444,56,640,83"/>
+<area shape="rect" id="node5" href="$classQIODevice.html#a71f10647e4bd98141f45362b9a06983a" title="QIODevice::readBlock" alt="" coords="688,56,841,83"/>
+</map>

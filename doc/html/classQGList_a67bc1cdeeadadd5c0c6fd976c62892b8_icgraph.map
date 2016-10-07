@@ -1,0 +1,18 @@
+<map id="QGList::findRef" name="QGList::findRef">
+<area shape="rect" id="node2" href="$classQGList.html#aa14205a4214d12b86c133255c094affd" title="QGList::removeRef" alt="" coords="191,115,325,141"/>
+<area shape="rect" id="node7" href="$classQGVector.html#a24cdcea0593a3c9334d130e66c8e2043" title="QGVector::count" alt="" coords="198,300,318,327"/>
+<area shape="rect" id="node16" href="$classQInternalList.html#a253a49ac0bce39e819358a602cf16c20" title="QInternalList\&lt; QCacheItem\l \&gt;::clear" alt="" coords="167,351,349,393"/>
+<area shape="rect" id="node17" href="$classQList.html#a3cc1e3b2eb4a0db55eb5a594bd67d059" title="QList\&lt; DirDef \&gt;::clear" alt="" coords="183,417,333,444"/>
+<area shape="rect" id="node3" href="$classQGListIterator.html#a5320ce8818d1c7f1f9d17adb34ff91ea" title="QGListIterator::operator=" alt="" coords="415,5,582,32"/>
+<area shape="rect" id="node4" href="$classQGListIterator.html#ae636616a077384cd6a9cd7b1531fecbd" title="QGListIterator::~QGListIterator" alt="" coords="397,56,600,83"/>
+<area shape="rect" id="node5" href="$classQInternalList.html#af64a4279703a3aeb1954937cdf2fa1f2" title="QInternalList\&lt; QCacheItem\l \&gt;::count" alt="" coords="407,107,590,149"/>
+<area shape="rect" id="node6" href="$classQList.html#a1b95250082189972f4b499a529920180" title="QList\&lt; DirDef \&gt;::count" alt="" coords="421,173,576,200"/>
+<area shape="rect" id="node8" href="$classQGVector.html#ab43b21e4cb61c798ea3fbfbd11cab659" title="QGVector::sort" alt="" coords="443,224,554,251"/>
+<area shape="rect" id="node11" href="$classQGVector.html#a41c23424203379d69bb1a88ee864e4c2" title="QGVector::containsRef" alt="" coords="667,275,825,301"/>
+<area shape="rect" id="node12" href="$classQGVector.html#a763d499783b36d6951f47fb185164b22" title="QGVector::contains" alt="" coords="677,325,815,352"/>
+<area shape="rect" id="node13" href="$classQGVector.html#af81f0f1719b2ef4215cd6014d72c7f44" title="QGVector::write" alt="" coords="441,376,557,403"/>
+<area shape="rect" id="node15" href="$classQVector.html#a7fa63591f2256a78f5ba439cc858b09d" title="QVector\&lt; QList\&lt; IndexWord\l \&gt; \&gt;::count" alt="" coords="405,427,593,469"/>
+<area shape="rect" id="node9" href="$classtranslator_1_1TrManager.html#a84aba0e70020862ec40a29909de43687" title="translator.TrManager.generate\lTranslatorReport" alt="" coords="648,158,844,199"/>
+<area shape="rect" id="node10" href="$classQVector.html#a1d9f67e27cf360cfec05312fd014da7a" title="QVector\&lt; QList\&lt; IndexWord\l \&gt; \&gt;::clear" alt="" coords="892,293,1080,334"/>
+<area shape="rect" id="node14" href="$classQGVector.html#a3dd5cc73b1f0756d0c28791632b23590" title="QGVector::toList" alt="" coords="686,376,806,403"/>
+</map>

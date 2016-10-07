@@ -1,0 +1,12 @@
+<map id="NamespaceDef::displayName" name="NamespaceDef::displayName">
+<area shape="rect" id="node2" href="$util_8h.html#ac4c34c02b8869dca71de6f4037736dc7" title="Returns the scope separator to use given the programming language lang. " alt="" coords="251,5,449,32"/>
+<area shape="rect" id="node3" href="$util_8h.html#a99187f0723aa35b7f06be3a5506b1285" title="substitute all occurrences of src in s by dst " alt="" coords="311,107,389,133"/>
+<area shape="rect" id="node8" href="$classNamespaceDef.html#a733e21e2422707a338b42b2c4e2ab37b" title="NamespaceDef::isLinkable" alt="" coords="261,56,439,83"/>
+<area shape="rect" id="node9" href="$classSDict.html#a5149795edc957f3bc5af4b536af6d743" title="SDict\&lt; MemberNameInfo\l \&gt;::count" alt="" coords="265,158,435,199"/>
+<area shape="rect" id="node10" href="$classDefinition.html#a3c214d451d86bf8994c9d1503ed2843d" title="Returns the programming language this definition was written in. " alt="" coords="271,232,429,259"/>
+<area shape="rect" id="node4" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="498,47,630,73"/>
+<area shape="rect" id="node5" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="505,97,623,124"/>
+<area shape="rect" id="node6" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="509,148,619,175"/>
+<area shape="rect" id="node7" href="$classQCString.html#aefbe03789d0fe05302adae84c54c3243" title="Returns a writable pointer to the data. " alt="" coords="497,199,631,225"/>
+<area shape="rect" id="node11" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="505,249,623,276"/>
+</map>

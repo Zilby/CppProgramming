@@ -1,0 +1,12 @@
+<map id="Definition::briefDescription" name="Definition::briefDescription">
+<area shape="rect" id="node2" href="$classClassDef.html#ae82303a3ca4f00eafe79322a56263887" title="returns TRUE if this class has a non&#45;empty detailed description " alt="" coords="229,5,449,32"/>
+<area shape="rect" id="node4" href="$classDefinition.html#a1a4519f06f38904ab1914ecd641c4a36" title="returns TRUE if this class has a brief description " alt="" coords="240,56,439,83"/>
+<area shape="rect" id="node5" href="$classDirDef.html#a345c9c6a02715cf7d81315e4154a4a0d" title="DirDef::getOutputFileBase" alt="" coords="251,131,427,157"/>
+<area shape="rect" id="node8" href="$classMemberDef.html#ab4ad34e63730bc94f076b920b3b9084e" title="MemberDef::briefDescription" alt="" coords="245,223,434,249"/>
+<area shape="rect" id="node3" href="$classClassDef.html#ab84f56a99816a73920785d48a059c769" title="Used for RTTI, this is a class. " alt="" coords="531,5,698,32"/>
+<area shape="rect" id="node6" href="$classDirDef.html#a9277996596607370f8bc016c3b51dd3e" title="Add as &quot;uses&quot; dependency between this dir and dir, that was caused by a dependency on file fd..." alt="" coords="518,80,711,107"/>
+<area shape="rect" id="node7" href="$classDirDef.html#ab3b1d03c75471701969e581aa4a6960f" title="DirDef::mergeDirectoryInTree" alt="" coords="517,131,712,157"/>
+<area shape="rect" id="node9" href="$classMemberDef.html#a0c16b4d5effd11dbf337ece47b0d7463" title="MemberDef::definitionType" alt="" coords="525,181,704,208"/>
+<area shape="rect" id="node10" href="$classMemberGroup.html#a1dc30e752b0c36ee2be1716ff8d83856" title="MemberGroup::addToDeclaration\lSection" alt="" coords="507,233,722,274"/>
+<area shape="rect" id="node11" href="$classVhdlDocGen.html#ac5c7235e2572f9dab6475d5af835e437" title="VhdlDocGen::writeVHDLDeclaration" alt="" coords="497,299,732,325"/>
+</map>

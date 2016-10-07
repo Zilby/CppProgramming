@@ -1,0 +1,12 @@
+<map id="DocSimpleSect::accept" name="DocSimpleSect::accept">
+<area shape="rect" id="node2" href="$classDocNode.html#a5303a550cbe6395663bf9b9dad28cbf1" title="DocNode::accept" alt="" coords="213,5,337,32"/>
+<area shape="rect" id="node3" href="$classDocNode.html#a108ffd214a72ba6e93dac084a8f58049" title="DocNode::kind" alt="" coords="221,56,330,83"/>
+<area shape="rect" id="node4" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="386,132,518,159"/>
+<area shape="rect" id="node5" href="$util_8h.html#a4fe1f177491aa2483c95492ff8c7470a" title="Returns the line number of the line following the line with the marker. " alt="" coords="238,309,313,336"/>
+<area shape="rect" id="node6" href="$util_8h.html#ae46139270fc05ae4a1e0ff2c5bc69e3b" title="Returns the section of text, in between a pair of markers. " alt="" coords="228,208,323,235"/>
+<area shape="rect" id="node7" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="393,208,511,235"/>
+<area shape="rect" id="node8" href="$classQCString.html#a3917c144e26bc525d588c1dff602be00" title="Returns a reference to the character at index i. " alt="" coords="228,360,323,387"/>
+<area shape="rect" id="node9" href="$util_8h.html#a99187f0723aa35b7f06be3a5506b1285" title="substitute all occurrences of src in s by dst " alt="" coords="236,259,315,285"/>
+<area shape="rect" id="node10" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="397,259,507,285"/>
+<area shape="rect" id="node11" href="$classQCString.html#aefbe03789d0fe05302adae84c54c3243" title="Returns a writable pointer to the data. " alt="" coords="385,309,519,336"/>
+</map>

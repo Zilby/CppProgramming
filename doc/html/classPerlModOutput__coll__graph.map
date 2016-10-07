@@ -1,0 +1,16 @@
+<map id="PerlModOutput" name="PerlModOutput">
+<area shape="rect" id="node2" href="$classQStack.html" title="{QStack\&lt; PerlModOutputStream \&gt;\n||+ QStack()\l+ QStack()\l+ ~QStack()\l+ operator=()\l+ autoDelete()\l+ setAutoDelete()\l+ count()\l+ isEmpty()\l+ push()\l+ pop()\land 6 more...\l&#45; deleteItem()\l}" alt="" coords="87,1507,305,1745"/>
+<area shape="rect" id="node3" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="107,1103,261,1444"/>
+<area shape="rect" id="node4" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="5,735,131,930"/>
+<area shape="rect" id="node5" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="155,787,243,879"/>
+<area shape="rect" id="node6" href="$classPerlModOutputStream.html" title="{PerlModOutputStream\n||+ PerlModOutputStream()\l+ add()\l+ add()\l+ add()\l+ add()\l+ add()\l}" alt="" coords="333,1551,504,1701"/>
+<area shape="rect" id="node7" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="365,1161,472,1385"/>
+<area shape="rect" id="node8" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="334,721,477,945"/>
+<area shape="rect" id="node9" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="313,500,498,592"/>
+<area shape="rect" id="node10" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="293,331,467,437"/>
+<area shape="rect" id="node11" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="491,345,661,423"/>
+<area shape="rect" id="node12" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="512,147,640,268"/>
+<area shape="rect" id="node13" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="505,5,647,97"/>
+<area shape="rect" id="node14" href="$classFTextStream.html" title="Simplified and optimized version of QTextStream. " alt="" coords="513,1154,639,1393"/>
+<area shape="rect" id="node15" href="$classQIODevice.html" title="The QIODevice class is the base class of I/O devices. " alt="" coords="501,655,659,1011"/>
+</map>

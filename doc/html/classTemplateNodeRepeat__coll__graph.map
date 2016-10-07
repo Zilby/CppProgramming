@@ -1,0 +1,17 @@
+<map id="TemplateNodeRepeat" name="TemplateNodeRepeat">
+<area shape="rect" id="node2" href="$classTemplateNodeCreator.html" title="{TemplateNodeCreator\l\&lt; TemplateNodeRepeat \&gt;\n|# m_line\l|+ TemplateNodeCreator()\l+ getTemplate()\l+ createInstance()\l# mkpath()\l}" alt="" coords="214,1565,387,1701"/>
+<area shape="rect" id="node3" href="$classTemplateNode.html" title="Base class of all nodes in a template&#39;s AST. " alt="" coords="5,1286,140,1407"/>
+<area shape="rect" id="node4" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="251,1235,358,1459"/>
+<area shape="rect" id="node5" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="233,845,376,1069"/>
+<area shape="rect" id="node6" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="212,551,397,643"/>
+<area shape="rect" id="node7" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="193,331,366,437"/>
+<area shape="rect" id="node8" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="390,345,561,423"/>
+<area shape="rect" id="node9" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="411,147,539,268"/>
+<area shape="rect" id="node10" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="404,5,547,97"/>
+<area shape="rect" id="node11" href="$classTemplateNodeList.html" title="Class representing a list of AST nodes in a template. " alt="" coords="412,1587,560,1679"/>
+<area shape="rect" id="node12" href="$classQList.html" title="{QList\&lt; TemplateNode \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="405,1191,567,1503"/>
+<area shape="rect" id="node13" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="409,787,563,1128"/>
+<area shape="rect" id="node14" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="422,500,547,695"/>
+<area shape="rect" id="node15" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="571,551,659,643"/>
+<area shape="rect" id="node16" href="$classExprAst.html" title="Base class for all nodes in the abstract syntax tree of an expression. " alt="" coords="584,1587,681,1679"/>
+</map>

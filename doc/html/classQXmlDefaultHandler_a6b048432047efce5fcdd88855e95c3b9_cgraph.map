@@ -1,0 +1,33 @@
+<map id="QXmlDefaultHandler::~QXmlDefaultHandler" name="QXmlDefaultHandler::~QXmlDefaultHandler">
+<area shape="rect" id="node2" href="$classQXmlContentHandler.html#a89863bd9a6372d3d73086aa99107bca7" title="QXmlContentHandler\l::setDocumentLocator" alt="" coords="241,5,392,47"/>
+<area shape="rect" id="node3" href="$classQXmlContentHandler.html#aaca36268e66c9a56257e38bce18ae4d2" title="QXmlContentHandler\l::startDocument" alt="" coords="243,71,390,112"/>
+<area shape="rect" id="node4" href="$classQXmlContentHandler.html#a534bd1e4627e65340eb17d90d1ab1c12" title="QXmlContentHandler\l::endDocument" alt="" coords="243,136,390,177"/>
+<area shape="rect" id="node5" href="$classQXmlContentHandler.html#acdf18588f1980d19d12efd025a5f5cc9" title="QXmlContentHandler\l::startPrefixMapping" alt="" coords="243,201,390,243"/>
+<area shape="rect" id="node6" href="$classQXmlContentHandler.html#a1c7f3e794c2e763e043eef3229ccf034" title="QXmlContentHandler\l::endPrefixMapping" alt="" coords="243,267,390,308"/>
+<area shape="rect" id="node7" href="$classQXmlContentHandler.html#af6d4e631fad2b9b75622c95003b1da55" title="QXmlContentHandler\l::startElement" alt="" coords="243,332,390,373"/>
+<area shape="rect" id="node8" href="$classQXmlContentHandler.html#af0abc06326798a6e522f91e6174b7b9e" title="QXmlContentHandler\l::endElement" alt="" coords="243,397,390,439"/>
+<area shape="rect" id="node9" href="$classQXmlContentHandler.html#a3be0d440b48836560c8805e15d596eb1" title="QXmlContentHandler\l::characters" alt="" coords="243,463,390,504"/>
+<area shape="rect" id="node10" href="$classQXmlContentHandler.html#a58470bd94366833c79a3c60fb350d157" title="QXmlContentHandler\l::ignorableWhitespace" alt="" coords="241,528,392,569"/>
+<area shape="rect" id="node11" href="$classQXmlContentHandler.html#a520c875b64f2f06ec35001a5e50887c3" title="QXmlContentHandler\l::processingInstruction" alt="" coords="239,593,394,635"/>
+<area shape="rect" id="node12" href="$classQXmlContentHandler.html#ac3b27d569634c5d7a7fac001a6cc4845" title="QXmlContentHandler\l::skippedEntity" alt="" coords="243,659,390,700"/>
+<area shape="rect" id="node13" href="$classQXmlErrorHandler.html#a79ae0cce3316a76b7777c6e90b101afe" title="QXmlErrorHandler::warning" alt="" coords="226,725,407,751"/>
+<area shape="rect" id="node14" href="$classQXmlErrorHandler.html#aa7e25c4198fa16a0312fd48e5718217c" title="QXmlErrorHandler::error" alt="" coords="235,775,398,802"/>
+<area shape="rect" id="node15" href="$classQXmlErrorHandler.html#aaa8c1ad1b42a5257cf2344c7fe101797" title="QXmlErrorHandler::fatalError" alt="" coords="222,826,411,853"/>
+<area shape="rect" id="node16" href="$classQXmlDTDHandler.html#a3ce7216b7646cd26bd11c4bdee883507" title="QXmlDTDHandler::notationDecl" alt="" coords="212,877,421,903"/>
+<area shape="rect" id="node17" href="$classQXmlDTDHandler.html#a956c5143b8f349a19782fb56c577e04e" title="QXmlDTDHandler::unparsed\lEntityDecl" alt="" coords="222,928,411,969"/>
+<area shape="rect" id="node18" href="$classQXmlEntityResolver.html#a4b0b6141c016eb3f7e37361f4ce13966" title="QXmlEntityResolver\l::resolveEntity" alt="" coords="246,993,387,1035"/>
+<area shape="rect" id="node19" href="$classQXmlLexicalHandler.html#a1bdcb91e384a32b218d04304e1116808" title="QXmlLexicalHandler\l::startDTD" alt="" coords="246,1059,387,1100"/>
+<area shape="rect" id="node20" href="$classQXmlLexicalHandler.html#a7f5188d7a0a54b6c276c5e7e2faa72bc" title="QXmlLexicalHandler\l::endDTD" alt="" coords="246,1124,387,1165"/>
+<area shape="rect" id="node21" href="$classQXmlLexicalHandler.html#a64c691b5eeae5af0230d5fad46be2df2" title="QXmlLexicalHandler\l::startCDATA" alt="" coords="246,1189,387,1231"/>
+<area shape="rect" id="node22" href="$classQXmlLexicalHandler.html#af318cf25fa252c8bf7a4e8d2c4b26350" title="QXmlLexicalHandler\l::endCDATA" alt="" coords="246,1255,387,1296"/>
+<area shape="rect" id="node23" href="$classQXmlLexicalHandler.html#ac71e12338ca541b374dbb88c96f15fa2" title="QXmlLexicalHandler\l::comment" alt="" coords="246,1320,387,1361"/>
+<area shape="rect" id="node24" href="$classQXmlDeclHandler.html#a199291017634d148a72812cb40de2043" title="QXmlDeclHandler::attributeDecl" alt="" coords="212,1386,421,1413"/>
+<area shape="rect" id="node25" href="$classQXmlDeclHandler.html#ae54a0fbdcd4314143bf556ce5bfac597" title="QXmlDeclHandler::internal\lEntityDecl" alt="" coords="228,1437,405,1479"/>
+<area shape="rect" id="node26" href="$classQXmlDeclHandler.html#ae12d792c249eb6f92c54b2e1734fd60f" title="QXmlDeclHandler::external\lEntityDecl" alt="" coords="226,1503,407,1544"/>
+<area shape="rect" id="node27" href="$classQXmlContentHandler.html#adba96547bad1cf1b009dbfb7b7c571be" title="QXmlContentHandler\l::errorString" alt="" coords="243,1568,390,1609"/>
+<area shape="rect" id="node28" href="$classQChar.html#aa2d2b13b4b6a3c4343c00d28c58b5529" title="QChar::isLetter" alt="" coords="261,1634,372,1661"/>
+<area shape="rect" id="node32" href="$classQChar.html#a5758b5318fe28041c0729dded5b1b44e" title="QChar::isDigit" alt="" coords="264,1685,369,1711"/>
+<area shape="rect" id="node29" href="$classQChar.html#a4bc1ffcdc40c674015b3bb9e9114637e" title="QChar::category" alt="" coords="469,1659,588,1686"/>
+<area shape="rect" id="node30" href="$classQChar.html#a8f987c65692f95eebc84bf687ea92aff" title="QChar::row" alt="" coords="636,1634,725,1661"/>
+<area shape="rect" id="node31" href="$classQChar.html#a2475b4653bed4cf2a3f10395a14cc9c5" title="QChar::cell" alt="" coords="637,1685,725,1711"/>
+</map>

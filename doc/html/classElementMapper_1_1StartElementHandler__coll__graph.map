@@ -1,0 +1,12 @@
+<map id="ElementMapper&lt; T &gt;::StartElementHandler" name="ElementMapper&lt; T &gt;::StartElementHandler">
+<area shape="rect" id="node2" href="$classQXmlAttributes.html" title="The QXmlAttributes class provides XML attributes. " alt="" coords="25,2292,164,2560"/>
+<area shape="rect" id="node3" href="$classQStringList.html" title="A list of strings. " alt="" coords="41,1917,148,2185"/>
+<area shape="rect" id="node4" href="$classQValueList.html" title="{QValueList\&lt; QString \&gt;\n||+ QValueList()\l+ QValueList()\l+ ~QValueList()\l+ operator=()\l+ operator+()\l+ operator+=()\l+ operator+=()\l+ operator==()\l+ operator!=()\l+ begin()\land 28 more...\l# detach()\l}" alt="" coords="17,1629,172,1868"/>
+<area shape="rect" id="node5" href="$classQValueListPrivate.html" title="{QValueListPrivate\&lt;\l QString \&gt;\n|+ nodes\l|+ QValueListPrivate()\l+ QValueListPrivate()\l+ derefAndDelete()\l+ ~QValueListPrivate()\l+ insert()\l+ remove()\l+ remove()\l+ find()\l+ findIndex()\l+ contains()\l+ at()\l+ clear()\l}" alt="" coords="17,1313,172,1567"/>
+<area shape="rect" id="node6" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="5,79,99,185"/>
+<area shape="rect" id="node10" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="105,321,228,487"/>
+<area shape="rect" id="node7" href="$classQValueListNode.html" title="{QValueListNode\&lt; QString \&gt;\n||+ QValueListNode()\l+ QValueListNode()\l}" alt="" coords="90,1159,275,1251"/>
+<area shape="rect" id="node8" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="115,564,250,1096"/>
+<area shape="rect" id="node9" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="253,365,350,443"/>
+<area shape="rect" id="node11" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="123,5,258,259"/>
+</map>

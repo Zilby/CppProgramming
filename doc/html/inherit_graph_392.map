@@ -1,0 +1,206 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classAnchorHandler.html" title="Node representing an anchor. " alt="" coords="812,845,920,871"/>
+<area shape="rect" id="node4" href="$classCodeLineHandler.html" title="Node representing a line of code. " alt="" coords="805,769,927,795"/>
+<area shape="rect" id="node6" href="$classCopyHandler.html" title="Node representing a copied piece of documentation. " alt="" coords="817,2155,915,2182"/>
+<area shape="rect" id="node8" href="$classDotFileHandler.html" title="Node representing a dot file. " alt="" coords="811,2447,921,2474"/>
+<area shape="rect" id="node10" href="$classEMailHandler.html" title="EMailHandler" alt="" coords="816,2865,916,2891"/>
+<area shape="rect" id="node12" href="$classEntryHandler.html" title="Node representing an entry in the table entry. " alt="" coords="817,2966,915,2993"/>
+<area shape="rect" id="node14" href="$classFormulaHandler.html" title="Node representing a formula. " alt="" coords="809,958,923,985"/>
+<area shape="rect" id="node16" href="$classHighlightHandler.html" title="Node representing a highlighted text fragment. " alt="" coords="807,2662,925,2689"/>
+<area shape="rect" id="node18" href="$classHRulerHandler.html" title="HRulerHandler" alt="" coords="812,1250,920,1277"/>
+<area shape="rect" id="node20" href="$classImageHandler.html" title="Node representing an image. " alt="" coords="815,1890,917,1917"/>
+<area shape="rect" id="node22" href="$classIndexEntryHandler.html" title="Node representing an entry in the index. " alt="" coords="801,1363,931,1390"/>
+<area shape="rect" id="node24" href="$classDocInternalHandler.html" title="DocInternalHandler" alt="" coords="799,1477,933,1503"/>
+<area shape="rect" id="node26" href="$classItemizedListHandler.html" title="Node representing list of items. " alt="" coords="797,1814,935,1841"/>
+<area shape="rect" id="node28" href="$classLineBreakHandler.html" title="LineBreakHandler" alt="" coords="803,1059,929,1086"/>
+<area shape="rect" id="node30" href="$classLinkHandler.html" title="LinkHandler" alt="" coords="821,1683,911,1710"/>
+<area shape="rect" id="node32" href="$classListItemHandler.html" title="Node representing a list item. " alt="" coords="809,1582,923,1609"/>
+<area shape="rect" id="node34" href="$classOrderedListHandler.html" title="Node representing list of items. " alt="" coords="799,5107,933,5134"/>
+<area shape="rect" id="node36" href="$classParagraphHandler.html" title="Node representing a paragraph of text and commands. " alt="" coords="803,4463,929,4490"/>
+<area shape="rect" id="node38" href="$classParameterHandler.html" title="Node representing a parameter. " alt="" coords="803,4670,929,4697"/>
+<area shape="rect" id="node40" href="$classParameterItemHandler.html" title="ParameterItemHandler" alt="" coords="789,4358,943,4385"/>
+<area shape="rect" id="node42" href="$classParameterListHandler.html" title="ParameterListHandler" alt="" coords="792,4975,940,5002"/>
+<area shape="rect" id="node44" href="$classProgramListingHandler.html" title="Node representing a program listing. " alt="" coords="789,4594,943,4621"/>
+<area shape="rect" id="node46" href="$classRefHandler.html" title="RefHandler" alt="" coords="822,4042,910,4069"/>
+<area shape="rect" id="node48" href="$classDocHandler.html" title="Node representing a documentation block. " alt="" coords="821,2257,911,2283"/>
+<area shape="rect" id="node50" href="$classRowHandler.html" title="Node representing an entry in the table row. " alt="" coords="819,5221,913,5247"/>
+<area shape="rect" id="node52" href="$classDocSectionHandler.html" title="Node representing a section. " alt="" coords="799,2561,933,2587"/>
+<area shape="rect" id="node54" href="$classSimpleSectHandler.html" title="SimpleSectHandler" alt="" coords="799,5322,933,5349"/>
+<area shape="rect" id="node56" href="$classSymbolHandler.html" title="Node representing an special symbol. " alt="" coords="811,4245,921,4271"/>
+<area shape="rect" id="node58" href="$classTableHandler.html" title="Node representing an entry in the table. " alt="" coords="817,4895,915,4922"/>
+<area shape="rect" id="node60" href="$classTitleHandler.html" title="TitleHandler" alt="" coords="820,3941,912,3967"/>
+<area shape="rect" id="node62" href="$classTocItemHandler.html" title="Node representing a table of contents item. " alt="" coords="809,3839,923,3866"/>
+<area shape="rect" id="node64" href="$classTocListHandler.html" title="Node representing table of contents list. " alt="" coords="811,3067,921,3094"/>
+<area shape="rect" id="node66" href="$classULinkHandler.html" title="ULinkHandler" alt="" coords="815,3390,917,3417"/>
+<area shape="rect" id="node68" href="$classVariableListEntryHandler.html" title="VariableListEntryHandler" alt="" coords="783,3734,949,3761"/>
+<area shape="rect" id="node70" href="$classVariableListHandler.html" title="Node representing a list of named items. " alt="" coords="799,3533,933,3559"/>
+<area shape="rect" id="node72" href="$classVerbatimHandler.html" title="Node representing an preformatted section. " alt="" coords="807,4143,925,4170"/>
+<area shape="rect" id="node73" href="$classElementMapper.html" title="ElementMapper\&lt; T \&gt;" alt="" coords="250,1283,395,1310"/>
+<area shape="rect" id="node74" href="$classBaseFallBackHandler.html" title="BaseFallBackHandler\&lt; T \&gt;" alt="" coords="521,578,701,605"/>
+<area shape="rect" id="node75" href="$classBaseHandler.html" title="BaseHandler\&lt; T \&gt;" alt="" coords="546,2029,675,2055"/>
+<area shape="rect" id="node76" href="$classElementMapper.html" title="ElementMapper\&lt; AnchorHandler \&gt;" alt="" coords="211,831,434,858"/>
+<area shape="rect" id="node77" href="$classBaseHandler.html" title="BaseHandler\&lt; AnchorHandler \&gt;" alt="" coords="507,831,714,858"/>
+<area shape="rect" id="node78" href="$classElementMapper.html" title="ElementMapper\&lt; ChildNode\lHandler \&gt;" alt="" coords="229,1128,416,1169"/>
+<area shape="rect" id="node79" href="$classBaseHandler.html" title="BaseHandler\&lt; ChildNodeHandler \&gt;" alt="" coords="497,1135,724,1162"/>
+<area shape="rect" id="node80" href="$classChildNodeHandler.html" title="ChildNodeHandler" alt="" coords="802,1174,930,1201"/>
+<area shape="rect" id="node81" href="$classElementMapper.html" title="ElementMapper\&lt; CodeLineHandler \&gt;" alt="" coords="204,738,441,765"/>
+<area shape="rect" id="node82" href="$classBaseHandler.html" title="BaseHandler\&lt; CodeLineHandler \&gt;" alt="" coords="500,730,721,757"/>
+<area shape="rect" id="node83" href="$classElementMapper.html" title="ElementMapper\&lt; CompoundHandler \&gt;" alt="" coords="200,621,445,647"/>
+<area shape="rect" id="node84" href="$classBaseHandler.html" title="BaseHandler\&lt; CompoundHandler \&gt;" alt="" coords="496,629,725,655"/>
+<area shape="rect" id="node85" href="$classCompoundHandler.html" title="CompoundHandler" alt="" coords="801,325,931,351"/>
+<area shape="rect" id="node86" href="$classElementMapper.html" title="ElementMapper\&lt; CopyHandler \&gt;" alt="" coords="216,2181,429,2207"/>
+<area shape="rect" id="node87" href="$classBaseHandler.html" title="BaseHandler\&lt; CopyHandler \&gt;" alt="" coords="512,2181,709,2207"/>
+<area shape="rect" id="node88" href="$classElementMapper.html" title="ElementMapper\&lt; DocHandler \&gt;" alt="" coords="219,2231,426,2258"/>
+<area shape="rect" id="node89" href="$classBaseHandler.html" title="BaseHandler\&lt; DocHandler \&gt;" alt="" coords="515,2231,706,2258"/>
+<area shape="rect" id="node90" href="$classElementMapper.html" title="ElementMapper\&lt; DocInternal\lHandler \&gt;" alt="" coords="227,1440,419,1481"/>
+<area shape="rect" id="node91" href="$classBaseHandler.html" title="BaseHandler\&lt; DocInternal\lHandler \&gt;" alt="" coords="523,1440,699,1481"/>
+<area shape="rect" id="node92" href="$classElementMapper.html" title="ElementMapper\&lt; DocSection\lHandler \&gt;" alt="" coords="226,2532,419,2573"/>
+<area shape="rect" id="node93" href="$classBaseHandler.html" title="BaseHandler\&lt; DocSectionHandler \&gt;" alt="" coords="493,2535,728,2562"/>
+<area shape="rect" id="node94" href="$classElementMapper.html" title="ElementMapper\&lt; DotFileHandler \&gt;" alt="" coords="211,2481,435,2507"/>
+<area shape="rect" id="node95" href="$classBaseHandler.html" title="BaseHandler\&lt; DotFileHandler \&gt;" alt="" coords="507,2485,715,2511"/>
+<area shape="rect" id="node96" href="$classElementMapper.html" title="ElementMapper\&lt; EdgeLabel\lHandler \&gt;" alt="" coords="229,2739,416,2780"/>
+<area shape="rect" id="node97" href="$classBaseHandler.html" title="BaseHandler\&lt; EdgeLabelHandler \&gt;" alt="" coords="497,2738,724,2765"/>
+<area shape="rect" id="node98" href="$classEdgeLabelHandler.html" title="EdgeLabelHandler" alt="" coords="802,2763,930,2790"/>
+<area shape="rect" id="node99" href="$classElementMapper.html" title="ElementMapper\&lt; EMailHandler \&gt;" alt="" coords="215,2865,430,2891"/>
+<area shape="rect" id="node100" href="$classBaseHandler.html" title="BaseHandler\&lt; EMailHandler \&gt;" alt="" coords="511,2890,710,2917"/>
+<area shape="rect" id="node101" href="$classElementMapper.html" title="ElementMapper\&lt; EntryHandler \&gt;" alt="" coords="216,2915,429,2942"/>
+<area shape="rect" id="node102" href="$classBaseHandler.html" title="BaseHandler\&lt; EntryHandler \&gt;" alt="" coords="512,2941,709,2967"/>
+<area shape="rect" id="node103" href="$classElementMapper.html" title="ElementMapper\&lt; FormulaHandler \&gt;" alt="" coords="208,979,437,1006"/>
+<area shape="rect" id="node104" href="$classBaseHandler.html" title="BaseHandler\&lt; FormulaHandler \&gt;" alt="" coords="504,983,717,1010"/>
+<area shape="rect" id="node105" href="$classElementMapper.html" title="ElementMapper\&lt; GraphHandler \&gt;" alt="" coords="214,2333,431,2359"/>
+<area shape="rect" id="node106" href="$classBaseHandler.html" title="BaseHandler\&lt; GraphHandler \&gt;" alt="" coords="510,2333,711,2359"/>
+<area shape="rect" id="node107" href="$classGraphHandler.html" title="GraphHandler" alt="" coords="815,2371,917,2398"/>
+<area shape="rect" id="node108" href="$classElementMapper.html" title="ElementMapper\&lt; Highlight\lHandler \&gt;" alt="" coords="235,2673,411,2715"/>
+<area shape="rect" id="node109" href="$classBaseHandler.html" title="BaseHandler\&lt; HighlightHandler \&gt;" alt="" coords="502,2687,719,2714"/>
+<area shape="rect" id="node110" href="$classElementMapper.html" title="ElementMapper\&lt; HRulerHandler \&gt;" alt="" coords="211,1233,434,1259"/>
+<area shape="rect" id="node111" href="$classBaseHandler.html" title="BaseHandler\&lt; HRulerHandler \&gt;" alt="" coords="507,1237,714,1263"/>
+<area shape="rect" id="node112" href="$classElementMapper.html" title="ElementMapper\&lt; ImageHandler \&gt;" alt="" coords="213,1877,432,1903"/>
+<area shape="rect" id="node113" href="$classBaseHandler.html" title="BaseHandler\&lt; ImageHandler \&gt;" alt="" coords="509,1877,712,1903"/>
+<area shape="rect" id="node114" href="$classElementMapper.html" title="ElementMapper\&lt; IncludeHandler \&gt;" alt="" coords="211,2079,435,2106"/>
+<area shape="rect" id="node115" href="$classBaseHandler.html" title="BaseHandler\&lt; IncludeHandler \&gt;" alt="" coords="507,2079,715,2106"/>
+<area shape="rect" id="node116" href="$classIncludeHandler.html" title="IncludeHandler" alt="" coords="811,2029,921,2055"/>
+<area shape="rect" id="node117" href="$classElementMapper.html" title="ElementMapper\&lt; IndexEntry\lHandler \&gt;" alt="" coords="229,1335,417,1376"/>
+<area shape="rect" id="node118" href="$classBaseHandler.html" title="BaseHandler\&lt; IndexEntryHandler \&gt;" alt="" coords="496,1338,725,1365"/>
+<area shape="rect" id="node119" href="$classElementMapper.html" title="ElementMapper\&lt; ItemizedList\lHandler \&gt;" alt="" coords="225,1760,421,1801"/>
+<area shape="rect" id="node120" href="$classBaseHandler.html" title="BaseHandler\&lt; ItemizedList\lHandler \&gt;" alt="" coords="521,1760,701,1801"/>
+<area shape="rect" id="node121" href="$classElementMapper.html" title="ElementMapper\&lt; LineBreak\lHandler \&gt;" alt="" coords="231,1031,414,1072"/>
+<area shape="rect" id="node122" href="$classBaseHandler.html" title="BaseHandler\&lt; LineBreakHandler \&gt;" alt="" coords="499,1034,723,1061"/>
+<area shape="rect" id="node123" href="$classElementMapper.html" title="ElementMapper\&lt; LinkedText\lHandler \&gt;" alt="" coords="228,672,417,713"/>
+<area shape="rect" id="node124" href="$classBaseHandler.html" title="BaseHandler\&lt; LinkedTextHandler \&gt;" alt="" coords="495,679,726,706"/>
+<area shape="rect" id="node125" href="$classLinkedTextHandler.html" title="LinkedTextHandler" alt="" coords="801,679,931,706"/>
+<area shape="rect" id="node126" href="$classElementMapper.html" title="ElementMapper\&lt; LinkHandler \&gt;" alt="" coords="219,1658,426,1685"/>
+<area shape="rect" id="node127" href="$classBaseHandler.html" title="BaseHandler\&lt; LinkHandler \&gt;" alt="" coords="515,1658,706,1685"/>
+<area shape="rect" id="node128" href="$classElementMapper.html" title="ElementMapper\&lt; ListItemHandler \&gt;" alt="" coords="208,1607,437,1634"/>
+<area shape="rect" id="node129" href="$classBaseHandler.html" title="BaseHandler\&lt; ListItemHandler \&gt;" alt="" coords="504,1607,717,1634"/>
+<area shape="rect" id="node130" href="$classElementMapper.html" title="ElementMapper\&lt; ListOfAll\lMembersHandler \&gt;" alt="" coords="235,3119,410,3160"/>
+<area shape="rect" id="node131" href="$classBaseHandler.html" title="BaseHandler\&lt; ListOfAllMembers\lHandler \&gt;" alt="" coords="504,3144,717,3185"/>
+<area shape="rect" id="node132" href="$classListOfAllMembersHandler.html" title="ListOfAllMembersHandler" alt="" coords="781,3151,951,3178"/>
+<area shape="rect" id="node133" href="$classElementMapper.html" title="ElementMapper\&lt; MainHandler \&gt;" alt="" coords="217,3302,428,3329"/>
+<area shape="rect" id="node134" href="$classBaseHandler.html" title="BaseHandler\&lt; MainHandler \&gt;" alt="" coords="513,3275,708,3302"/>
+<area shape="rect" id="node135" href="$classMainHandler.html" title="MainHandler" alt="" coords="819,3314,913,3341"/>
+<area shape="rect" id="node136" href="$classElementMapper.html" title="ElementMapper\&lt; MarkupHandler \&gt;" alt="" coords="210,13,435,39"/>
+<area shape="rect" id="node137" href="$classBaseFallBackHandler.html" title="BaseFallBackHandler\l\&lt; MarkupHandler \&gt;" alt="" coords="537,5,685,47"/>
+<area shape="rect" id="node138" href="$classMarkupHandler.html" title="Handles markup commands in the XML input. " alt="" coords="811,13,921,39"/>
+<area shape="rect" id="node139" href="$classElementMapper.html" title="ElementMapper\&lt; MemberHandler \&gt;" alt="" coords="208,5449,437,5475"/>
+<area shape="rect" id="node140" href="$classBaseHandler.html" title="BaseHandler\&lt; MemberHandler \&gt;" alt="" coords="504,5449,717,5475"/>
+<area shape="rect" id="node141" href="$classMemberHandler.html" title="MemberHandler" alt="" coords="809,5955,923,5982"/>
+<area shape="rect" id="node142" href="$classElementMapper.html" title="ElementMapper\&lt; NodeHandler \&gt;" alt="" coords="216,4762,429,4789"/>
+<area shape="rect" id="node143" href="$classBaseHandler.html" title="BaseHandler\&lt; NodeHandler \&gt;" alt="" coords="512,4758,709,4785"/>
+<area shape="rect" id="node144" href="$classNodeHandler.html" title="NodeHandler" alt="" coords="817,4783,915,4810"/>
+<area shape="rect" id="node145" href="$classElementMapper.html" title="ElementMapper\&lt; OrderedList\lHandler \&gt;" alt="" coords="227,5129,419,5171"/>
+<area shape="rect" id="node146" href="$classBaseHandler.html" title="BaseHandler\&lt; OrderedList\lHandler \&gt;" alt="" coords="523,5129,699,5171"/>
+<area shape="rect" id="node147" href="$classElementMapper.html" title="ElementMapper\&lt; Paragraph\lHandler \&gt;" alt="" coords="231,4479,415,4520"/>
+<area shape="rect" id="node148" href="$classBaseHandler.html" title="BaseHandler\&lt; ParagraphHandler \&gt;" alt="" coords="498,4489,723,4515"/>
+<area shape="rect" id="node149" href="$classElementMapper.html" title="ElementMapper\&lt; Parameter\lHandler \&gt;" alt="" coords="230,4696,415,4737"/>
+<area shape="rect" id="node150" href="$classBaseHandler.html" title="BaseHandler\&lt; ParameterHandler \&gt;" alt="" coords="497,4707,724,4734"/>
+<area shape="rect" id="node151" href="$classElementMapper.html" title="ElementMapper\&lt; Parameter\lItemHandler \&gt;" alt="" coords="230,4321,415,4363"/>
+<area shape="rect" id="node152" href="$classBaseHandler.html" title="BaseHandler\&lt; ParameterItem\lHandler \&gt;" alt="" coords="513,4321,708,4363"/>
+<area shape="rect" id="node153" href="$classElementMapper.html" title="ElementMapper\&lt; Parameter\lListHandler \&gt;" alt="" coords="230,5012,415,5053"/>
+<area shape="rect" id="node154" href="$classBaseHandler.html" title="BaseHandler\&lt; ParameterList\lHandler \&gt;" alt="" coords="515,5012,706,5053"/>
+<area shape="rect" id="node155" href="$classElementMapper.html" title="ElementMapper\&lt; ParamHandler \&gt;" alt="" coords="213,3595,433,3622"/>
+<area shape="rect" id="node156" href="$classBaseHandler.html" title="BaseHandler\&lt; ParamHandler \&gt;" alt="" coords="509,3595,713,3622"/>
+<area shape="rect" id="node157" href="$classParamHandler.html" title="ParamHandler" alt="" coords="813,3609,919,3635"/>
+<area shape="rect" id="node158" href="$classElementMapper.html" title="ElementMapper\&lt; ProgramListing\lHandler \&gt;" alt="" coords="217,4544,429,4585"/>
+<area shape="rect" id="node159" href="$classBaseHandler.html" title="BaseHandler\&lt; ProgramListing\lHandler \&gt;" alt="" coords="513,4540,709,4581"/>
+<area shape="rect" id="node160" href="$classElementMapper.html" title="ElementMapper\&lt; RefHandler \&gt;" alt="" coords="221,4017,424,4043"/>
+<area shape="rect" id="node161" href="$classBaseHandler.html" title="BaseHandler\&lt; RefHandler \&gt;" alt="" coords="517,4017,704,4043"/>
+<area shape="rect" id="node162" href="$classElementMapper.html" title="ElementMapper\&lt; RowHandler \&gt;" alt="" coords="218,5242,427,5269"/>
+<area shape="rect" id="node163" href="$classBaseHandler.html" title="BaseHandler\&lt; RowHandler \&gt;" alt="" coords="514,5246,707,5273"/>
+<area shape="rect" id="node164" href="$classElementMapper.html" title="ElementMapper\&lt; SectionHandler \&gt;" alt="" coords="209,5398,436,5425"/>
+<area shape="rect" id="node165" href="$classBaseHandler.html" title="BaseHandler\&lt; SectionHandler \&gt;" alt="" coords="505,5398,716,5425"/>
+<area shape="rect" id="node166" href="$classSectionHandler.html" title="SectionHandler" alt="" coords="811,5499,921,5526"/>
+<area shape="rect" id="node167" href="$classElementMapper.html" title="ElementMapper\&lt; SimpleSect\lHandler \&gt;" alt="" coords="227,5293,419,5335"/>
+<area shape="rect" id="node168" href="$classBaseHandler.html" title="BaseHandler\&lt; SimpleSectHandler \&gt;" alt="" coords="494,5297,727,5323"/>
+<area shape="rect" id="node169" href="$classElementMapper.html" title="ElementMapper\&lt; SymbolHandler \&gt;" alt="" coords="209,4270,436,4297"/>
+<area shape="rect" id="node170" href="$classBaseHandler.html" title="BaseHandler\&lt; SymbolHandler \&gt;" alt="" coords="505,4270,716,4297"/>
+<area shape="rect" id="node171" href="$classElementMapper.html" title="ElementMapper\&lt; TableHandler \&gt;" alt="" coords="215,4910,430,4937"/>
+<area shape="rect" id="node172" href="$classBaseHandler.html" title="BaseHandler\&lt; TableHandler \&gt;" alt="" coords="511,4910,710,4937"/>
+<area shape="rect" id="node173" href="$classElementMapper.html" title="ElementMapper\&lt; TemplateParam\lListHandler \&gt;" alt="" coords="214,3236,431,3277"/>
+<area shape="rect" id="node174" href="$classBaseHandler.html" title="BaseHandler\&lt; TemplateParam\lListHandler \&gt;" alt="" coords="510,3209,711,3251"/>
+<area shape="rect" id="node175" href="$classTemplateParamListHandler.html" title="TemplateParamListHandler" alt="" coords="776,3217,956,3243"/>
+<area shape="rect" id="node176" href="$classElementMapper.html" title="ElementMapper\&lt; TitleHandler \&gt;" alt="" coords="219,3966,426,3993"/>
+<area shape="rect" id="node177" href="$classBaseHandler.html" title="BaseHandler\&lt; TitleHandler \&gt;" alt="" coords="515,3966,706,3993"/>
+<area shape="rect" id="node178" href="$classElementMapper.html" title="ElementMapper\&lt; TocItemHandler \&gt;" alt="" coords="207,3814,438,3841"/>
+<area shape="rect" id="node179" href="$classBaseHandler.html" title="BaseHandler\&lt; TocItemHandler \&gt;" alt="" coords="503,3814,718,3841"/>
+<area shape="rect" id="node180" href="$classElementMapper.html" title="ElementMapper\&lt; TocListHandler \&gt;" alt="" coords="210,3067,435,3094"/>
+<area shape="rect" id="node181" href="$classBaseHandler.html" title="BaseHandler\&lt; TocListHandler \&gt;" alt="" coords="506,3042,715,3069"/>
+<area shape="rect" id="node182" href="$classElementMapper.html" title="ElementMapper\&lt; ULinkHandler \&gt;" alt="" coords="215,3377,431,3403"/>
+<area shape="rect" id="node183" href="$classBaseHandler.html" title="BaseHandler\&lt; ULinkHandler \&gt;" alt="" coords="511,3377,711,3403"/>
+<area shape="rect" id="node184" href="$classElementMapper.html" title="ElementMapper\&lt; VariableList\lEntryHandler \&gt;" alt="" coords="226,3697,419,3739"/>
+<area shape="rect" id="node185" href="$classBaseHandler.html" title="BaseHandler\&lt; VariableList\lEntryHandler \&gt;" alt="" coords="522,3697,699,3739"/>
+<area shape="rect" id="node186" href="$classElementMapper.html" title="ElementMapper\&lt; VariableList\lHandler \&gt;" alt="" coords="226,3479,419,3520"/>
+<area shape="rect" id="node187" href="$classBaseHandler.html" title="BaseHandler\&lt; VariableList\lHandler \&gt;" alt="" coords="522,3479,699,3520"/>
+<area shape="rect" id="node188" href="$classElementMapper.html" title="ElementMapper\&lt; VerbatimHandler \&gt;" alt="" coords="205,4118,440,4145"/>
+<area shape="rect" id="node189" href="$classBaseHandler.html" title="BaseHandler\&lt; VerbatimHandler \&gt;" alt="" coords="501,4118,720,4145"/>
+<area shape="rect" id="node190" href="$classIBaseHandler.html" title="IBaseHandler" alt="" coords="272,2966,373,2993"/>
+<area shape="rect" id="node191" href="$classIChildNode.html" title="IChildNode" alt="" coords="567,1186,654,1213"/>
+<area shape="rect" id="node192" href="$classICompound.html" title="The interface to a compound in the object model. " alt="" coords="278,299,367,326"/>
+<area shape="rect" id="node193" href="$classIClass.html" title="The interface to a class in the object model. " alt="" coords="581,173,641,199"/>
+<area shape="rect" id="node194" href="$classIDir.html" title="Interface to a directory in the object model. " alt="" coords="589,223,632,250"/>
+<area shape="rect" id="node195" href="$classIException.html" title="The interface to a Java/IDL exception in the object model. " alt="" coords="569,274,653,301"/>
+<area shape="rect" id="node196" href="$classIFile.html" title="The interface to a file in the object model. " alt="" coords="587,325,634,351"/>
+<area shape="rect" id="node197" href="$classIGroup.html" title="The interface to a group in the object model. " alt="" coords="580,375,641,402"/>
+<area shape="rect" id="node198" href="$classIInterface.html" title="The interface to a Java/IDL interface in the object model. " alt="" coords="572,426,649,453"/>
+<area shape="rect" id="node199" href="$classINamespace.html" title="The interface to a namespace in the object model. " alt="" coords="563,477,659,503"/>
+<area shape="rect" id="node200" href="$classIPage.html" title="The interface to a page in the object model. " alt="" coords="583,527,639,554"/>
+<area shape="rect" id="node201" href="$classIStruct.html" title="The interface to a struct in the object model. " alt="" coords="580,71,641,98"/>
+<area shape="rect" id="node202" href="$classIUnion.html" title="The interface to a union in the object model. " alt="" coords="581,122,641,149"/>
+<area shape="rect" id="node203" href="$classIDoxygen.html" title="IDoxygen" alt="" coords="571,3326,650,3353"/>
+<area shape="rect" id="node204" href="$classIEdgeLabel.html" title="IEdgeLabel" alt="" coords="567,2789,654,2815"/>
+<area shape="rect" id="node205" href="$classIFallBackHandler.html" title="IFallBackHandler" alt="" coords="261,447,384,474"/>
+<area shape="rect" id="node206" href="$classIGraph.html" title="IGraph" alt="" coords="580,2383,641,2410"/>
+<area shape="rect" id="node207" href="$classIInclude.html" title="Include relation. " alt="" coords="577,1978,645,2005"/>
+<area shape="rect" id="node208" href="$classIMember.html" title="IMember" alt="" coords="286,5955,359,5982"/>
+<area shape="rect" id="node209" href="$classIDCOP.html" title="IDCOP" alt="" coords="578,5753,643,5779"/>
+<area shape="rect" id="node210" href="$classIDefine.html" title="IDefine" alt="" coords="579,5803,643,5830"/>
+<area shape="rect" id="node211" href="$classIEnum.html" title="IEnum" alt="" coords="581,5854,641,5881"/>
+<area shape="rect" id="node212" href="$classIEnumValue.html" title="IEnumValue" alt="" coords="564,5905,657,5931"/>
+<area shape="rect" id="node213" href="$classIFriend.html" title="IFriend" alt="" coords="579,5955,642,5982"/>
+<area shape="rect" id="node214" href="$classIFunction.html" title="IFunction" alt="" coords="573,6006,649,6033"/>
+<area shape="rect" id="node215" href="$classIProperty.html" title="IProperty" alt="" coords="573,6057,648,6083"/>
+<area shape="rect" id="node216" href="$classIPrototype.html" title="IPrototype" alt="" coords="569,6107,652,6134"/>
+<area shape="rect" id="node217" href="$classISignal.html" title="ISignal" alt="" coords="579,6158,642,6185"/>
+<area shape="rect" id="node218" href="$classISlot.html" title="ISlot" alt="" coords="586,6209,635,6235"/>
+<area shape="rect" id="node219" href="$classITypedef.html" title="ITypedef" alt="" coords="574,6259,647,6286"/>
+<area shape="rect" id="node220" href="$classIVariable.html" title="IVariable" alt="" coords="574,5702,647,5729"/>
+<area shape="rect" id="node221" href="$classINode.html" title="INode" alt="" coords="582,4809,639,4835"/>
+<area shape="rect" id="node222" href="$classIParam.html" title="Representation of a parameter of a function. " alt="" coords="579,3646,643,3673"/>
+<area shape="rect" id="node223" href="$classISection.html" title="The interface to a section in the object model. " alt="" coords="287,5651,358,5678"/>
+<area shape="rect" id="node224" href="$classIUserDefined.html" title="IUserDefined" alt="" coords="561,5651,660,5678"/>
+<area shape="rect" id="node225" href="$structLocatorContainer.html" title="LocatorContainer" alt="" coords="262,3017,383,3043"/>
+<area shape="rect" id="node226" href="$classQXmlContentHandler.html" title="The QXmlContentHandler class provides an interface to report logical content of XML data..." alt="" coords="5,3185,152,3211"/>
+<area shape="rect" id="node227" href="$classQXmlDefaultHandler.html" title="The QXmlDefaultHandler class provides a default implementation of all XML handler classes..." alt="" coords="251,3185,394,3211"/>
+<area shape="rect" id="node228" href="$classLayoutParser.html" title="LayoutParser" alt="" coords="561,5601,660,5627"/>
+<area shape="rect" id="node229" href="$classTagFileParser.html" title="Tag file parser. " alt="" coords="559,5499,662,5526"/>
+<area shape="rect" id="node230" href="$classXMLContentHandler.html" title="This class is a wrapper around SAX style XML parser, which parses the file without first building a D..." alt="" coords="541,5550,681,5577"/>
+<area shape="rect" id="node231" href="$classQXmlDeclHandler.html" title="The QXmlDeclHandler class provides an interface to report declaration content of XML data..." alt="" coords="15,3235,142,3262"/>
+<area shape="rect" id="node232" href="$classQXmlDTDHandler.html" title="The QXmlDTDHandler class provides an interface to report DTD content of XML data. ..." alt="" coords="15,3286,143,3313"/>
+<area shape="rect" id="node233" href="$classQXmlEntityResolver.html" title="The QXmlEntityResolver class provides an interface to resolve extern entities contained in XML data..." alt="" coords="8,3083,149,3110"/>
+<area shape="rect" id="node234" href="$classQXmlErrorHandler.html" title="The QXmlErrorHandler class provides an interface to report errors in XML data. " alt="" coords="15,6082,143,6109"/>
+<area shape="rect" id="node235" href="$classCompoundErrorHandler.html" title="CompoundErrorHandler" alt="" coords="243,6057,402,6083"/>
+<area shape="rect" id="node236" href="$classErrorHandler.html" title="ErrorHandler" alt="" coords="275,6107,370,6134"/>
+<area shape="rect" id="node237" href="$classLayoutErrorHandler.html" title="LayoutErrorHandler" alt="" coords="255,6158,390,6185"/>
+<area shape="rect" id="node238" href="$classTagFileErrorHandler.html" title="Error handler for the XML tag file parser. " alt="" coords="253,6209,392,6235"/>
+<area shape="rect" id="node239" href="$classXMLErrorHandler.html" title="Class for handling error during XML parsing. " alt="" coords="261,6006,384,6033"/>
+<area shape="rect" id="node240" href="$classQXmlLexicalHandler.html" title="The QXmlLexicalHandler class provides an interface to report lexical content of XML data..." alt="" coords="8,3134,149,3161"/>
+</map>

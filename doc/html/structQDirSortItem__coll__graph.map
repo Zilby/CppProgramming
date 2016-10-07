@@ -1,0 +1,9 @@
+<map id="QDirSortItem" name="QDirSortItem">
+<area shape="rect" id="node2" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="143,564,277,1096"/>
+<area shape="rect" id="node7" href="$classQFileInfo.html" title="The QFileInfo class provides system&#45;independent file information. " alt="" coords="55,1159,162,1427"/>
+<area shape="rect" id="node3" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="112,365,209,443"/>
+<area shape="rect" id="node4" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="234,321,357,487"/>
+<area shape="rect" id="node5" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="203,79,297,185"/>
+<area shape="rect" id="node6" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="321,5,456,259"/>
+<area shape="rect" id="node8" href="$structQFileInfoCache.html" title="{QFileInfoCache\n|+ st\l+ isSymLink\l|}" alt="" coords="5,784,119,876"/>
+</map>

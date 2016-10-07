@@ -1,0 +1,11 @@
+<map id="QDir::remove" name="QDir::remove">
+<area shape="rect" id="node2" href="$classQString.html#aa032d4b5892338beb575a85e59bbbf38" title="QString::isEmpty" alt="" coords="305,5,428,32"/>
+<area shape="rect" id="node4" href="$classQDir.html#a5210a2a0b20d77d2d9ab29e7631310e6" title="QDir::filePath" alt="" coords="155,56,256,83"/>
+<area shape="rect" id="node5" href="$classQFile.html#a57d95ea99c22b455ef0fa232299eba11" title="QFile::remove" alt="" coords="153,107,257,133"/>
+<area shape="rect" id="node3" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="489,5,599,32"/>
+<area shape="rect" id="node6" href="$classQFile.html#ac0d8375a5ea7d4503545d7c68dcf58e1" title="QFile::close" alt="" coords="321,107,413,133"/>
+<area shape="rect" id="node7" href="$classQIODevice.html#a291d97cdb38c1cd261bfbaa67a9d3923" title="QIODevice::isOpen" alt="" coords="476,56,612,83"/>
+<area shape="rect" id="node8" href="$classQFile.html#adfb2df6392ccaefb54215e2047a16c3b" title="QFile::init" alt="" coords="505,107,583,133"/>
+<area shape="rect" id="node10" href="$classQIODevice.html#a742d895b19b6809d67aa1643baf67639" title="QIODevice::setStatus" alt="" coords="660,157,811,184"/>
+<area shape="rect" id="node9" href="$classQIODevice.html#a9ce695e889efa9145e47195fcc765bf5" title="QIODevice::setFlags" alt="" coords="663,107,808,133"/>
+</map>

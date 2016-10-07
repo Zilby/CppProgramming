@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQTextDecoder.html" title="State&#45;based decoder. " alt="" coords="5,81,112,108"/>
+<area shape="rect" id="node2" href="$classQTextCodecFromIODDecoder.html" title="QTextCodecFromIODDecoder" alt="" coords="160,5,359,32"/>
+<area shape="rect" id="node3" href="$classQTextStatelessDecoder.html" title="QTextStatelessDecoder" alt="" coords="178,56,341,83"/>
+<area shape="rect" id="node4" href="$classQUtf16Decoder.html" title="QUtf16Decoder" alt="" coords="203,107,316,133"/>
+<area shape="rect" id="node5" href="$classQUtf8Decoder.html" title="QUtf8Decoder" alt="" coords="206,157,313,184"/>
+</map>

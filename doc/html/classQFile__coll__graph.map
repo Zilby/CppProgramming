@@ -1,0 +1,15 @@
+<map id="QFile" name="QFile">
+<area shape="rect" id="node2" href="$classQIODevice.html" title="The QIODevice class is the base class of I/O devices. " alt="" coords="5,1205,163,1561"/>
+<area shape="rect" id="node3" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="187,1271,293,1495"/>
+<area shape="rect" id="node4" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="169,816,311,1040"/>
+<area shape="rect" id="node5" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="147,581,333,673"/>
+<area shape="rect" id="node6" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="128,331,301,437"/>
+<area shape="rect" id="node7" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="325,345,496,423"/>
+<area shape="rect" id="node8" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="347,147,475,268"/>
+<area shape="rect" id="node9" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="339,5,482,97"/>
+<area shape="rect" id="node10" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="318,1117,453,1649"/>
+<area shape="rect" id="node11" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="335,889,433,967"/>
+<area shape="rect" id="node12" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="457,845,580,1011"/>
+<area shape="rect" id="node13" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="392,573,485,680"/>
+<area shape="rect" id="node14" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="510,500,645,753"/>
+</map>

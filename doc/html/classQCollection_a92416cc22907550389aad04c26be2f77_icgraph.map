@@ -1,0 +1,12 @@
+<map id="QCollection::clear" name="QCollection::clear">
+<area shape="rect" id="node2" href="$classQGCache.html#adb8125f1761226863fb71c1c8229cbf1" title="QGCache::totalCost" alt="" coords="180,122,321,149"/>
+<area shape="rect" id="node3" href="$classQGVector.html#a24cdcea0593a3c9334d130e66c8e2043" title="QGVector::count" alt="" coords="191,173,311,199"/>
+<area shape="rect" id="node4" href="$classQGVector.html#ab43b21e4cb61c798ea3fbfbd11cab659" title="QGVector::sort" alt="" coords="408,71,519,98"/>
+<area shape="rect" id="node7" href="$classQGVector.html#a41c23424203379d69bb1a88ee864e4c2" title="QGVector::containsRef" alt="" coords="624,122,783,149"/>
+<area shape="rect" id="node8" href="$classQGVector.html#a763d499783b36d6951f47fb185164b22" title="QGVector::contains" alt="" coords="635,173,772,199"/>
+<area shape="rect" id="node9" href="$classQGVector.html#af81f0f1719b2ef4215cd6014d72c7f44" title="QGVector::write" alt="" coords="405,223,521,250"/>
+<area shape="rect" id="node11" href="$classQVector.html#a7fa63591f2256a78f5ba439cc858b09d" title="QVector\&lt; QList\&lt; IndexWord\l \&gt; \&gt;::count" alt="" coords="369,275,557,316"/>
+<area shape="rect" id="node5" href="$classtranslator_1_1TrManager.html#a84aba0e70020862ec40a29909de43687" title="translator.TrManager.generate\lTranslatorReport" alt="" coords="605,5,801,47"/>
+<area shape="rect" id="node6" href="$classQVector.html#a1d9f67e27cf360cfec05312fd014da7a" title="QVector\&lt; QList\&lt; IndexWord\l \&gt; \&gt;::clear" alt="" coords="849,140,1037,181"/>
+<area shape="rect" id="node10" href="$classQGVector.html#a3dd5cc73b1f0756d0c28791632b23590" title="QGVector::toList" alt="" coords="643,223,763,250"/>
+</map>

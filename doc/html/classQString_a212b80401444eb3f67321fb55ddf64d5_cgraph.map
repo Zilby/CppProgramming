@@ -1,0 +1,8 @@
+<map id="QString::append" name="QString::append">
+<area shape="rect" id="node2" href="$classQString.html#a01ef0a41636e87e459fc42f2bb2c0a70" title="QString::operator+=" alt="" coords="169,81,307,108"/>
+<area shape="rect" id="node3" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="367,5,477,32"/>
+<area shape="rect" id="node4" href="$classQString.html#af653a95345ba3cd5bade2a1e07f2bb58" title="QString::unicode" alt="" coords="363,56,481,83"/>
+<area shape="rect" id="node5" href="$classQString.html#a6a6da156364a32ef91e35f83b1955acc" title="QString::isNull" alt="" coords="369,107,475,133"/>
+<area shape="rect" id="node6" href="$classQString.html#ab8e9aa9ff378aa3f3e531b26598712e3" title="QString::fromLatin1" alt="" coords="355,157,489,184"/>
+<area shape="rect" id="node7" href="$classQString.html#ac17675a27c6e32a31e04f07a5308a9cb" title="QString::QString" alt="" coords="537,157,656,184"/>
+</map>

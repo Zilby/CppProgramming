@@ -1,0 +1,4 @@
+<map id="ObjCache" name="ObjCache">
+<area shape="rect" id="node2" href="$structObjCache_1_1CacheNode.html" title="{ObjCache::CacheNode\n|+ next\l+ prev\l+ obj\l|+ CacheNode()\l}" alt="" coords="5,13,163,119"/>
+<area shape="rect" id="node3" href="$structObjCache_1_1HashNode.html" title="{ObjCache::HashNode\n|+ head\l+ nextHash\l+ index\l+ obj\l|+ HashNode()\l}" alt="" coords="187,5,338,127"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QChar::upper" name="QChar::upper">
+<area shape="rect" id="node2" href="$classQString.html#a4830365186780874b6e160213a422af8" title="QString::upper" alt="" coords="194,19,301,46"/>
+<area shape="rect" id="node3" href="$classQTextCodec.html#a1bcf2f11fac6113fd6ae74dda55b2ca4" title="QTextCodec::heuristicName\lMatch" alt="" coords="153,71,341,112"/>
+<area shape="rect" id="node4" href="$classQTextCodecFromIOD.html#af7109ff23e3f6c34228eb046578c0357" title="QTextCodecFromIOD::\lheuristicNameMatch" alt="" coords="409,5,567,47"/>
+<area shape="rect" id="node5" href="$classQSimpleTextCodec.html#ab08ae2e5e99af1cd6dda3450731e502b" title="QSimpleTextCodec::heuristic\lNameMatch" alt="" coords="391,71,585,112"/>
+<area shape="rect" id="node6" href="$classQLatin1Codec.html#a34f0298855e849d6c4bd67a7115971ec" title="QLatin1Codec::heuristicName\lMatch" alt="" coords="389,136,587,177"/>
+</map>

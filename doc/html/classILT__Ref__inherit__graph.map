@@ -1,0 +1,4 @@
+<map id="ILT_Ref" name="ILT_Ref">
+<area shape="rect" id="node3" href="$classLT__Ref.html" title="{LT_Ref\n|&#45; m_refId\l&#45; m_extId\l&#45; m_text\l&#45; m_targetKind\l|+ LT_Ref()\l+ ~LT_Ref()\l+ setRefId()\l+ setText()\l+ setExtId()\l+ setTargetKind()\l+ text()\l+ id()\l+ targetKind()\l+ external()\l+ kind()\l}" alt="" coords="5,373,128,641"/>
+<area shape="rect" id="node2" href="$classILinkedText.html" title="Base interface for hyperlinked text. " alt="" coords="21,5,112,97"/>
+</map>

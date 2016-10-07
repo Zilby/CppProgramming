@@ -1,0 +1,4 @@
+<map id="IDefine" name="IDefine">
+<area shape="rect" id="node3" href="$classMemberHandler.html" title="{MemberHandler\n|&#45; m_templateParams\l&#45; m_type\l&#45; m_definition\l&#45; m_argsstring\l&#45; m_name\l&#45; m_read\l&#45; m_write\l&#45; m_reimplements\l&#45; m_reimplementedBy\l&#45; m_params\land 33 more...\l|+ startMember()\l+ endMember()\l+ startParam()\l+ startType()\l+ startName()\l+ endName()\l+ startRead()\l+ endRead()\l+ startWrite()\l+ endWrite()\land 66 more...\l}" alt="" coords="5,403,155,773"/>
+<area shape="rect" id="node2" href="$classIMember.html" title="{IMember\n||+ compound()\l+ section()\l+ kind()\l+ kindString()\l+ id()\l+ protection()\l+ virtualness()\l+ type()\l+ typeString()\l+ name()\land 66 more...\l}" alt="" coords="27,5,133,229"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Definition::docFile" name="Definition::docFile">
+<area shape="rect" id="node2" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="187,5,305,32"/>
+<area shape="rect" id="node3" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="187,56,305,83"/>
+<area shape="rect" id="node4" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="180,107,312,133"/>
+<area shape="rect" id="node5" href="$classQCString.html#a3917c144e26bc525d588c1dff602be00" title="Returns a reference to the character at index i. " alt="" coords="199,157,293,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="LinkedTextImpl" name="LinkedTextImpl">
+<area shape="rect" id="node3" href="$classLT__Ref.html" title="{LT_Ref\n|&#45; m_refId\l&#45; m_extId\l&#45; m_text\l&#45; m_targetKind\l|+ LT_Ref()\l+ ~LT_Ref()\l+ setRefId()\l+ setText()\l+ setExtId()\l+ setTargetKind()\l+ text()\l+ id()\l+ targetKind()\l+ external()\l+ kind()\l}" alt="" coords="5,271,128,539"/>
+<area shape="rect" id="node4" href="$classLT__Text.html" title="{LT_Text\n|&#45; m_text\l|+ LT_Text()\l+ ~LT_Text()\l+ text()\l+ kind()\l}" alt="" coords="152,344,251,465"/>
+<area shape="rect" id="node2" href="$classILinkedText.html" title="Base interface for hyperlinked text. " alt="" coords="88,5,179,97"/>
+</map>

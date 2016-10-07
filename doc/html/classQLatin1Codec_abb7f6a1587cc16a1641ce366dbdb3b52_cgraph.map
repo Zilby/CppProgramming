@@ -1,0 +1,6 @@
+<map id="QLatin1Codec::fromUnicode" name="QLatin1Codec::fromUnicode">
+<area shape="rect" id="node2" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="245,5,354,32"/>
+<area shape="rect" id="node3" href="$classQString.html#af653a95345ba3cd5bade2a1e07f2bb58" title="QString::unicode" alt="" coords="240,56,359,83"/>
+<area shape="rect" id="node4" href="$classQChar.html#a8f987c65692f95eebc84bf687ea92aff" title="QChar::row" alt="" coords="255,107,344,133"/>
+<area shape="rect" id="node5" href="$classQChar.html#a2475b4653bed4cf2a3f10395a14cc9c5" title="QChar::cell" alt="" coords="255,157,343,184"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="FileDef::isLinkableInProject" name="FileDef::isLinkableInProject">
+<area shape="rect" id="node2" href="$classDefinition.html#aa89347609a1643f6c4bc3852d9f773bb" title="Definition::hasDocumentation" alt="" coords="236,5,431,32"/>
+<area shape="rect" id="node4" href="$classDefinition.html#a8405121cdc0253ec9633a87500ac47ba" title="Definition::isReference" alt="" coords="485,56,640,83"/>
+<area shape="rect" id="node5" href="$classFileDef.html#a68f9ae783659b8c3738623edfdb6ee74" title="FileDef::name" alt="" coords="281,283,385,309"/>
+<area shape="rect" id="node3" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="728,68,860,95"/>
+<area shape="rect" id="node6" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="941,333,1059,360"/>
+<area shape="rect" id="node7" href="$classSDict.html#aec67482d780157680d46f48a7ed5e7bd" title="SDict::find" alt="" coords="521,333,605,360"/>
+<area shape="rect" id="node8" href="$classDefinition.html#a60354ebca3cb065a4a6aa1944a9309d5" title="Definition::qualifiedName" alt="" coords="479,283,647,309"/>
+<area shape="rect" id="node13" href="$classSDict.html#a121842d9858421076b81ed663034d62c" title="SDict::append" alt="" coords="510,435,615,461"/>
+<area shape="rect" id="node14" href="$classFileDef.html#ad44d91d874c4713d198a8e4b862ee48f" title="FileDef::absFilePath" alt="" coords="492,485,633,512"/>
+<area shape="rect" id="node15" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="508,536,617,563"/>
+<area shape="rect" id="node16" href="$classSDict.html#adcfbdc244e81360522457c8a84069f2b" title="SDict::prepend" alt="" coords="508,157,617,184"/>
+<area shape="rect" id="node17" href="$util_8h.html#a826cc396ba482fb9ef1990104f9c1026" title="guessSection" alt="" coords="512,208,613,235"/>
+<area shape="rect" id="node9" href="$util_8h.html#ac4c34c02b8869dca71de6f4037736dc7" title="Returns the scope separator to use given the programming language lang. " alt="" coords="695,283,893,309"/>
+<area shape="rect" id="node10" href="$classDefinition.html#a3c214d451d86bf8994c9d1503ed2843d" title="Returns the programming language this definition was written in. " alt="" coords="715,131,873,157"/>
+<area shape="rect" id="node11" href="$classQCString.html#a8402bb62a3a1c6a79130c3b3cf38b52c" title="Resizes the string to hold newlen characters (this value should include the 0&#45;terminator). " alt="" coords="735,181,853,208"/>
+<area shape="rect" id="node12" href="$classDefinition.html#a4f303fc4a5c9be7ab8160cf1792e7bda" title="Definition::isHidden" alt="" coords="726,232,862,259"/>
+</map>

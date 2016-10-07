@@ -1,0 +1,14 @@
+<map id="TemplateEngine" name="TemplateEngine">
+<area shape="rect" id="node2" href="$classTemplateEngine_1_1Private.html" title="Private data of the template engine. " alt="" coords="128,1595,293,1789"/>
+<area shape="rect" id="node3" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="184,1242,291,1466"/>
+<area shape="rect" id="node4" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="157,845,299,1069"/>
+<area shape="rect" id="node5" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="131,551,317,643"/>
+<area shape="rect" id="node6" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="112,331,285,437"/>
+<area shape="rect" id="node7" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="309,345,480,423"/>
+<area shape="rect" id="node8" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="331,147,459,268"/>
+<area shape="rect" id="node9" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="323,5,466,97"/>
+<area shape="rect" id="node10" href="$classQList.html" title="{QList\&lt; TemplateEngine\l::Private::IncludeEntry \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="317,1191,481,1517"/>
+<area shape="rect" id="node11" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="327,787,481,1128"/>
+<area shape="rect" id="node12" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="341,500,467,695"/>
+<area shape="rect" id="node13" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="491,551,579,643"/>
+</map>

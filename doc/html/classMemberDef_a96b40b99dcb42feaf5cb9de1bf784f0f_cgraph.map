@@ -1,0 +1,5 @@
+<map id="MemberDef::getReference" name="MemberDef::getReference">
+<area shape="rect" id="node2" href="$classDefinition.html#a0186c1c36a52590d2c7c9157aaea613f" title="Definition::getReference" alt="" coords="440,41,603,68"/>
+<area shape="rect" id="node3" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="245,29,377,56"/>
+<area shape="rect" id="node4" href="$classClassDef.html#aa19a0146566892e3f947698762d6e3e8" title="If this class originated from a tagfile, this will return the tag file reference. ..." alt="" coords="229,104,392,131"/>
+</map>

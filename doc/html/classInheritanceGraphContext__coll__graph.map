@@ -1,0 +1,51 @@
+<map id="InheritanceGraphContext" name="InheritanceGraphContext">
+<area shape="rect" id="node2" href="$classRefCountedContext.html" title="Helper class to support reference counting. " alt="" coords="5,3421,172,3542"/>
+<area shape="rect" id="node3" href="$classTemplateStructIntf.html" title="Abstract interface for a context value of type struct. " alt="" coords="196,3421,355,3542"/>
+<area shape="rect" id="node4" href="$classInheritanceGraphContext_1_1Private.html" title="{InheritanceGraphContext\l::Private\n|&#45; m_id\l|+ Private()\l+ get()\l+ graph()\l}" alt="" coords="640,3421,807,3542"/>
+<area shape="rect" id="node5" href="$classDotNode.html" title="A node in a dot graph. " alt="" coords="945,2819,1112,3263"/>
+<area shape="rect" id="node6" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="2210,704,2317,928"/>
+<area shape="rect" id="node17" href="$classDefinition.html" title="The common base class of all entity definitions found in the sources. " alt="" coords="3440,1064,3631,1464"/>
+<area shape="rect" id="node20" href="$classDefinitionImpl.html" title="Private data associated with a Symbol Definition object. " alt="" coords="3678,3413,3809,3549"/>
+<area shape="rect" id="node23" href="$classFileDef.html" title="A model of a file symbol. " alt="" coords="1959,1824,2160,2297"/>
+<area shape="rect" id="node31" href="$structDocInfo.html" title="Data associated with a detailed description. " alt="" coords="4013,1605,4081,1683"/>
+<area shape="rect" id="node32" href="$structBriefInfo.html" title="Data associated with a brief description. " alt="" coords="4143,2519,4213,2597"/>
+<area shape="rect" id="node34" href="$classClassDefImpl.html" title="Private data associated with a ClassDef object. " alt="" coords="1896,3355,2068,3608"/>
+<area shape="rect" id="node35" href="$classNamespaceDef.html" title="A model of a namespace symbol. " alt="" coords="2555,1846,2756,2275"/>
+<area shape="rect" id="node36" href="$classFileList.html" title="Class representing a list of FileDef objects. " alt="" coords="2199,1196,2327,1332"/>
+<area shape="rect" id="node42" href="$structIncludeInfo.html" title="Class representing the data associated with a #include statement. " alt="" coords="1718,2980,1833,3101"/>
+<area shape="rect" id="node44" href="$classArgumentList.html" title="This class represents an function or template argument list. " alt="" coords="1263,1539,1413,1749"/>
+<area shape="rect" id="node7" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="2192,329,2335,553"/>
+<area shape="rect" id="node8" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="2171,175,2356,267"/>
+<area shape="rect" id="node9" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="2079,5,2253,112"/>
+<area shape="rect" id="node10" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="2277,20,2447,97"/>
+<area shape="rect" id="node11" href="$classQList.html" title="{QList\&lt; DotNode \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="832,1108,961,1420"/>
+<area shape="rect" id="node48" href="$classDotGfxHierarchyTable.html" title="Represents a graphical class hierarchy. " alt="" coords="741,2951,921,3131"/>
+<area shape="rect" id="node49" href="$classDotNodeList.html" title="Class representing a list of DotNode objects. " alt="" coords="646,2007,774,2114"/>
+<area shape="rect" id="node12" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="1211,645,1366,987"/>
+<area shape="rect" id="node15" href="$classQList.html" title="{QList\&lt; EdgeInfo \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="1028,1488,1157,1800"/>
+<area shape="rect" id="node28" href="$classQList.html" title="{QList\&lt; MemberList \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="1364,1108,1509,1420"/>
+<area shape="rect" id="node33" href="$classQList.html" title="{QList\&lt; ListItemInfo \&gt;\n||+ QList()\l+ QList()\l+ ~QList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 17 more...\l&#45; compareValues()\l&#45; newValue()\l&#45; deleteValue()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l}" alt="" coords="3563,2402,3710,2714"/>
+<area shape="rect" id="node13" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="1274,344,1399,539"/>
+<area shape="rect" id="node14" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="1105,395,1193,487"/>
+<area shape="rect" id="node16" href="$classClassDef.html" title="A class representing of a compound symbol. " alt="" coords="2875,1846,3116,2275"/>
+<area shape="rect" id="node45" href="$classMemberDef.html" title="A model of a class/file/namespace member symbol. " alt="" coords="3362,2321,3557,2795"/>
+<area shape="rect" id="node18" href="$classDefinitionIntf.html" title="Abstract interface for a Definition or DefinitionList. " alt="" coords="4076,763,4200,869"/>
+<area shape="rect" id="node19" href="$structDefinition_1_1Cookie.html" title="{Definition::Cookie\n||+ ~Cookie()\l}" alt="" coords="4224,777,4351,855"/>
+<area shape="rect" id="node21" href="$classSectionDict.html" title="Unsorted dictionary of SectionInfo objects. " alt="" coords="3885,2995,4004,3087"/>
+<area shape="rect" id="node22" href="$structBodyInfo.html" title="Data associated with description found in the body. " alt="" coords="3120,2995,3204,3087"/>
+<area shape="rect" id="node24" href="$classClassSDict.html" title="A sorted dictionary of ClassDef objects. " alt="" coords="1803,1189,1961,1339"/>
+<area shape="rect" id="node25" href="$classSDict.html" title="{SDict\&lt; Definition \&gt;\n|&#45; m_dict\l&#45; m_sizeIndex\l|+ SDict()\l+ ~SDict()\l+ append()\l+ prepend()\l+ remove()\l+ take()\l+ sort()\l+ inSort()\l+ insertAt()\l+ setAutoDelete()\land 9 more...\l}" alt="" coords="2685,1145,2820,1383"/>
+<area shape="rect" id="node26" href="$classMemberGroupSDict.html" title="A sorted dictionary of MemberGroup objects. " alt="" coords="3054,1211,3219,1317"/>
+<area shape="rect" id="node27" href="$classNamespaceSDict.html" title="A sorted dictionary of NamespaceDef objects. " alt="" coords="2456,1196,2609,1332"/>
+<area shape="rect" id="node29" href="$classMemberSDict.html" title="A sorted dictionary of MemberDef objects. " alt="" coords="3285,1211,3415,1317"/>
+<area shape="rect" id="node30" href="$classGroupList.html" title="A list of GroupDef objects. " alt="" coords="3729,3002,3861,3079"/>
+<area shape="rect" id="node37" href="$classSDict.html" title="{SDict\&lt; QCString \&gt;\n|&#45; m_dict\l&#45; m_sizeIndex\l|+ SDict()\l+ ~SDict()\l+ append()\l+ prepend()\l+ remove()\l+ take()\l+ sort()\l+ inSort()\l+ insertAt()\l+ setAutoDelete()\land 9 more...\l}" alt="" coords="303,2921,437,3160"/>
+<area shape="rect" id="node38" href="$classSList.html" title="{SList\&lt; QCString \&gt;\n||+ SList()\l+ ~SList()\l+ compareValues()\l}" alt="" coords="379,3428,511,3535"/>
+<area shape="rect" id="node39" href="$classBaseClassList.html" title="List of base classes. " alt="" coords="2057,2995,2192,3087"/>
+<area shape="rect" id="node40" href="$classClassList.html" title="A list of ClassDef objects. " alt="" coords="2562,2987,2690,3094"/>
+<area shape="rect" id="node41" href="$classMemberNameInfoSDict.html" title="Sorted dictionary of MemberNameInfo objects. " alt="" coords="1137,2987,1323,3094"/>
+<area shape="rect" id="node43" href="$classExampleSDict.html" title="A sorted dictionary of Example objects. " alt="" coords="2715,2987,2849,3094"/>
+<area shape="rect" id="node46" href="$classUsesClassDict.html" title="Dictionary of usage relations. " alt="" coords="1438,2995,1577,3087"/>
+<area shape="rect" id="node47" href="$classConstraintClassDict.html" title="Dictionary of constraint relations. " alt="" coords="2217,2995,2385,3087"/>
+<area shape="rect" id="node50" href="$classPropertyMapper.html" title="{PropertyMapper\&lt; Inheritance\lGraphContext::InheritanceGraphContext\l::Private \&gt;\n|&#45; m_map\l|+ PropertyMapper()\l+ addProperty()\l+ get()\l}" alt="" coords="461,2973,717,3109"/>
+</map>

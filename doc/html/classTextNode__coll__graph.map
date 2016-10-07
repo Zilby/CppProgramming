@@ -1,0 +1,9 @@
+<map id="TextNode" name="TextNode">
+<area shape="rect" id="node3" href="$classStringImpl.html" title="{StringImpl\n||+ StringImpl()\l+ StringImpl()\l+ operator=()\l+ ~StringImpl()\l+ latin1()\l+ utf8()\l+ unicodeCharAt()\l+ isEmpty()\l+ length()\l}" alt="" coords="131,1145,259,1340"/>
+<area shape="rect" id="node4" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="19,564,153,1096"/>
+<area shape="rect" id="node5" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="5,365,103,443"/>
+<area shape="rect" id="node6" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="127,321,250,487"/>
+<area shape="rect" id="node7" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="73,79,166,185"/>
+<area shape="rect" id="node8" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="191,5,325,259"/>
+<area shape="rect" id="node9" href="$classIString.html" title="Read only interface to a string. " alt="" coords="178,725,306,935"/>
+</map>

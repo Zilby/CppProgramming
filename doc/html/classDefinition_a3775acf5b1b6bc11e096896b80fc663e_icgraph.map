@@ -1,0 +1,8 @@
+<map id="Definition::getDefFileExtension" name="Definition::getDefFileExtension">
+<area shape="rect" id="node2" href="$classTranslateContext.html#ab0fad4b75cd53cb3c22e8e1adee1c260" title="Gets the value for a field name. " alt="" coords="281,5,429,32"/>
+<area shape="rect" id="node3" href="$classLatexGenerator.html#aa675b530ccd61f9c4784efc2abcedbaa" title="LatexGenerator::endDescItem" alt="" coords="256,56,453,83"/>
+<area shape="rect" id="node4" href="$classManGenerator.html#ab86f06d399e075e2b6855319bf26e1ec" title="ManGenerator::endDescItem" alt="" coords="259,107,450,133"/>
+<area shape="rect" id="node6" href="$classRTFGenerator.html#a62498deb4b617b2cfb75381f6508a4ed" title="This is an API to a VERY brittle RTF preprocessor that combines nested RTF files. ..." alt="" coords="265,158,444,199"/>
+<area shape="rect" id="node5" href="$classManGenerator.html#a04db9176fd114182d5aab2a48346621d" title="ManGenerator::endDescription" alt="" coords="509,107,707,133"/>
+<area shape="rect" id="node7" href="$classRTFGenerator.html#a01b1cb771ecbdb9da62b21c980d1a5ae" title="RTFGenerator::writeCodeAnchor" alt="" coords="501,165,715,192"/>
+</map>

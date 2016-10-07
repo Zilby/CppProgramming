@@ -1,0 +1,6 @@
+<map id="QBuffer::open" name="QBuffer::open">
+<area shape="rect" id="node2" href="$classQIODevice.html#a291d97cdb38c1cd261bfbaa67a9d3923" title="QIODevice::isOpen" alt="" coords="163,5,299,32"/>
+<area shape="rect" id="node3" href="$classQIODevice.html#a9a8d9bf655a71b5821699a97a78be6be" title="QIODevice::setMode" alt="" coords="159,56,304,83"/>
+<area shape="rect" id="node4" href="$classQIODevice.html#ab8a455c1e81b3382c5db9a65ea70e615" title="QIODevice::setState" alt="" coords="159,107,303,133"/>
+<area shape="rect" id="node5" href="$classQIODevice.html#a742d895b19b6809d67aa1643baf67639" title="QIODevice::setStatus" alt="" coords="156,157,307,184"/>
+</map>

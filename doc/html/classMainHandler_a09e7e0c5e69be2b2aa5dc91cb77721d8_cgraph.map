@@ -1,0 +1,37 @@
+<map id="MainHandler::readXMLDir" name="MainHandler::readXMLDir">
+<area shape="rect" id="node2" href="$classQFile.html#ad3329694f62a9bb5730f6ba709f8b7cc" title="QFile::exists" alt="" coords="282,189,378,216"/>
+<area shape="rect" id="node3" href="$classQXmlSimpleReader.html#ae3561b9c7507e03b87534f505fec2857" title="QXmlSimpleReader::setContent\lHandler" alt="" coords="225,241,435,282"/>
+<area shape="rect" id="node4" href="$classQXmlSimpleReader.html#a2c660f128d0820723138e4e0af5b9dcb" title="QXmlSimpleReader::setError\lHandler" alt="" coords="235,306,425,347"/>
+<area shape="rect" id="node5" href="$classQXmlSimpleReader.html#a664631907374b7d0f7b492ef65f418d9" title="QXmlSimpleReader::parse" alt="" coords="241,372,419,399"/>
+<area shape="rect" id="node6" href="$classQXmlSimpleReader.html#a42c657d7c27b1bdc13291c1753748690" title="QXmlSimpleReader::init" alt="" coords="509,43,671,69"/>
+<area shape="rect" id="node9" href="$classQXmlSimpleReader.html#a01e625196cf7f64e771ede000175e060" title="QXmlSimpleReader::parseProlog" alt="" coords="483,463,697,489"/>
+<area shape="rect" id="node31" href="$classQXmlSimpleReader.html#a37931f53aceacd946d0dd6b2b3633de9" title="QXmlSimpleReader::parseElement" alt="" coords="746,301,971,328"/>
+<area shape="rect" id="node36" href="$classQXmlSimpleReader.html#aae33ed104c121c49cd9989a228ba7071" title="QXmlSimpleReader::parseMisc" alt="" coords="1039,443,1245,469"/>
+<area shape="rect" id="node7" href="$classQXmlInputSource.html#a1e7d5502610edbceed00152d1787234f" title="QXmlInputSource::data" alt="" coords="779,43,938,69"/>
+<area shape="rect" id="node8" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="2759,257,2868,284"/>
+<area shape="rect" id="node10" href="$classQXmlSimpleReader.html#a7add7c3670021341cc4dde399551951d" title="QXmlSimpleReader::parseDoctype" alt="" coords="745,749,972,776"/>
+<area shape="rect" id="node16" href="$classQXmlSimpleReader.html#ac8c5088453ccf5072d9c6ac86b1769f1" title="QXmlSimpleReader::parsePI" alt="" coords="1334,352,1525,379"/>
+<area shape="rect" id="node21" href="$classQXmlSimpleReader.html#aaf2c1eab1e924ce27e128471b880d145" title="QXmlSimpleReader::parseComment" alt="" coords="1312,493,1547,520"/>
+<area shape="rect" id="node11" href="$classQXmlSimpleReader.html#aceef3195d1be096140de202b59668eb8" title="QXmlSimpleReader::parseString" alt="" coords="2218,800,2429,827"/>
+<area shape="rect" id="node12" href="$classQXmlSimpleReader.html#a65198a1d39b2434110a3cb29a7895b39" title="QXmlSimpleReader::parseName" alt="" coords="2499,505,2711,532"/>
+<area shape="rect" id="node13" href="$classQXmlSimpleReader.html#a3eeb090f997e608e46b52d6dabe8b39a" title="QXmlSimpleReader::parseExternalID" alt="" coords="1903,901,2141,928"/>
+<area shape="rect" id="node14" href="$classQXmlSimpleReader.html#abdd487c85ac68780a709a31a5f97366e" title="QXmlSimpleReader::parsePEReference" alt="" coords="2196,379,2451,405"/>
+<area shape="rect" id="node15" href="$classQXmlSimpleReader.html#a581f433a88e47e188bb12ef1e3247202" title="QXmlSimpleReader::parseMarkupdecl" alt="" coords="1020,645,1264,672"/>
+<area shape="rect" id="node22" href="$classQXmlSimpleReader.html#a0b1133e0dfcb496aa8420569e394731a" title="QXmlSimpleReader::parseAttlistDecl" alt="" coords="1602,531,1841,557"/>
+<area shape="rect" id="node25" href="$classQXmlSimpleReader.html#a4278948423492ea4267d792df9ab5588" title="QXmlSimpleReader::parseElementDecl" alt="" coords="1896,699,2148,725"/>
+<area shape="rect" id="node27" href="$classQXmlSimpleReader.html#a738e3e15d1721f6e716c148bbfdf635f" title="QXmlSimpleReader::parseEntityDecl" alt="" coords="1602,643,1841,669"/>
+<area shape="rect" id="node30" href="$classQXmlSimpleReader.html#a0d91af7522e3fbccd3e476d53092403b" title="QXmlSimpleReader::parseNotationDecl" alt="" coords="1595,927,1848,953"/>
+<area shape="rect" id="node17" href="$classQXmlSimpleReader.html#aca40698c1ab224ce0b8fe66741fbc26e" title="QXmlSimpleReader::parseAttribute" alt="" coords="1608,237,1835,264"/>
+<area shape="rect" id="node18" href="$classQXmlSimpleReader.html#ab14ce57ef45f62c49966eeed3a03eda7" title="QXmlSimpleReader::parseAtt\lValue" alt="" coords="1925,246,2119,287"/>
+<area shape="rect" id="node19" href="$classQXmlSimpleReader.html#a2c93d06cc0b9787339368f43c83672df" title="QXmlSimpleReader::parseReference" alt="" coords="2205,257,2442,284"/>
+<area shape="rect" id="node20" href="$classQXmlSimpleReader.html#a3b93e43edf722bc5d0c6475ce408d543" title="QXmlSimpleReader::process\lReference" alt="" coords="2509,250,2700,291"/>
+<area shape="rect" id="node23" href="$classQXmlSimpleReader.html#a755283db939140179be4d24b86fc0798" title="QXmlSimpleReader::parseAttType" alt="" coords="1911,480,2133,507"/>
+<area shape="rect" id="node24" href="$classQXmlSimpleReader.html#a9a03fa8bdbae045af36f6d068fd03350" title="QXmlSimpleReader::parseNmtoken" alt="" coords="2208,429,2439,456"/>
+<area shape="rect" id="node26" href="$classQXmlSimpleReader.html#a87e4b75a3daa14fd3e16c9f26af8d323" title="QXmlSimpleReader::parseChoiceSeq" alt="" coords="2203,636,2444,663"/>
+<area shape="rect" id="node28" href="$classQXmlSimpleReader.html#a9cf23a2cb386e6d7af64918f8cc2f288" title="QXmlSimpleReader::parseEntity\lValue" alt="" coords="1917,414,2127,455"/>
+<area shape="rect" id="node29" href="$classQXmlSimpleReader.html#a817d7a2fe8f0f5aae052840e6eab56a6" title="QXmlSimpleReader::entity\lExist" alt="" coords="1933,633,2111,674"/>
+<area shape="rect" id="node32" href="$classQXmlSimpleReader.html#ae8888cedf195bb870b9b4ff25dfc60a8" title="QXmlSimpleReader::parseContent" alt="" coords="1031,392,1253,419"/>
+<area shape="rect" id="node33" href="$classQXmlSimpleReader.html#abd45f90e4221df0705382128fe2dcbd6" title="QXmlSimpleReader::parseElement\lEmptyTag" alt="" coords="1029,326,1255,367"/>
+<area shape="rect" id="node34" href="$classQXmlSimpleReader.html#a459be9cb7d5987643cb2faa53b9c21a7" title="QXmlSimpleReader::parseElement\lETagBegin2" alt="" coords="1029,195,1255,237"/>
+<area shape="rect" id="node35" href="$classQXmlSimpleReader.html#a6578e91a3c24d1ab89c1165f3c405af4" title="QXmlSimpleReader::parseElement\lAttribute" alt="" coords="1029,261,1255,302"/>
+</map>

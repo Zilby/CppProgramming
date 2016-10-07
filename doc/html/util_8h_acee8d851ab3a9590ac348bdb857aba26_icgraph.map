@@ -1,0 +1,11 @@
+<map id="convertToXML" name="convertToXML">
+<area shape="rect" id="node2" href="$classDefinition.html#a30b5bc6680190c9d62c090f0627392d5" title="Definition::writeDocAnchors\lToTagFile" alt="" coords="167,5,353,47"/>
+<area shape="rect" id="node3" href="$classVhdlDocGen.html#a8c40c856602e19b4fe421c9572d618b7" title="VhdlDocGen::writeFuncProcDocu" alt="" coords="408,42,627,69"/>
+<area shape="rect" id="node4" href="$classDirDef.html#a345c9c6a02715cf7d81315e4154a4a0d" title="DirDef::getOutputFileBase" alt="" coords="172,146,348,173"/>
+<area shape="rect" id="node7" href="$classEclipseHelp.html#aefada9c9b474d36ef9b771e2361c8dc1" title="Initialize the Eclipse generator. " alt="" coords="187,197,333,223"/>
+<area shape="rect" id="node8" href="$classEclipseHelp.html#a72d1c982cb362cc6b52660f9f93a95c6" title="Add an item to the content. " alt="" coords="160,247,360,274"/>
+<area shape="rect" id="node9" href="$classPageDef.html#a7b72dba48ce4045351aed9a397ce9b0f" title="PageDef::getOutputFileBase" alt="" coords="165,298,355,325"/>
+<area shape="rect" id="node5" href="$classDirDef.html#a9277996596607370f8bc016c3b51dd3e" title="Add as &quot;uses&quot; dependency between this dir and dir, that was caused by a dependency on file fd..." alt="" coords="421,121,614,147"/>
+<area shape="rect" id="node6" href="$classDirDef.html#ab3b1d03c75471701969e581aa4a6960f" title="DirDef::mergeDirectoryInTree" alt="" coords="420,171,615,198"/>
+<area shape="rect" id="node10" href="$classPageDef.html#acb0b424141cbb7c1b6b5a52769cf7b06" title="PageDef::isLinkable" alt="" coords="448,298,587,325"/>
+</map>

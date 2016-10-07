@@ -1,0 +1,8 @@
+<map id="QDate::setYMD" name="QDate::setYMD">
+<area shape="rect" id="node2" href="$classQDate.html#a29baa5808185ed5a3ed5a0440e27ca9c" title="QDate::isValid" alt="" coords="173,5,279,32"/>
+<area shape="rect" id="node3" href="$classQDate.html#a04d5e854090cbd10ab4d8771877e5364" title="QDate::greg2jul" alt="" coords="169,56,283,83"/>
+<area shape="rect" id="node4" href="$classQDate.html#a7ad4fc16e91f089391a4ea9710076839" title="QDate::year" alt="" coords="179,107,273,133"/>
+<area shape="rect" id="node6" href="$classQDate.html#a42aa3a5238c1dd81848e0bf690b3dce5" title="QDate::month" alt="" coords="174,157,278,184"/>
+<area shape="rect" id="node7" href="$classQDate.html#a4da6cc4ed155922c376d61102ffcb372" title="QDate::day" alt="" coords="181,208,271,235"/>
+<area shape="rect" id="node5" href="$classQDate.html#a0e0d4e48f69f7da1bd5e6e8278acb14c" title="QDate::jul2greg" alt="" coords="331,157,444,184"/>
+</map>

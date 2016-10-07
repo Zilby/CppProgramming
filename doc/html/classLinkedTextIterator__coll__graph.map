@@ -1,0 +1,9 @@
+<map id="LinkedTextIterator" name="LinkedTextIterator">
+<area shape="rect" id="node2" href="$classBaseIterator.html" title="{BaseIterator\&lt; ILinkedText\lIterator, ILinkedText,\l LinkedTextImpl \&gt;\n||+ BaseIterator()\l+ ~BaseIterator()\l+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l}" alt="" coords="39,1301,212,1511"/>
+<area shape="rect" id="node3" href="$classILinkedTextIterator.html" title="Iterates over a list of ILinkedText fragments. " alt="" coords="5,1013,136,1252"/>
+<area shape="rect" id="node4" href="$classQListIterator.html" title="{QListIterator\&lt; LinkedText\lImpl \&gt;\n||+ QListIterator()\l+ ~QListIterator()\l+ count()\l+ isEmpty()\l+ atFirst()\l+ atLast()\l+ toFirst()\l+ toLast()\l+ operator LinkedTextImpl *()\l+ operator*()\land 7 more...\l}" alt="" coords="161,1013,351,1252"/>
+<area shape="rect" id="node5" href="$classQGListIterator.html" title="The QGListIterator class is an internal class for implementing QListIterator. " alt="" coords="191,696,321,964"/>
+<area shape="rect" id="node6" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="25,292,180,633"/>
+<area shape="rect" id="node7" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="40,5,165,200"/>
+<area shape="rect" id="node8" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="227,57,315,149"/>
+</map>

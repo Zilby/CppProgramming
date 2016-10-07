@@ -1,0 +1,11 @@
+<map id="QString::toShort" name="QString::toShort">
+<area shape="rect" id="node2" href="$classQString.html#a3b79d2babc06fcbaec011fd9113e75ab" title="QString::toLong" alt="" coords="169,107,283,133"/>
+<area shape="rect" id="node3" href="$classQString.html#af653a95345ba3cd5bade2a1e07f2bb58" title="QString::unicode" alt="" coords="331,5,449,32"/>
+<area shape="rect" id="node4" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="335,56,445,83"/>
+<area shape="rect" id="node5" href="$classQChar.html#a67814eae107b451db9def198ae57aa8a" title="QChar::isSpace" alt="" coords="333,107,447,133"/>
+<area shape="rect" id="node9" href="$classQChar.html#a5758b5318fe28041c0729dded5b1b44e" title="QChar::isDigit" alt="" coords="337,157,443,184"/>
+<area shape="rect" id="node10" href="$classQChar.html#ac23377922296b84ca58ffaaee6d522af" title="QChar::digitValue" alt="" coords="497,208,623,235"/>
+<area shape="rect" id="node6" href="$classQChar.html#a8f987c65692f95eebc84bf687ea92aff" title="QChar::row" alt="" coords="671,132,760,159"/>
+<area shape="rect" id="node7" href="$classQChar.html#a2475b4653bed4cf2a3f10395a14cc9c5" title="QChar::cell" alt="" coords="671,183,759,209"/>
+<area shape="rect" id="node8" href="$classQChar.html#a4bc1ffcdc40c674015b3bb9e9114637e" title="QChar::category" alt="" coords="501,157,619,184"/>
+</map>

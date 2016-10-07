@@ -1,0 +1,16 @@
+<map id="QTextCodecFromIOD" name="QTextCodecFromIOD">
+<area shape="rect" id="node2" href="$classQTextCodec.html" title="Provides conversion between text encodings. " alt="" coords="5,1337,208,1781"/>
+<area shape="rect" id="node3" href="$classQStrList.html" title="{QStrList\n|&#45; dc\l|+ QStrList()\l+ QStrList()\l+ ~QStrList()\l+ operator=()\l&#45; newItem()\l&#45; deleteItem()\l&#45; compareItems()\l&#45; read()\l&#45; write()\l}" alt="" coords="233,1462,354,1657"/>
+<area shape="rect" id="node4" href="$classQInternalList.html" title="{QStrListBase\n||+ QInternalList()\l+ QInternalList()\l+ ~QInternalList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 30 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="219,1021,343,1275"/>
+<area shape="rect" id="node5" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="168,617,323,959"/>
+<area shape="rect" id="node6" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="73,331,199,525"/>
+<area shape="rect" id="node7" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="223,382,311,474"/>
+<area shape="rect" id="node8" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="379,1447,485,1671"/>
+<area shape="rect" id="node9" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="426,1036,569,1260"/>
+<area shape="rect" id="node10" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="427,742,613,834"/>
+<area shape="rect" id="node11" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="407,375,580,481"/>
+<area shape="rect" id="node12" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="604,389,775,467"/>
+<area shape="rect" id="node13" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="625,147,753,268"/>
+<area shape="rect" id="node14" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="618,5,761,97"/>
+<area shape="rect" id="node15" href="$structQMultiByteUnicodeTable.html" title="{QMultiByteUnicodeTable\n|+ unicode\l|+ QMultiByteUnicodeTable()\l+ ~QMultiByteUnicodeTable()\l}" alt="" coords="509,1513,704,1605"/>
+</map>

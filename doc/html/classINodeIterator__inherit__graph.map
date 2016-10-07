@@ -1,0 +1,4 @@
+<map id="INodeIterator" name="INodeIterator">
+<area shape="rect" id="node2" href="$classBaseIterator.html" title="{BaseIterator\&lt; INodeIterator,\l INode, NodeHandler \&gt;\n||+ BaseIterator()\l+ ~BaseIterator()\l+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l}" alt="" coords="5,292,191,487"/>
+<area shape="rect" id="node3" href="$classNodeIterator.html" title="{NodeIterator\n||+ NodeIterator()\l}" alt="" coords="41,535,155,612"/>
+</map>

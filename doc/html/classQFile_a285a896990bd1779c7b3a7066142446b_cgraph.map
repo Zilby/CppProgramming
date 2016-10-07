@@ -1,0 +1,12 @@
+<map id="QFile::atEnd" name="QFile::atEnd">
+<area shape="rect" id="node2" href="$classQIODevice.html#a291d97cdb38c1cd261bfbaa67a9d3923" title="QIODevice::isOpen" alt="" coords="172,5,308,32"/>
+<area shape="rect" id="node3" href="$classQIODevice.html#ace782017b9a264d7d1759223add28ae7" title="QIODevice::isDirectAccess" alt="" coords="148,56,332,83"/>
+<area shape="rect" id="node4" href="$classQIODevice.html#abf1df3cc1e0734c784c9d8eff82908c0" title="QIODevice::isTranslated" alt="" coords="402,107,569,133"/>
+<area shape="rect" id="node5" href="$classQFile.html#aa156f3896b35b0c6f6e9cf9237bf34bf" title="QFile::at" alt="" coords="204,157,276,184"/>
+<area shape="rect" id="node6" href="$classQIODevice.html#ac5a3fcc9349a98d8f260039c5fd58812" title="QIODevice::atEnd" alt="" coords="175,208,305,235"/>
+<area shape="rect" id="node7" href="$classQIODevice.html#ab0c6f50325bbf1e860aed41f3bfa498c" title="QIODevice::isSequentialAccess" alt="" coords="380,157,591,184"/>
+<area shape="rect" id="node8" href="$classQIODevice.html#a7cef61d66023f9cda6b0912082bd19fc" title="QIODevice::getch" alt="" coords="422,208,549,235"/>
+<area shape="rect" id="node9" href="$classQIODevice.html#aae3d67422103e8fc0411297b1d62c29a" title="QIODevice::ungetch" alt="" coords="415,259,556,285"/>
+<area shape="rect" id="node10" href="$classQIODevice.html#a0dee1db4a9e506924ccac6982ffdf3df" title="QIODevice::at" alt="" coords="432,309,539,336"/>
+<area shape="rect" id="node11" href="$classQIODevice.html#a60c4146763625213ac7aa29f1f071592" title="QIODevice::size" alt="" coords="426,360,545,387"/>
+</map>

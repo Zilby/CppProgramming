@@ -1,0 +1,10 @@
+<map id="QIODevice::writeBlock" name="QIODevice::writeBlock">
+<area shape="rect" id="node2" href="$classQDataStream.html#acfee699863f4dfd77304a28fb0f777b0" title="QDataStream::operator\&lt;\&lt;" alt="" coords="222,5,395,32"/>
+<area shape="rect" id="node4" href="$classQDataStream.html#aab2b83b4d7407ed57ff9eea136cb2e5e" title="QDataStream::writeRawBytes" alt="" coords="209,56,408,83"/>
+<area shape="rect" id="node8" href="$classQFile.html#a04e15f86aa48622ddb7c7e81c7cc7613" title="QFile::writeBlock" alt="" coords="247,107,370,133"/>
+<area shape="rect" id="node9" href="$classQIODevice.html#a17d3fa98dc9e5eab406a6fa728c4b656" title="QIODevice::writeBlock" alt="" coords="231,157,387,184"/>
+<area shape="rect" id="node3" href="$classQStringList.html#acc4b2b8e5b8b04da731af0657491c963" title="QStringList::QStringList" alt="" coords="463,5,623,32"/>
+<area shape="rect" id="node5" href="$classQDataStream.html#acf97e65484056bc6b3fb150c4f339344" title="QDataStream::operator\&lt;\&lt;" alt="" coords="456,56,629,83"/>
+<area shape="rect" id="node6" href="$classQDataStream.html#a8f1af77d483ecfd515c9eac3822aaaa5" title="QDataStream::writeBytes" alt="" coords="457,107,629,133"/>
+<area shape="rect" id="node7" href="$classQString.html#a5d8281fc5ce5c2b6e6e9fd2b9f66c32c" title="QString::operator\&lt;\&lt;" alt="" coords="677,107,815,133"/>
+</map>

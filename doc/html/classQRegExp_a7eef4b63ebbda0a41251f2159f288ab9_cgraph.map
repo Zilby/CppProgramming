@@ -1,0 +1,7 @@
+<map id="QRegExp::match" name="QRegExp::match">
+<area shape="rect" id="node2" href="$classQRegExp.html#a2f616e8cd604271fafc5fbe8435e294c" title="QRegExp::isValid" alt="" coords="180,5,307,32"/>
+<area shape="rect" id="node3" href="$classQRegExp.html#a184d946c8dc57a15952b7ac21af2fbed" title="QRegExp::isEmpty" alt="" coords="176,56,311,83"/>
+<area shape="rect" id="node4" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="184,107,303,133"/>
+<area shape="rect" id="node5" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="189,157,298,184"/>
+<area shape="rect" id="node6" href="$classQRegExp.html#ad2b7d2452926d97a5203ea1c1247a357" title="QRegExp::pattern" alt="" coords="180,208,307,235"/>
+</map>

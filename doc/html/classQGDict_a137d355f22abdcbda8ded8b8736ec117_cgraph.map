@@ -1,0 +1,30 @@
+<map id="QGDict::QGDict" name="QGDict::QGDict">
+<area shape="rect" id="node2" href="$classQGDictIterator.html#a1ed95b56163469e44b4b662e2ef384cf" title="QGDictIterator::get" alt="" coords="201,272,334,298"/>
+<area shape="rect" id="node3" href="$classQGDict.html#a1de8c35b775f7918acdf148b5df41fe4" title="QGDict::look_string" alt="" coords="199,322,336,349"/>
+<area shape="rect" id="node19" href="$classQGDictIterator.html#acb85d719ea0b2f8527871e3cc50a3ffa" title="QGDictIterator::getKeyString" alt="" coords="172,525,363,552"/>
+<area shape="rect" id="node20" href="$classQGDict.html#a6ad3fe3b248746cb4689f884f36404a0" title="QGDict::look_ascii" alt="" coords="201,424,333,450"/>
+<area shape="rect" id="node23" href="$classQGDictIterator.html#a783dbbe77b2fcab19baa8066a9f7ac47" title="QGDictIterator::getKeyAscii" alt="" coords="175,576,360,602"/>
+<area shape="rect" id="node24" href="$classQGDict.html#a4d517bb4a5a9d6257d6ffd60597f7621" title="QGDict::look_int" alt="" coords="208,373,327,400"/>
+<area shape="rect" id="node26" href="$classQGDictIterator.html#ab111cc97aa84e6e6333b0c9664a778a8" title="QGDictIterator::getKeyInt" alt="" coords="182,626,353,653"/>
+<area shape="rect" id="node27" href="$classQGDict.html#a9ee35841e4c40a244c54cc7fcf519649" title="QGDict::look_ptr" alt="" coords="207,474,327,501"/>
+<area shape="rect" id="node29" href="$classQGDictIterator.html#a6e457860ab64ae064011949e28359637" title="QGDictIterator::getKeyPtr" alt="" coords="181,677,354,704"/>
+<area shape="rect" id="node4" href="$classQGDict.html#ad27652d613a6df366a5135ea8c4a8231" title="QGDict::hashKeyString" alt="" coords="615,285,773,312"/>
+<area shape="rect" id="node9" href="$classQString.html#a77d8e8901007cdda3a71b40d42dbc32c" title="QString::lower" alt="" coords="436,196,541,222"/>
+<area shape="rect" id="node16" href="$classQGDict.html#a50cd12c84c03da6cd92d413908d1a001" title="QGDict::remove_string" alt="" coords="411,322,567,349"/>
+<area shape="rect" id="node18" href="$classQCollection.html#a8a439f0c342ff1844a797fbea15b2283" title="QCollection::newItem" alt="" coords="415,424,563,450"/>
+<area shape="rect" id="node5" href="$classQString.html#a6a6da156364a32ef91e35f83b1955acc" title="QString::isNull" alt="" coords="827,336,934,362"/>
+<area shape="rect" id="node6" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="826,234,935,261"/>
+<area shape="rect" id="node7" href="$classQString.html#af653a95345ba3cd5bade2a1e07f2bb58" title="QString::unicode" alt="" coords="821,386,940,413"/>
+<area shape="rect" id="node8" href="$classQChar.html#a2475b4653bed4cf2a3f10395a14cc9c5" title="QChar::cell" alt="" coords="989,184,1077,210"/>
+<area shape="rect" id="node10" href="$classQString.html#a01ab326a76bc1083e80520f4e6af4bf2" title="QString::real_detach" alt="" coords="623,234,765,261"/>
+<area shape="rect" id="node11" href="$classQChar.html#a70eb37a2ce831bffec68645ec51dc77f" title="QChar::lower" alt="" coords="645,108,743,134"/>
+<area shape="rect" id="node12" href="$classQChar.html#a4bc1ffcdc40c674015b3bb9e9114637e" title="QChar::category" alt="" coords="821,32,940,58"/>
+<area shape="rect" id="node13" href="$classQChar.html#a8f987c65692f95eebc84bf687ea92aff" title="QChar::row" alt="" coords="988,6,1077,33"/>
+<area shape="rect" id="node14" href="$classQChar.html#a982aca321d746686396ab5290955da95" title="QChar::QChar" alt="" coords="827,82,934,109"/>
+<area shape="rect" id="node15" href="$classQChar.html#a1f86dd8a75eb74565a46caf76a41df8f" title="QChar::latin1" alt="" coords="831,133,930,160"/>
+<area shape="rect" id="node17" href="$classQCollection.html#ab6c7cf56b681ba4fed6cf6a92494a410" title="QCollection::deleteItem" alt="" coords="615,424,773,450"/>
+<area shape="rect" id="node21" href="$classQGDict.html#ad3c9ab38e145042373e329e9ecbf8f25" title="QGDict::hashKeyAscii" alt="" coords="411,525,566,552"/>
+<area shape="rect" id="node22" href="$classQGDict.html#a65224d18f945fa28a1300526fd4b5903" title="QGDict::remove_ascii" alt="" coords="413,474,564,501"/>
+<area shape="rect" id="node25" href="$classQGDict.html#a32023e3d50d6f8b81935655b66f0bdc4" title="QGDict::remove_int" alt="" coords="419,373,558,400"/>
+<area shape="rect" id="node28" href="$classQGDict.html#abc3fd70fe1c1f6523e3ce4258672a4ca" title="QGDict::remove_ptr" alt="" coords="419,576,558,602"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classParserInterface.html" title="Abstract interface for programming language parsers. " alt="" coords="5,183,116,209"/>
+<area shape="rect" id="node2" href="$classCLanguageScanner.html" title="C&#45;like language parser using state&#45;based lexical scanning. " alt="" coords="179,5,315,32"/>
+<area shape="rect" id="node3" href="$classFileParser.html" title="General file parser. " alt="" coords="207,56,288,83"/>
+<area shape="rect" id="node4" href="$classFortranLanguageScanner.html" title="Fortran language parser using state&#45;based lexical scanning. " alt="" coords="164,107,331,133"/>
+<area shape="rect" id="node7" href="$classMarkdownFileParser.html" title="MarkdownFileParser" alt="" coords="177,157,318,184"/>
+<area shape="rect" id="node8" href="$classPythonLanguageScanner.html" title="Python Language parser using state&#45;based lexical scanning. " alt="" coords="164,208,331,235"/>
+<area shape="rect" id="node9" href="$classTclLanguageScanner.html" title="Tcl language parser using state&#45;based lexical scanning. " alt="" coords="175,259,319,285"/>
+<area shape="rect" id="node10" href="$classVHDLLanguageScanner.html" title="VHDL parser using state&#45;based lexical scanning. " alt="" coords="166,309,329,336"/>
+<area shape="rect" id="node11" href="$classXMLScanner.html" title="XML scanner. " alt="" coords="199,360,296,387"/>
+<area shape="rect" id="node5" href="$classFortranLanguageScannerFixed.html" title="FortranLanguageScannerFixed" alt="" coords="379,81,577,108"/>
+<area shape="rect" id="node6" href="$classFortranLanguageScannerFree.html" title="FortranLanguageScannerFree" alt="" coords="381,132,575,159"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="stripTemplateSpecifiersFromScope" name="stripTemplateSpecifiersFromScope">
+<area shape="rect" id="node2" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="243,5,361,32"/>
+<area shape="rect" id="node3" href="$classQCString.html#a3917c144e26bc525d588c1dff602be00" title="Returns a reference to the character at index i. " alt="" coords="255,56,349,83"/>
+<area shape="rect" id="node4" href="$util_8h.html#af038b3c55db4fa840af0ee26464bb72a" title="getClass" alt="" coords="265,107,339,133"/>
+<area shape="rect" id="node5" href="$classSDict.html#aec67482d780157680d46f48a7ed5e7bd" title="SDict::find" alt="" coords="409,107,493,133"/>
+</map>

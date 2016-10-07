@@ -1,0 +1,11 @@
+<map id="DefinitionIntf" name="DefinitionIntf">
+<area shape="rect" id="node2" href="$classDefinition.html" title="The common base class of all entity definitions found in the sources. " alt="" coords="711,160,901,619"/>
+<area shape="rect" id="node10" href="$classDefinitionList.html" title="A list of Definition objects. " alt="" coords="925,336,1057,443"/>
+<area shape="rect" id="node3" href="$classClassDef.html" title="A class representing of a compound symbol. " alt="" coords="5,733,247,1177"/>
+<area shape="rect" id="node4" href="$classDirDef.html" title="A model of a directory symbol. " alt="" coords="271,681,455,1228"/>
+<area shape="rect" id="node5" href="$classFileDef.html" title="A model of a file symbol. " alt="" coords="480,674,681,1235"/>
+<area shape="rect" id="node6" href="$classGroupDef.html" title="A model of a group of symbols. " alt="" coords="705,674,907,1235"/>
+<area shape="rect" id="node7" href="$classMemberDef.html" title="A model of a class/file/namespace member symbol. " alt="" coords="931,711,1126,1199"/>
+<area shape="rect" id="node8" href="$classNamespaceDef.html" title="A model of a namespace symbol. " alt="" coords="1151,667,1352,1243"/>
+<area shape="rect" id="node9" href="$classPageDef.html" title="A model of a page symbol. " alt="" coords="1377,791,1590,1118"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="EventQueue" name="EventQueue">
+<area shape="rect" id="node2" href="$classQInternalList.html" title="{QInternalList\&lt; QWaitCondition\lEvent \&gt;\n||+ QInternalList()\l+ QInternalList()\l+ ~QInternalList()\l+ operator=()\l+ operator==()\l+ count()\l+ isEmpty()\l+ insert()\l+ inSort()\l+ prepend()\land 30 more...\l&#45; deleteItem()\l&#45; deleteItem()\l}" alt="" coords="5,696,205,964"/>
+<area shape="rect" id="node3" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="28,248,183,648"/>
+<area shape="rect" id="node4" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="43,5,168,200"/>
+</map>

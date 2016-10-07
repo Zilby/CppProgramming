@@ -1,0 +1,10 @@
+<map id="QFile::writeBlock" name="QFile::writeBlock">
+<area shape="rect" id="node2" href="$classQIODevice.html#a5d937df1bde2f956872dd54e077807d1" title="QIODevice::writeBlock" alt="" coords="176,5,332,32"/>
+<area shape="rect" id="node3" href="$classQIODevice.html#a4dc865ffcb5b7896ff8f9a1d828e4c0e" title="QIODevice::readLine" alt="" coords="182,56,326,83"/>
+<area shape="rect" id="node7" href="$classQIODevice.html#a7cef61d66023f9cda6b0912082bd19fc" title="QIODevice::getch" alt="" coords="191,107,317,133"/>
+<area shape="rect" id="node8" href="$classQIODevice.html#a5de5c1c1cba7ca36ba93289e30cd3029" title="QIODevice::putch" alt="" coords="191,157,317,184"/>
+<area shape="rect" id="node9" href="$classQIODevice.html#aae3d67422103e8fc0411297b1d62c29a" title="QIODevice::ungetch" alt="" coords="183,208,325,235"/>
+<area shape="rect" id="node4" href="$classQIODevice.html#a0dee1db4a9e506924ccac6982ffdf3df" title="QIODevice::at" alt="" coords="403,5,510,32"/>
+<area shape="rect" id="node5" href="$classQIODevice.html#a60c4146763625213ac7aa29f1f071592" title="QIODevice::size" alt="" coords="397,56,516,83"/>
+<area shape="rect" id="node6" href="$classQIODevice.html#a71f10647e4bd98141f45362b9a06983a" title="QIODevice::readBlock" alt="" coords="380,107,533,133"/>
+</map>

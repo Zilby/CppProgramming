@@ -1,0 +1,12 @@
+<map id="LT_Ref" name="LT_Ref">
+<area shape="rect" id="node2" href="$classLinkedTextImpl.html" title="{LinkedTextImpl\n||+ ~LinkedTextImpl()\l}" alt="" coords="5,1204,144,1281"/>
+<area shape="rect" id="node3" href="$classILinkedText.html" title="Base interface for hyperlinked text. " alt="" coords="173,784,264,876"/>
+<area shape="rect" id="node4" href="$classILT__Ref.html" title="Reference to an object. " alt="" coords="168,1153,269,1333"/>
+<area shape="rect" id="node5" href="$classStringImpl.html" title="{StringImpl\n||+ StringImpl()\l+ StringImpl()\l+ operator=()\l+ ~StringImpl()\l+ latin1()\l+ utf8()\l+ unicodeCharAt()\l+ isEmpty()\l+ length()\l}" alt="" coords="293,1145,421,1340"/>
+<area shape="rect" id="node6" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="289,564,423,1096"/>
+<area shape="rect" id="node7" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="241,365,338,443"/>
+<area shape="rect" id="node8" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="363,321,485,487"/>
+<area shape="rect" id="node9" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="308,79,401,185"/>
+<area shape="rect" id="node10" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="426,5,561,259"/>
+<area shape="rect" id="node11" href="$classIString.html" title="Read only interface to a string. " alt="" coords="448,725,576,935"/>
+</map>

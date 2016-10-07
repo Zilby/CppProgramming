@@ -1,0 +1,3 @@
+<map id="IDoxygen" name="IDoxygen">
+<area shape="rect" id="node2" href="$classMainHandler.html" title="{MainHandler\n|&#45; m_curCompound\l&#45; m_curMember\l&#45; m_compounds\l&#45; m_compoundDict\l&#45; m_compoundNameDict\l&#45; m_memberDict\l&#45; m_memberNameDict\l&#45; m_xmlDirName\l&#45; m_compoundsLoaded\l&#45; m_insideMember\l|+ startCompound()\l+ startMember()\l+ endMember()\l+ startName()\l+ endName()\l+ MainHandler()\l+ ~MainHandler()\l+ compounds()\l+ compoundById()\l+ compoundByName()\land 7 more...\l}" alt="" coords="5,277,172,633"/>
+</map>

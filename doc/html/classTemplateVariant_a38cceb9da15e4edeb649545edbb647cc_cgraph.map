@@ -1,0 +1,9 @@
+<map id="TemplateVariant::TemplateVariant" name="TemplateVariant::TemplateVariant">
+<area shape="rect" id="node2" href="$classTemplateVariant.html#a8fa8f46048c3cde3c719932060101a0a" title="Destroys the Variant object. " alt="" coords="232,35,419,76"/>
+<area shape="rect" id="node5" href="$classTemplateVariant.html#a56e1f12ff7f2fc2f9c5d269495161201" title="Constructs an invalid variant. " alt="" coords="236,152,415,193"/>
+<area shape="rect" id="node6" href="$classTemplateVariant.html#a113fe73f8110597f42969c431385aa19" title="Assigns the value of the variant v to this variant. " alt="" coords="235,101,415,127"/>
+<area shape="rect" id="node3" href="$classTemplateStructIntf.html#a3dce7dd29d3f66a8080b40578e8a5045" title="Decreases object&#39;s referenc count, destroy object if 0. " alt="" coords="485,5,615,47"/>
+<area shape="rect" id="node4" href="$classTemplateListIntf.html#a0c53169c740c09dac47efc62bbe39674" title="Decreases object&#39;s referenc count, destroy object if 0. " alt="" coords="467,71,633,98"/>
+<area shape="rect" id="node7" href="$classTemplateStructIntf.html#a05fe97ad47633beb326f69686faed581" title="Increase object&#39;s reference count. " alt="" coords="485,123,615,164"/>
+<area shape="rect" id="node8" href="$classTemplateListIntf.html#a4b4973e2e15396d10bc4e3085462ca2b" title="Increase object&#39;s reference count. " alt="" coords="467,189,633,215"/>
+</map>

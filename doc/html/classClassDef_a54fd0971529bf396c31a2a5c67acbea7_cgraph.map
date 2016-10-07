@@ -1,0 +1,6 @@
+<map id="ClassDef::isLinkableInProject" name="ClassDef::isLinkableInProject">
+<area shape="rect" id="node2" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="261,5,378,32"/>
+<area shape="rect" id="node3" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="253,56,385,83"/>
+<area shape="rect" id="node4" href="$classDefinition.html#a24d80ca0884834c9e767482af37b7248" title="Definition::isArtificial" alt="" coords="248,107,391,133"/>
+<area shape="rect" id="node5" href="$classDefinition.html#a4f303fc4a5c9be7ab8160cf1792e7bda" title="Definition::isHidden" alt="" coords="251,157,387,184"/>
+</map>

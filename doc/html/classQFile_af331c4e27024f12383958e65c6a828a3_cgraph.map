@@ -1,0 +1,7 @@
+<map id="QFile::putch" name="QFile::putch">
+<area shape="rect" id="node2" href="$classQIODevice.html#a291d97cdb38c1cd261bfbaa67a9d3923" title="QIODevice::isOpen" alt="" coords="326,5,462,32"/>
+<area shape="rect" id="node3" href="$classQIODevice.html#ab033a6ee76263214267daf8b62ade3c7" title="QIODevice::isWritable" alt="" coords="317,81,471,108"/>
+<area shape="rect" id="node4" href="$classQIODevice.html#a66e1eb78420a4ec15685871e2e773f68" title="QIODevice::isRaw" alt="" coords="328,144,460,171"/>
+<area shape="rect" id="node5" href="$classQFile.html#a47e0572e396a6e953d14ba69bf733cea" title="QFile::writeBlock" alt="" coords="147,100,269,127"/>
+<area shape="rect" id="node6" href="$classQIODevice.html#a742d895b19b6809d67aa1643baf67639" title="QIODevice::setStatus" alt="" coords="319,195,469,221"/>
+</map>

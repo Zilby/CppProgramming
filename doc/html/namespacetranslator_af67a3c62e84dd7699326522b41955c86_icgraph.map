@@ -1,0 +1,14 @@
+<map id="translator.xopen" name="translator.xopen">
+<area shape="rect" id="node2" href="$classtranslator_1_1Transl.html#a4600cc11c3822dd61da0d34c79a36067" title="translator.Transl.\l__tokenGenerator" alt="" coords="185,96,311,137"/>
+<area shape="rect" id="node6" href="$classtranslator_1_1TrManager.html#acf9ce654b4e6e7ad85e2259164ffaccf" title="translator.TrManager.\l__extractProcessedInfo" alt="" coords="168,188,328,229"/>
+<area shape="rect" id="node9" href="$classtranslator_1_1TrManager.html#a58ecb6e6c126bef96ca82317ad2aa258" title="translator.TrManager.\l__removeUsedInFiles" alt="" coords="173,253,323,295"/>
+<area shape="rect" id="node11" href="$classtranslator_1_1TrManager.html#a84aba0e70020862ec40a29909de43687" title="translator.TrManager.generate\lTranslatorReport" alt="" coords="628,283,824,324"/>
+<area shape="rect" id="node12" href="$classtranslator_1_1TrManager.html#a77be5ae0a2b95ab78614a7ce52f796ec" title="translator.TrManager.\l__loadMaintainers" alt="" coords="175,371,321,412"/>
+<area shape="rect" id="node13" href="$classtranslator_1_1TrManager.html#a61f10f267ebea913b1533ad9ad786753" title="translator.TrManager.generate\lLanguageDoc" alt="" coords="380,400,576,441"/>
+<area shape="rect" id="node3" href="$classtranslator_1_1Transl.html#a9a11ebef292c720a8dada81e409df3bd" title="translator.Transl.collect\lPureVirtualPrototypes" alt="" coords="399,5,557,47"/>
+<area shape="rect" id="node4" href="$classtranslator_1_1Transl.html#a0aa3555a3d4ff434bd54af94c922159a" title="translator.Transl.collect\lAdapterPrototypes" alt="" coords="399,71,557,112"/>
+<area shape="rect" id="node5" href="$classtranslator_1_1Transl.html#af3735bfc96ce58cc9c035d8091bac85b" title="translator.Transl.processing" alt="" coords="387,137,569,163"/>
+<area shape="rect" id="node7" href="$classtranslator_1_1TrManager.html#a9104d44b1ed7c73695d19132c4c0befa" title="translator.TrManager.\l__build" alt="" coords="405,188,551,229"/>
+<area shape="rect" id="node8" href="$classtranslator_1_1TrManager.html#af2b5c2c3fa0db925e084b057baf62041" title="translator.TrManager.\l__init__" alt="" coords="653,188,799,229"/>
+<area shape="rect" id="node10" href="$classtranslator_1_1TrManager.html#ae380bc033b64fb493320a66289233998" title="translator.TrManager.\l__checkForNotUsedTrMethods" alt="" coords="376,253,580,295"/>
+</map>

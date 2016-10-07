@@ -1,0 +1,4 @@
+<map id="IParamIterator" name="IParamIterator">
+<area shape="rect" id="node2" href="$classBaseIterator.html" title="{BaseIterator\&lt; IParamIterator,\l IParam, ParamHandler \&gt;\n||+ BaseIterator()\l+ ~BaseIterator()\l+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l}" alt="" coords="5,292,197,487"/>
+<area shape="rect" id="node3" href="$classParamIterator.html" title="{ParamIterator\n||+ ParamIterator()\l}" alt="" coords="41,535,162,612"/>
+</map>

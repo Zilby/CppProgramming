@@ -1,0 +1,9 @@
+<map id="MemberReferenceIterator" name="MemberReferenceIterator">
+<area shape="rect" id="node2" href="$classBaseIterator.html" title="{BaseIterator\&lt; IMemberReference\lIterator, IMemberReference,\l MemberReference \&gt;\n||+ BaseIterator()\l+ ~BaseIterator()\l+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l}" alt="" coords="49,1301,265,1511"/>
+<area shape="rect" id="node3" href="$classIMemberReferenceIterator.html" title="{IMemberReferenceIterator\n||+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l}" alt="" coords="5,1013,180,1252"/>
+<area shape="rect" id="node4" href="$classQListIterator.html" title="{QListIterator\&lt; MemberReference \&gt;\n||+ QListIterator()\l+ ~QListIterator()\l+ count()\l+ isEmpty()\l+ atFirst()\l+ atLast()\l+ toFirst()\l+ toLast()\l+ operator MemberReference *()\l+ operator*()\land 7 more...\l}" alt="" coords="204,1021,429,1245"/>
+<area shape="rect" id="node5" href="$classQGListIterator.html" title="The QGListIterator class is an internal class for implementing QListIterator. " alt="" coords="251,696,382,964"/>
+<area shape="rect" id="node6" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="86,292,241,633"/>
+<area shape="rect" id="node7" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="101,5,226,200"/>
+<area shape="rect" id="node8" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="287,57,375,149"/>
+</map>

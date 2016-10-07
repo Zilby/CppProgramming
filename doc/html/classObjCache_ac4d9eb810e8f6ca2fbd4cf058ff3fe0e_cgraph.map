@@ -1,0 +1,5 @@
+<map id="ObjCache::use" name="ObjCache::use">
+<area shape="rect" id="node2" href="$classObjCache.html#a3ac1ae674ea8ff27e436c788f851d303" title="ObjCache::del" alt="" coords="182,5,287,32"/>
+<area shape="rect" id="node3" href="$classObjCache.html#aeea7452ce80751d3f8e76038dc44decc" title="ObjCache::printLRU" alt="" coords="355,31,495,57"/>
+<area shape="rect" id="node4" href="$classObjCache.html#a3e4ded7d3342fb02d64bd8d39466a30a" title="ObjCache::printStats" alt="" coords="163,107,307,133"/>
+</map>

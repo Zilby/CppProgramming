@@ -1,0 +1,49 @@
+<map id="copyFile" name="copyFile">
+<area shape="rect" id="node2" href="$classQFile.html#af10aeafc303904f98b74be9752d2aa43" title="QFile::open" alt="" coords="133,549,222,576"/>
+<area shape="rect" id="node23" href="$classQFile.html#ab9a42e65a2fcd51bae5f2a186ff5bee5" title="QFile::readBlock" alt="" coords="561,1056,679,1083"/>
+<area shape="rect" id="node27" href="$classQFile.html#a47e0572e396a6e953d14ba69bf733cea" title="QFile::writeBlock" alt="" coords="559,195,681,221"/>
+<area shape="rect" id="node43" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="1481,144,1590,171"/>
+<area shape="rect" id="node47" href="$classQFileInfo.html#a5effd75eb8571416146ac546e70cb2d7" title="QFileInfo::size" alt="" coords="124,1107,231,1133"/>
+<area shape="rect" id="node48" href="$classQFile.html#a6d450a55bc3a8145fd33a7ee08051830" title="QFile::flush" alt="" coords="133,119,222,145"/>
+<area shape="rect" id="node3" href="$classQIODevice.html#a291d97cdb38c1cd261bfbaa67a9d3923" title="QIODevice::isOpen" alt="" coords="785,220,921,247"/>
+<area shape="rect" id="node4" href="$classQString.html#a6a6da156364a32ef91e35f83b1955acc" title="QString::isNull" alt="" coords="319,904,426,931"/>
+<area shape="rect" id="node5" href="$classQFile.html#adfb2df6392ccaefb54215e2047a16c3b" title="QFile::init" alt="" coords="333,701,412,728"/>
+<area shape="rect" id="node6" href="$classQIODevice.html#a9ce695e889efa9145e47195fcc765bf5" title="QIODevice::setFlags" alt="" coords="547,752,693,779"/>
+<area shape="rect" id="node7" href="$classQIODevice.html#a742d895b19b6809d67aa1643baf67639" title="QIODevice::setStatus" alt="" coords="778,651,929,677"/>
+<area shape="rect" id="node8" href="$classQIODevice.html#a9a8d9bf655a71b5821699a97a78be6be" title="QIODevice::setMode" alt="" coords="300,955,445,981"/>
+<area shape="rect" id="node9" href="$classQIODevice.html#a3bba4665b92eabfeca6905e7561cc943" title="QIODevice::isReadable" alt="" coords="773,897,933,924"/>
+<area shape="rect" id="node10" href="$classQIODevice.html#ab033a6ee76263214267daf8b62ade3c7" title="QIODevice::isWritable" alt="" coords="777,105,930,132"/>
+<area shape="rect" id="node11" href="$classQIODevice.html#a66e1eb78420a4ec15685871e2e773f68" title="QIODevice::isRaw" alt="" coords="787,803,919,829"/>
+<area shape="rect" id="node12" href="$classQIODevice.html#a3c3dd3eed081ff824acb10fa0eba9d91" title="QIODevice::flags" alt="" coords="311,245,434,272"/>
+<area shape="rect" id="node13" href="$classQIODevice.html#abf1df3cc1e0734c784c9d8eff82908c0" title="QIODevice::isTranslated" alt="" coords="289,296,456,323"/>
+<area shape="rect" id="node14" href="$classQIODevice.html#a95291c3aa671e64d41e4320190f05f4e" title="QIODevice::isAsynchronous" alt="" coords="279,347,467,373"/>
+<area shape="rect" id="node15" href="$classQFile.html#ad016ade1aca4b965ebb54d8bfb93d4bf" title="QFile::encodeName" alt="" coords="303,448,442,475"/>
+<area shape="rect" id="node16" href="$classQIODevice.html#af362cdbc70c8cbd30bcb4aaaf7c8e9e2" title="QIODevice::isReadWrite" alt="" coords="289,499,456,525"/>
+<area shape="rect" id="node17" href="$classQIODevice.html#ab8a455c1e81b3382c5db9a65ea70e615" title="QIODevice::setState" alt="" coords="301,549,445,576"/>
+<area shape="rect" id="node18" href="$classQIODevice.html#a16f5a19e0d5dde3ba5e9672974d44b1a" title="QIODevice::setType" alt="" coords="301,600,444,627"/>
+<area shape="rect" id="node19" href="$classQFile.html#a1c18e1a16e6f92ba8f19177824707f78" title="QFile::getch" alt="" coords="326,1005,419,1032"/>
+<area shape="rect" id="node24" href="$classQFile.html#afb01a04cda09b3cc61babb5d334a052c" title="QFile::ungetch" alt="" coords="319,397,426,424"/>
+<area shape="rect" id="node20" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="1711,1093,1843,1120"/>
+<area shape="rect" id="node21" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="1476,992,1595,1019"/>
+<area shape="rect" id="node22" href="$classQCString.html#a5644b56f807df5375dba545abca25f40" title="Truncates the string at position pos. " alt="" coords="788,1107,919,1133"/>
+<area shape="rect" id="node25" href="$classQIODevice.html#ab0c6f50325bbf1e860aed41f3bfa498c" title="QIODevice::isSequentialAccess" alt="" coords="515,448,725,475"/>
+<area shape="rect" id="node26" href="$classQFile.html#aa156f3896b35b0c6f6e9cf9237bf34bf" title="QFile::at" alt="" coords="584,397,656,424"/>
+<area shape="rect" id="node28" href="$classQString.html#ac8aa3324210f474d9f515ba9f80b0f68" title="QString::local8Bit" alt="" coords="558,347,682,373"/>
+<area shape="rect" id="node29" href="$classQString.html#af9cb186d8ba117c42f31e8235478fe68" title="QString::latin1" alt="" coords="801,397,906,424"/>
+<area shape="rect" id="node35" href="$classQTextCodec.html#a564dc8bf15241a165a38287c1d26e48c" title="QTextCodec::fromUnicode" alt="" coords="1446,347,1625,373"/>
+<area shape="rect" id="node45" href="$classQString.html#a6da42912db630af419d216aa0d321ebd" title="QString::utf8" alt="" coords="1015,347,1111,373"/>
+<area shape="rect" id="node46" href="$classQTextCodec.html#af21be033ce39428087bb853054f15ff5" title="QTextCodec::codecForLocale" alt="" coords="1192,647,1388,673"/>
+<area shape="rect" id="node30" href="$classQTextCodec.html#a4706a5d4023d048cc1c655dfa2b16e68" title="QTextCodec::codecForMib" alt="" coords="1201,499,1379,525"/>
+<area shape="rect" id="node44" href="$classQString.html#a0ca53b0138493408bf50775795f9220b" title="QString::unicodeToAscii" alt="" coords="981,397,1144,424"/>
+<area shape="rect" id="node31" href="$classQTextCodec.html#aa0118daa4f82235ae9d5bb70a168c992" title="QTextCodec::mibEnum" alt="" coords="1456,397,1615,424"/>
+<area shape="rect" id="node32" href="$classQTextCodec.html#aafe2c454ae7cbbf3d84a7ca26f775c49" title="QTextCodec::toUnicode" alt="" coords="1454,448,1617,475"/>
+<area shape="rect" id="node38" href="$classQTextCodec.html#a5b735ce19dc6b0fb0e8858bd3f54f0e2" title="QTextCodec::name" alt="" coords="1467,499,1603,525"/>
+<area shape="rect" id="node39" href="$classQTextCodec.html#a4780a608d950994a927de727bb07b9fe" title="QTextCodec::heuristicContent\lMatch" alt="" coords="1436,550,1635,591"/>
+<area shape="rect" id="node40" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="1481,616,1590,643"/>
+<area shape="rect" id="node41" href="$classQTextCodec.html#aafe5cdca0b371b80f87be4d6e131d4a8" title="QTextCodec::locale" alt="" coords="1466,667,1605,693"/>
+<area shape="rect" id="node42" href="$classQTextCodec.html#ade1d10ad04ecafc6d7ec54ba91ba7841" title="QTextCodec::codecForName" alt="" coords="1439,717,1632,744"/>
+<area shape="rect" id="node33" href="$classQTextCodec.html#abb65882aa316a2ad49a10e9f86c4dc88" title="QTextCodec::makeDecoder" alt="" coords="1684,487,1869,513"/>
+<area shape="rect" id="node34" href="$classQTextDecoder.html#aec543f7f6670dfda14164268e2da879d" title="QTextDecoder::toUnicode" alt="" coords="1689,436,1864,463"/>
+<area shape="rect" id="node36" href="$classQTextCodec.html#aa7dccd7fc1b578de0b7599b040d98e11" title="QTextCodec::makeEncoder" alt="" coords="1685,360,1869,387"/>
+<area shape="rect" id="node37" href="$classQTextEncoder.html#a3b199427ee9b7f862fe65811165dbbfa" title="QTextEncoder::fromUnicode" alt="" coords="1683,309,1871,336"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QCString::LongStringRep" name="QCString::LongStringRep">
+<area shape="rect" id="node2" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="27,147,155,268"/>
+<area shape="rect" id="node3" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="19,5,162,97"/>
+</map>

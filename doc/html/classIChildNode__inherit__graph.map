@@ -1,0 +1,3 @@
+<map id="IChildNode" name="IChildNode">
+<area shape="rect" id="node2" href="$classChildNodeHandler.html" title="{ChildNodeHandler\n|&#45; m_parent\l&#45; m_id\l&#45; m_relation\l&#45; m_relationString\l&#45; m_edgeLabels\l&#45; m_graph\l|+ ChildNodeHandler()\l+ ~ChildNodeHandler()\l+ startChildNode()\l+ endChildNode()\l+ startEdgeLabel()\l+ node()\l+ relation()\l+ relationString()\l+ edgeLabels()\l}" alt="" coords="5,233,161,501"/>
+</map>

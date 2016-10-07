@@ -1,0 +1,15 @@
+<map id="QIODevice::readBlock" name="QIODevice::readBlock">
+<area shape="rect" id="node2" href="$classQDataStream.html#aebb5fe86181c3a74f7b6c0fa95c10bb0" title="QDataStream::operator\&gt;\&gt;" alt="" coords="218,5,391,32"/>
+<area shape="rect" id="node4" href="$classQDataStream.html#a04938bc54d1158276cf01be169d159ea" title="QDataStream::readRawBytes" alt="" coords="207,56,403,83"/>
+<area shape="rect" id="node7" href="$classQIODevice.html#a2b93df374c6eea09c68a95cf99d66e6f" title="QIODevice::readAll" alt="" coords="237,107,372,133"/>
+<area shape="rect" id="node8" href="$classQXmlInputSource.html#a301b2d54ab84af500ac65257de94f23d" title="QXmlInputSource::QXmlInput\lSource" alt="" coords="451,115,645,157"/>
+<area shape="rect" id="node9" href="$classQIODevice.html#a4dc865ffcb5b7896ff8f9a1d828e4c0e" title="QIODevice::readLine" alt="" coords="233,208,377,235"/>
+<area shape="rect" id="node3" href="$classQStringList.html#acc4b2b8e5b8b04da731af0657491c963" title="QStringList::QStringList" alt="" coords="468,5,628,32"/>
+<area shape="rect" id="node5" href="$classQDataStream.html#a296311b844103880ec50b43a2ebbfcaa" title="QDataStream::readBytes" alt="" coords="463,56,633,83"/>
+<area shape="rect" id="node6" href="$classQDataStream.html#a50d7a4dfbb348b1f48a88853b0a8c340" title="QDataStream::operator\&gt;\&gt;" alt="" coords="693,56,867,83"/>
+<area shape="rect" id="node10" href="$classQFile.html#af95c756ce6ff9f597ff1d21c8384d777" title="QFile::readLine" alt="" coords="493,199,603,225"/>
+<area shape="rect" id="node14" href="$classQFile.html#a04e15f86aa48622ddb7c7e81c7cc7613" title="QFile::writeBlock" alt="" coords="487,249,609,276"/>
+<area shape="rect" id="node11" href="$classQFile.html#a324c017d391658a8eacf5b35932f5f87" title="QFile::readLine" alt="" coords="725,148,835,175"/>
+<area shape="rect" id="node12" href="$classDotRunner.html#ac1afaee16ddd8bf0bc6b18aaed6b44fd" title="Runs dot for all jobs added. " alt="" coords="725,199,835,225"/>
+<area shape="rect" id="node13" href="$structHtags.html#a91a5a1322fbff8f8ad136a3372964512" title="Htags::loadFilemap" alt="" coords="713,249,847,276"/>
+</map>

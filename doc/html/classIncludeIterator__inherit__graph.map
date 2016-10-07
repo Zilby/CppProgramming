@@ -1,0 +1,6 @@
+<map id="IncludeIterator" name="IncludeIterator">
+<area shape="rect" id="node2" href="$classBaseIterator.html" title="{BaseIterator\&lt; IIncludeIterator,\l IInclude, IncludeHandler \&gt;\n||+ BaseIterator()\l+ ~BaseIterator()\l+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l}" alt="" coords="53,623,249,817"/>
+<area shape="rect" id="node3" href="$classIIncludeIterator.html" title="{IIncludeIterator\n||+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l}" alt="" coords="5,336,115,575"/>
+<area shape="rect" id="node4" href="$classQListIterator.html" title="{QListIterator\&lt; IncludeHandler \&gt;\n||+ QListIterator()\l+ ~QListIterator()\l+ count()\l+ isEmpty()\l+ atFirst()\l+ atLast()\l+ toFirst()\l+ toLast()\l+ operator IncludeHandler *()\l+ operator*()\land 7 more...\l}" alt="" coords="139,343,344,567"/>
+<area shape="rect" id="node5" href="$classQGListIterator.html" title="The QGListIterator class is an internal class for implementing QListIterator. " alt="" coords="176,5,307,288"/>
+</map>

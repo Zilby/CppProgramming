@@ -1,0 +1,5 @@
+<map id="DefineManager::find" name="DefineManager::find">
+<area shape="rect" id="node2" href="$classDefineManager_1_1DefinesPerFile.html#a3d7ff23dec9810c8483d3256af666e04" title="Collects all defines for a file and all files that the file includes. " alt="" coords="192,39,375,80"/>
+<area shape="rect" id="node3" href="$classDefineManager.html#a9398543779e313d7fee799d200d2054b" title="Add an included file to the current context. " alt="" coords="436,5,611,47"/>
+<area shape="rect" id="node4" href="$classDefineManager.html#abb0c85cdfe08281e386b0a5e80c1746a" title="Helper function to collect all define for a given file. " alt="" coords="423,71,624,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ClassDef::isBaseClass" name="ClassDef::isBaseClass">
+<area shape="rect" id="node2" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="241,5,358,32"/>
+<area shape="rect" id="node3" href="$classClassDef.html#a680372e530fc79972086c9b940a72dcb" title="Returns the list of base classes from which this class directly inherits. " alt="" coords="219,56,380,83"/>
+<area shape="rect" id="node4" href="$classClassDef.html#aa592db91c3b33a7b4089910f1e987a40" title="Returns the template master of which this class is an instance. " alt="" coords="212,107,387,133"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="TranslateContext::get" name="TranslateContext::get">
+<area shape="rect" id="node2" href="$classDocRoot.html#aa5ddf3ae4f0557846668b54742d9b628" title="DocRoot::accept" alt="" coords="242,5,363,32"/>
+<area shape="rect" id="node3" href="$classDefinition.html#a3775acf5b1b6bc11e096896b80fc663e" title="Definition::getDefFileExtension" alt="" coords="201,56,404,83"/>
+<area shape="rect" id="node4" href="$classParserManager.html#a69f9874c260df7559242ec5833051ac5" title="Gets the interface to the parser associated with given extension. " alt="" coords="1065,325,1239,352"/>
+<area shape="rect" id="node7" href="$classParserInterface.html#aee4fccd1865a4e8a6b9f2896811104ca" title="Resets the state of the code parser. " alt="" coords="213,158,392,199"/>
+<area shape="rect" id="node8" href="$classParserInterface.html#a2ffc28f9dd7c47e2581376a573426395" title="Parses a source file or fragment with the goal to produce highlighted and cross&#45;referenced output..." alt="" coords="211,224,394,251"/>
+<area shape="rect" id="node9" href="$classDefinition.html#a3c214d451d86bf8994c9d1503ed2843d" title="Returns the programming language this definition was written in. " alt="" coords="223,107,382,133"/>
+<area shape="rect" id="node11" href="$classDefinition.html#a9854754d60caad76e897b156ba13d992" title="Definition::getBodyDef" alt="" coords="225,376,380,403"/>
+<area shape="rect" id="node13" href="$classDefinition.html#ab09272aa15b4047f0ab77652172cdd4b" title="Definition::docFile" alt="" coords="239,325,366,352"/>
+<area shape="rect" id="node15" href="$util_8h.html#a320768069dfe8bb92a0ad137769a3275" title="fileToString" alt="" coords="259,655,347,681"/>
+<area shape="rect" id="node50" href="$classFileDef.html#ad44d91d874c4713d198a8e4b862ee48f" title="FileDef::absFilePath" alt="" coords="232,705,373,732"/>
+<area shape="rect" id="node5" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="1319,655,1451,681"/>
+<area shape="rect" id="node6" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="1326,604,1445,631"/>
+<area shape="rect" id="node10" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="465,153,583,180"/>
+<area shape="rect" id="node12" href="$classGroupDef.html#a6aeb6d9849dfceb7809cfbda4bfb2503" title="GroupDef::isLinkable" alt="" coords="452,401,596,428"/>
+<area shape="rect" id="node14" href="$classQCString.html#a3917c144e26bc525d588c1dff602be00" title="Returns a reference to the character at index i. " alt="" coords="477,452,571,479"/>
+<area shape="rect" id="node16" href="$classQFile.html#af10aeafc303904f98b74be9752d2aa43" title="QFile::open" alt="" coords="659,1339,748,1365"/>
+<area shape="rect" id="node35" href="$classQFile.html#ab9a42e65a2fcd51bae5f2a186ff5bee5" title="QFile::readBlock" alt="" coords="1093,857,1211,884"/>
+<area shape="rect" id="node41" href="$classQCString.html#aefbe03789d0fe05302adae84c54c3243" title="Returns a writable pointer to the data. " alt="" coords="457,908,591,935"/>
+<area shape="rect" id="node42" href="$classQCString.html#a8402bb62a3a1c6a79130c3b3cf38b52c" title="Resizes the string to hold newlen characters (this value should include the 0&#45;terminator). " alt="" coords="465,959,583,985"/>
+<area shape="rect" id="node43" href="$util_8h.html#ae019f2737460a8c3eaad5264f8fe57a2" title="filterCRLF" alt="" coords="483,604,565,631"/>
+<area shape="rect" id="node44" href="$classQFileInfo.html#af7a247c24ea455875293d6406db652a4" title="QFileInfo::exists" alt="" coords="644,503,763,529"/>
+<area shape="rect" id="node45" href="$classQFileInfo.html#a6bc9021370d012084b9464ba22172d46" title="QFileInfo::isFile" alt="" coords="467,705,581,732"/>
+<area shape="rect" id="node46" href="$classQFileInfo.html#a5effd75eb8571416146ac546e70cb2d7" title="QFileInfo::size" alt="" coords="650,553,757,580"/>
+<area shape="rect" id="node47" href="$util_8h.html#a9b7f56d06d80e66e33804e0ae179203e" title="read a file name fileName and optionally filter and transcode it " alt="" coords="475,655,573,681"/>
+<area shape="rect" id="node49" href="$classQCString.html#ac084f55ab51f8b277cf01bb6e04f16ed" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="470,756,578,783"/>
+<area shape="rect" id="node17" href="$classQIODevice.html#a291d97cdb38c1cd261bfbaa67a9d3923" title="QIODevice::isOpen" alt="" coords="1317,1009,1453,1036"/>
+<area shape="rect" id="node18" href="$classQString.html#a6a6da156364a32ef91e35f83b1955acc" title="QString::isNull" alt="" coords="851,1009,958,1036"/>
+<area shape="rect" id="node19" href="$classQFile.html#adfb2df6392ccaefb54215e2047a16c3b" title="QFile::init" alt="" coords="865,1415,944,1441"/>
+<area shape="rect" id="node20" href="$classQIODevice.html#a9ce695e889efa9145e47195fcc765bf5" title="QIODevice::setFlags" alt="" coords="1079,1719,1225,1745"/>
+<area shape="rect" id="node21" href="$classQIODevice.html#a742d895b19b6809d67aa1643baf67639" title="QIODevice::setStatus" alt="" coords="1310,1339,1461,1365"/>
+<area shape="rect" id="node22" href="$classQIODevice.html#a9a8d9bf655a71b5821699a97a78be6be" title="QIODevice::setMode" alt="" coords="832,1313,977,1340"/>
+<area shape="rect" id="node23" href="$classQIODevice.html#a3bba4665b92eabfeca6905e7561cc943" title="QIODevice::isReadable" alt="" coords="1305,1479,1465,1505"/>
+<area shape="rect" id="node24" href="$classQIODevice.html#ab033a6ee76263214267daf8b62ade3c7" title="QIODevice::isWritable" alt="" coords="1309,1631,1462,1657"/>
+<area shape="rect" id="node25" href="$classQIODevice.html#a66e1eb78420a4ec15685871e2e773f68" title="QIODevice::isRaw" alt="" coords="1319,1111,1451,1137"/>
+<area shape="rect" id="node26" href="$classQIODevice.html#a3c3dd3eed081ff824acb10fa0eba9d91" title="QIODevice::flags" alt="" coords="843,1516,966,1543"/>
+<area shape="rect" id="node27" href="$classQIODevice.html#abf1df3cc1e0734c784c9d8eff82908c0" title="QIODevice::isTranslated" alt="" coords="821,1567,988,1593"/>
+<area shape="rect" id="node28" href="$classQIODevice.html#a95291c3aa671e64d41e4320190f05f4e" title="QIODevice::isAsynchronous" alt="" coords="811,1617,999,1644"/>
+<area shape="rect" id="node29" href="$classQFile.html#ad016ade1aca4b965ebb54d8bfb93d4bf" title="QFile::encodeName" alt="" coords="835,1668,974,1695"/>
+<area shape="rect" id="node30" href="$classQIODevice.html#af362cdbc70c8cbd30bcb4aaaf7c8e9e2" title="QIODevice::isReadWrite" alt="" coords="821,1719,988,1745"/>
+<area shape="rect" id="node31" href="$classQIODevice.html#ab8a455c1e81b3382c5db9a65ea70e615" title="QIODevice::setState" alt="" coords="833,857,977,884"/>
+<area shape="rect" id="node32" href="$classQIODevice.html#a16f5a19e0d5dde3ba5e9672974d44b1a" title="QIODevice::setType" alt="" coords="833,908,976,935"/>
+<area shape="rect" id="node33" href="$classQFile.html#a1c18e1a16e6f92ba8f19177824707f78" title="QFile::getch" alt="" coords="858,959,951,985"/>
+<area shape="rect" id="node36" href="$classQFile.html#afb01a04cda09b3cc61babb5d334a052c" title="QFile::ungetch" alt="" coords="851,1263,958,1289"/>
+<area shape="rect" id="node34" href="$classQCString.html#a5644b56f807df5375dba545abca25f40" title="Truncates the string at position pos. " alt="" coords="1320,832,1451,859"/>
+<area shape="rect" id="node37" href="$classQIODevice.html#ab0c6f50325bbf1e860aed41f3bfa498c" title="QIODevice::isSequentialAccess" alt="" coords="1047,1465,1257,1492"/>
+<area shape="rect" id="node38" href="$classQFile.html#aa156f3896b35b0c6f6e9cf9237bf34bf" title="QFile::at" alt="" coords="1116,1516,1188,1543"/>
+<area shape="rect" id="node39" href="$classQFile.html#a47e0572e396a6e953d14ba69bf733cea" title="QFile::writeBlock" alt="" coords="1091,1212,1213,1239"/>
+<area shape="rect" id="node40" href="$classQString.html#ac8aa3324210f474d9f515ba9f80b0f68" title="QString::local8Bit" alt="" coords="1090,1364,1214,1391"/>
+<area shape="rect" id="node48" href="$util_8h.html#a188c1467dbdf01fbdb87e08ce49fb759" title="getFileFilter" alt="" coords="1107,604,1197,631"/>
+</map>

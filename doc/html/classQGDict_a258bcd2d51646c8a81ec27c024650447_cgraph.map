@@ -1,0 +1,6 @@
+<map id="QGDict::write" name="QGDict::write">
+<area shape="rect" id="node2" href="$classQGDict.html#a13f6cc9bdbfe37db323b47947c1e017c" title="QGDict::count" alt="" coords="156,5,263,32"/>
+<area shape="rect" id="node3" href="$classQGDict.html#a0844214b5a0f6f3d3df655c1f84e7f4a" title="QGDict::size" alt="" coords="160,56,259,83"/>
+<area shape="rect" id="node4" href="$structcmd_8h.html#a9c7b76d5266903891c803132d51ccb90" title="Read bytes from a file descriptor. " alt="" coords="313,31,359,57"/>
+<area shape="rect" id="node5" href="$structcmd_8h.html#af2a3ea719b83f672637febdd87c36c36" title="Writes count bytes from buf to the filedescriptor fd. " alt="" coords="311,81,361,108"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="MemberDef::isReference" name="MemberDef::isReference">
+<area shape="rect" id="node2" href="$classMemberDef.html#a1ef7c726fdd0f1dd2d006782dd6f766a" title="MemberDef::anchor" alt="" coords="221,236,359,263"/>
+<area shape="rect" id="node8" href="$classMemberDef.html#a0c16b4d5effd11dbf337ece47b0d7463" title="MemberDef::definitionType" alt="" coords="894,346,1073,372"/>
+<area shape="rect" id="node11" href="$classMemberDef.html#a2a703ac083e9314dc800df330f3eb683" title="MemberDef::isLinkable" alt="" coords="659,514,815,540"/>
+<area shape="rect" id="node3" href="$classClassDef.html#ab9701f34d56e4dfee3e4ccd2fd6a6f5b" title="ClassDef::writeDeclaration" alt="" coords="407,60,585,87"/>
+<area shape="rect" id="node5" href="$classDefinition.html#ac8a4f300d6f2fe4723f2c17fe42ef800" title="Definition::_writeSource\lRefList" alt="" coords="903,170,1064,212"/>
+<area shape="rect" id="node6" href="$classHtmlHelp.html#a254ac391f0b096f1c06b72205fca5d77" title="HtmlHelp::addContentsItem" alt="" coords="891,287,1076,314"/>
+<area shape="rect" id="node7" href="$classMemberDef.html#afafa6a560b69558c5d3c8bba0424c939" title="MemberDef::getOutputFileBase" alt="" coords="633,236,840,263"/>
+<area shape="rect" id="node9" href="$classVhdlDocGen.html#a8c40c856602e19b4fe421c9572d618b7" title="VhdlDocGen::writeFuncProcDocu" alt="" coords="1609,392,1828,419"/>
+<area shape="rect" id="node10" href="$classMemberDef.html#a3c91c8522caa2b1905cd52b3eedad8fa" title="MemberDef::displayName" alt="" coords="409,388,583,415"/>
+<area shape="rect" id="node16" href="$classVhdlDocGen.html#ac5c7235e2572f9dab6475d5af835e437" title="VhdlDocGen::writeVHDLDeclaration" alt="" coords="1876,502,2111,528"/>
+<area shape="rect" id="node4" href="$classClassDef.html#ab84f56a99816a73920785d48a059c769" title="Used for RTTI, this is a class. " alt="" coords="653,60,820,87"/>
+<area shape="rect" id="node12" href="$classVhdlDocGen.html#abdbd7a613237d2a86532bfe548209a1d" title="VhdlDocGen::writeStringLink" alt="" coords="888,510,1079,536"/>
+<area shape="rect" id="node13" href="$classVhdlDocGen.html#a0b58904c2803fe64c007b6c3ddda086e" title="VhdlDocGen::writeFormatString" alt="" coords="1127,508,1333,535"/>
+<area shape="rect" id="node14" href="$classVhdlDocGen.html#aacccadab8f7d60dc0e4b2892ea724c2b" title="VhdlDocGen::formatString" alt="" coords="1384,564,1559,591"/>
+<area shape="rect" id="node18" href="$classVhdlDocGen.html#a94ad80db8536156393a701496506c052" title="VhdlDocGen::writeProcess\lProto" alt="" coords="1381,498,1561,540"/>
+<area shape="rect" id="node15" href="$classVhdlDocGen.html#a94da80078b9bba291b1c1af056eca6a4" title="VhdlDocGen::writeProcedure\lProto" alt="" coords="1623,494,1814,536"/>
+<area shape="rect" id="node17" href="$classVhdlDocGen.html#ab1d66321a2c118a9376b65aeb598a49c" title="VhdlDocGen::writeFunction\lProto" alt="" coords="1627,560,1810,601"/>
+</map>

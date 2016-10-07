@@ -1,0 +1,6 @@
+<map id="MemberIterator" name="MemberIterator">
+<area shape="rect" id="node2" href="$classBaseIteratorVia.html" title="{BaseIteratorVia\&lt; IMember\lIterator, IMember, MemberHandler,\l IFunction \&gt;\n||+ BaseIteratorVia()\l+ ~BaseIteratorVia()\l+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l}" alt="" coords="43,623,269,832"/>
+<area shape="rect" id="node3" href="$classIMemberIterator.html" title="{IMemberIterator\n||+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l}" alt="" coords="5,336,120,575"/>
+<area shape="rect" id="node4" href="$classQListIterator.html" title="{QListIterator\&lt; MemberHandler \&gt;\n||+ QListIterator()\l+ ~QListIterator()\l+ count()\l+ isEmpty()\l+ atFirst()\l+ atLast()\l+ toFirst()\l+ toLast()\l+ operator MemberHandler *()\l+ operator*()\land 7 more...\l}" alt="" coords="144,343,355,567"/>
+<area shape="rect" id="node5" href="$classQGListIterator.html" title="The QGListIterator class is an internal class for implementing QListIterator. " alt="" coords="184,5,315,288"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="HtmlHelpIndex::addItem" name="HtmlHelpIndex::addItem">
+<area shape="rect" id="node2" href="$classSDict.html#aec67482d780157680d46f48a7ed5e7bd" title="SDict::find" alt="" coords="228,5,312,32"/>
+<area shape="rect" id="node3" href="$classSDict.html#a121842d9858421076b81ed663034d62c" title="SDict::append" alt="" coords="217,56,323,83"/>
+<area shape="rect" id="node4" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="371,107,503,133"/>
+<area shape="rect" id="node5" href="$util_8h.html#a99187f0723aa35b7f06be3a5506b1285" title="substitute all occurrences of src in s by dst " alt="" coords="231,157,309,184"/>
+<area shape="rect" id="node6" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="378,157,497,184"/>
+<area shape="rect" id="node7" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="383,208,492,235"/>
+<area shape="rect" id="node8" href="$classQCString.html#aefbe03789d0fe05302adae84c54c3243" title="Returns a writable pointer to the data. " alt="" coords="371,259,504,285"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Definition::qualifiedName" name="Definition::qualifiedName">
+<area shape="rect" id="node2" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="255,5,387,32"/>
+<area shape="rect" id="node3" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="468,107,585,133"/>
+<area shape="rect" id="node4" href="$util_8h.html#ac4c34c02b8869dca71de6f4037736dc7" title="Returns the scope separator to use given the programming language lang. " alt="" coords="221,107,420,133"/>
+<area shape="rect" id="node5" href="$classDefinition.html#a3c214d451d86bf8994c9d1503ed2843d" title="Returns the programming language this definition was written in. " alt="" coords="241,157,400,184"/>
+<area shape="rect" id="node6" href="$classQCString.html#a8402bb62a3a1c6a79130c3b3cf38b52c" title="Resizes the string to hold newlen characters (this value should include the 0&#45;terminator). " alt="" coords="261,208,380,235"/>
+<area shape="rect" id="node7" href="$classDefinition.html#a4f303fc4a5c9be7ab8160cf1792e7bda" title="Definition::isHidden" alt="" coords="253,259,389,285"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QStringBuffer" name="QStringBuffer">
+<area shape="rect" id="node2" href="$classQIODevice.html" title="The QIODevice class is the base class of I/O devices. " alt="" coords="5,652,163,1008"/>
+<area shape="rect" id="node3" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="187,564,322,1096"/>
+<area shape="rect" id="node4" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="157,365,254,443"/>
+<area shape="rect" id="node5" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="279,321,401,487"/>
+<area shape="rect" id="node6" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="248,79,341,185"/>
+<area shape="rect" id="node7" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="366,5,501,259"/>
+</map>

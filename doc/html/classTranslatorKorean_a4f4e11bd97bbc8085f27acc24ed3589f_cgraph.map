@@ -1,0 +1,6 @@
+<map id="TranslatorKorean::trInheritedByList" name="TranslatorKorean::trInheritedByList">
+<area shape="rect" id="node2" href="$classTranslatorKorean.html#a702965892122f3ef3ee3145a16ce3357" title="TranslatorKorean::trWriteList" alt="" coords="240,31,429,57"/>
+<area shape="rect" id="node3" href="$util_8h.html#a5530a73bd518581ac62e4eee5bc2f6db" title="generateMarker" alt="" coords="477,31,589,57"/>
+<area shape="rect" id="node4" href="$util_8h.html#ac7a97256c349c1f4f1d18d7a7098c081" title="stripFromPath" alt="" coords="645,5,749,32"/>
+<area shape="rect" id="node5" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="637,56,756,83"/>
+</map>

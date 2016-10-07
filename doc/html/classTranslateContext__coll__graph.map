@@ -1,0 +1,6 @@
+<map id="TranslateContext" name="TranslateContext">
+<area shape="rect" id="node2" href="$classRefCountedContext.html" title="Helper class to support reference counting. " alt="" coords="5,270,172,391"/>
+<area shape="rect" id="node3" href="$classTemplateStructIntf.html" title="Abstract interface for a context value of type struct. " alt="" coords="196,270,355,391"/>
+<area shape="rect" id="node4" href="$classTranslateContext_1_1Private.html" title="{TranslateContext::Private\n|&#45; m_javaOpt\l&#45; m_fortranOpt\l&#45; m_vhdlOpt\l|+ handleGeneratedAt()\l+ handleInheritanceDiagramFor()\l+ handleCollaborationDiagramFor()\l+ handleDirDependencyGraphFor()\l+ handleInheritsList()\l+ handleInheritedByList()\l+ handleWriteList()\l+ handleImplementedBy()\l+ handleReimplementedBy()\l+ handleSourceRefs()\land 97 more...\l}" alt="" coords="379,204,603,457"/>
+<area shape="rect" id="node5" href="$classPropertyMapper.html" title="{PropertyMapper\&lt; Translate\lContext::TranslateContext\l::Private \&gt;\n|&#45; m_map\l|+ PropertyMapper()\l+ addProperty()\l+ get()\l}" alt="" coords="401,5,581,141"/>
+</map>

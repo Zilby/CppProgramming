@@ -1,0 +1,15 @@
+<map id="QXmlSimpleReader::parseElement" name="QXmlSimpleReader::parseElement">
+<area shape="rect" id="node2" href="$classQXmlSimpleReader.html#a65198a1d39b2434110a3cb29a7895b39" title="QXmlSimpleReader::parseName" alt="" coords="1637,172,1849,199"/>
+<area shape="rect" id="node3" href="$classQXmlSimpleReader.html#ae8888cedf195bb870b9b4ff25dfc60a8" title="QXmlSimpleReader::parseContent" alt="" coords="280,137,503,164"/>
+<area shape="rect" id="node8" href="$classQXmlSimpleReader.html#aca40698c1ab224ce0b8fe66741fbc26e" title="QXmlSimpleReader::parseAttribute" alt="" coords="835,195,1061,221"/>
+<area shape="rect" id="node12" href="$classQXmlSimpleReader.html#abd45f90e4221df0705382128fe2dcbd6" title="QXmlSimpleReader::parseElement\lEmptyTag" alt="" coords="279,327,504,369"/>
+<area shape="rect" id="node13" href="$classQXmlSimpleReader.html#a459be9cb7d5987643cb2faa53b9c21a7" title="QXmlSimpleReader::parseElement\lETagBegin2" alt="" coords="279,393,504,434"/>
+<area shape="rect" id="node14" href="$classQXmlSimpleReader.html#a6578e91a3c24d1ab89c1165f3c405af4" title="QXmlSimpleReader::parseElement\lAttribute" alt="" coords="279,458,504,499"/>
+<area shape="rect" id="node4" href="$classQXmlSimpleReader.html#a2c93d06cc0b9787339368f43c83672df" title="QXmlSimpleReader::parseReference" alt="" coords="1352,57,1589,84"/>
+<area shape="rect" id="node7" href="$classQXmlSimpleReader.html#ac8c5088453ccf5072d9c6ac86b1769f1" title="QXmlSimpleReader::parsePI" alt="" coords="574,163,765,189"/>
+<area shape="rect" id="node10" href="$classQXmlSimpleReader.html#aaf2c1eab1e924ce27e128471b880d145" title="QXmlSimpleReader::parseComment" alt="" coords="552,112,787,139"/>
+<area shape="rect" id="node11" href="$classQXmlSimpleReader.html#aceef3195d1be096140de202b59668eb8" title="QXmlSimpleReader::parseString" alt="" coords="843,5,1053,32"/>
+<area shape="rect" id="node5" href="$classQXmlSimpleReader.html#a3b93e43edf722bc5d0c6475ce408d543" title="QXmlSimpleReader::process\lReference" alt="" coords="1648,53,1839,94"/>
+<area shape="rect" id="node6" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="1897,31,2007,57"/>
+<area shape="rect" id="node9" href="$classQXmlSimpleReader.html#ab14ce57ef45f62c49966eeed3a03eda7" title="QXmlSimpleReader::parseAtt\lValue" alt="" coords="1109,159,1304,201"/>
+</map>

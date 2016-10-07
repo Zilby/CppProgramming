@@ -1,0 +1,23 @@
+<map id="QGVector::write" name="QGVector::write">
+<area shape="rect" id="node2" href="$classQGVector.html#a24cdcea0593a3c9334d130e66c8e2043" title="QGVector::count" alt="" coords="169,296,289,323"/>
+<area shape="rect" id="node22" href="$classQGVector.html#a1c004fbe24a98b7656e3913a17ae6ed7" title="QGVector::size" alt="" coords="173,347,285,373"/>
+<area shape="rect" id="node3" href="$classQGList.html#a4b926803feca834f03fefa6bf614dcb1" title="QGList::take" alt="" coords="541,5,637,32"/>
+<area shape="rect" id="node8" href="$classQCollection.html#a92416cc22907550389aad04c26be2f77" title="QCollection::clear" alt="" coords="337,397,464,424"/>
+<area shape="rect" id="node9" href="$classQGList.html#aafb785818e1ff9a3a72daacabd549b54" title="QGList::sort" alt="" coords="354,169,447,196"/>
+<area shape="rect" id="node18" href="$classQGList.html#a67bc1cdeeadadd5c0c6fd976c62892b8" title="QGList::findRef" alt="" coords="344,448,457,475"/>
+<area shape="rect" id="node19" href="$classQGList.html#a604fb543fc8b0f989e7fde06bdb3ea9c" title="QGList::find" alt="" coords="355,245,447,272"/>
+<area shape="rect" id="node20" href="$classQGList.html#ab852b3da6d4bacdbac6eec813dad5b01" title="QGList::containsRef" alt="" coords="519,360,660,387"/>
+<area shape="rect" id="node21" href="$classQGList.html#ae251f1aef8fdcd1637638e54bb1faadc" title="QGList::contains" alt="" coords="341,296,461,323"/>
+<area shape="rect" id="node4" href="$classQGList.html#a09f2bec85cf29180ea4736ec76f236e0" title="QGList::unlink" alt="" coords="715,5,820,32"/>
+<area shape="rect" id="node5" href="$classQGList.html#af765260057e85e575adff7fd9f25d062" title="QGList::count" alt="" coords="896,208,999,235"/>
+<area shape="rect" id="node6" href="$classQGList.html#a94d8739e67879c5d61350d18e7747e2b" title="QGList::first" alt="" coords="901,5,994,32"/>
+<area shape="rect" id="node7" href="$classQGList.html#a16d0f7ae73881b4bfe6757e58b74d38a" title="QGList::next" alt="" coords="899,56,995,83"/>
+<area shape="rect" id="node10" href="$classQGDict.html#a0844214b5a0f6f3d3df655c1f84e7f4a" title="QGDict::size" alt="" coords="540,157,639,184"/>
+<area shape="rect" id="node13" href="$classQGList.html#a9a9c5fa3888371979c12e3207b3f9ec5" title="QGList::compareItems" alt="" coords="512,259,667,285"/>
+<area shape="rect" id="node14" href="$classQGList.html#a92e5a02569162c5951a90bca606223a2" title="QGList::read" alt="" coords="541,56,637,83"/>
+<area shape="rect" id="node17" href="$classQGList.html#ae522fc8c2df7736e847d93e561daffae" title="QGList::write" alt="" coords="718,107,817,133"/>
+<area shape="rect" id="node11" href="$structcmd_8h.html#a9c7b76d5266903891c803132d51ccb90" title="Read bytes from a file descriptor. " alt="" coords="744,157,791,184"/>
+<area shape="rect" id="node12" href="$structcmd_8h.html#af2a3ea719b83f672637febdd87c36c36" title="Writes count bytes from buf to the filedescriptor fd. " alt="" coords="742,208,793,235"/>
+<area shape="rect" id="node15" href="$classQGList.html#a9b89540497bfcf674466dcf9e343d981" title="QGList::clear" alt="" coords="718,56,817,83"/>
+<area shape="rect" id="node16" href="$classQCollection.html#ab6c7cf56b681ba4fed6cf6a92494a410" title="QCollection::deleteItem" alt="" coords="868,107,1027,133"/>
+</map>

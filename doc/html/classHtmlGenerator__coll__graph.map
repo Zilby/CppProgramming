@@ -1,0 +1,25 @@
+<map id="HtmlGenerator" name="HtmlGenerator">
+<area shape="rect" id="node2" href="$classOutputGenerator.html" title="Abstract output generator. " alt="" coords="735,2270,882,2523"/>
+<area shape="rect" id="node3" href="$classBaseOutputDocInterface.html" title="Base Interface used for generating output outside of the comment blocks. " alt="" coords="87,1822,282,2046"/>
+<area shape="rect" id="node4" href="$classCodeOutputInterface.html" title="Output interface for code parser. " alt="" coords="23,1279,194,1517"/>
+<area shape="rect" id="node24" href="$classHtmlCodeGenerator.html" title="{HtmlCodeGenerator\n|&#45; m_streamSet\l&#45; m_col\l|+ HtmlCodeGenerator()\l+ HtmlCodeGenerator()\l+ setTextStream()\l+ setRelativePath()\l+ codify()\l+ writeCodeLink()\l+ writeTooltip()\l+ writeLineNumber()\l+ startCodeLine()\l+ endCodeLine()\l+ startFontClass()\l+ endFontClass()\l+ writeCodeAnchor()\l+ setCurrentDoc()\l+ addWord()\l&#45; _writeCodeLink()\l&#45; docify()\l}" alt="" coords="500,2233,658,2560"/>
+<area shape="rect" id="node5" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="843,1286,950,1510"/>
+<area shape="rect" id="node14" href="$classQFile.html" title="The QFile class is an I/O device that operates on files. " alt="" coords="607,1727,772,2141"/>
+<area shape="rect" id="node6" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="825,816,968,1040"/>
+<area shape="rect" id="node7" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="804,581,989,673"/>
+<area shape="rect" id="node8" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="784,331,958,437"/>
+<area shape="rect" id="node9" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="982,345,1152,423"/>
+<area shape="rect" id="node10" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="1003,147,1131,268"/>
+<area shape="rect" id="node11" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="996,5,1138,97"/>
+<area shape="rect" id="node12" href="$classFTextStream.html" title="Simplified and optimized version of QTextStream. " alt="" coords="456,1815,582,2053"/>
+<area shape="rect" id="node13" href="$classQIODevice.html" title="The QIODevice class is the base class of I/O devices. " alt="" coords="499,1220,656,1576"/>
+<area shape="rect" id="node15" href="$classQString.html" title="The QString class provides an abstraction of Unicode text and the classic C null&#45;terminated char arra..." alt="" coords="681,1132,816,1664"/>
+<area shape="rect" id="node16" href="$structQString_1_1Null.html" title="{QString::Null\n||}" alt="" coords="700,889,797,967"/>
+<area shape="rect" id="node17" href="$structQStringData.html" title="{QStringData\n|+ ascii\l+ len\l+ maxl\l+ dirtyascii\l|+ QStringData()\l+ QStringData()\l+ ~QStringData()\l+ deleteSelf()\l}" alt="" coords="552,845,675,1011"/>
+<area shape="rect" id="node18" href="$structQShared.html" title="The QShared struct is internally used for implementing shared classes. " alt="" coords="628,573,722,680"/>
+<area shape="rect" id="node19" href="$classQChar.html" title="The QChar class provides a light&#45;weight Unicode character. " alt="" coords="325,500,460,753"/>
+<area shape="rect" id="node20" href="$classQStack.html" title="{QStack\&lt; bool \&gt;\n||+ QStack()\l+ QStack()\l+ ~QStack()\l+ operator=()\l+ autoDelete()\l+ setAutoDelete()\l+ count()\l+ isEmpty()\l+ push()\l+ pop()\land 6 more...\l&#45; deleteItem()\l}" alt="" coords="306,1815,431,2053"/>
+<area shape="rect" id="node21" href="$classQGList.html" title="The QGList class is an internal class for implementing Qt collection classes. " alt="" coords="240,1227,395,1569"/>
+<area shape="rect" id="node22" href="$classQCollection.html" title="The QCollection class is the base class of all Qt collections. " alt="" coords="200,831,326,1025"/>
+<area shape="rect" id="node23" href="$classQLNode.html" title="The QLNode class is an internal class for the QList template collection. " alt="" coords="350,882,438,974"/>
+</map>

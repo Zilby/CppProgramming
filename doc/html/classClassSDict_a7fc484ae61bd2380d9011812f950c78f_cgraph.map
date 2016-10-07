@@ -1,0 +1,14 @@
+<map id="ClassSDict::compareValues" name="ClassSDict::compareValues">
+<area shape="rect" id="node2" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="724,219,841,245"/>
+<area shape="rect" id="node3" href="$classClassDef.html#a6dc63f555dae8c2e55f8fc586ec70860" title="Returns the type of compound this is, i.e. " alt="" coords="240,143,415,169"/>
+<area shape="rect" id="node4" href="$classClassDef.html#ab42c120a9326e77882857bc53ab2b7e0" title="return TRUE iff a link to this class is possible (either within this project, or as a cross&#45;reference..." alt="" coords="256,92,399,119"/>
+<area shape="rect" id="node11" href="$classClassDef.html#a9fb4287aacaa5dd5723c03d93d7c9d93" title="Returns TRUE if this is a local class definition, see EXTRACT_LOCAL_CLASSES. " alt="" coords="264,244,391,271"/>
+<area shape="rect" id="node12" href="$classClassDef.html#aa99ab74b431ee591f88e23d66c50b479" title="Returns TRUE if this class represents an Objective&#45;C 2.0 extension (nameless category) ..." alt="" coords="483,269,637,296"/>
+<area shape="rect" id="node13" href="$classClassDef.html#a013bf8c79e1db7c5314e53855ee95260" title="Return the protection level (Public,Protected,Private) in which this compound was found..." alt="" coords="256,345,399,372"/>
+<area shape="rect" id="node5" href="$classClassDef.html#a9a6dbef98acabb06d9e1792e3c82c800" title="Returns TRUE if this class is imported via a tag file. " alt="" coords="483,29,637,56"/>
+<area shape="rect" id="node8" href="$classClassDef.html#a54fd0971529bf396c31a2a5c67acbea7" title="returns TRUE iff a link is possible to this item within this project. " alt="" coords="463,117,657,144"/>
+<area shape="rect" id="node6" href="$classDefinition.html#a8405121cdc0253ec9633a87500ac47ba" title="Definition::isReference" alt="" coords="705,16,860,43"/>
+<area shape="rect" id="node7" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="908,168,1040,195"/>
+<area shape="rect" id="node9" href="$classDefinition.html#a24d80ca0884834c9e767482af37b7248" title="Definition::isArtificial" alt="" coords="711,67,854,93"/>
+<area shape="rect" id="node10" href="$classDefinition.html#a4f303fc4a5c9be7ab8160cf1792e7bda" title="Definition::isHidden" alt="" coords="715,117,851,144"/>
+</map>

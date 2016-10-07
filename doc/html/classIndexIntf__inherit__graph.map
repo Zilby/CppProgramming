@@ -1,0 +1,8 @@
+<map id="IndexIntf" name="IndexIntf">
+<area shape="rect" id="node2" href="$classDocSets.html" title="A class that generates docset files. " alt="" coords="5,299,156,670"/>
+<area shape="rect" id="node3" href="$classEclipseHelp.html" title="Generator for Eclipse help files. " alt="" coords="180,299,331,670"/>
+<area shape="rect" id="node4" href="$classFTVHelp.html" title="A class that generates a dynamic tree view side panel. " alt="" coords="355,299,545,670"/>
+<area shape="rect" id="node5" href="$classHtmlHelp.html" title="A class that generated the HTML Help specific files. " alt="" coords="569,277,720,692"/>
+<area shape="rect" id="node6" href="$classIndexList.html" title="A list of index interfaces. " alt="" coords="744,285,895,685"/>
+<area shape="rect" id="node7" href="$classQhp.html" title="{Qhp\n|&#45; m_doc\l&#45; m_toc\l&#45; m_index\l&#45; m_files\l&#45; m_prevSectionTitle\l&#45; m_prevSectionBaseName\l&#45; m_prevSectionAnchor\l&#45; m_prevSectionLevel\l&#45; m_sectionLevel\l&#45; m_skipMainPageSection\l|+ Qhp()\l+ ~Qhp()\l+ initialize()\l+ finalize()\l+ incContentsDepth()\l+ decContentsDepth()\l+ addContentsItem()\l+ addIndexItem()\l+ addIndexFile()\l+ addImageFile()\l+ addStyleSheetFile()\l+ getQhpFileName()\l&#45; handlePrevSection()\l&#45; clearPrevSection()\l&#45; setPrevSection()\l&#45; addFile()\l&#45; getFullProjectName()\l}" alt="" coords="919,263,1101,707"/>
+</map>

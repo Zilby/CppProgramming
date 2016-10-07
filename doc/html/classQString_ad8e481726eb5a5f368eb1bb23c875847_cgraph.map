@@ -1,0 +1,10 @@
+<map id="QString::simplifyWhiteSpace" name="QString::simplifyWhiteSpace">
+<area shape="rect" id="node2" href="$classQString.html#aa032d4b5892338beb575a85e59bbbf38" title="QString::isEmpty" alt="" coords="244,5,367,32"/>
+<area shape="rect" id="node3" href="$classQString.html#ac431a733d01111059c8364c62ed53270" title="QString::length" alt="" coords="419,31,529,57"/>
+<area shape="rect" id="node4" href="$classQString.html#af653a95345ba3cd5bade2a1e07f2bb58" title="QString::unicode" alt="" coords="246,107,365,133"/>
+<area shape="rect" id="node5" href="$classQChar.html#a67814eae107b451db9def198ae57aa8a" title="QChar::isSpace" alt="" coords="248,157,363,184"/>
+<area shape="rect" id="node9" href="$classQString.html#a6a7546dfb7ad7b0e5d982078c03595db" title="QString::truncate" alt="" coords="245,208,366,235"/>
+<area shape="rect" id="node6" href="$classQChar.html#a8f987c65692f95eebc84bf687ea92aff" title="QChar::row" alt="" coords="581,132,671,159"/>
+<area shape="rect" id="node7" href="$classQChar.html#a2475b4653bed4cf2a3f10395a14cc9c5" title="QChar::cell" alt="" coords="582,195,670,221"/>
+<area shape="rect" id="node8" href="$classQChar.html#a4bc1ffcdc40c674015b3bb9e9114637e" title="QChar::category" alt="" coords="415,157,533,184"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="getFileFilter" name="getFileFilter">
+<area shape="rect" id="node2" href="$classDefinition.html#a829959b92985d0264b9fc17277bf91b4" title="Definition::setInbodyDocumentation" alt="" coords="144,67,375,93"/>
+<area shape="rect" id="node6" href="$util_8h.html#a9b7f56d06d80e66e33804e0ae179203e" title="read a file name fileName and optionally filter and transcode it " alt="" coords="211,121,308,148"/>
+<area shape="rect" id="node3" href="$classMemberDef.html#a6c64c400180a47b04ad9a1d18a535184" title="MemberDef::setInbodyDocumentation" alt="" coords="423,64,665,91"/>
+<area shape="rect" id="node4" href="$classMemberDef.html#a0c16b4d5effd11dbf337ece47b0d7463" title="MemberDef::definitionType" alt="" coords="731,5,910,32"/>
+<area shape="rect" id="node5" href="$classMemberGroup.html#a1dc30e752b0c36ee2be1716ff8d83856" title="MemberGroup::addToDeclaration\lSection" alt="" coords="713,57,928,98"/>
+<area shape="rect" id="node7" href="$util_8h.html#a320768069dfe8bb92a0ad137769a3275" title="fileToString" alt="" coords="500,123,588,149"/>
+<area shape="rect" id="node8" href="$classTranslateContext.html#ab0fad4b75cd53cb3c22e8e1adee1c260" title="Gets the value for a field name. " alt="" coords="747,123,895,149"/>
+<area shape="rect" id="node9" href="$classHtmlCodeGenerator.html#a89ec8d4b9eb2b5162b4d9a7cab209b4a" title="HtmlCodeGenerator::\lwriteCodeAnchor" alt="" coords="747,174,894,215"/>
+</map>

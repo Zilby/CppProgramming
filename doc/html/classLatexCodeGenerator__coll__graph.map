@@ -1,0 +1,12 @@
+<map id="LatexCodeGenerator" name="LatexCodeGenerator">
+<area shape="rect" id="node2" href="$classCodeOutputInterface.html" title="Output interface for code parser. " alt="" coords="5,1073,176,1312"/>
+<area shape="rect" id="node3" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="200,1081,307,1305"/>
+<area shape="rect" id="node4" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="177,721,319,945"/>
+<area shape="rect" id="node5" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="155,500,341,592"/>
+<area shape="rect" id="node6" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="136,331,309,437"/>
+<area shape="rect" id="node7" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="333,345,504,423"/>
+<area shape="rect" id="node8" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="355,147,483,268"/>
+<area shape="rect" id="node9" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="347,5,490,97"/>
+<area shape="rect" id="node10" href="$classFTextStream.html" title="Simplified and optimized version of QTextStream. " alt="" coords="358,1073,485,1312"/>
+<area shape="rect" id="node11" href="$classQIODevice.html" title="The QIODevice class is the base class of I/O devices. " alt="" coords="344,655,501,1011"/>
+</map>

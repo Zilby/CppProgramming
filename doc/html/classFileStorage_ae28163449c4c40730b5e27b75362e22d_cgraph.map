@@ -1,0 +1,10 @@
+<map id="FileStorage::read" name="FileStorage::read">
+<area shape="rect" id="node2" href="$classQFile.html#ab9a42e65a2fcd51bae5f2a186ff5bee5" title="QFile::readBlock" alt="" coords="175,157,293,184"/>
+<area shape="rect" id="node3" href="$classQIODevice.html#a291d97cdb38c1cd261bfbaa67a9d3923" title="QIODevice::isOpen" alt="" coords="353,5,489,32"/>
+<area shape="rect" id="node4" href="$classQIODevice.html#a3bba4665b92eabfeca6905e7561cc943" title="QIODevice::isReadable" alt="" coords="341,56,501,83"/>
+<area shape="rect" id="node5" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="355,107,487,133"/>
+<area shape="rect" id="node6" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="362,157,481,184"/>
+<area shape="rect" id="node7" href="$classQCString.html#a5644b56f807df5375dba545abca25f40" title="Truncates the string at position pos. " alt="" coords="356,208,487,235"/>
+<area shape="rect" id="node8" href="$classQIODevice.html#a66e1eb78420a4ec15685871e2e773f68" title="QIODevice::isRaw" alt="" coords="355,259,487,285"/>
+<area shape="rect" id="node9" href="$classQIODevice.html#a742d895b19b6809d67aa1643baf67639" title="QIODevice::setStatus" alt="" coords="346,309,497,336"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="StorageIntf" name="StorageIntf">
+<area shape="rect" id="node2" href="$classFileStorage.html" title="Store implementation based on a file. " alt="" coords="5,233,113,443"/>
+<area shape="rect" id="node3" href="$classStore.html" title="The Store is a file based memory manager. " alt="" coords="137,160,248,516"/>
+</map>

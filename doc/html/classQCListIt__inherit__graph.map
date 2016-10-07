@@ -1,0 +1,4 @@
+<map id="QCListIt" name="QCListIt">
+<area shape="rect" id="node2" href="$classQInternalListIterator.html" title="{QInternalListIterator\l\&lt; QCacheItem \&gt;\n||+ QInternalListIterator()\l+ ~QInternalListIterator()\l+ count()\l+ isEmpty()\l+ atFirst()\l+ atLast()\l+ toFirst()\l+ toLast()\l+ operator QCacheItem *()\l+ operator*()\land 7 more...\l}" alt="" coords="5,336,181,575"/>
+<area shape="rect" id="node3" href="$classQGListIterator.html" title="The QGListIterator class is an internal class for implementing QListIterator. " alt="" coords="28,5,159,288"/>
+</map>

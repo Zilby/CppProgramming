@@ -1,0 +1,5 @@
+<map id="EclipseHelp::initialize" name="EclipseHelp::initialize">
+<area shape="rect" id="node2" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="211,5,321,32"/>
+<area shape="rect" id="node3" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="200,56,332,83"/>
+<area shape="rect" id="node4" href="$util_8h.html#acee8d851ab3a9590ac348bdb857aba26" title="convertToXML" alt="" coords="213,107,319,133"/>
+</map>

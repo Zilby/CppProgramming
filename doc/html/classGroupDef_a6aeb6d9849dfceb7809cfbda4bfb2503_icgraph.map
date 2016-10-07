@@ -1,0 +1,8 @@
+<map id="GroupDef::isLinkable" name="GroupDef::isLinkable">
+<area shape="rect" id="node2" href="$classDefinition.html#a9854754d60caad76e897b156ba13d992" title="Definition::getBodyDef" alt="" coords="201,56,356,83"/>
+<area shape="rect" id="node7" href="$classGroupDef.html#a9707ecaf7f4e7231016b68a7e3f811e8" title="GroupDef::displayName" alt="" coords="197,107,360,133"/>
+<area shape="rect" id="node3" href="$classClassDef.html#ae82303a3ca4f00eafe79322a56263887" title="returns TRUE if this class has a non&#45;empty detailed description " alt="" coords="408,5,628,32"/>
+<area shape="rect" id="node5" href="$classTranslateContext.html#ab0fad4b75cd53cb3c22e8e1adee1c260" title="Gets the value for a field name. " alt="" coords="444,56,592,83"/>
+<area shape="rect" id="node6" href="$classDefinition.html#ac8a4f300d6f2fe4723f2c17fe42ef800" title="Definition::_writeSource\lRefList" alt="" coords="437,107,599,149"/>
+<area shape="rect" id="node4" href="$classClassDef.html#ab84f56a99816a73920785d48a059c769" title="Used for RTTI, this is a class. " alt="" coords="676,5,843,32"/>
+</map>

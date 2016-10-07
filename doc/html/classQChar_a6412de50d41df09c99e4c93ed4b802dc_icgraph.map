@@ -1,0 +1,7 @@
+<map id="QChar::networkOrdered" name="QChar::networkOrdered">
+<area shape="rect" id="node2" href="$classQString.html#a5d8281fc5ce5c2b6e6e9fd2b9f66c32c" title="QString::operator\&lt;\&lt;" alt="" coords="235,5,372,32"/>
+<area shape="rect" id="node3" href="$classQTextStream.html#a76d6275dfc24a8f8c10ba8a0e8973429" title="QTextStream::ts_getbuf" alt="" coords="222,56,385,83"/>
+<area shape="rect" id="node5" href="$classQTextStream.html#ad06dc1f99476aed01fa8a822e871dc44" title="QTextStream::setEncoding" alt="" coords="213,107,393,133"/>
+<area shape="rect" id="node4" href="$classQTextStream.html#ad4883d193f9375936d54989ea5140a35" title="QTextStream::ts_getc" alt="" coords="459,56,610,83"/>
+<area shape="rect" id="node6" href="$classQXmlInputSource.html#a09b035e17ff437b8980b192806dc8271" title="QXmlInputSource::readInput" alt="" coords="441,107,628,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="LT_Text" name="LT_Text">
+<area shape="rect" id="node2" href="$classLinkedTextImpl.html" title="{LinkedTextImpl\n||+ ~LinkedTextImpl()\l}" alt="" coords="5,153,144,230"/>
+<area shape="rect" id="node3" href="$classILinkedText.html" title="Base interface for hyperlinked text. " alt="" coords="160,5,251,97"/>
+<area shape="rect" id="node4" href="$classILT__Text.html" title="Plain text fragment. " alt="" coords="168,145,243,237"/>
+</map>

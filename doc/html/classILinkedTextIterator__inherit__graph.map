@@ -1,0 +1,4 @@
+<map id="ILinkedTextIterator" name="ILinkedTextIterator">
+<area shape="rect" id="node2" href="$classBaseIterator.html" title="{BaseIterator\&lt; ILinkedText\lIterator, ILinkedText,\l LinkedTextImpl \&gt;\n||+ BaseIterator()\l+ ~BaseIterator()\l+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l}" alt="" coords="5,292,179,501"/>
+<area shape="rect" id="node3" href="$classLinkedTextIterator.html" title="{LinkedTextIterator\n||+ LinkedTextIterator()\l}" alt="" coords="19,549,165,627"/>
+</map>

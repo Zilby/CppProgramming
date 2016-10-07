@@ -1,0 +1,11 @@
+<map id="MemberDef::getClassDefOfAnonymousType" name="MemberDef::getClassDefOfAnonymousType">
+<area shape="rect" id="node2" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="241,5,359,32"/>
+<area shape="rect" id="node3" href="$classQCString.html#a78c5504b7c222e907fa0cd6e13391b05" title="Returns a deep copy of the string. " alt="" coords="244,56,356,83"/>
+<area shape="rect" id="node5" href="$classQRegExp.html#a7eef4b63ebbda0a41251f2159f288ab9" title="QRegExp::match" alt="" coords="239,157,361,184"/>
+<area shape="rect" id="node4" href="$classQCString.html#aefbe03789d0fe05302adae84c54c3243" title="Returns a writable pointer to the data. " alt="" coords="410,31,543,57"/>
+<area shape="rect" id="node6" href="$classQRegExp.html#a2f616e8cd604271fafc5fbe8435e294c" title="QRegExp::isValid" alt="" coords="413,81,540,108"/>
+<area shape="rect" id="node7" href="$classQRegExp.html#a184d946c8dc57a15952b7ac21af2fbed" title="QRegExp::isEmpty" alt="" coords="409,132,544,159"/>
+<area shape="rect" id="node8" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="417,183,536,209"/>
+<area shape="rect" id="node9" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="422,233,531,260"/>
+<area shape="rect" id="node10" href="$classQRegExp.html#ad2b7d2452926d97a5203ea1c1247a357" title="QRegExp::pattern" alt="" coords="413,284,540,311"/>
+</map>

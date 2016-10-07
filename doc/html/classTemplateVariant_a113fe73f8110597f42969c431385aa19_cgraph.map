@@ -1,0 +1,6 @@
+<map id="TemplateVariant::operator=" name="TemplateVariant::operator=">
+<area shape="rect" id="node2" href="$classTemplateStructIntf.html#a05fe97ad47633beb326f69686faed581" title="Increase object&#39;s reference count. " alt="" coords="251,5,382,47"/>
+<area shape="rect" id="node3" href="$classTemplateListIntf.html#a4b4973e2e15396d10bc4e3085462ca2b" title="Increase object&#39;s reference count. " alt="" coords="233,71,400,98"/>
+<area shape="rect" id="node4" href="$classTemplateStructIntf.html#a3dce7dd29d3f66a8080b40578e8a5045" title="Decreases object&#39;s referenc count, destroy object if 0. " alt="" coords="251,123,382,164"/>
+<area shape="rect" id="node5" href="$classTemplateListIntf.html#a0c53169c740c09dac47efc62bbe39674" title="Decreases object&#39;s referenc count, destroy object if 0. " alt="" coords="233,189,400,215"/>
+</map>

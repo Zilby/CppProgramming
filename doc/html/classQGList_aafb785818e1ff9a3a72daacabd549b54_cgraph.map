@@ -1,0 +1,13 @@
+<map id="QGList::sort" name="QGList::sort">
+<area shape="rect" id="node2" href="$classQGList.html#af765260057e85e575adff7fd9f25d062" title="QGList::count" alt="" coords="524,127,627,154"/>
+<area shape="rect" id="node3" href="$classQGDict.html#a0844214b5a0f6f3d3df655c1f84e7f4a" title="QGDict::size" alt="" coords="175,51,273,78"/>
+<area shape="rect" id="node6" href="$classQGList.html#a9a9c5fa3888371979c12e3207b3f9ec5" title="QGList::compareItems" alt="" coords="147,102,301,128"/>
+<area shape="rect" id="node7" href="$classQGList.html#a92e5a02569162c5951a90bca606223a2" title="QGList::read" alt="" coords="176,203,272,230"/>
+<area shape="rect" id="node12" href="$classQGList.html#ae522fc8c2df7736e847d93e561daffae" title="QGList::write" alt="" coords="349,152,448,179"/>
+<area shape="rect" id="node4" href="$structcmd_8h.html#a9c7b76d5266903891c803132d51ccb90" title="Read bytes from a file descriptor. " alt="" coords="375,51,422,78"/>
+<area shape="rect" id="node5" href="$structcmd_8h.html#af2a3ea719b83f672637febdd87c36c36" title="Writes count bytes from buf to the filedescriptor fd. " alt="" coords="373,102,424,128"/>
+<area shape="rect" id="node8" href="$classQGList.html#a9b89540497bfcf674466dcf9e343d981" title="QGList::clear" alt="" coords="349,203,448,230"/>
+<area shape="rect" id="node9" href="$classQGList.html#a94d8739e67879c5d61350d18e7747e2b" title="QGList::first" alt="" coords="529,178,622,204"/>
+<area shape="rect" id="node10" href="$classQGList.html#a16d0f7ae73881b4bfe6757e58b74d38a" title="QGList::next" alt="" coords="527,228,623,255"/>
+<area shape="rect" id="node11" href="$classQCollection.html#ab6c7cf56b681ba4fed6cf6a92494a410" title="QCollection::deleteItem" alt="" coords="496,279,655,306"/>
+</map>

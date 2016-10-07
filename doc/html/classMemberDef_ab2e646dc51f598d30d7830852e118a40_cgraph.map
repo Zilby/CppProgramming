@@ -1,0 +1,7 @@
+<map id="MemberDef::isBriefSectionVisible" name="MemberDef::isBriefSectionVisible">
+<area shape="rect" id="node2" href="$classMemberDef.html#aa92ecbdc1c50f61e84d2af414b551d4c" title="MemberDef::hasDocumentation" alt="" coords="232,5,439,32"/>
+<area shape="rect" id="node4" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="729,31,861,57"/>
+<area shape="rect" id="node5" href="$classMemberDef.html#a0a534c3dba8dced3afa746c535afb59b" title="MemberDef::documentation" alt="" coords="244,131,427,157"/>
+<area shape="rect" id="node3" href="$classDefinition.html#aa89347609a1643f6c4bc3852d9f773bb" title="Definition::hasDocumentation" alt="" coords="487,5,681,32"/>
+<area shape="rect" id="node6" href="$classDefinition.html#a4775976f52978089164213f613dbeb18" title="Definition::documentation" alt="" coords="499,131,669,157"/>
+</map>

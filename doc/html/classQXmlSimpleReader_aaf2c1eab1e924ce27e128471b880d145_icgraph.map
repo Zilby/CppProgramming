@@ -1,0 +1,11 @@
+<map id="QXmlSimpleReader::parseComment" name="QXmlSimpleReader::parseComment">
+<area shape="rect" id="node2" href="$classQXmlSimpleReader.html#a01e625196cf7f64e771ede000175e060" title="QXmlSimpleReader::parseProlog" alt="" coords="855,95,1069,121"/>
+<area shape="rect" id="node6" href="$classQXmlSimpleReader.html#ae8888cedf195bb870b9b4ff25dfc60a8" title="QXmlSimpleReader::parseContent" alt="" coords="299,5,521,32"/>
+<area shape="rect" id="node8" href="$classQXmlSimpleReader.html#aae33ed104c121c49cd9989a228ba7071" title="QXmlSimpleReader::parseMisc" alt="" coords="859,145,1065,172"/>
+<area shape="rect" id="node9" href="$classQXmlSimpleReader.html#a581f433a88e47e188bb12ef1e3247202" title="QXmlSimpleReader::parseMarkupdecl" alt="" coords="288,56,532,83"/>
+<area shape="rect" id="node3" href="$classQXmlSimpleReader.html#a664631907374b7d0f7b492ef65f418d9" title="QXmlSimpleReader::parse" alt="" coords="1117,95,1295,121"/>
+<area shape="rect" id="node4" href="$classMainHandler.html#a09e7e0c5e69be2b2aa5dc91cb77721d8" title="MainHandler::readXMLDir" alt="" coords="1344,69,1516,96"/>
+<area shape="rect" id="node5" href="$classLayoutDocManager.html#ade92fd2ccfa31a7bd8b152848d224053" title="Parses a user provided layout. " alt="" coords="1343,120,1517,147"/>
+<area shape="rect" id="node7" href="$classQXmlSimpleReader.html#a37931f53aceacd946d0dd6b2b3633de9" title="QXmlSimpleReader::parseElement" alt="" coords="581,5,806,32"/>
+<area shape="rect" id="node10" href="$classQXmlSimpleReader.html#a7add7c3670021341cc4dde399551951d" title="QXmlSimpleReader::parseDoctype" alt="" coords="580,56,807,83"/>
+</map>

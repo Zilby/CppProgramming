@@ -1,0 +1,4 @@
+<map id="DefinitionListIterator" name="DefinitionListIterator">
+<area shape="rect" id="node2" href="$classQListIterator.html" title="{QListIterator\&lt; Definition \&gt;\n||+ QListIterator()\l+ ~QListIterator()\l+ count()\l+ isEmpty()\l+ atFirst()\l+ atLast()\l+ toFirst()\l+ toLast()\l+ operator Definition *()\l+ operator*()\land 7 more...\l}" alt="" coords="5,336,179,560"/>
+<area shape="rect" id="node3" href="$classQGListIterator.html" title="The QGListIterator class is an internal class for implementing QListIterator. " alt="" coords="27,5,157,288"/>
+</map>

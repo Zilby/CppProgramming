@@ -1,0 +1,7 @@
+<map id="TextGeneratorIntf" name="TextGeneratorIntf">
+<area shape="rect" id="node2" href="$classTextGeneratorDocbookImpl.html" title="{TextGeneratorDocbookImpl\n|&#45; m_t\l|+ TextGeneratorDocbookImpl()\l+ writeString()\l+ writeBreak()\l+ writeLink()\l}" alt="" coords="5,182,208,303"/>
+<area shape="rect" id="node3" href="$classTextGeneratorHtml.html" title="{TextGeneratorHtml\n|&#45; m_ts\l&#45; m_relPath\l|+ TextGeneratorHtml()\l+ writeString()\l+ writeBreak()\l+ writeLink()\l}" alt="" coords="233,175,386,311"/>
+<area shape="rect" id="node4" href="$classTextGeneratorLatex.html" title="{TextGeneratorLatex\n|&#45; m_ts\l|+ TextGeneratorLatex()\l+ writeString()\l+ writeBreak()\l+ writeLink()\l}" alt="" coords="411,182,568,303"/>
+<area shape="rect" id="node5" href="$classTextGeneratorOLImpl.html" title="Implements TextGeneratorIntf for an OutputDocInterface stream. " alt="" coords="593,175,767,311"/>
+<area shape="rect" id="node6" href="$classTextGeneratorXMLImpl.html" title="Implements TextGeneratorIntf for an XML stream. " alt="" coords="791,182,969,303"/>
+</map>

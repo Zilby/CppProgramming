@@ -1,0 +1,32 @@
+<map id="QString::data" name="QString::data">
+<area shape="rect" id="node2" href="$classBaseHandler.html#a15c20baf7065b3eb92ae7a336ccdf20b" title="BaseHandler\&lt; LineBreakHandler\l \&gt;::startElement" alt="" coords="152,5,364,47"/>
+<area shape="rect" id="node3" href="$classBaseHandler.html#aa1b987506d2f962ba478b8bab388bff9" title="BaseHandler\&lt; LineBreakHandler\l \&gt;::endElement" alt="" coords="152,71,364,112"/>
+<area shape="rect" id="node4" href="$classBaseHandler.html#a2191a9b5ac9ebddc8c91dd56fff8e684" title="BaseHandler\&lt; LineBreakHandler\l \&gt;::skippedEntity" alt="" coords="152,136,364,177"/>
+<area shape="rect" id="node5" href="$classCompoundErrorHandler.html#a64adb9938c3f3e70a76cc4a224f0d093" title="CompoundErrorHandler\l::fatalError" alt="" coords="179,201,337,243"/>
+<area shape="rect" id="node6" href="$classErrorHandler.html#abb20bb96f3b3b743e1d5649d6c6be5a0" title="ErrorHandler::fatalError" alt="" coords="180,267,336,294"/>
+<area shape="rect" id="node7" href="$classMainHandler.html#a4856c87039eb9235d0fa7e10d8912e55" title="MainHandler::setDebugLevel" alt="" coords="163,318,353,345"/>
+<area shape="rect" id="node8" href="$classQDir.html#aa78de265f6e5e198a90b4d0252a42df3" title="QDir::match" alt="" coords="211,369,305,395"/>
+<area shape="rect" id="node12" href="$classQString.html#a0b6622a8335cdd080e8b1685b7e0fde0" title="QString::sprintf" alt="" coords="203,419,313,446"/>
+<area shape="rect" id="node17" href="$classQString.html#a8d0cb0b0f4448e196443561020e1438c" title="QString::find" alt="" coords="211,470,305,497"/>
+<area shape="rect" id="node18" href="$classQString.html#a678d778450575709d552d7be4316d68c" title="QString::findRev" alt="" coords="199,521,317,547"/>
+<area shape="rect" id="node19" href="$classQString.html#af8e35ae76218246a857e68e105981726" title="QString::contains" alt="" coords="197,571,319,598"/>
+<area shape="rect" id="node20" href="$classQString.html#aaee914b4744ada084543c212bc1b3a21" title="QString::replace" alt="" coords="200,622,316,649"/>
+<area shape="rect" id="node21" href="$classQStringList.html#a9392a3dfe579b24ee51cd4bd754801e1" title="QStringList::split" alt="" coords="199,673,317,699"/>
+<area shape="rect" id="node22" href="$classDotRunner.html#ac1afaee16ddd8bf0bc6b18aaed6b44fd" title="Runs dot for all jobs added. " alt="" coords="203,723,313,750"/>
+<area shape="rect" id="node23" href="$classFileStorage.html#a9f680051229bda7bca2639e5464bca77" title="FileStorage::write" alt="" coords="196,774,320,801"/>
+<area shape="rect" id="node24" href="$classLayoutParser.html#aa870786ef488ce9d300214dab2c497ae" title="LayoutParser::startElement" alt="" coords="167,825,349,851"/>
+<area shape="rect" id="node25" href="$classLayoutErrorHandler.html#a463dfca8796fee3c40a08817d1af64be" title="LayoutErrorHandler\l::warning" alt="" coords="191,876,325,917"/>
+<area shape="rect" id="node26" href="$classLayoutErrorHandler.html#a7981be5cbf89e7f5bf27b3d75a821726" title="LayoutErrorHandler\l::error" alt="" coords="191,941,325,983"/>
+<area shape="rect" id="node27" href="$classLayoutErrorHandler.html#aca31cecb0d737ede70e22c86d038bbb4" title="LayoutErrorHandler\l::fatalError" alt="" coords="191,1007,325,1048"/>
+<area shape="rect" id="node28" href="$classTagFileParser.html#a947ca98759d61b5cf3d920a7d98fa828" title="TagFileParser::setDocument\lLocator" alt="" coords="163,1072,353,1113"/>
+<area shape="rect" id="node29" href="$classTagFileParser.html#ad9f6b4e83d37df58b95a2018d4e2e606" title="TagFileParser::startElement" alt="" coords="165,1138,351,1165"/>
+<area shape="rect" id="node30" href="$classTagFileParser.html#aeb0fd2877b6d5fc40a15f7c7bec19ee0" title="TagFileParser::endElement" alt="" coords="168,1189,348,1215"/>
+<area shape="rect" id="node31" href="$classTagFileErrorHandler.html#a7562a9fb258c3d4005ea4a3327623e60" title="TagFileErrorHandler\l::fatalError" alt="" coords="189,1240,327,1281"/>
+<area shape="rect" id="node9" href="$classQDir.html#a72a73a1e4d9bf42ec4307a70605b77b9" title="QDir::match" alt="" coords="432,318,525,345"/>
+<area shape="rect" id="node10" href="$classQDir.html#ac112ea98a56191b8b0d84cd967472b39" title="QDir::homeDirPath" alt="" coords="412,369,545,395"/>
+<area shape="rect" id="node11" href="$classQDir.html#ab3881e8a981cc34ede0e6e57a1135c20" title="QDir::home" alt="" coords="620,369,709,395"/>
+<area shape="rect" id="node13" href="$classQDate.html#aebc53b28c073570214cfc6f1376cbcd5" title="QDate::toString" alt="" coords="422,419,535,446"/>
+<area shape="rect" id="node14" href="$classQTime.html#a87ef6af883b329327e1665cc639d403c" title="QTime::toString" alt="" coords="421,470,536,497"/>
+<area shape="rect" id="node16" href="$classQString.html#a5b30e9bb5310afb39f770db5fd5bf646" title="QString::setNum" alt="" coords="419,521,539,547"/>
+<area shape="rect" id="node15" href="$classQDateTime.html#a5455d25292813109f21c15888552c5c9" title="QDateTime::toString" alt="" coords="593,470,736,497"/>
+</map>

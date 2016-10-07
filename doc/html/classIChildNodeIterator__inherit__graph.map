@@ -1,0 +1,4 @@
+<map id="IChildNodeIterator" name="IChildNodeIterator">
+<area shape="rect" id="node2" href="$classBaseIterator.html" title="{BaseIterator\&lt; IChildNode\lIterator, IChildNode,\l ChildNodeHandler \&gt;\n||+ BaseIterator()\l+ ~BaseIterator()\l+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l}" alt="" coords="5,292,176,501"/>
+<area shape="rect" id="node3" href="$classChildNodeIterator.html" title="{ChildNodeIterator\n||+ ChildNodeIterator()\l}" alt="" coords="19,549,163,627"/>
+</map>

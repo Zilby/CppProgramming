@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classInput.html" title="Input" alt="" coords="15,56,66,83"/>
+<area shape="rect" id="node2" href="$classInputBool.html" title="InputBool" alt="" coords="130,107,207,133"/>
+<area shape="rect" id="node3" href="$classInputInt.html" title="InputInt" alt="" coords="135,157,202,184"/>
+<area shape="rect" id="node4" href="$classInputString.html" title="InputString" alt="" coords="126,5,211,32"/>
+<area shape="rect" id="node5" href="$classInputStrList.html" title="InputStrList" alt="" coords="124,56,213,83"/>
+</map>

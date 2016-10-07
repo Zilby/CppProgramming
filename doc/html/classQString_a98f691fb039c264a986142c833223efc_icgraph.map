@@ -1,0 +1,7 @@
+<map id="QString::toInt" name="QString::toInt">
+<area shape="rect" id="node2" href="$classQString.html#a0b6622a8335cdd080e8b1685b7e0fde0" title="QString::sprintf" alt="" coords="153,56,264,83"/>
+<area shape="rect" id="node3" href="$classQDate.html#aebc53b28c073570214cfc6f1376cbcd5" title="QDate::toString" alt="" coords="315,5,429,32"/>
+<area shape="rect" id="node4" href="$classQTime.html#a87ef6af883b329327e1665cc639d403c" title="QTime::toString" alt="" coords="315,56,429,83"/>
+<area shape="rect" id="node6" href="$classQString.html#a5b30e9bb5310afb39f770db5fd5bf646" title="QString::setNum" alt="" coords="312,107,432,133"/>
+<area shape="rect" id="node5" href="$classQDateTime.html#a5455d25292813109f21c15888552c5c9" title="QDateTime::toString" alt="" coords="480,56,623,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="TemplateNodeCloseSubIndex" name="TemplateNodeCloseSubIndex">
+<area shape="rect" id="node2" href="$classTemplateNodeCreator.html" title="{TemplateNodeCreator\l\&lt; TemplateNodeCloseSubIndex \&gt;\n|# m_line\l|+ TemplateNodeCreator()\l+ getTemplate()\l+ createInstance()\l# mkpath()\l}" alt="" coords="36,1228,256,1364"/>
+<area shape="rect" id="node3" href="$classTemplateNode.html" title="Base class of all nodes in a template&#39;s AST. " alt="" coords="5,993,140,1114"/>
+<area shape="rect" id="node4" href="$classQCString.html" title="This is an alternative implementation of QCString. " alt="" coords="251,941,358,1165"/>
+<area shape="rect" id="node5" href="$classQCString_1_1StringRep.html" title="{QCString::StringRep\n||+ StringRep()\l+ initEmpty()\l+ ~StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ StringRep()\l+ operator=()\l+ operator=()\l+ isEmpty()\land 6 more...\l}" alt="" coords="233,655,376,879"/>
+<area shape="rect" id="node6" href="$unionQCString_1_1StringRep_1_1ShortOrLongStringSelector.html" title="{QCString::StringRep\l::ShortOrLongStringSelector\n||}" alt="" coords="212,500,397,592"/>
+<area shape="rect" id="node7" href="$structQCString_1_1ShortStringRep.html" title="{QCString::ShortStringRep\n|+ isShort\l+ len\l+ str\l|}" alt="" coords="157,331,330,437"/>
+<area shape="rect" id="node8" href="$structQCString_1_1LongStringRep.html" title="{QCString::LongStringRep\n|+ isShort\l|}" alt="" coords="354,345,525,423"/>
+<area shape="rect" id="node9" href="$structQCString_1_1LSData.html" title="{QCString::LSData\n||+ toStr()\l+ dispose()\l+ create()\l+ resize()\l}" alt="" coords="375,147,503,268"/>
+<area shape="rect" id="node10" href="$structQCString_1_1LSHeader.html" title="{QCString::LSHeader\n|+ len\l+ refCount\l|}" alt="" coords="368,5,511,97"/>
+</map>

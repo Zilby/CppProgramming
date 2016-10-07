@@ -1,0 +1,7 @@
+<map id="QTextCodec" name="QTextCodec">
+<area shape="rect" id="node2" href="$classQLatin1Codec.html" title="{QLatin1Codec\n||+ QLatin1Codec()\l+ ~QLatin1Codec()\l+ toUnicode()\l+ fromUnicode()\l+ name()\l+ mibEnum()\l+ heuristicContentMatch()\l+ heuristicNameMatch()\l}" alt="" coords="5,571,179,751"/>
+<area shape="rect" id="node3" href="$classQSimpleTextCodec.html" title="{QSimpleTextCodec\n|&#45; forwardIndex\l|+ QSimpleTextCodec()\l+ ~QSimpleTextCodec()\l+ toUnicode()\l+ fromUnicode()\l+ name()\l+ mibEnum()\l+ heuristicContentMatch()\l+ heuristicNameMatch()\l}" alt="" coords="203,571,376,751"/>
+<area shape="rect" id="node4" href="$classQTextCodecFromIOD.html" title="{QTextCodecFromIOD\n|&#45; n\l&#45; from_unicode_page\l&#45; from_unicode_page_multibyte\l&#45; unkn\l&#45; to_unicode\l&#45; to_unicode_multibyte\l&#45; max_bytes_per_char\l&#45; aliases\l|+ QTextCodecFromIOD()\l+ ~QTextCodecFromIOD()\l+ ok()\l+ makeDecoder()\l+ name()\l+ mibEnum()\l+ heuristicContentMatch()\l+ heuristicNameMatch()\l+ toUnicode()\l+ fromUnicode()\l&#45; stateless()\l}" alt="" coords="400,497,603,824"/>
+<area shape="rect" id="node5" href="$classQUtf16Codec.html" title="{QUtf16Codec\n||+ mibEnum()\l+ name()\l+ makeDecoder()\l+ makeEncoder()\l+ heuristicContentMatch()\l}" alt="" coords="627,593,800,729"/>
+<area shape="rect" id="node6" href="$classQUtf8Codec.html" title="{QUtf8Codec\n||+ mibEnum()\l+ name()\l+ makeDecoder()\l+ fromUnicode()\l+ heuristicContentMatch()\l}" alt="" coords="824,593,997,729"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="BaseOutputDocInterface::writeChar" name="BaseOutputDocInterface::writeChar">
+<area shape="rect" id="node2" href="$classOutputList.html#a188c7a8f0a0dc35ec5ea0f8b4a491d33" title="OutputList::writeChar" alt="" coords="220,13,367,39"/>
+<area shape="rect" id="node3" href="$classVhdlDocGen.html#a94da80078b9bba291b1c1af056eca6a4" title="VhdlDocGen::writeProcedure\lProto" alt="" coords="415,5,605,47"/>
+<area shape="rect" id="node4" href="$classVhdlDocGen.html#ac5c7235e2572f9dab6475d5af835e437" title="VhdlDocGen::writeVHDLDeclaration" alt="" coords="653,13,888,39"/>
+</map>

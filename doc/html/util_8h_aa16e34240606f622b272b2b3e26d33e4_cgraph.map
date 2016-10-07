@@ -1,0 +1,10 @@
+<map id="removeAnonymousScopes" name="removeAnonymousScopes">
+<area shape="rect" id="node2" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="232,5,364,32"/>
+<area shape="rect" id="node3" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="420,31,539,57"/>
+<area shape="rect" id="node4" href="$classQRegExp.html#a7eef4b63ebbda0a41251f2159f288ab9" title="QRegExp::match" alt="" coords="237,107,359,133"/>
+<area shape="rect" id="node9" href="$classQCString.html#a3917c144e26bc525d588c1dff602be00" title="Returns a reference to the character at index i. " alt="" coords="251,157,345,184"/>
+<area shape="rect" id="node5" href="$classQRegExp.html#a2f616e8cd604271fafc5fbe8435e294c" title="QRegExp::isValid" alt="" coords="416,81,543,108"/>
+<area shape="rect" id="node6" href="$classQRegExp.html#a184d946c8dc57a15952b7ac21af2fbed" title="QRegExp::isEmpty" alt="" coords="412,132,547,159"/>
+<area shape="rect" id="node7" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="425,183,534,209"/>
+<area shape="rect" id="node8" href="$classQRegExp.html#ad2b7d2452926d97a5203ea1c1247a357" title="QRegExp::pattern" alt="" coords="416,233,543,260"/>
+</map>

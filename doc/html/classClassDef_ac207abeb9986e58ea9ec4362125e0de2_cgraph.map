@@ -1,0 +1,17 @@
+<map id="ClassDef::getTemplateParameterLists" name="ClassDef::getTemplateParameterLists">
+<area shape="rect" id="node2" href="$classDefinitionIntf.html#ac8ee00bc1af5558ae37f6896d16f5a3a" title="DefinitionIntf::definitionType" alt="" coords="764,28,949,54"/>
+<area shape="rect" id="node3" href="$classClassDef.html#a6e46b01e96d3c49b41f9b883147162bd" title="Returns the template arguments of this class Will return 0 if not applicable. " alt="" coords="271,552,469,578"/>
+<area shape="rect" id="node4" href="$classDefinition.html#a60354ebca3cb065a4a6aa1944a9309d5" title="Definition::qualifiedName" alt="" coords="286,450,454,477"/>
+<area shape="rect" id="node5" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="791,180,923,206"/>
+<area shape="rect" id="node7" href="$util_8h.html#ac4c34c02b8869dca71de6f4037736dc7" title="Returns the scope separator to use given the programming language lang. " alt="" coords="517,609,716,636"/>
+<area shape="rect" id="node8" href="$classDefinition.html#a3c214d451d86bf8994c9d1503ed2843d" title="Returns the programming language this definition was written in. " alt="" coords="537,406,696,433"/>
+<area shape="rect" id="node11" href="$classDefinition.html#a5cff26b8db9bc19c6f61445ed8d88a46" title="Definition::localName" alt="" coords="543,78,690,105"/>
+<area shape="rect" id="node13" href="$classClassDef.html#a67e54a054e5063b25e7fe86257e3225c" title="Returns the name of the class including outer classes, but not including namespaces. " alt="" coords="295,312,445,338"/>
+<area shape="rect" id="node16" href="$classQList.html#a1b95250082189972f4b499a529920180" title="QList::count" alt="" coords="323,602,417,629"/>
+<area shape="rect" id="node6" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="798,406,915,433"/>
+<area shape="rect" id="node9" href="$classQCString.html#a8402bb62a3a1c6a79130c3b3cf38b52c" title="Resizes the string to hold newlen characters (this value should include the 0&#45;terminator). " alt="" coords="557,558,676,585"/>
+<area shape="rect" id="node10" href="$classDefinition.html#a4f303fc4a5c9be7ab8160cf1792e7bda" title="Definition::isHidden" alt="" coords="789,356,925,382"/>
+<area shape="rect" id="node12" href="$classDefinition.html#a4002fd79c2d4dcf667c37c83d4214deb" title="Definition::isLinkable" alt="" coords="785,78,928,105"/>
+<area shape="rect" id="node14" href="$classClassDef.html#a54fd0971529bf396c31a2a5c67acbea7" title="returns TRUE iff a link is possible to this item within this project. " alt="" coords="519,305,714,332"/>
+<area shape="rect" id="node15" href="$classDefinition.html#a24d80ca0884834c9e767482af37b7248" title="Definition::isArtificial" alt="" coords="785,305,928,332"/>
+</map>

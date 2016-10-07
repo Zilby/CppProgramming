@@ -1,0 +1,4 @@
+<map id="TemplateStruct::alloc" name="TemplateStruct::alloc">
+<area shape="rect" id="node2" href="$classTemplateStructWeakRef.html#a70d7485ae68266ce08e5a24058a30fe8" title="Decreases object&#39;s referenc count, destroy object if 0. " alt="" coords="205,5,371,47"/>
+<area shape="rect" id="node3" href="$classTemplateContextImpl.html#af8856e3207a53fad3f700353d71b575e" title="Pop the current scope from the stack. " alt="" coords="200,71,376,98"/>
+</map>

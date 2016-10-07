@@ -1,0 +1,11 @@
+<map id="QGListIterator::operator=" name="QGListIterator::operator=">
+<area shape="rect" id="node2" href="$classQGList.html#aa14205a4214d12b86c133255c094affd" title="QGList::removeRef" alt="" coords="220,69,355,96"/>
+<area shape="rect" id="node9" href="$classQGList.html#a3fc7fb06dc2347dc27fdeea23e8abffc" title="QGList::append" alt="" coords="231,132,344,159"/>
+<area shape="rect" id="node3" href="$classQGList.html#a67bc1cdeeadadd5c0c6fd976c62892b8" title="QGList::findRef" alt="" coords="425,5,539,32"/>
+<area shape="rect" id="node4" href="$classQGList.html#a09f2bec85cf29180ea4736ec76f236e0" title="QGList::unlink" alt="" coords="429,56,535,83"/>
+<area shape="rect" id="node8" href="$classQCollection.html#ab6c7cf56b681ba4fed6cf6a92494a410" title="QCollection::deleteItem" alt="" coords="403,107,561,133"/>
+<area shape="rect" id="node5" href="$classQGList.html#af765260057e85e575adff7fd9f25d062" title="QGList::count" alt="" coords="609,5,712,32"/>
+<area shape="rect" id="node6" href="$classQGList.html#a94d8739e67879c5d61350d18e7747e2b" title="QGList::first" alt="" coords="614,56,707,83"/>
+<area shape="rect" id="node7" href="$classQGList.html#a16d0f7ae73881b4bfe6757e58b74d38a" title="QGList::next" alt="" coords="613,107,709,133"/>
+<area shape="rect" id="node10" href="$classQCollection.html#a8a439f0c342ff1844a797fbea15b2283" title="QCollection::newItem" alt="" coords="408,157,556,184"/>
+</map>

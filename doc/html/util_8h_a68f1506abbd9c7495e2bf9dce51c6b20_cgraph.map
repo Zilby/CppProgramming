@@ -1,0 +1,29 @@
+<map id="newResolveTypedef" name="newResolveTypedef">
+<area shape="rect" id="node2" href="$classMemberDef.html#a910beace3eb5065c82c9c9f452532dfc" title="MemberDef::qualifiedName" alt="" coords="203,246,385,272"/>
+<area shape="rect" id="node8" href="$classQCString.html#a621c4090d69ad7d05ef8e5234376c3d8" title="Returns TRUE iff the string is empty. " alt="" coords="691,347,823,374"/>
+<area shape="rect" id="node9" href="$classDefinitionIntf.html#ac8ee00bc1af5558ae37f6896d16f5a3a" title="DefinitionIntf::definitionType" alt="" coords="664,448,849,475"/>
+<area shape="rect" id="node10" href="$classDefinition.html#a60354ebca3cb065a4a6aa1944a9309d5" title="Definition::qualifiedName" alt="" coords="441,94,609,120"/>
+<area shape="rect" id="node14" href="$classClassDef.html#a7337a3eb903b689ac256169c6ee34e7b" title="Returns TRUE if this class is a template. " alt="" coords="219,768,369,795"/>
+<area shape="rect" id="node15" href="$classQList.html#a1b95250082189972f4b499a529920180" title="QList::count" alt="" coords="247,819,341,846"/>
+<area shape="rect" id="node16" href="$util_8h.html#a928208745b8d52e1ef9599e3bc5007cf" title="substituteTemplateArguments\lInString" alt="" coords="196,433,392,474"/>
+<area shape="rect" id="node20" href="$classQCString.html#ac52596733e9110b778019946d73fb268" title="Returns the length of the string, excluding the 0&#45;terminator. " alt="" coords="697,702,816,728"/>
+<area shape="rect" id="node23" href="$classClassDef.html#a6e46b01e96d3c49b41f9b883147162bd" title="Returns the template arguments of this class Will return 0 if not applicable. " alt="" coords="195,870,393,896"/>
+<area shape="rect" id="node24" href="$classQCString.html#a3917c144e26bc525d588c1dff602be00" title="Returns a reference to the character at index i. " alt="" coords="478,756,573,783"/>
+<area shape="rect" id="node25" href="$util_8h.html#aa78497e488f5e271031b67fbe5452221" title="stripTemplateSpecifiersFrom\lScope" alt="" coords="199,652,389,693"/>
+<area shape="rect" id="node28" href="$classDefinition.html#a9484164b01eca0abce92001b2b77f8c3" title="Definition::getDefFileName" alt="" coords="204,920,384,947"/>
+<area shape="rect" id="node3" href="$classDefinition.html#a9324000f785d7b6b098878a3bca4df5b" title="Definition::name" alt="" coords="904,195,1021,222"/>
+<area shape="rect" id="node4" href="$util_8h.html#ac4c34c02b8869dca71de6f4037736dc7" title="Returns the scope separator to use given the programming language lang. " alt="" coords="657,144,856,171"/>
+<area shape="rect" id="node5" href="$classDefinition.html#a3c214d451d86bf8994c9d1503ed2843d" title="Returns the programming language this definition was written in. " alt="" coords="677,195,836,222"/>
+<area shape="rect" id="node6" href="$classDefinition.html#a5cff26b8db9bc19c6f61445ed8d88a46" title="Definition::localName" alt="" coords="452,448,599,475"/>
+<area shape="rect" id="node13" href="$classDefinition.html#a9548c1e2218ce2730c6c3e31bdac6452" title="Definition::setReference" alt="" coords="444,296,607,323"/>
+<area shape="rect" id="node7" href="$classDefinition.html#a4002fd79c2d4dcf667c37c83d4214deb" title="Definition::isLinkable" alt="" coords="685,398,828,424"/>
+<area shape="rect" id="node11" href="$classQCString.html#a8402bb62a3a1c6a79130c3b3cf38b52c" title="Resizes the string to hold newlen characters (this value should include the 0&#45;terminator). " alt="" coords="697,43,816,70"/>
+<area shape="rect" id="node12" href="$classDefinition.html#a4f303fc4a5c9be7ab8160cf1792e7bda" title="Definition::isHidden" alt="" coords="689,94,825,120"/>
+<area shape="rect" id="node17" href="$classQRegExp.html#a7eef4b63ebbda0a41251f2159f288ab9" title="QRegExp::match" alt="" coords="464,550,587,576"/>
+<area shape="rect" id="node18" href="$classQRegExp.html#a2f616e8cd604271fafc5fbe8435e294c" title="QRegExp::isValid" alt="" coords="693,600,820,627"/>
+<area shape="rect" id="node19" href="$classQRegExp.html#a184d946c8dc57a15952b7ac21af2fbed" title="QRegExp::isEmpty" alt="" coords="689,651,824,678"/>
+<area shape="rect" id="node21" href="$classQCString.html#a84a5aa4da9147a687fa291c844fb5fc1" title="Returns a pointer to the contents of the string in the form of a 0&#45;terminated C string. " alt="" coords="702,499,811,526"/>
+<area shape="rect" id="node22" href="$classQRegExp.html#ad2b7d2452926d97a5203ea1c1247a357" title="QRegExp::pattern" alt="" coords="693,550,820,576"/>
+<area shape="rect" id="node26" href="$util_8h.html#af038b3c55db4fa840af0ee26464bb72a" title="getClass" alt="" coords="488,706,563,732"/>
+<area shape="rect" id="node27" href="$classSDict.html#aec67482d780157680d46f48a7ed5e7bd" title="SDict::find" alt="" coords="715,752,799,779"/>
+</map>

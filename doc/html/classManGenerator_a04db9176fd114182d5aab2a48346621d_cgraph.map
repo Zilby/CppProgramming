@@ -1,0 +1,13 @@
+<map id="ManGenerator::endDescription" name="ManGenerator::endDescription">
+<area shape="rect" id="node2" href="$classManGenerator.html#a3230aa59d50e8bdbbfb94e56bd956f56" title="ManGenerator::startDescItem" alt="" coords="260,5,455,32"/>
+<area shape="rect" id="node3" href="$classManGenerator.html#ab86f06d399e075e2b6855319bf26e1ec" title="ManGenerator::endDescItem" alt="" coords="262,56,453,83"/>
+<area shape="rect" id="node6" href="$classManGenerator.html#a5831577a90e226daf7ad892dd8744d33" title="ManGenerator::writeChar" alt="" coords="273,107,441,133"/>
+<area shape="rect" id="node7" href="$classManGenerator.html#a83d776971ea058ea021d49df05f4e563" title="ManGenerator::startItemListItem" alt="" coords="252,157,463,184"/>
+<area shape="rect" id="node8" href="$classManGenerator.html#a93a20331a8e073df653ed1df9834361b" title="ManGenerator::startBold" alt="" coords="275,208,439,235"/>
+<area shape="rect" id="node9" href="$classManGenerator.html#a8a88956b0c96590290287835934344b9" title="ManGenerator::startEmphasis" alt="" coords="259,259,455,285"/>
+<area shape="rect" id="node10" href="$classManGenerator.html#a87a722d58e6364660622ab086f20edc8" title="ManGenerator::endItemListItem" alt="" coords="254,309,461,336"/>
+<area shape="rect" id="node11" href="$classManGenerator.html#a3e158ae587148e66ad6f3d4df509ca35" title="ManGenerator::endEmphasis" alt="" coords="262,360,453,387"/>
+<area shape="rect" id="node12" href="$classManGenerator.html#acc9e3c928bd473ce079e323f19948dc7" title="ManGenerator::endBold" alt="" coords="278,411,437,437"/>
+<area shape="rect" id="node4" href="$classDefinition.html#a3775acf5b1b6bc11e096896b80fc663e" title="Definition::getDefFileExtension" alt="" coords="511,31,713,57"/>
+<area shape="rect" id="node5" href="$classDocNode.html#a5303a550cbe6395663bf9b9dad28cbf1" title="DocNode::accept" alt="" coords="550,81,674,108"/>
+</map>

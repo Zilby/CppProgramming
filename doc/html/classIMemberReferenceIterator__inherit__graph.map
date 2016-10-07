@@ -1,0 +1,4 @@
+<map id="IMemberReferenceIterator" name="IMemberReferenceIterator">
+<area shape="rect" id="node2" href="$classBaseIterator.html" title="{BaseIterator\&lt; IMemberReference\lIterator, IMemberReference,\l MemberReference \&gt;\n||+ BaseIterator()\l+ ~BaseIterator()\l+ toFirst()\l+ toLast()\l+ toNext()\l+ toPrev()\l+ current()\l+ release()\l}" alt="" coords="5,292,221,501"/>
+<area shape="rect" id="node3" href="$classMemberReferenceIterator.html" title="{MemberReferenceIterator\n||+ MemberReferenceIterator()\l}" alt="" coords="18,549,209,627"/>
+</map>

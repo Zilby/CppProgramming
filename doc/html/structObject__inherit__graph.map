@@ -1,0 +1,6 @@
+<map id="Object" name="Object">
+<area shape="rect" id="node2" href="$interfaceInteger.html" title="An interface. " alt="" coords="5,145,83,237"/>
+<area shape="rect" id="node3" href="$structVehicle.html" title="{Vehicle\n|# base\l|+ vehicleStart()\l+ vehicleStop()\l}" alt="" coords="107,145,218,237"/>
+<area shape="rect" id="node4" href="$structCar.html" title="{Car\n|# base\l|}" alt="" coords="89,285,151,363"/>
+<area shape="rect" id="node5" href="$structTruck.html" title="{Truck\n|# base\l|}" alt="" coords="175,285,236,363"/>
+</map>

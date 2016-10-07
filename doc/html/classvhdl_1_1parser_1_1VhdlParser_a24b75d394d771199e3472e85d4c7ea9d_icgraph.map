@@ -1,0 +1,4 @@
+<map id="vhdl::parser::VhdlParser::getToken" name="vhdl::parser::VhdlParser::getToken">
+<area shape="rect" id="node2" href="$classvhdl_1_1parser_1_1VhdlParser.html#a8a8836b10b1fa8e14fc1cbd4a0bcd83f" title="Constructor with user supplied TokenManager. " alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node3" href="$classvhdl_1_1parser_1_1VhdlParser.html#a3e87ec86b2b0a06929dcb23c7bf38622" title="Generate ParseException. " alt="" coords="216,71,379,112"/>
+</map>
