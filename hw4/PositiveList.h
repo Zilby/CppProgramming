@@ -16,24 +16,28 @@ namespace asst04 {
 class PositiveList {
 public:
   /**
-   * Add a positive number to the list and returns it. 
-   * Any duplicate or negative numbers will be ignored, 
-   * and the function will return 0.0. 
+   * Add a positive number to the list 
+   * Any duplicate or negative numbers will be ignored
+   * @return either the number if it is added, or 0.0 
+   * if it is ignored
    */
   double addPositive(/** The double to be added */
-		   double d);
+		   double d) noexcept;
 
   /**
-   * Removes a positive number from the list and returns 
-   * it. If it is not found the function will return 0.0. 
+   * Removes a positive number from the list. 
+   * If it is not found it will be ignored.
+   * @return either the number removed or 0.0 if it is 
+   * ignored. 
    */
   double removePositive(/** The double to be removed */
-		      double d);
+		      double d) noexcept;
 
   /**
    * Computes the average of all the doubles in the list and
    * returns it. If no doubles are in the list it will throw 
    * an error stating that 'There are no positive numbers'. 
+   * @return the average of the numbers in the list. 
    */
   double computeAverage() const;
 

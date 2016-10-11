@@ -5,7 +5,7 @@
 using namespace std;
 using namespace asst04;
 
-double PositiveList::addPositive(double d) {
+double PositiveList::addPositive(double d) noexcept {
   // a boolean for whether it is a valid positive number
   bool valid = true;
 
@@ -30,7 +30,7 @@ double PositiveList::addPositive(double d) {
   }
 }
 
-double PositiveList::removePositive(double d) {
+double PositiveList::removePositive(double d) noexcept {
 
   // iterate through the list to try to find the double
   for (auto i = numbers_.begin(); i != numbers_.end(); ++i) {
